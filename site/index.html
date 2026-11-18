@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Olympiad Problem Archive</title>
+<link rel="stylesheet" href="vendor/katex/katex.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="hero">
+    <div>
+      <div class="eyebrow">Olympiad Problem Archive</div>
+      <h1>Math Olympiad problems, one filter away.</h1>
+    </div>
+    <div class="hero-side">
+      <div class="stats" id="stats"></div>
+    </div>
+  </header>
+
+  <section class="card filters" aria-label="Filters">
+    <div class="frow">
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="text" placeholder="Search words or ID">
+      </label>
+      <div class="dd" data-key="year"></div>
+      <div class="dd" data-key="country"></div>
+      <div class="dd" data-key="topic"></div>
+      <button class="rand" id="rand" type="button" title="Show the matching problems in a random order">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg>
+        Randomize
+      </button>
+    </div>
+    <div class="chips" id="chips"></div>
+  </section>
+
+  <div class="bar">
+    <div id="count">0 problems match</div>
+    <div class="bar-ctl">
+    <label class="per">Show
+      <select class="sort" id="per" aria-label="Problems per page">
+        <option value="20" selected>20</option>
+        <option value="50">50</option>
+        <option value="100">100</option>
+      </select>
+      per page</label>
+    <select class="sort" id="sort" aria-label="Sort">
+      <option value="new">Newest first</option>
+      <option value="old">Oldest first</option>
+      <option value="country">Country A–Z</option>
+      <option value="random" hidden>Random order</option>
+    </select>
+    </div>
+  </div>
+
+  <main class="grid" id="list"></main>
+
+  <p class="note" id="idnote"><span class="star">*</span> ID is the unique problem identifier associated with each problem title.</p>
+  <nav class="pager" id="pager" aria-label="Pages"></nav>
+
+  <footer>
+    <span>Olympiad Problem Archive</span>
+    <span>Problems and solutions from <a href="https://mathnet.mit.edu">MathNet</a> (MIT), licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</span>
+  </footer>
+</div>
+
+<script src="vendor/katex/katex.min.js"></script>
+<script src="vendor/katex/auto-render.min.js"></script>
+<script src="vendor/marked.min.js"></script>
+<script>window.__index=d=>{window.DB=d};</script>
+<script src="data/index.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
