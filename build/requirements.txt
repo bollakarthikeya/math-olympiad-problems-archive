@@ -1,0 +1,3 @@
+# Python packages needed only to (re)build the site data. Viewing or hosting the site needs none.
+pyarrow==26.0.1
+langdetect==1.0.9
