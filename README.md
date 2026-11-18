@@ -145,5 +145,3 @@ python3 -m venv .venv
   [arXiv:2604.18584](https://arxiv.org/abs/2604.18584). Please keep this attribution when you redistribute
   the site or its data.
 - **Bundled libraries:** [KaTeX](https://katex.org) and [marked](https://marked.js.org), both MIT-licensed.
-- **This project's code** (HTML, CSS, JavaScript and the build scripts): add a license of your choice
-  (e.g. MIT) as `LICENSE` before publishing.
