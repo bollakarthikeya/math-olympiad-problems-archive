@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Topics · Olympiad Problem Archive</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-kind="topics">
+<div class="wrap">
+  <header class="list-head">
+    <a class="back" href="index.html">← Back to problems</a>
+    <div class="eyebrow">Olympiad Problem Archive</div>
+    <h1>Topics</h1>
+    <p><span id="total">0</span> topics, with the number of problems per topic.</p>
+  </header>
+
+  <section class="card tbl-card">
+    <div class="tbl-tools">
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="filter" type="text" placeholder="Search topics">
+      </label>
+      <span class="hint" id="shown"></span>
+    </div>
+    <table class="tbl">
+      <thead><tr>
+        <th data-by="name"><span id="col-name"></span><span class="ar"></span></th>
+        <th class="ct" data-by="n">Problems<span class="ar"></span></th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </section>
+
+  <footer>
+    <span>Olympiad Problem Archive</span>
+    <span>Problems and solutions from <a href="https://mathnet.mit.edu">MathNet</a> (MIT), licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</span>
+  </footer>
+</div>
+<script>window.__index=d=>{window.DB=d};</script>
+<script src="data/index.js"></script>
+<script src="list.js"></script>
+</body>
+</html>
