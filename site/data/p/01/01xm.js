@@ -1,0 +1,1 @@
+__p({"id":"01xm","competition":"69th Belarusian Mathematical Olympiad","problem":"Does there exist a function $f(x): \\mathbb{R} \\to \\mathbb{R}$ satisfying the equality\n$$\nf(|x|) + |f(x)| = x\n$$\nfor all real numbers $x$?","solutions":["Answer: no, such function doesn't exist."],"images":[]});

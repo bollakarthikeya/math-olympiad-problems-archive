@@ -1,0 +1,1 @@
+__p({"id":"0dew","competition":"Saudi Arabian IMO Booklet","problem":"Let $x, y \\in \\mathbb{R}$ be such that $x = y(3 - y)^2$ and $y = x(3 - x)^2$. Find all possible values of $x + y$.","solutions":[],"images":[]});

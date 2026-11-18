@@ -1,0 +1,1 @@
+__p({"id":"04si","competition":"Czech and Slovak Mathematical Olympiad","problem":"A parallelogram $ABCD$ with $|AB| = 2|BC|$ is given. Determine all the lines that divide the parallelogram into two tangential quadrilaterals. (Jaroslav Švrček)","solutions":[],"images":[]});

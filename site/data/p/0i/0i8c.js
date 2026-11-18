@@ -1,0 +1,1 @@
+__p({"id":"0i8c","competition":"Harvard-MIT Mathematics Tournament","problem":"The graph of $x^{4}=x^{2} y^{2}$ is a union of $n$ different lines. What is the value of $n$?","solutions":["The equation $x^{4}-x^{2} y^{2}=0$ factors as $x^{2}(x+y)(x-y)=0$, so its graph is the union of the three lines $x=0$, $x+y=0$, and $x-y=0$."],"images":[]});

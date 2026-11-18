@@ -1,0 +1,1 @@
+__p({"id":"0asg","competition":"Philippines Mathematical Olympiad","problem":"How many times does the graph of $y+1=\\left|\\log_{1/2}|x|\\right|$ cross the $x$-axis?","solutions":["4"],"images":[]});

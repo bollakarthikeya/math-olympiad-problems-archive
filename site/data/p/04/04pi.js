@@ -1,0 +1,1 @@
+__p({"id":"04pi","competition":"Croatian Mathematical Society Competitions","problem":"Let $a$ be a positive real number such that $\\log_{4a} 40\\sqrt{3} = \\log_{3a} 45$. Prove that $a^3$ is an integer and find its value.","solutions":[],"images":[]});

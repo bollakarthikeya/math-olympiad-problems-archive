@@ -1,0 +1,1 @@
+__p({"id":"0al9","competition":"Qualifying Round","problem":"Find the area of the region bounded by the graph of $2x^{2} - 4x - xy + 2y = 0$ and the $x$-axis.\n(a) 9\n(b) 12\n(c) 4\n(d) 6","solutions":[],"images":[]});

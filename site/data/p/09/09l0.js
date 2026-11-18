@@ -1,0 +1,1 @@
+__p({"id":"09l0","competition":"Mongolian Mathematical Olympiad","problem":"There were $59$ coins of different weights. Show that you can find the heaviest and second heaviest coins by weighing them a total of $64$ times using a balanced scale.","solutions":[],"images":[]});

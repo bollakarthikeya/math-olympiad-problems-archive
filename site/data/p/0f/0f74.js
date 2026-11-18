@@ -1,0 +1,1 @@
+__p({"id":"0f74","competition":"20th ASU","problem":"The incircle of a triangle has radius $1$. It also lies inside a square and touches each side of the square. Show that the area inside both the square and the triangle is at least $3.4$. Is it at least $3.5$?","solutions":[],"images":[]});

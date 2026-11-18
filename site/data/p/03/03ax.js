@@ -1,0 +1,1 @@
+__p({"id":"03ax","competition":"Selection test for 51. International Mathematical Olympiad","problem":"Let $ABCDE$ be a pentagon for which $\\angle A = \\angle B = \\angle C = \\angle D = 120^\\circ$. Find the minimal possible value of the ratio $\\frac{AC \\cdot BD}{AE \\cdot ED}$.","solutions":[],"images":[]});

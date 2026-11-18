@@ -1,0 +1,1 @@
+__p({"id":"06ae","competition":"Selection examinations","problem":"Determine all integers $n \\ge 1$, for which there exist at least one pair of positive integers $(a, b)$ such that:\n(i) The integer $a^2 + b + 3$ is not divisible by the cube of a prime number.\n(ii) $\\frac{ab+3b+8}{a^2+b+3} = n$","solutions":[],"images":[]});

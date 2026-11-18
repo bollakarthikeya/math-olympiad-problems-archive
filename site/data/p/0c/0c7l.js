@@ -1,0 +1,1 @@
+__p({"id":"0c7l","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Determine all nonnegative integers $x, y, z$ which satisfy the equation\n$$\n2^x + 3 \\cdot 11^y = 7^z.\n$$","solutions":[],"images":[]});

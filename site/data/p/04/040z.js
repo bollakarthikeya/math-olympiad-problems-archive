@@ -1,0 +1,1 @@
+__p({"id":"040z","competition":"China Girls' Mathematical Olympiad","problem":"Find the number of integers $k$ in the set $\\{0, 1, 2, \\ldots, 2012\\}$ such that the combination number $\\binom{2012}{k} = \\frac{2012!}{k!(2012-k)!}$ is a multiple of $2012$.","solutions":[],"images":[]});

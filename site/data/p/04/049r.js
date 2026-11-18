@@ -1,0 +1,1 @@
+__p({"id":"049r","competition":"Hrvatska 2011","problem":"Determine the greatest possible ratio of the volume of a sphere and the volume of a right circular cone inscribed in it.","solutions":[],"images":[]});

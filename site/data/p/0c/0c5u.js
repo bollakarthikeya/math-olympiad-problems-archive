@@ -1,0 +1,1 @@
+__p({"id":"0c5u","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Determine the whole numbers $a$, $b$, $c$ for which\n$$\n\\frac{a+1}{3} = \\frac{b+2}{4} = \\frac{5}{c+3}.\n$$","solutions":[],"images":[]});

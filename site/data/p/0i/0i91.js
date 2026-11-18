@@ -1,0 +1,1 @@
+__p({"id":"0i91","competition":"Harvard-MIT Mathematics Tournament","problem":"If $x$, $y$, and $z$ are real numbers such that $2x^{2} + y^{2} + z^{2} = 2x - 4y + 2xz - 5$, find the maximum possible value of $x - y + z$.","solutions":["The equation rearranges as $(x-1)^{2} + (y+2)^{2} + (x-z)^{2} = 0$, so we must have $x = 1$, $y = -2$, $z = 1$, giving us $4$."],"images":[]});

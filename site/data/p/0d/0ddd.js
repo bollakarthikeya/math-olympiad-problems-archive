@@ -1,0 +1,1 @@
+__p({"id":"0ddd","competition":"Saudi Arabian Mathematical Competitions","problem":"Let $ABCD$ be a quadrilateral with $\\angle A = \\angle B = 90^\\circ$, $AB = AD$. Denote $E$ as the midpoint of $AD$, suppose that $CD = BC + AD$, $AD > BC$. Prove that $\\angle ADC = 2\\angle ABE$.","solutions":[],"images":[]});

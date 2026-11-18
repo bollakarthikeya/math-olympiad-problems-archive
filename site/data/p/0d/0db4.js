@@ -1,0 +1,1 @@
+__p({"id":"0db4","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $x$, $y$, $z$, $a$, $b$, $c$ be pairwise different integers from the set $\\{1,2,3,4,5,6\\}$. Find the smallest possible value for the expression $x y z + a b c - a x - b y - c z$.","solutions":[],"images":[]});

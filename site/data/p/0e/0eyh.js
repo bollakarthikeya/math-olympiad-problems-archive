@@ -1,0 +1,1 @@
+__p({"id":"0eyh","competition":"2nd ASU","problem":"$\\{a_i\\}$ and $\\{b_i\\}$ are permutations of $\\{1/1, 1/2, \\dots, 1/n\\}$. $a_1 + b_1 \\geq a_2 + b_2 \\geq \\ldots \\geq a_n + b_n$. Prove that for every $m$ ($1 \\leq m \\leq n$), $a_m + b_m \\geq \\dfrac{4}{m}$.","solutions":[],"images":[]});

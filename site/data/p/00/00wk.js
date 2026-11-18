@@ -1,0 +1,1 @@
+__p({"id":"00wk","competition":"Baltic Way","problem":"Two equal triangles are inscribed into an ellipse. Are they necessarily symmetrical with respect either to the axes or to the centre of the ellipse?","solutions":["No, not necessarily (see Figure 3 where the two ellipses are equal).\n\n![](attached_image_1.png)\nFigure 3"],"images":["img/00wk_1.jpg"]});

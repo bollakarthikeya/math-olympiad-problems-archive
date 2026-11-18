@@ -1,0 +1,1 @@
+__p({"id":"0f2h","competition":"ASU","problem":"Seven elves sit at a table. Each elf has a cup. In total the cups contain $3$ liters of milk. Each elf in turn gives all his milk to the others in equal shares. At the end of the process each elf has the same amount of milk as at the start. What was that?","solutions":[],"images":[]});

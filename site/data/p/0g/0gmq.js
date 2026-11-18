@@ -1,0 +1,1 @@
+__p({"id":"0gmq","competition":"XIII. National Mathematical Olympiad","problem":"Prove that\n$$\n\\sqrt{a^4 + c^4} + \\sqrt{a^4 + d^4} + \\sqrt{b^4 + c^4} + \\sqrt{b^4 + d^4} \\ge 2\\sqrt{2}(ad + bc)\n$$\nfor all real numbers $a$, $b$, $c$, $d$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f52","competition":"16th ASU","problem":"$0 < x, y, z < \\pi / 2$. We have $\\cos x = x$, $\\sin (\\cos y) = y$, $\\cos (\\sin z) = z$. Which of $x, y, z$ is the largest and which the smallest?","solutions":[],"images":[]});

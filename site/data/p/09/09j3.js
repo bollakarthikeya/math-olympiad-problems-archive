@@ -1,0 +1,1 @@
+__p({"id":"09j3","competition":"Mongolian Mathematical Olympiad Round 2","problem":"Let $p$ be an odd prime. Find all possible remainders modulo $p^2$ of sums of the form\n$$\na^{p-1} + a^{p-2}b + \\dots + ab^{p-2} + b^{p-1}\n$$\nfor integers $a$ and $b$.","solutions":[],"images":[]});

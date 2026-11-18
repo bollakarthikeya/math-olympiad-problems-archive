@@ -1,0 +1,1 @@
+__p({"id":"048k","competition":"CroatianCompetitions2011","problem":"One of the midlines in a triangle is longer than one of its medians. Prove that the triangle is obtuse.","solutions":[],"images":[]});

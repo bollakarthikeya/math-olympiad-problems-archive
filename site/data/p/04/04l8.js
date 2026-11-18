@@ -1,0 +1,1 @@
+__p({"id":"04l8","competition":"Mathematical competitions in Croatia","problem":"Find all pairs $(m, n)$ of positive integers which satisfy the equation\n$$\nm n^2 = 100(n + 1).\n$$\n(Ukraine 2009)","solutions":[],"images":[]});

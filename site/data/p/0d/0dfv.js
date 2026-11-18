@@ -1,0 +1,1 @@
+__p({"id":"0dfv","competition":"Saudi Arabian IMO Booklet","problem":"Do there exist an infinite sequence $p_1, p_2, p_3, \\dots$ of prime numbers such that for any positive integer $n$ the following condition holds\n$$\n|p_{n+1} - 2p_n| = 1.\n$$","solutions":[],"images":[]});

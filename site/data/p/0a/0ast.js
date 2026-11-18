@@ -1,0 +1,1 @@
+__p({"id":"0ast","competition":"Philippines Mathematical Olympiad","problem":"For what real values of $k$ does the system of equations\n$$\n\\left\\{\\begin{array}{l}\nx - k y = 0 \\\\\nx^{2} + y = -1\n\\end{array}\\right.\n$$\nhave real solutions?","solutions":["$-\\frac{1}{2} \\leq k \\leq \\frac{1}{2}$"],"images":[]});

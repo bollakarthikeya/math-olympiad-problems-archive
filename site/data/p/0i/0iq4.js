@@ -1,0 +1,1 @@
+__p({"id":"0iq4","competition":"Harvard-MIT November Tournament","problem":"Explain how any unit fraction $\\frac{1}{n}$ can be decomposed into other unit fractions.","solutions":["$\\frac{1}{n} = \\frac{1}{2n} + \\frac{1}{3n} + \\frac{1}{6n}$"],"images":[]});

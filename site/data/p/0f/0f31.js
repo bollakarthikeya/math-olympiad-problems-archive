@@ -1,0 +1,1 @@
+__p({"id":"0f31","competition":"ASU","problem":"$m$ and $n$ are relatively prime positive integers. The interval $[0, 1]$ is divided into $m + n$ equal subintervals. Show that each part except those at each end contains just one of the numbers $1/m$, $2/m$, $3/m$, $\\ldots$, $(m-1)/m$, $1/n$, $2/n$, $\\ldots$, $(n-1)/n$.","solutions":[],"images":[]});

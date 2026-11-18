@@ -1,0 +1,1 @@
+__p({"id":"0ez9","competition":"4th ASU","problem":"Two congruent rectangles of area $A$ intersect in eight points. Show that the area of the intersection is more than $A/2$.","solutions":[],"images":[]});

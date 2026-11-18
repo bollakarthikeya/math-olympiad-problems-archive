@@ -1,0 +1,1 @@
+__p({"id":"0092","competition":"XXI Olimpiada Matemática Rioplatense","problem":"Let $ABCD$ be a convex quadrilateral. Let $P$ and $Q$ be points on the sides $AB$ and $AD$, respectively, such that $area(ABQ) = area(ADP) = \\frac{1}{3} area(ABCD)$.  \n$PQ$ and the diagonal $AC$ meet at the point $R$.\nCalculate the ratio $\\frac{AR}{RC}$.","solutions":[],"images":[]});

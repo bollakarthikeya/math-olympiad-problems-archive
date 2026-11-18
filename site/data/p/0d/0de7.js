@@ -1,0 +1,1 @@
+__p({"id":"0de7","competition":"Saudi Arabian Mathematical Competitions","problem":"Given $n \\geq 2$ distinct positive integers $a_1, a_2, \\ldots, a_n$ none of which is a perfect cube. Find the maximal possible number of perfect cubes among their pairwise products.","solutions":[],"images":[]});

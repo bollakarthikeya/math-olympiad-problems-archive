@@ -1,0 +1,1 @@
+__p({"id":"0jm4","competition":"HMMT November 2014","problem":"Let $ABCD$ be a quadrilateral inscribed in a circle with diameter $\\overline{AD}$. If $AB=5$, $AC=6$, and $BD=7$, find $CD$.","solutions":["$AD^{2} = AB^{2} + BD^{2} = AC^{2} + CD^{2}$, so\n$$\nCD = \\sqrt{AB^{2} + BD^{2} - AC^{2}} = \\sqrt{38}.\n$$"],"images":[]});

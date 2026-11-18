@@ -1,0 +1,1 @@
+__p({"id":"04p5","competition":"Croatian Mathematical Society Competitions","problem":"Find all pairs $(x, y)$ of real numbers such that\n$$\nxy^3 = -135, \\quad (x+y)y = -6. \\quad (Matko Ljulj)\n$$","solutions":[],"images":[]});

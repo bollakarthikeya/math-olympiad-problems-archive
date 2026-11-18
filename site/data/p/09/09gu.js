@@ -1,0 +1,1 @@
+__p({"id":"09gu","competition":"Mongolian Mathematical Olympiad","problem":"Solve the following system of equations in real numbers:\n$$\n\\begin{cases}\na^2 = b^5 + c^5 \\\\\nb^2 = c^5 + a^5 \\\\\nc^2 = a^5 + b^5.\n\\end{cases}\n$$","solutions":[],"images":[]});

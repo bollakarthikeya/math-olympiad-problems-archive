@@ -1,0 +1,1 @@
+__p({"id":"0bue","competition":"Olimpiada Națională de Matematică","problem":"a) $I_{1} = \\int (\\cos x \\cdot \\cos 2x \\cdot \\cos 3x) \\, dx$\n\nb) $I_{2} = \\int_{1}^{\\sqrt{3}} \\frac{1}{x \\sqrt{x^{4} + 1}} \\, dx$","solutions":[],"images":[]});

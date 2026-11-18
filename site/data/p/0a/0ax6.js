@@ -1,0 +1,1 @@
+__p({"id":"0ax6","competition":"Philippine Mathematical Olympiad","problem":"How many real number solutions does the equation $\\frac{1}{3} x^{4} + 5|x| = 7$ have?","solutions":["The solutions correspond to intersection points of $y = 7 - \\frac{1}{3} x^{4}$ and $y = 5|x|$. Clearly, there are only two intersection points."],"images":[]});

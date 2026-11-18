@@ -1,0 +1,1 @@
+__p({"id":"06ij","competition":"HONG KONG PRELIMINARY SELECTION CONTEST","problem":"There are three identical red balls, three identical yellow balls and three identical green balls. In how many different ways can they be split into three groups of three balls each?\n\n現有三個一模一樣的紅球、三個一模一樣的黃球和三個一模一樣的綠球。有多少種不同的方法把球分成三組使得每組各有三個球? (1分)","solutions":[],"images":[]});

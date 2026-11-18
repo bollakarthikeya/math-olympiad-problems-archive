@@ -1,0 +1,1 @@
+__p({"id":"04ck","competition":"Mathematica competitions in Croatia","problem":"Determine the set of all real numbers $x$ that satisfy the equation\n$$\n\\left\\lfloor \\frac{2x-1}{3} \\right\\rfloor + \\left\\lfloor \\frac{4x+1}{6} \\right\\rfloor = \\frac{5x-4}{3},\n$$\nwhere $\\lfloor a \\rfloor$ denotes the largest integer not greater than $a$.","solutions":[],"images":[]});

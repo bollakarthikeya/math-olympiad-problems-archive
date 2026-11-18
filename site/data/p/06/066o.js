@@ -1,0 +1,1 @@
+__p({"id":"066o","competition":"Mediterranean Mathematical Competition","problem":"If $x, y, z > 0$ with $x^2y^2 + y^2z^2 + z^2x^2 = 6x^2y^2z^2$, prove that:\n$$\n\\sqrt{\\frac{x}{x+yz}} + \\sqrt{\\frac{y}{y+zx}} + \\sqrt{\\frac{z}{z+xy}} \\ge \\sqrt{3}.\n$$","solutions":[],"images":[]});

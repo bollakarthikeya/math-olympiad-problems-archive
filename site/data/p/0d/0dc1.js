@@ -1,0 +1,1 @@
+__p({"id":"0dc1","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Find all integers $k > 1$ satisfy condition: there exists some nonnegative integer $n$ such that the number $A = 17^{18n} + 4 \\cdot 17^{2n} + 7 \\cdot 19^{5n}$ can be written as the product of $k$ consecutive positive integers.","solutions":[],"images":[]});

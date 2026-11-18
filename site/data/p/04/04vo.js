@@ -1,0 +1,1 @@
+__p({"id":"04vo","competition":"First Round (take-home)","problem":"Suppose that $a, b$ are real numbers such that the expressions $a^2 + b$ and $a + b^2$ share the same value. What is the smallest possible shared value?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0cec","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"The sum of seven consecutive integers equals $2023^n$. Find the positive integers $n$ such that at least one summand is a perfect square.","solutions":[],"images":[]});

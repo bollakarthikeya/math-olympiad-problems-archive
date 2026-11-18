@@ -1,0 +1,1 @@
+__p({"id":"0jsw","competition":"HMMT November","problem":"How many perfect squares divide $10^{10}$?","solutions":["Answer: 36\nA perfect square $s$ divides $10^{10}$ if and only if $s = 2^{a} \\cdot 5^{b}$ where $a, b \\in \\{0, 2, 4, 6, 8, 10\\}$. There are 36 choices, giving 36 different $s$'s."],"images":[]});

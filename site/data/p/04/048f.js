@@ -1,0 +1,1 @@
+__p({"id":"048f","competition":"CroatianCompetitions2011","problem":"Prove that the product of any two elements of the set\n$$\n\\{m \\mid m = a^2 - 5b^2,\\ a, b \\in \\mathbb{N}\\}\n$$\nbelongs to that set as well.","solutions":[],"images":[]});

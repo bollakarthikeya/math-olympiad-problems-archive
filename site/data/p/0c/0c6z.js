@@ -1,0 +1,1 @@
+__p({"id":"0c6z","competition":"70th ROMANIAN MATHEMATICAL OLYMPIAD","problem":"In a chess tournament every participant played with all others. At the end the organizer played a game with some participants. Finally a total of $100$ games were played in the tournament. Find the number or participants and the games the organizer played.","solutions":[],"images":[]});

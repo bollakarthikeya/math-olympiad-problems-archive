@@ -1,0 +1,1 @@
+__p({"id":"0b6d","competition":"Shortlisted Problems for the Romanian NMO","problem":"Let $A \\in \\mathcal{M}_3(\\mathbb{C})$ be such that $\\text{tr}(A^2) = \\text{tr}(A^*)$. Show that there exist $\\alpha, \\beta \\in \\mathbb{C}$ such that the matrix $(A + \\alpha I_3)^3 + \\beta I_3$ is nilpotent.","solutions":[],"images":[]});

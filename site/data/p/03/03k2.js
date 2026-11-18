@@ -1,0 +1,1 @@
+__p({"id":"03k2","competition":"Canadian Mathematical Olympiad","problem":"Prove that the product of the first $n$ natural numbers is divisible by the sum of the first $n$ natural numbers if and only if $n+1$ is not an odd prime.","solutions":[],"images":[]});

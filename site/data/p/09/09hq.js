@@ -1,0 +1,1 @@
+__p({"id":"09hq","competition":"Round 2","problem":"Let $ABCD$ be a quadrilateral with $AB = BC = CD$ and $\\angle ABC + \\angle BCD = 240^\\circ$. Find the angle $\\angle CAD$.","solutions":[],"images":[]});

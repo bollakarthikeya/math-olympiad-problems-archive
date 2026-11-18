@@ -1,0 +1,1 @@
+__p({"id":"0aln","competition":"Qualifying Round","problem":"The remainders when the polynomial $p(x)$ is divided by $(x+1)$ and $(x-1)$ are $7$ and $5$, respectively. Find the sum of the coefficients of the odd powers of $x$.\n(a) $-4$\n(b) $2$\n(c) $-1$\n(d) $12$","solutions":[],"images":[]});

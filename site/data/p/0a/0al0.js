@@ -1,0 +1,1 @@
+__p({"id":"0al0","competition":"Team Selection Test for IMO","problem":"Let $f: \\mathbb{N} \\to \\mathbb{N}$ be a monotonically increasing transformation of the natural numbers, such that $f(f(n)) = n^2$ for each natural number $n$. What are the smallest and largest possible value of $f(2023)$?","solutions":[],"images":[]});

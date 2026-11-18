@@ -1,0 +1,1 @@
+__p({"id":"03l0","competition":"Canadian Mathematical Olympiad","problem":"Let $ABC$ be an equilateral triangle of altitude $1$. A circle with radius $1$ and center on the same side of $AB$ as $C$ rolls along the segment $AB$. Prove that the arc of the circle that is inside the triangle always has the same length.","solutions":[],"images":[]});

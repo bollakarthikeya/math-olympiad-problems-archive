@@ -1,0 +1,1 @@
+__p({"id":"0it7","competition":"1st Annual Harvard-MIT November Tournament","problem":"Compute $2009^{2} - 2008^{2}$.","solutions":["Factoring this product with difference of squares, we find it equals:\n$$\n(2009 + 2008)(2009 - 2008) = (4017)(1) = 4017\n$$"],"images":[]});

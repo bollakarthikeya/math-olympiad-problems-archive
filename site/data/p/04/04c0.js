@@ -1,0 +1,1 @@
+__p({"id":"04c0","competition":"Mathematica competitions in Croatia","problem":"Let $D$ be a point on the side $\\overline{BC}$ of triangle $ABC$. Denote $\\alpha_1 = \\angle DAB$ and $\\alpha_2 = \\angle CAD$. Prove the equality\n$$\n\\frac{\\sin(\\alpha_1 + \\alpha_2)}{|AD|} = \\frac{\\sin \\alpha_1}{|AC|} + \\frac{\\sin \\alpha_2}{|AB|}.\n$$","solutions":[],"images":[]});

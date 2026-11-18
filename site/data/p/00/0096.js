@@ -1,0 +1,1 @@
+__p({"id":"0096","competition":"XXI Olimpiada Matemática Rioplatense","problem":"Let $a \\ge 2$ and $n \\ge 3$ be integers. Show that one of the numbers\n$$\na^n + 1, a^{n+1} + 1, \\dots, a^{2n-2} + 1,\n$$\ndoes not share any odd divisor greater than $1$ with any other number in the set.","solutions":[],"images":[]});

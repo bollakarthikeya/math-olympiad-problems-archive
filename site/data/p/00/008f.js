@@ -1,0 +1,1 @@
+__p({"id":"008f","competition":"XXIX Olimpíada Matemática Argentina National Round","problem":"For each natural number $x$, let $S(x)$ be the sum of its digits. Find the smallest natural number $n$ such that $9S(n) = 16S(2n)$.","solutions":[],"images":[]});

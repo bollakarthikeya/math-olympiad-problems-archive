@@ -1,0 +1,1 @@
+__p({"id":"09gv","competition":"Mongolian Mathematical Olympiad","problem":"Let $A$ be the number defined as connecting the decimal representation of $8^{n+1}$ to the end of the decimal representation of $8^n$. Prove that there exist infinitely many natural numbers $n$ such that $A$ is divisible by $2016$.","solutions":[],"images":[]});

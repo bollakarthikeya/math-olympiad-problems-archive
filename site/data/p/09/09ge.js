@@ -1,0 +1,1 @@
+__p({"id":"09ge","competition":"Mongolian Mathematical Olympiad","problem":"Let $p$ be an odd prime. Show that there is a positive integer $n$ such that $n^{n^n} + n^n + 1$ is divisible by $p$.","solutions":[],"images":[]});

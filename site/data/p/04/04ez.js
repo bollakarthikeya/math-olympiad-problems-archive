@@ -1,0 +1,1 @@
+__p({"id":"04ez","competition":"Mathematica competitions in Croatia","problem":"Players $A$, $B$ and $C$ roll the die in consecutive order. What is the probability that $C$ rolls a greater number than the other two players?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"03gg","competition":"Canadian Mathematical Olympiad","problem":"$ABCD$ is a quadrilateral with $AD = BC$. If $\\angle ADC$ is greater than $\\angle BCD$, prove that $AC > BD$.","solutions":[],"images":[]});

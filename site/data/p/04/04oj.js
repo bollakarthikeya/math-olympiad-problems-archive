@@ -1,0 +1,1 @@
+__p({"id":"04oj","competition":"Croatian Mathematical Society Competitions","problem":"Find all three-digit numbers such that the sum of their digits is $11$, and the number obtained by swapping the hundreds digit and the ones digit is by $594$ greater than the original number.","solutions":[],"images":[]});

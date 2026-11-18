@@ -1,0 +1,1 @@
+__p({"id":"0dg8","competition":"Saudi Arabian IMO Booklet","problem":"Do there exist positive integers $m$ and $n$ such that the decimal representation of $5^m$ starts with $2^n$ and the decimal representation of $2^m$ starts with $5^n$?","solutions":[],"images":[]});

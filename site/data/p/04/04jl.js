@@ -1,0 +1,1 @@
+__p({"id":"04jl","competition":"Croatia Mathematical Competitions","problem":"A positive integer is called *wacky* if its decimal representation contains 100 digits, and if by removing any of those digits one gets a 99-digit number divisible by $7$. How many wacky positive integers are there? (Stipe Vidak)","solutions":[],"images":[]});

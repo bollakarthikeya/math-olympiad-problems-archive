@@ -1,0 +1,1 @@
+__p({"id":"0ciy","competition":"75th NMO","problem":"Find the natural numbers $m$, $n$, $p$ ($m, n \\ge 1$, $p \\ge 2$, $n$ odd), which simultaneously satisfy the equations\n$$\np + p^2 + \\dots + p^n = m^2 \\quad \\text{and} \\quad \\lfloor \\sqrt{p} \\rfloor + \\lfloor \\sqrt{p^2} \\rfloor + \\dots + \\lfloor \\sqrt{p^n} \\rfloor = m^2 - 5m.\n$$","solutions":[],"images":[]});

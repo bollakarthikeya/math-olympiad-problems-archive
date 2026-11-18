@@ -1,0 +1,1 @@
+__p({"id":"03j2","competition":"Canadian Mathematical Olympiad","problem":"An acute-angled triangle has unit area. Show that there is a point inside the triangle whose distance from each of the vertices is at least $\\frac{2}{\\sqrt[4]{27}}$.","solutions":[],"images":[]});

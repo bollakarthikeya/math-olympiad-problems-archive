@@ -1,0 +1,1 @@
+__p({"id":"03ix","competition":"Canadian Mathematical Olympiad","problem":"Prove that for every prime number $p$, there are infinitely many positive integers $n$ such that $p$ divides $2^{n}-n$.","solutions":[],"images":[]});

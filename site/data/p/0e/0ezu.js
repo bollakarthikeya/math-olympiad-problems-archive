@@ -1,0 +1,1 @@
+__p({"id":"0ezu","competition":"ASU","problem":"Circles, each with radius less than $R$, are drawn inside a square side $1000R$. There are no points on different circles a distance $R$ apart. Show that the total area covered by the circles does not exceed $340,000 R^2$.","solutions":[],"images":[]});

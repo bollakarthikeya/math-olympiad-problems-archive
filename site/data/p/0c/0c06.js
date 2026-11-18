@@ -1,0 +1,1 @@
+__p({"id":"0c06","competition":"2018 Romanian Mathematical Olympiad","problem":"Show that $\\sqrt{n + [\\sqrt{n} + \\frac{1}{2}]}$ is an irrational number, for every positive integer $n$.","solutions":[],"images":[]});

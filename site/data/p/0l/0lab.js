@@ -1,0 +1,1 @@
+__p({"id":"0lab","competition":"Vijetnam 2008","problem":"Determine the number of positive integers that are multiple of $9$ with at most $2008$ decimal digits, and among these digits at least two are $9$.","solutions":[],"images":[]});

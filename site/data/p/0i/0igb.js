@@ -1,0 +1,1 @@
+__p({"id":"0igb","competition":"Harvard-MIT Mathematics Tournament","problem":"Write down a set $S$ of positive integers, all greater than $1$, such that for each $x \\in S$, $x$ is a proper divisor of $(P / x) + 1$, where $P$ is the product of all the elements of $S$. Your score is $2n$, where $n = |S|$.","solutions":[],"images":[]});

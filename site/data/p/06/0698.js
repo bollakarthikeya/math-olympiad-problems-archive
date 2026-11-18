@@ -1,0 +1,1 @@
+__p({"id":"0698","competition":"23rd Junior Balkan Mathematical Olympiad","problem":"Find all prime numbers $p$ for which there exist non-negative integers $x$, $y$ and $z$ such that the number\n$$\nx^p + y^p + z^p - x - y - z\n$$\nis a product of exactly three distinct prime numbers.","solutions":[],"images":[]});

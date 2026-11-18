@@ -1,0 +1,1 @@
+__p({"id":"0kka","competition":"AMC 10 A","problem":"What is the maximum number of balls of clay with radius $2$ that can completely fit inside a cube of side length $6$ assuming that the balls can be reshaped but not compressed before they are packed in the cube?\n(A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$","solutions":[],"images":[]});

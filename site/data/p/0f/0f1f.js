@@ -1,0 +1,1 @@
+__p({"id":"0f1f","competition":"ASU","problem":"Given real numbers $a_i$, $b_i$ and positive reals $c_i$, $d_i$, let $e_{ij} = (a_i + b_j) / (c_i + d_j)$. Let $M_i = \\max_{0 \\leq j \\leq n} e_{ij}$, $m_j = \\min_{1 \\leq i \\leq n} e_{ij}$. Show that we can find an $e_{ij}$ with $1 \\leq i, j \\leq n$ such that $e_{ij} = M_i = m_j$.","solutions":[],"images":[]});

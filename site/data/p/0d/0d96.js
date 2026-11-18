@@ -1,0 +1,1 @@
+__p({"id":"0d96","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Does there exist an integer $n \\geq 3$ and an arithmetic sequence $a_{0}, a_{1}, \\ldots, a_{n}$ such that the polynomial $a_{n} x^{n}+\\ldots+a_{1} x+a_{0}$ has $n$ roots which also form an arithmetic sequence?","solutions":[],"images":[]});

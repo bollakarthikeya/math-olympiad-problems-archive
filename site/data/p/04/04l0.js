@@ -1,0 +1,1 @@
+__p({"id":"04l0","competition":"Mathematical competitions in Croatia","problem":"In a triangle $ABC$ the interior bisector at vertex $C$ meets the side $\\overline{AB}$ at point $D$. Let $a$ and $b$ be the lengths of the sides $\\overline{BC}$ and $\\overline{AC}$ respectively. If $|CD| = \\frac{ab}{a+b}$, determine $\\angle ACB$.","solutions":[],"images":[]});

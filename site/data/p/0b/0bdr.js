@@ -1,0 +1,1 @@
+__p({"id":"0bdr","competition":"Shortlisted Problems for the 64th NMO","problem":"Let $f$ and $g$ be two quadratic functions. Prove that, if the functions $\\lfloor f \\rfloor$ and $\\lfloor g \\rfloor$ are equal, then the functions $f$ and $g$ are equal.","solutions":[],"images":[]});

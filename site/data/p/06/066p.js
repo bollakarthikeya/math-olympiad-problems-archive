@@ -1,0 +1,1 @@
+__p({"id":"066p","competition":"Junior Balkan Mathematical Olympiad","problem":"Show that\n$$\n\\left(a+2b+\\frac{2}{a+1}\\right)\\left(b+2a+\\frac{2}{b+1}\\right) \\ge 16,\n$$\nfor all positive real numbers $a$ and $b$ such that $ab \\ge 1$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0is7","competition":"11th Annual Harvard-MIT Mathematics Tournament","problem":"The function $f$ satisfies\n$$\nf(x)+f(2x+y)+5xy = f(3x-y)+2x^{2}+1\n$$\nfor all real numbers $x, y$. Determine the value of $f(10)$.","solutions":["Setting $x=10$ and $y=5$ gives $f(10)+f(25)+250=f(25)+200+1$, from which we get $f(10)=-49$."],"images":[]});

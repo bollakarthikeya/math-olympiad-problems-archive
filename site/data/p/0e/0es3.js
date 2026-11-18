@@ -1,0 +1,1 @@
+__p({"id":"0es3","competition":"South African Mathematics Olympiad First Round","problem":"$$\n\\sqrt{5050^2 - 4950^2} =\n$$\n(A) 10 (B) $10^2$ (C) $10^3$ (D) $10^4$ (E) $10^5$","solutions":["$$\n\\sqrt{5050^2 - 4950^2} = \\sqrt{(5050 + 4950)(5050 - 4950)} = \\sqrt{10000 \\times 100} = \\sqrt{10^6} = 10^3.\n$$"],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04dy","competition":"Mathematica competitions in Croatia","problem":"Determine the complex number $z$ such that\n$$\n\\text{Re} \\frac{1}{1-z} = 2 \\quad \\text{and} \\quad \\text{Im} \\frac{1}{1-z} = -1\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0b3z","competition":"24th Philippine Mathematical Olympiad","problem":"How many ending zeroes does the decimal expansion of $2022!$ have?\n\n(a) 404\n(b) 484\n(c) 500\n(d) 503","solutions":[],"images":[]});

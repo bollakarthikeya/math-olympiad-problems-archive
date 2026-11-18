@@ -1,0 +1,1 @@
+__p({"id":"0blh","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Find all the functions $f : \\mathbb{R} \\to \\mathbb{R}$, which have primitives and there exists a primitive $F$ of $f$, such that $F \\circ F$ is also a primitive of $f$.","solutions":[],"images":[]});

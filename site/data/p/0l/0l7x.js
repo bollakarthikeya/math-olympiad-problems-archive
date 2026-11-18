@@ -1,0 +1,1 @@
+__p({"id":"0l7x","competition":"2025 AIME I","problem":"Let $N$ denote the number of ordered triples of positive integers $(a, b, c)$ such that $a, b, c \\le 3^6$ and $a^3 + b^3 + c^3$ is a multiple of $3^7$. Find the remainder when $N$ is divided by 1000.","solutions":[],"images":[]});

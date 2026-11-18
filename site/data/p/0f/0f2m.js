@@ -1,0 +1,1 @@
+__p({"id":"0f2m","competition":"ASU","problem":"a and b are positive real numbers. $x_i$ are real numbers lying between $a$ and $b$. Show that\n$$(x_1 + x_2 + \\ldots + x_n)\\left(\\frac{1}{x_1} + \\frac{1}{x_2} + \\ldots + \\frac{1}{x_n}\\right) \\leq \\frac{n^2 (a + b)^2}{4ab}.$$","solutions":[],"images":[]});

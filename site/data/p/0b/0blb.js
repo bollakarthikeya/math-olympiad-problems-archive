@@ -1,0 +1,1 @@
+__p({"id":"0blb","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Prove that if $x \\in (0, \\frac{\\pi}{3})$, then $\\sin 2x < \\frac{2}{3x^2 - x^6}$.\nDumitru Săvulescu, Lucian Tuțescu","solutions":[],"images":[]});

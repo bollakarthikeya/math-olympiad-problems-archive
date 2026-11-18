@@ -1,0 +1,1 @@
+__p({"id":"01wt","competition":"69th Belarusian Mathematical Olympiad","problem":"The point $E$ lies on the altitude $BD$ of an acute triangle $ABC$. It is given that $\\angle AED = 50^\\circ$ and the circumcircles of the triangles $ADE$ and $BEC$ tangent to each other at $E$.\nFind $\\angle BCE$.","solutions":["$40^\\circ$."],"images":[]});

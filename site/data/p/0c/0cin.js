@@ -1,0 +1,1 @@
+__p({"id":"0cin","competition":"75th NMO","problem":"Let $R > 0$, $n \\in \\mathbb{N}$, $n \\ge 3$, and consider a convex $n$-gon inscribed in a circle of center $O$ and radius $R$. Determine the perimeter of the polygon, knowing that its area is equal to $\\frac{nR^2}{2}$.\nAurel Doboşan","solutions":[],"images":[]});

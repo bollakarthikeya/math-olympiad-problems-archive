@@ -1,0 +1,1 @@
+__p({"id":"0c6u","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Let $A_1A_2\\ldots A_n$ be a regular polygon. Find the number of subsets $\\{A_i, A_j, A_k, A_l\\}$, whose elements are the vertices of a trapezoid.\nCătălin Gherghe","solutions":[],"images":[]});

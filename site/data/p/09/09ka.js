@@ -1,0 +1,1 @@
+__p({"id":"09ka","competition":"Mongolian Mathematical Olympiad","problem":"Let $ABCD$ be a quadrilateral with $\\angle DAB = \\angle ABC$. The circumcircle of triangle $ABC$ intersects segment $AD$ at point $K$ and segment $CD$ at point $L$. Segment $AL$ intersects segment $CK$ at point $P$. If $\\angle ADB = \\angle PDC$, prove that $CP = CL$.","solutions":[],"images":[]});

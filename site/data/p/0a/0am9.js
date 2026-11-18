@@ -1,0 +1,1 @@
+__p({"id":"0am9","competition":"QUALIFYING STAGE","problem":"If $(a, b)$ is the solution of the system\n$$\\sqrt{x+y} + \\sqrt{x-y} = 4,$$\n$$x^{2} - y^{2} = 9,$$\nthen $\\frac{a b}{a+b}$ has value\n\n(a) $\\frac{10}{9}$\n(b) $\\frac{8}{3}$\n(c) $10$\n(d) $\\frac{20}{9}$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0cs0","competition":"XL Russian mathematical olympiad","problem":"Let $ABCD$ be an inscribed quadrilateral for which the rays $AB$ and $DC$ meet at $K$. It happened that the points $B$, $D$, and the midpoints of the segments $AC$ and $KC$ are concyclic. Find all possible values the angle $ADC$ may get.","solutions":["90°."],"images":[]});

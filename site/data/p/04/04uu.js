@@ -1,0 +1,1 @@
+__p({"id":"04uu","competition":"Czech-Polish-Slovak Match","problem":"Find all functions $f: (0, \\infty) \\to (0, \\infty)$ such that\n$$\nf\\left(f(x) + \\frac{y+1}{f(y)}\\right) = \\frac{1}{f(y)} + x + 1\n$$\nfor all $x, y > 0$.\n(Dominik Burek)","solutions":[],"images":[]});

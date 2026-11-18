@@ -1,0 +1,1 @@
+__p({"id":"0f0m","competition":"ASU","problem":"Given $n > 4$ points, show that you can place an arrow between each pair of points, so that given any point you can reach any other point by travelling along either one or two arrows in the direction of the arrow.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bqe","competition":"67th NMO Shortlisted Problems","problem":"Four positive integers $a, b, c, d$ are not divisible by $5$ and the sum of their squares is divisible by $5$. Prove that\n$$\nN = (a^2 + b^2)(a^2 + c^2)(a^2 + d^2)(b^2 + c^2)(b^2 + d^2)(c^2 + d^2)\n$$\nis divisible by $625$.","solutions":[],"images":[]});

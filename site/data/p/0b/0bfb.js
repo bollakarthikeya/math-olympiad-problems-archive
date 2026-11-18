@@ -1,0 +1,1 @@
+__p({"id":"0bfb","competition":"Shortlisted Problems for the 64th NMO","problem":"Find all differentiable functions $f: [0, \\infty) \\to \\mathbb{R}$, $f(0) = 0$, so that:\n\ni) $f'$ is strictly positive and increasing;\n\nii) $\\int_0^1 (f'(x))^2 dx \\ge f(x+f(x))-f(x)$, for every $x \\in [0, \\infty)$.","solutions":[],"images":[]});

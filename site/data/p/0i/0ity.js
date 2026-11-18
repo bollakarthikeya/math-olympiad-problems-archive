@@ -1,0 +1,1 @@
+__p({"id":"0ity","competition":"12th Annual Harvard-MIT Mathematics Tournament","problem":"Compute\n$$\n1 \\cdot 2^{2} + 2 \\cdot 3^{2} + 3 \\cdot 4^{2} + \\cdots + 19 \\cdot 20^{2}\n$$","solutions":["We can write this as\n$$\n(1^{3} + 2^{3} + \\cdots + 20^{3}) - (1^{2} + 2^{2} + \\cdots + 20^{2})\n$$\nwhich is equal to\n$$\n44100 - 2870 = 41230\n$$"],"images":[]});

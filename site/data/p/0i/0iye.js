@@ -1,0 +1,1 @@
+__p({"id":"0iye","competition":"12th Annual Harvard-MIT Mathematics Tournament","problem":"Which is greater, $\\log_{2008}(2009)$ or $\\log_{2009}(2010)$?","solutions":["Let $f(x) = \\log_{x}(x+1)$. Then\n$$\nf'(x) = \\frac{x \\ln x - (x+1) \\ln (x+1)}{x(x+1) (\\ln x)^2} < 0\n$$\nfor any $x > 1$, so $f$ is decreasing. Thus $\\log_{2008}(2009)$ is greater."],"images":[]});

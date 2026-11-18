@@ -1,0 +1,1 @@
+__p({"id":"0f8f","competition":"22nd ASU","problem":"Prove that for any tetrahedron the radius of the inscribed sphere $r < \\dfrac{ab}{2(a + b)}$, where $a$ and $b$ are the lengths of any pair of opposite edges.","solutions":[],"images":[]});

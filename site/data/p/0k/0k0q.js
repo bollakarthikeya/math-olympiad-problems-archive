@@ -1,0 +1,1 @@
+__p({"id":"0k0q","competition":"HMMT February 2018","problem":"A square can be divided into four congruent figures as shown:\n![](attached_image_1.png)\nIf each of the congruent figures has area $1$, what is the area of the square?","solutions":["There are four congruent figures with area $1$, so the area of the square is $4$."],"images":["img/0k0q_1.jpg"]});

@@ -1,0 +1,1 @@
+__p({"id":"0aql","competition":"12th Philippine Mathematical Olympiad - Area Stage","problem":"A circle has radius $4$ units, and a point $P$ is situated outside the circle. A line through $P$ intersects the circle at points $A$ and $B$. If $PA = 4$ units and $PB = 6$ units, how far is $P$ from the center of the circle?","solutions":[],"images":[]});

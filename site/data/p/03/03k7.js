@@ -1,0 +1,1 @@
+__p({"id":"03k7","competition":"Canadian Mathematical Olympiad","problem":"In triangle $ABC$, the medians to the sides $AB$ and $AC$ are perpendicular. Prove that $\\cot B + \\cot C \\geq \\frac{2}{3}$.","solutions":[],"images":[]});

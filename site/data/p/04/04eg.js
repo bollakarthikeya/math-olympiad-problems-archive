@@ -1,0 +1,1 @@
+__p({"id":"04eg","competition":"Mathematica competitions in Croatia","problem":"How many ordered pairs of positive integers $(m, n)$ satisfy the equation $m^2 - n^2 = 2^{2013}$?","solutions":[],"images":[]});

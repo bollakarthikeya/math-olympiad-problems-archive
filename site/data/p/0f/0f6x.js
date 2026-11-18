@@ -1,0 +1,1 @@
+__p({"id":"0f6x","competition":"20th ASU","problem":"There are 30 cups each containing milk. An elf is able to transfer milk from one cup to another so that the amount of milk in the two cups is equalised. Is there an initial distribution of milk so that the elf cannot equalise the amount in all the cups by a finite number of such transfers?","solutions":[],"images":[]});

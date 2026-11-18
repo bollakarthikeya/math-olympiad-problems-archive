@@ -1,0 +1,1 @@
+__p({"id":"09js","competition":"Mongolian Mathematical Olympiad","problem":"Let $F$ be a point outside the square $ABCD$ and $E$ be a point inside the square $ABCD$ such that triangle $BCF$ and $ABE$ are equilateral triangles. If $M$ is the midpoint of $EF$, determine $\\angle AMD$.","solutions":[],"images":[]});

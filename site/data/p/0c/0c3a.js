@@ -1,0 +1,1 @@
+__p({"id":"0c3a","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Let $ABCD$ be a regular tetrahedron, with $AB = a$. Denote $M$ the midpoint of $[BC]$, $N$ the midpoint of $[AM]$, and take $P \\in [BD]$ so that $BP = 3PD$. Compute the distance between the straight lines $AC$ and $NP$.\n\nGabriela Chişiu and Carmen Rusu","solutions":[],"images":[]});

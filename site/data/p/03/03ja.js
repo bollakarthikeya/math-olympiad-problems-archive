@@ -1,0 +1,1 @@
+__p({"id":"03ja","competition":"Canadian Mathematical Olympiad","problem":"In the diagram line segments $AB$ and $CD$ are of length $1$ while angles $ABC$ and $CBD$ are $90^{\\circ}$ and $30^{\\circ}$ respectively. Find $AC$.\n\n![](attached_image_1.png)","solutions":[],"images":["img/03ja_1.jpg"]});

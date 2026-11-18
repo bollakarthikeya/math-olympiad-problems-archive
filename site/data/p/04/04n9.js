@@ -1,0 +1,1 @@
+__p({"id":"04n9","competition":"Croatia_2018","problem":"Let $a$, $b$ and $c$ be positive real numbers such that\n$$\na^2 + b^2 - c^2 = \\sqrt{3}ab, \\quad a^2 - b^2 + c^2 = \\sqrt{2}ac.\n$$\nDetermine the ratio $b : c$. (Hong Kong 2002)","solutions":[],"images":[]});

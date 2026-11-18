@@ -1,0 +1,1 @@
+__p({"id":"0au1","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"What is the fourth smallest positive integer having exactly $4$ positive integer divisors, including $1$ and itself?","solutions":[],"images":[]});

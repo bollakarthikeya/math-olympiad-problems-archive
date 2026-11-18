@@ -1,0 +1,1 @@
+__p({"id":"0aoh","competition":"QUALIFYING STAGE","problem":"If $f$ is a real-valued function, defined for all nonzero real numbers, such that $f(a) + \\frac{1}{f(b)} = f\\left(\\frac{1}{a}\\right) + f(b)$, find all possible values of $f(1) - f(-1)$.\n\n(a) $\\{-2, 2\\}$\n(c) $\\{1, 2\\}$\n(b) $\\{0, -1, 1\\}$\n(d) $\\{0, -2, 2\\}$","solutions":[],"images":[]});

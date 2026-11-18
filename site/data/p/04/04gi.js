@@ -1,0 +1,1 @@
+__p({"id":"04gi","competition":"Mathematica competitions in Croatia","problem":"What is the smallest, and what is the largest value that the function $f: \\mathbb{R} \\to \\mathbb{R}$, given by $f(x) = \\cos^2 x + \\sin x$, can take? (Ilko Brnetić)","solutions":[],"images":[]});

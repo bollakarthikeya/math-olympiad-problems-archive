@@ -1,0 +1,1 @@
+__p({"id":"09ke","competition":"Mongolian Mathematical Olympiad","problem":"For a positive integer $n$, let $a_n = \\frac{(2n)!}{(n!)^3}$. Here $k! = 1 \\times 2 \\times 3 \\times \\cdots \\times k$.\n\n(1)\nProve $a_n > a_{n+1}$ for all $n \\ge 3$.\n\n(2)\nFind all $n$ such that $a_n$ is a whole number.","solutions":[],"images":[]});

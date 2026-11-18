@@ -1,0 +1,1 @@
+__p({"id":"08je","competition":"The first selection test for JBMO 2003","problem":"The quadrilateral $ABCD$ with perpendicular diagonals is inscribed in the circle with center $O$, the points $M$ and $N$ are the middle points of the sides $[BC]$ and $[CD]$ respectively. Find the value of the ratio of areas of the figures $OMCN$ and $ABCD$.","solutions":[],"images":[]});

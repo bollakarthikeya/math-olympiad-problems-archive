@@ -1,0 +1,1 @@
+__p({"id":"04e9","competition":"Mathematica competitions in Croatia","problem":"Let $ABCD$ be a parallelogram and let $S$ be the intersection of its diagonals. The bisector of the angle $\\angle ADC$ bisects the line segment $\\overline{AS}$ and intersects with the line $BC$ at point $E$. Determine the ratios $|BE| : |BC|$ and $|AB| : |BC|$.","solutions":[],"images":[]});

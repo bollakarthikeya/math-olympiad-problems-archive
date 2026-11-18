@@ -1,0 +1,1 @@
+__p({"id":"03gl","competition":"Canadian Mathematical Olympiad","problem":"Let\n$$\np(x) = a_{0} x^{n} + a_{1} x^{n-1} + \\cdots + a_{n-1} x + a_{n}\n$$\nwhere the coefficients $a_{i}$ are integers. If $p(0)$ and $p(1)$ are both odd, show that $p(x)$ has no integral roots.","solutions":[],"images":[]});

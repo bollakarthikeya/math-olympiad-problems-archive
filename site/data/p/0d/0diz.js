@@ -1,0 +1,1 @@
+__p({"id":"0diz","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Positive numbers $a, b$ satisfy the condition $a + b + \\frac{1}{a} + \\frac{1}{b} = 5$. Prove that $1 \\le a + b \\le 4$.","solutions":[],"images":[]});

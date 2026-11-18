@@ -1,0 +1,1 @@
+__p({"id":"0gud","competition":"Team Selection Test for JBMO 2023","problem":"$$\n\\frac{a^4 + 1}{b^3 + b^2 + b} + \\frac{b^4 + 1}{c^3 + c^2 + c} + \\frac{c^4 + 1}{a^3 + a^2 + a} \\ge 2.\n$$","solutions":["$$\n\\frac{a^4+1}{b^3+b^2+b} + \\frac{b^4+1}{c^3+c^2+c} + \\frac{c^4+1}{a^3+a^2+a} \\ge 3 \\cdot \\sqrt[3]{\\frac{8}{27}} = 2.\n$$"],"images":[]});

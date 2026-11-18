@@ -1,0 +1,1 @@
+__p({"id":"04ce","competition":"Mathematica competitions in Croatia","problem":"Determine all values of the real parameter $a$ for which the equation\n$$\n8^a \\sin^2 x = 4 \\cdot 2^{\\cos^2 x}\n$$\nhas exactly one solution in the interval $\\left[-\\frac{\\pi}{6}, \\frac{2\\pi}{3}\\right]$.","solutions":[],"images":[]});

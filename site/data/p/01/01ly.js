@@ -1,0 +1,1 @@
+__p({"id":"01ly","competition":"Belarusian Mathematical Olympiad","problem":"a) Does there exist a function $f : \\mathbb{R} \\to \\mathbb{R}$, such that for any real $x$ the following equality holds $f(\\sin x) + f(\\cos x) = 2$?\n\nb) The same question for $f(\\sin x) + f(\\cos x) = \\sin 2x$.","solutions":[],"images":[]});

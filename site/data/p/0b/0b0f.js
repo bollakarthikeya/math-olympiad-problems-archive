@@ -1,0 +1,1 @@
+__p({"id":"0b0f","competition":"Philippines Mathematical Olympiad","problem":"Let $A = \\{ n \\in \\mathbb{Z} \\mid |n| \\leq 24 \\}$. In how many ways can two distinct numbers be chosen (simultaneously) from $A$ such that their product is less than their sum?","solutions":[],"images":[]});

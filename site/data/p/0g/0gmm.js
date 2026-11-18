@@ -1,0 +1,1 @@
+__p({"id":"0gmm","competition":"IMO TEAM SELECTION EXAM","problem":"Is there an arithmetic sequence with\n\na. $2003$\n\nb. infinitely many\n\nterms every term of which is a power of a positive integer greater than $1$?","solutions":[],"images":[]});

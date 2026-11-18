@@ -1,0 +1,1 @@
+__p({"id":"0f5v","competition":"18th ASU","problem":"Find all pairs of digits $(b, c)$ such that the number $b \\ldots b6c \\ldots c4$, where there are $n$ $b$s and $n$ $c$s, is a square for all positive integers $n$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0c19","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Let $a, b, c, d$ be natural numbers such that $a + b + c + d = 2018$. Find the minimum value of the expression:\n$$\nE = (a - b)^2 + 2(a - c)^2 + 3(a - d)^2 + 4(b - c)^2 + 5(b - d)^2 + 6(c - d)^2.\n$$","solutions":[],"images":[]});

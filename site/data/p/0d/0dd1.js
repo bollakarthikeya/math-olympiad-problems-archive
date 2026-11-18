@@ -1,0 +1,1 @@
+__p({"id":"0dd1","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Each cell of an $8 \\times 8$ board is either black or white. It is known that among any nine cells forming a $3 \\times 3$ square there are evenly many white ones. What is the minimum possible number of black cells?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0cf6","competition":"74th NMO Shortlisted Problems","problem":"Let $a$, $b$ and $c$ be three real numbers such that $ab + bc + ca = 3$. Prove that\n$$\n\\frac{a^4 + b^4 + (a+b)^4}{a^2 + b^2 + ab} + \\frac{b^4 + c^4 + (b+c)^4}{b^2 + c^2 + bc} + \\frac{c^4 + a^4 + (c+a)^4}{c^2 + a^2 + ca} \\ge 18.\n$$","solutions":[],"images":[]});

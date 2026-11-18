@@ -1,0 +1,1 @@
+__p({"id":"0f5o","competition":"18th ASU","problem":"$\\{x_1 < x_2 < x_3 < \\ldots < x_n\\}$. $\\{y_i\\}$ is a permutation of the $\\{x_i\\}$. We have that $x_1 + y_1 < x_2 + y_2 < \\ldots < x_n + y_n$. Prove that $x_i = y_i$.","solutions":[],"images":[]});

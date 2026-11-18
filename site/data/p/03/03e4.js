@@ -1,0 +1,1 @@
+__p({"id":"03e4","competition":"Autumn tournament","problem":"Find the smallest possible number of divisors a positive integer $n$ may have, which satisfies the following conditions:\n1.\n$24 \\mid n+1;$\n2. The sum of the squares of all divisors of $n$ is divisible by $48$ (1 and $n$ are included).","solutions":[],"images":[]});

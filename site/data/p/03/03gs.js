@@ -1,0 +1,1 @@
+__p({"id":"03gs","competition":"Canadian Mathematical Olympiad","problem":"Let $f(n)$ be the sum of the first $n$ terms of the sequence\n$$\n0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, \\ldots\n$$\na) Give a formula for $f(n)$.\nb) Prove that $f(s+t)-f(s-t)=s t$ where $s$ and $t$ are positive integers and $s>t$.","solutions":[],"images":[]});

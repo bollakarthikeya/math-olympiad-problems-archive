@@ -1,0 +1,1 @@
+__p({"id":"0ao0","competition":"QUALIFYING STAGE","problem":"If $x^{6}=64$ and $\\left(\\frac{2}{x}-\\frac{x}{2}\\right)^{2}=b$, then a function $f$ that satisfies $f(b+1)=0$ is\n\n(a) $f(x)=1-2^{x-1}$\n(c) $f(x)=x^{2}+x$\n(b) $f(x)=2^{x-1}$\n(d) $f(x)=2 x-1$","solutions":[],"images":[]});

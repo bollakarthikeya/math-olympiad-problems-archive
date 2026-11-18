@@ -1,0 +1,1 @@
+__p({"id":"0dfj","competition":"Saudi Arabian IMO Booklet","problem":"Given an equilateral triangle $ABC$. Points $D$, $E$, $F$ lie on sides $BC$, $CA$, $AB$, respectively, and satisfy $AF = BD$ and $DF = EF \\neq DE$. Prove that $\\angle CDE = 90^\\circ$.","solutions":[],"images":[]});

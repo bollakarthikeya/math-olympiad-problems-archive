@@ -1,0 +1,1 @@
+__p({"id":"00xh","competition":"Baltic Way 1992","problem":"Let $a=\\sqrt[1992]{1992}$. Which number is greater:\n\n$$\na^{a^{a^{a}}}\n$$\n\nor $1992$?","solutions":["The first of these numbers is less than\n\n$$\na^{a^{a^{\\cdots}}}^{1992} = a^{a^{a^{\\cdots}}}^{1991} = \\ldots = 1992.\n$$"],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04bo","competition":"Mathematica competitions in Croatia","problem":"A triangle with an area of $1.5 \\text{ cm}^2$ is inscribed in a circle of radius $1.25$ cm, with one side of the triangle as the diameter of the circle. What are the lengths of the sides of the triangle?","solutions":[],"images":[]});

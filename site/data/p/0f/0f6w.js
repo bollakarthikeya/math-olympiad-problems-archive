@@ -1,0 +1,1 @@
+__p({"id":"0f6w","competition":"20th ASU","problem":"Two points $A$ and $B$ are inside a convex 12-gon. Show that if the sum of the distances from $A$ to each vertex is $a$ and the sum of the distances from $B$ to each vertex is $b$, then $|a - b| < 10 |AB|$.","solutions":[],"images":[]});

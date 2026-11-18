@@ -1,0 +1,1 @@
+__p({"id":"0f3q","competition":"ASU","problem":"$ABCD$ is a convex quadrilateral. $M$ is the midpoint of $BC$ and $N$ is the midpoint of $CD$. If $k = AM + AN$ show that the area of $ABCD$ is less than $k^2 / 2$.","solutions":[],"images":[]});

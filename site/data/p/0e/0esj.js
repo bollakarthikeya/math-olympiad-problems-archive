@@ -1,0 +1,1 @@
+__p({"id":"0esj","competition":"South African Mathematics Olympiad Second Round","problem":"What is the value of $(2+4+6+...+198+200) - (1+3+5+...+197+199)$?","solutions":["Rearranging, the value is $(2-1) + (4-3) + (6-5) + \\dots + (200-199)$ which has $100$ brackets and therefore totals $100 \\times 1 = 100$."],"images":[]});

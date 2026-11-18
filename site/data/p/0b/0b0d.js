@@ -1,0 +1,1 @@
+__p({"id":"0b0d","competition":"Philippines Mathematical Olympiad","problem":"The constant term in the expansion of $\\left(a x^{2}-\\frac{1}{x}+\\frac{1}{x^{2}}\\right)^{8}$ is $210 a^{5}$. If $a>0$, find the value of $a$.","solutions":[],"images":[]});

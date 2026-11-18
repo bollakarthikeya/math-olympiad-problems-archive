@@ -1,0 +1,1 @@
+__p({"id":"056i","competition":"Estonian Mathematical Olympiad","problem":"Is it possible to find four distinct prime numbers for which the sum of any three of them is also a prime number?","solutions":["Suitable prime numbers are $5$, $7$, $17$, and $19$. The sums of the corresponding triplets are prime numbers $29$, $31$, $41$, and $43$."],"images":[]});

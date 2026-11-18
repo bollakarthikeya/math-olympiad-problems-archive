@@ -1,0 +1,1 @@
+__p({"id":"01lv","competition":"61st Belarusian Mathematical Olympiad","problem":"The lengths of the medians from the vertices of the acute angles of the right-angled triangle are equal to $19$ and $22$.\nFind the length of the hypotenuse of the triangle.","solutions":[],"images":[]});

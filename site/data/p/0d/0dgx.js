@@ -1,0 +1,1 @@
+__p({"id":"0dgx","competition":"Saudi Arabian IMO Booklet","problem":"Let $ABCD$ be a convex quadrilateral such that the line $CD$ is a tangent to the circle on $AB$ as diameter. Prove that the line $AB$ is a tangent to the circle on $CD$ as diameter if and only if the lines $BC$ and $AD$ are parallel.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0esh","competition":"South African Mathematics Olympiad First Round","problem":"Which one of the following is not a rational number?\n(A) $\\sqrt{4}$\n(B) $\\pi^0$\n(C) $\\sqrt{6.25}$\n(D) $\\sqrt{14}$\n(E) $\\sqrt{0.49}$","solutions":["D The others are, in order, $2$; $1$; $2.5$ and $0.7$"],"images":[]});

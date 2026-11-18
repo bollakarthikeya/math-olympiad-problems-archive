@@ -1,0 +1,1 @@
+__p({"id":"0aqe","competition":"12th Philippine Mathematical Olympiad - Area Stage","problem":"For what real numbers $r$ does the system of equations\n$$\n\\left\\{\\begin{aligned}\nx^{2} &= y^{2} \\\\\n(x - r)^{2} + y^{2} &= 1\n\\end{aligned}\\right.\n$$\nhave no solutions?","solutions":[],"images":[]});

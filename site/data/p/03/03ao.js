@@ -1,0 +1,1 @@
+__p({"id":"03ao","competition":"Selection test for 27. Balkan Mathematical Olympiad","problem":"Find all positive integers $n$ and all primes $p$ for which the following equality holds $n^3 - p^5 = p^6 + 3n - 2$.","solutions":[],"images":[]});

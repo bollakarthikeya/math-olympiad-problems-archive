@@ -1,0 +1,1 @@
+__p({"id":"0de1","competition":"Saudi Arabian Mathematical Competitions","problem":"Let $n$ be a positive integer. What is the smallest value of $m$ with $m > n$ such that the set $M = \\{n, n+1, ..., m\\}$ can be partitioned into subsets so that in each subset, there is a number which equals to the sum of all other numbers of this subset?","solutions":[],"images":[]});

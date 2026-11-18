@@ -1,0 +1,1 @@
+__p({"id":"0dpe","competition":"XV Silk Road Mathematics Competition","problem":"Let $a$, $b$ and $c$ be real numbers satisfying\n$$\n|(a - b)(b - c)(c - a)| = 1.\n$$\nFind minimum value of $|a| + |b| + |c|$.","solutions":[],"images":[]});

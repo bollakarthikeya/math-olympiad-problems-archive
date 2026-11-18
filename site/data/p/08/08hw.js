@@ -1,0 +1,1 @@
+__p({"id":"08hw","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Prove that for all positive numbers $x, y, z$ such that $x + y + z = 1$ the following inequality holds\n$$\n\\frac{x^{2}}{1 + y} + \\frac{y^{2}}{1 + z} + \\frac{z^{2}}{1 + x} \\leq 1\n$$","solutions":[],"images":[]});

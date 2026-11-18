@@ -1,0 +1,1 @@
+__p({"id":"0cig","competition":"75th NMO","problem":"Prove that if $x, y, z \\in \\mathbb{R}$, then the following inequality holds:\n$$\n\\sum_{\\text{cyc}} \\sqrt{1 + (x\\sqrt{1+y^2} + y\\sqrt{1+x^2})^2} \\geq xy + yz + zx + 2(x+y+z).\n$$","solutions":[],"images":[]});

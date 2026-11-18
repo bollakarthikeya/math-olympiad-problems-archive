@@ -1,0 +1,1 @@
+__p({"id":"0hq2","competition":"","problem":"Count the number of sequences $1 \\leq a_{1} \\leq a_{2} \\leq \\cdots \\leq a_{5}$ of integers with $a_{i} \\leq i$ for all $i$.","solutions":["$C$ (number of terms) $= C(5) = 42$."],"images":[]});

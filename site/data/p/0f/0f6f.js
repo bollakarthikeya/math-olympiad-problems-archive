@@ -1,0 +1,1 @@
+__p({"id":"0f6f","competition":"19th ASU","problem":"The points $A$, $B$, $C$, $D$, $E$, $F$ are equally spaced on the circumference of a circle (in that order) and $AF$ is a diameter. The center is $O$. $OC$ and $OD$ meet $BE$ at $M$ and $N$ respectively. Show that $MN + CD = OA$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0hsf","competition":"","problem":"A product of five primes is of the form $ABC,ABC$, where $A$, $B$, and $C$ represent digits. If one of the primes is $491$, find the product $ABC,ABC$.","solutions":["$491 \\cdot 1001 \\cdot 2 = 982,982$."],"images":[]});

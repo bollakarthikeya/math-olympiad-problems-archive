@@ -1,0 +1,1 @@
+__p({"id":"0lcp","competition":"MOCK TEST FOR VMO","problem":"Let $(a_n)$ be the sequence such that $a_1 = \\frac{3}{2}$ and\n$$\na_{n+1} = a_n - \\frac{3n+2}{2n(n+1)(2n+1)},\\ n \\ge 1.\n$$\nFind the limit $\\lim_{n \\to +\\infty} a_n$.","solutions":[],"images":[]});

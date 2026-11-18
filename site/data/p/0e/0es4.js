@@ -1,0 +1,1 @@
+__p({"id":"0es4","competition":"South African Mathematics Olympiad Second Round","problem":"$p$, $q$ and $r$ represent the numbers $2$, $3$, $4$ in some order. What is the greatest possible value of $p^q \\times r$?","solutions":["$3^4 \\times 2 = 81 \\times 2 = 162$"],"images":[]});

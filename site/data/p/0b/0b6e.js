@@ -1,0 +1,1 @@
+__p({"id":"0b6e","competition":"Shortlisted Problems for the Romanian NMO","problem":"Find all continuous functions $f : \\mathbb{R} \\to \\mathbb{R}$ with the property that for every $a \\in \\mathbb{R}$ there exists $b \\in \\mathbb{R}$ such that, for every $x \\in \\mathbb{R}$,\n$$\nf(f(x) + a) = f(x) + b.\n$$","solutions":[],"images":[]});

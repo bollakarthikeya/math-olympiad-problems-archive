@@ -1,0 +1,1 @@
+__p({"id":"0l8p","competition":"VIETNAMESE MATHEMATICAL COMPETITION FOR TEAM SELECTION","problem":"The positive real numbers $a$, $b$, $c$ satisfy the condition:\n$$\n21ab + 2bc + 8ca \\le 12.\n$$\nFind the least value of the expression:\n$$\nP(a, b, c) = \\frac{1}{a} + \\frac{2}{b} + \\frac{3}{c}.\n$$","solutions":[],"images":[]});

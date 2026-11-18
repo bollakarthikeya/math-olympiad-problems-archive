@@ -1,0 +1,1 @@
+__p({"id":"03b1","competition":"Selection test for 27. Balkan Mathematical Olympiad","problem":"Find all positive integers $x$ and $y$ such that $3^x 7^y + 1$ is an odd degree (greater than 1) of a positive integer.","solutions":[],"images":[]});

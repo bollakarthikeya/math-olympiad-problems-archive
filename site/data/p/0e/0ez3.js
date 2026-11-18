@@ -1,0 +1,1 @@
+__p({"id":"0ez3","competition":"3rd ASU","problem":"Given $n$ points in space such that the triangle formed from any three of the points has an angle greater than $120$ degrees. Prove that the points can be labeled $1, 2, 3, \\ldots, n$ so that the angle defined by $i$, $i+1$, $i+2$ is greater than $120$ degrees for $i = 1, 2, \\ldots, n-2$.","solutions":[],"images":[]});

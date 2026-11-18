@@ -1,0 +1,1 @@
+__p({"id":"04ah","competition":"CroatianCompetitions2011","problem":"A regular tetrahedron $ABXY$ is given inside the unit cube $ABCD'A'B'C'D'$ so that the point $X$ lies in the plane $ABCD$. Determine the distance between the points $Y$ and $A'$.","solutions":[],"images":[]});

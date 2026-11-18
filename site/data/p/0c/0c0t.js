@@ -1,0 +1,1 @@
+__p({"id":"0c0t","competition":"2018 Romanian Mathematical Olympiad","problem":"Find the pairs of integers $(a, b)$ such that $a^2 + 2b^2 + 2a + 1$ is a divisor of $2ab$.","solutions":[],"images":[]});

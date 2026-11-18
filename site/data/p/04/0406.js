@@ -1,0 +1,1 @@
+__p({"id":"0406","competition":"China Girls' Mathematical Olympiad","problem":"Find all the pairs $(a, b)$ of integers satisfying the following condition: there exists an integer $d \\ge 2$ such that $a^n + b^n + 1$ is divisible by $d$ for all positive integers $n$.","solutions":[],"images":[]});

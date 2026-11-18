@@ -1,0 +1,1 @@
+__p({"id":"0dpb","competition":"Silk Road Mathematics Competition","problem":"Let $N = 2010! + 1$. Prove that\n\na) $N$ is not divisible by $4021$;\n\nb) $N$ is not divisible by $2027$, $2029$, $2039$;\n\nc) $N$ has a prime divisor greater than $2050$.","solutions":[],"images":[]});

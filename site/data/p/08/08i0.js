@@ -1,0 +1,1 @@
+__p({"id":"08i0","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"In the triangle $ABC$ with semiperimeter $p$, the points $M$, $N$, and $P$ lie on the sides $BC$, $CA$, and $AB$ respectively. Show that\n$$\np < AM + BN + CP < 3p.\n$$","solutions":[],"images":[]});

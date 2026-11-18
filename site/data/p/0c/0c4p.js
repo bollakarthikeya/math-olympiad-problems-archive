@@ -1,0 +1,1 @@
+__p({"id":"0c4p","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"A triangle $ABC$ is such that $IE = GJ$, where $E$ and $G$ are the feet of the altitudes from $A$, respectively $B$, and $I$ and $J$ are the midpoints of the segments $[AH]$, respectively $[BC]$. Find the measure of $\\angle ABC$.\n\nPetru Braica","solutions":[],"images":[]});

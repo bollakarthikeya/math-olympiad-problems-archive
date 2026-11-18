@@ -1,0 +1,1 @@
+__p({"id":"03hk","competition":"Canadian Mathematical Olympiad","problem":"A sequence of numbers $a_{1}, a_{2}, a_{3}, \\ldots$ satisfies\n(i) $a_{1}=\\frac{1}{2}$,\n(ii) $a_{1}+a_{2}+\\cdots+a_{n}=n^{2} a_{n}$ \\quad $(n \\geq 1)$.\nDetermine the value of $a_{n}$ \\quad $(n \\geq 1)$.","solutions":[],"images":[]});

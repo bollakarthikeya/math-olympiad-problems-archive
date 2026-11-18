@@ -1,0 +1,1 @@
+__p({"id":"0f3x","competition":"15th ASU","problem":"The sequence $\\{a_n\\}$ of positive integers is such that\n\n(1) $a_n \\leq n^{3/2}$ for all $n$, and\n\n(2) $m - n$ divides $a_m - a_n$ (for all $m > n$).\n\nFind $a_n$.","solutions":[],"images":[]});

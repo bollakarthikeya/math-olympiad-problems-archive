@@ -1,0 +1,1 @@
+__p({"id":"09l7","competition":"Mongolian Mathematical Olympiad","problem":"Calculate the total number of acute-angled triangles that can be formed using the vertices of a regular $30$-gon.","solutions":[],"images":[]});

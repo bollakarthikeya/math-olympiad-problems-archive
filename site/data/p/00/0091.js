@@ -1,0 +1,1 @@
+__p({"id":"0091","competition":"XXI Olimpiada Matemática Rioplatense","problem":"For each positive integer $n$, let $s(n)$ be the sum of the digits of $n$. Find the smallest positive integer $k$ such that\n$$\ns(k) = s(2k) = s(3k) = \\dots = s(2011k) = s(2012k).\n$$","solutions":[],"images":[]});

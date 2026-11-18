@@ -1,0 +1,1 @@
+__p({"id":"0f6s","competition":"20th ASU","problem":"The quadratic $x^{2} + a x + b + 1$ has roots which are positive integers. Show that $(a^{2} + b^{2})$ is composite.","solutions":["Let the roots be $c$, $d$, so $c + d = -a$, $cd = b+1$. Hence $a^{2} + b^{2} = (c^{2} + 1)(d^{2} + 1)$."],"images":[]});

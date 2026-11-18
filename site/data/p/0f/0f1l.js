@@ -1,0 +1,1 @@
+__p({"id":"0f1l","competition":"ASU","problem":"There are finitely many polygons in the plane. Every two have a common point. Prove that there is a straight line intersecting all the polygons.","solutions":[],"images":[]});

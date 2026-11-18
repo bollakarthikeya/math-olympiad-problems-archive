@@ -1,0 +1,1 @@
+__p({"id":"040k","competition":"China Girls' Mathematical Olympiad","problem":"As shown in the figure below, the in-circle $I$ of $\\triangle ABC$ is tangent to sides $AB$ and $AC$ at points $D$ and $E$ respectively, and $O$ is the circum-center of $\\triangle BCI$. Prove that $\\angle ODB = \\angle OEC$.\n\n![](attached_image_1.png)","solutions":[],"images":["img/040k_1.png"]});

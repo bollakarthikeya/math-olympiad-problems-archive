@@ -1,0 +1,1 @@
+__p({"id":"04i2","competition":"Croatia Mathematical Competitions","problem":"Let $I$ be the incentre of the acute triangle $ABC$ and let $|AC| > |BC|$. The angle bisector and the altitude from vertex $C$ close an angle of $10^\\circ$. If $\\angle AIB = 120^\\circ$, determine the angles of the triangle $ABC$. (Ilko Brnetić)","solutions":[],"images":[]});

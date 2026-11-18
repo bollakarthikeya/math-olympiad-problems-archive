@@ -1,0 +1,1 @@
+__p({"id":"00xb","competition":"Baltic Way 1992","problem":"Denote by $d(n)$ the number of all positive divisors of a positive integer $n$ (including $1$ and $n$). Prove that there are infinitely many $n$ such that $\\frac{n}{d(n)}$ is an integer.","solutions":["Consider numbers of the form $p^{p^{n}-1}$ where $p$ is an arbitrary prime number and $n=1,2, \\ldots$"],"images":[]});

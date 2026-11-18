@@ -1,0 +1,1 @@
+__p({"id":"09dl","competition":"ММО-48","problem":"a sequence $a_0, a_1, \\dots$ is defined by $a_0 = 1$ and for $k \\ge 1$, $a_{2k} = (-1)^k a_k$; for $k \\ge 0$, $a_{2k+1} = -a_k$. Prove that for every $n \\ge 0$, $a_0 + a_1 + \\dots + a_n \\ge 0$.","solutions":[],"images":[]});

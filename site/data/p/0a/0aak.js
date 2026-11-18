@@ -1,0 +1,1 @@
+__p({"id":"0aak","competition":"Fourth Memorial Mathematical Contest","problem":"Determine all functions $f: \\mathbb{R}^+ \\to \\mathbb{R}^+$ such that for any $x, y > 0$ it holds that\n$$\nf(xy + f(x)) = y f(x) + x.\n$$","solutions":[],"images":[]});

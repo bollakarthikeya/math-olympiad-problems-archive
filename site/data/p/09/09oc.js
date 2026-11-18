@@ -1,0 +1,1 @@
+__p({"id":"09oc","competition":"MMO2025 Round 3","problem":"If $a, b, c$ are nonzero numbers such that $\\sqrt[3]{abc}(a+b+c) = ab+bc+ca$\nthen prove that these numbers, written in some order, form a geometric progression.\n(Otgonbayar Uuye)","solutions":[],"images":[]});

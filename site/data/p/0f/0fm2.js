@@ -1,0 +1,1 @@
+__p({"id":"0fm2","competition":"Spanija 2012","problem":"Points $A_1, A_2, \\dots, A_{2n}$ are vertices of a regular $2n$-polygon. Find the number of triples $A_i, A_j, A_k$ such that triangle $A_iA_jA_k$ is right-angled and the number of triples such that triangle $A_iA_jA_k$ is acute-angled.","solutions":[],"images":[]});

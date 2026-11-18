@@ -1,0 +1,1 @@
+__p({"id":"0esg","competition":"South African Mathematics Olympiad First Round","problem":"If $x - y > x$, then which of the sentences MUST be true?\n(A) $x > 0$ (B) $y < 0$ (C) $x > y$ (D) $y > 0$ (E) $x < 0$","solutions":["If $x - y > x$ then $-y > 0$, so $y < 0$"],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0c60","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Let $P$ be a point in the interior of the triangle $ABC$, such that $BP = AC$. Let $M$ and $R$ be the midpoints of line segments $AP$ and $BC$, respectively, and let $BP \\cap AC = \\{E\\}$. Prove that the angle bisector of $\\angle BEA$ is perpendicular to $MR$.","solutions":[],"images":[]});

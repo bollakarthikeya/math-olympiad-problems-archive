@@ -1,0 +1,1 @@
+__p({"id":"03gw","competition":"Canadian Mathematical Olympiad","problem":"A quadrilateral has one vertex on each side of a square of side-length $1$. Show that the lengths $a, b, c$ and $d$ of the sides of the quadrilateral satisfy the inequalities\n$$\n2 \\leq a^{2}+b^{2}+c^{2}+d^{2} \\leq 4\n$$","solutions":[],"images":[]});

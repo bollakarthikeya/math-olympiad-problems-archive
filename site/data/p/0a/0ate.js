@@ -1,0 +1,1 @@
+__p({"id":"0ate","competition":"Philippine Mathematical Olympiad","problem":"How many positive integers, not having the digit $1$, can be formed if the product of all its digits is to be $33750$?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0eod","competition":"South African Mathematics Olympiad","problem":"The value of $2 - (0 - (1 - 5))$ is\n(A) 3\n(B) 1\n(C) 0\n(D) -1\n(E) -2","solutions":["**E**\n\n$2 - (0 - (1 - 5)) = 2 - (0 - (-4)) = 2 - (0 + 4) = 2 - 4 = -2$"],"images":[]});

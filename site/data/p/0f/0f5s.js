@@ -1,0 +1,1 @@
+__p({"id":"0f5s","competition":"18th ASU","problem":"The center of a coin radius $r$ traces out a polygon with perimeter $p$ which has an incircle radius $R > r$. What is the area of the figure traced out by the coin?","solutions":[],"images":[]});

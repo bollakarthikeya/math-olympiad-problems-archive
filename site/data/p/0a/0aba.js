@@ -1,0 +1,1 @@
+__p({"id":"0aba","competition":"Macedonian Mathematical Competitions","problem":"Find $(x+y)^2$, if $\\frac{2}{x} - \\frac{2}{y} = 1$ and $y-x=1$.","solutions":["From $\\frac{2}{x} - \\frac{2}{y} = 2\\frac{y-x}{xy} = 2\\frac{1}{xy}$ we have that $xy=2$.\nTherefore,\n$$\n(x+y)^2 = x^2 + 2xy + y^2 = x^2 - 2xy + y^2 + 4xy = (x-y)^2 + 4xy = 1^2 + 4 \\cdot 2 = 9\n$$"],"images":[]});

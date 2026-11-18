@@ -1,0 +1,1 @@
+__p({"id":"038k","competition":"First selection test for IMO 2007, Vietnam","problem":"The sequence $\\{a_i\\}_{i=1}^\\infty$ is such that $a_1 > 0$ and $a_{n+1} = \\frac{a_n}{1+a_n^2}$ for $n \\ge 1$. Prove that:\n\na) $a_n \\le \\frac{1}{\\sqrt{2n}}$ for $n \\ge 2$;\n\nb) there exists $n$ such that $a_n > \\frac{7}{10\\sqrt{n}}$.","solutions":[],"images":[]});

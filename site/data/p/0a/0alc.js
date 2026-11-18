@@ -1,0 +1,1 @@
+__p({"id":"0alc","competition":"QUALIFYING STAGE","problem":"Find the value of $\\log_{2}\\left[2^{3} 4^{4} 8^{5} \\cdots\\left(2^{20}\\right)^{22}\\right]$.\n\n(a) 3290\n(b) 3500\n(c) 3710\n(d) 4172","solutions":[],"images":[]});

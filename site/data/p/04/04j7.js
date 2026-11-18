@@ -1,0 +1,1 @@
+__p({"id":"04j7","competition":"Croatia Mathematical Competitions","problem":"Determine the least positive integer $n$ such that in every set consisting of $n$ integers there are three pairwise distinct elements $a$, $b$ and $c$ such that $ab + bc + ca$ is divisible by $3$. (Ilko Brnetić)","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0cy6","competition":"SAMC","problem":"Find all pairs $(x, y)$ of real numbers that satisfy the system of equations\n$$\n\\begin{cases}\nx^{4} + 2x^{3} - y = \\sqrt{3} - \\dfrac{1}{4} \\\\\ny^{4} + 2y^{3} - x = -\\sqrt{3} - \\dfrac{1}{4}\n\\end{cases}\n$$","solutions":[],"images":[]});

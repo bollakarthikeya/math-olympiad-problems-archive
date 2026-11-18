@@ -1,0 +1,1 @@
+__p({"id":"0c2k","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"For any integer $k \\in \\mathbb{Z}$, we define the polynomial $F_k = X^4 + 2(1 - k)X^2 + (1 + k)^2$. Find all integers $k \\in \\mathbb{Z}$, such that $F_k$ is irreducible over $\\mathbb{Z}$ but is reducible over $\\mathbb{Z}_p$, for any prime $p$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09nq","competition":"MMO2025 Round 3","problem":"A positive integer $A$ is called *good* if the exponent of each prime divisor of $A$ is at least two. Find the largest positive integer which cannot be expressed as a sum of different good integers (the number of summands can be one).","solutions":[],"images":[]});

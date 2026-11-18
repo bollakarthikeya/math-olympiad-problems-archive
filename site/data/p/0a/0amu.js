@@ -1,0 +1,1 @@
+__p({"id":"0amu","competition":"18th PMO Area Stage","problem":"A camera's aperture determines the size of the circular opening in the lens that allows light in. If we want to allow twice as much light in, what should be the ratio of the new radius to the current radius?","solutions":[],"images":[]});

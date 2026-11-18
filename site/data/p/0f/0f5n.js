@@ -1,0 +1,1 @@
+__p({"id":"0f5n","competition":"18th ASU","problem":"Show that we can find $n$ integers whose sum is $0$ and whose product is $n$ if and only if $n$ is divisible by $4$.","solutions":[],"images":[]});

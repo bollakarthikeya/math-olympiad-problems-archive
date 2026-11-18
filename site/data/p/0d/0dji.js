@@ -1,0 +1,1 @@
+__p({"id":"0dji","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Every positive integer greater than $1000$ is colored in red or blue in such a way that the product of any two distinct red numbers is blue. Can it happen that no two blue numbers have difference $1$?","solutions":[],"images":[]});

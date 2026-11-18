@@ -1,0 +1,1 @@
+__p({"id":"0b35","competition":"23rd Philippine Mathematical Olympiad Qualifying Stage","problem":"In rolling three fair twelve-sided dice simultaneously, what is the probability that the resulting numbers can be arranged to form a geometric sequence?\n(a) $\\frac{1}{72}$\n(b) $\\frac{5}{288}$\n(c) $\\frac{1}{48}$\n(d) $\\frac{7}{288}$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f3v","competition":"ASU","problem":"Find all real solutions to:\n$$\\sin x + 2\\sin (x + y + z) = 0$$\n$$\\sin y + 3\\sin (x + y + z) = 0$$\n$$\\sin z + 4\\sin (x + y + z) = 0$$","solutions":[],"images":[]});

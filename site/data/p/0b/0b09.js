@@ -1,0 +1,1 @@
+__p({"id":"0b09","competition":"Philippines Mathematical Olympiad","problem":"For a positive integer $x$, let $f(x)$ be the last two digits of $x$. Find\n$$\n\\sum_{n=1}^{2019} f\\left(7^{7^{n}}\\right).\n$$","solutions":[],"images":[]});

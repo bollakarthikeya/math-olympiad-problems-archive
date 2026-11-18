@@ -1,0 +1,1 @@
+__p({"id":"04vz","competition":"First Round (take-home)","problem":"Find the largest set of positive integers whose sum is $2024$, and such that each number except the smallest one is a multiple of the sum of all the smaller numbers. (Patrik Bak)","solutions":[],"images":[]});

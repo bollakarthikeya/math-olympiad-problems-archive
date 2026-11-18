@@ -1,0 +1,1 @@
+__p({"id":"0dfh","competition":"Saudi Arabian IMO Booklet","problem":"Prove that for any positive integer $n$ at least one coefficient of the polynomial\n$$\n(x^4 + x^3 - 3x^2 + x + 2)^n\n$$\nis negative.","solutions":[],"images":[]});

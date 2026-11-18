@@ -1,0 +1,1 @@
+__p({"id":"0aqx","competition":"13th Philippine Mathematical Olympiad","problem":"The line from the origin to the point $\\left(1, \\tan 75^\\circ\\right)$ intersects the unit circle at $P$. Find the slope of the tangent line to the circle at $P$.","solutions":[],"images":[]});

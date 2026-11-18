@@ -1,0 +1,1 @@
+__p({"id":"0jen","competition":"HMMT November 2013","problem":"Two fair six-sided dice are rolled. What is the probability that their sum is at least $10$?","solutions":["There are $3$, $2$, $1$ outcomes with sum $10$, $11$, $12$, so the probability is\n$$\n\\frac{3+2+1}{6^2} = \\frac{6}{36} = \\frac{1}{6}.\n$$"],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0c50","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"Let $n \\in \\mathbb{N}^*$ and $E(z) = |z+1| + |z^{2n} + 1|$, $z \\in \\mathbb{C}$. Find\n$$ \\min\\{E(z) \\mid z \\in \\mathbb{C}\\}. $$","solutions":[],"images":[]});

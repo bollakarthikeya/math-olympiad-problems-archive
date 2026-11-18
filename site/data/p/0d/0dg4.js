@@ -1,0 +1,1 @@
+__p({"id":"0dg4","competition":"Saudi Arabian IMO Booklet","problem":"One cuts a grid of size $8 \\times 8$ by a straight line. Find the maximal possible number of cells that are cut by the line.","solutions":[],"images":[]});

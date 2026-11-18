@@ -1,0 +1,1 @@
+__p({"id":"0aan","competition":"Fourth Memorial Mathematical Contest","problem":"In a school with $1000$ students, each one is friendly with exactly $4$ others. A group of three students $\\{A, B, C\\}$ is said to be a *friendly triplet* if any two students in the group are friends. Determine the maximal possible number of friendly triplets.","solutions":[],"images":[]});

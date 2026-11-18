@@ -1,0 +1,1 @@
+__p({"id":"0dgf","competition":"Saudi Arabian IMO Booklet","problem":"Let $a$, $b$, $c$, $d$ be real numbers such that $a^4 + b^4 + c^4 + d^4 = 16$. Prove the inequality $a^5 + b^5 + c^5 + d^5 \\le 32$.","solutions":[],"images":[]});

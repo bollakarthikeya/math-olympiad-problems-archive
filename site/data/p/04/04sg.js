@@ -1,0 +1,1 @@
+__p({"id":"04sg","competition":"Czech and Slovak Mathematical Olympiad","problem":"Find all the pairs of prime numbers $p$, $q$ such that the value of the expression $p^2 + 5pq + 4q^2$ is a perfect square.","solutions":[],"images":[]});

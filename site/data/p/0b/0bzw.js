@@ -1,0 +1,1 @@
+__p({"id":"0bzw","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Show that there are infinitely many natural numbers $a$ and $b$ so that:\n$$\na \\cdot \\gcd(a, b) = b + \\text{lcm}(a, b),\n$$\nwhere $\\gcd(a, b)$ is the greatest common divisor and $\\text{lcm}(a, b)$ is the lowest common multiple of $a$ and $b$.","solutions":[],"images":[]});

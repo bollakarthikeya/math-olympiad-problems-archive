@@ -1,0 +1,1 @@
+__p({"id":"0f6g","competition":"19th ASU","problem":"A move replaces the real numbers $a$, $b$, $c$, $d$ by $a - b$, $b - c$, $c - d$, $d - a$. If $a$, $b$, $c$, $d$ are not all equal, show that at least one of the numbers can exceed $1985$ after a finite number of moves.","solutions":[],"images":[]});

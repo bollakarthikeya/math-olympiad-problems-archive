@@ -1,0 +1,1 @@
+__p({"id":"09nw","competition":"MMO2025 Round 2","problem":"Determine the number of ways to color cells of a $4 \\times 5$ grid such that every $2 \\times 2$ subgrid contains exactly one colored cell.","solutions":[],"images":[]});

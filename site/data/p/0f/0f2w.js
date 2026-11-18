@@ -1,0 +1,1 @@
+__p({"id":"0f2w","competition":"ASU","problem":"Let $p(x) = x^2 + x + 1$. Show that for every positive integer $n$, the numbers $n$, $p(n)$, $p(p(n))$, $p(p(p(n)))$, ... are relatively prime.","solutions":[],"images":[]});

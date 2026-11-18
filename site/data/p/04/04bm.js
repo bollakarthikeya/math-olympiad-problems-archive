@@ -1,0 +1,1 @@
+__p({"id":"04bm","competition":"Mathematica competitions in Croatia","problem":"Prove that for every integer $k \\ge 2$ there exist $k$ positive integers whose sum is equal to their product.","solutions":[],"images":[]});

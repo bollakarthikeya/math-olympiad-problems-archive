@@ -1,0 +1,1 @@
+__p({"id":"03dr","competition":"Bulgaria 2022","problem":"Find all values of the real parameter $a$ for which the solution of the system of simultaneous equations\n$$\n\\begin{cases} |x-2| + |x-1| + |x+3| \\le 6 \\\\ x^2 - a x + 2a \\le 0 \\end{cases}\n$$\nis a closed interval of length 1.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04um","competition":"First Round","problem":"Find all triples $(x, y, z)$ of real numbers such that\n$$\n\\begin{aligned}\nyz + 2 &= x^2, \\\\\nzx + 3 &= y^2.\n\\end{aligned}\n$$","solutions":[],"images":[]});

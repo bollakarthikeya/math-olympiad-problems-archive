@@ -1,0 +1,1 @@
+__p({"id":"03gc","competition":"Canadian Mathematical Olympiad","problem":"Find the sum of $1 \\cdot 1! + 2 \\cdot 2! + 3 \\cdot 3! + \\cdots + (n-1)(n-1)! + n \\cdot n!$, where $n! = n(n-1)(n-2) \\cdots 2 \\cdot 1$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09mc","competition":"Mongolian Mathematical Olympiad","problem":"Find all non-negative integer solutions $(k, m, n)$ of the equation\n$$\n211 \\cdot 9^k + 125^m = 2024^n.\n$$","solutions":[],"images":[]});

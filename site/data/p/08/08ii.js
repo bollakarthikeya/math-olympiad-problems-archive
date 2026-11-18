@@ -1,0 +1,1 @@
+__p({"id":"08ii","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Find all real solutions of the equation $x^{4} + 7x^{3} + 6x^{2} + 5\\sqrt{2003}x - 2003 = 0$.","solutions":[],"images":[]});

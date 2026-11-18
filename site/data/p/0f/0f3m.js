@@ -1,0 +1,1 @@
+__p({"id":"0f3m","competition":"ASU","problem":"$ABCD$ is a tetrahedron. Angles $ACB$ and $ADB$ are $90^\\circ$. Let $k$ be the angle between the lines $AC$ and $BD$. Show that $\\cos k < \\dfrac{CD}{AB}$.","solutions":[],"images":[]});

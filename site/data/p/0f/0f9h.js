@@ -1,0 +1,1 @@
+__p({"id":"0f9h","competition":"24th ASU","problem":"Two unequal circles intersect at $X$ and $Y$. Their common tangents intersect at $Z$. One of the tangents touches the circles at $P$ and $Q$. Show that $ZX$ is tangent to the circumcircle of $PXQ$.","solutions":[],"images":[]});

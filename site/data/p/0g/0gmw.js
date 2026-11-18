@@ -1,0 +1,1 @@
+__p({"id":"0gmw","competition":"Team Selection Examination for the International Mathematical Olympiad","problem":"Find the largest area of a heptagon two of whose diagonals are perpendicular and whose vertices lie on a unit circle.","solutions":[],"images":[]});

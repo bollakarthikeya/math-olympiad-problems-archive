@@ -1,0 +1,1 @@
+__p({"id":"0bqv","competition":"67th NMO Shortlisted Problems","problem":"Find all positive reals $x, y, z$ so that\n$$\n\\begin{cases}\nxyz = 6 \\\\\n(x+1)(y+2)(z+3) = 48.\n\\end{cases}\n$$","solutions":[],"images":[]});

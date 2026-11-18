@@ -1,0 +1,1 @@
+__p({"id":"0klx","competition":"2021 AMC 10 B Fall","problem":"The least positive integer with exactly $2021$ distinct positive divisors can be written in the form $m \\cdot 6^k$, where $m$ and $k$ are integers and $6$ is not a divisor of $m$. What is $m + k$?\n(A) $47$ (B) $58$ (C) $59$ (D) $88$ (E) $90$","solutions":[],"images":[]});

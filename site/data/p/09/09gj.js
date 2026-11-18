@@ -1,0 +1,1 @@
+__p({"id":"09gj","competition":"Mongolian Mathematical Olympiad","problem":"Let $a$, $b$ and $c$ be positive real numbers such that $a + b + c = 3$. Prove that\n$$\n\\frac{a + b}{2ab + 1} + \\frac{b + c}{2bc + 1} + \\frac{c + a}{2ca + 1} \\ge 2.\n$$","solutions":[],"images":[]});

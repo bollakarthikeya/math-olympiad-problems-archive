@@ -1,0 +1,1 @@
+__p({"id":"09no","competition":"MMO2025 Round 2","problem":"(1) Find all pairs of natural numbers $(a, b)$ such that $a^3 = b^3 + 61$.\n\n(2) Find all pairs of natural numbers $(a, b)$ such that $a^5 = b^5 + 61$.","solutions":[],"images":[]});

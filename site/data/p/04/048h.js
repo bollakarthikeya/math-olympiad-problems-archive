@@ -1,0 +1,1 @@
+__p({"id":"048h","competition":"CroatianCompetitions2011","problem":"Today it's Marko's birthday. His father and grandfather have this conversation:\n– Now Marko's, your and my age are all prime numbers!\n– Yes, and five years from now all the three ages will be perfect squares.\nHow old was his grandfather when Marko was born?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f6z","competition":"20th ASU","problem":"$A_1A_2\\ldots A_n$ is a regular $n$-gon and $P$ is an arbitrary point in the plane. Show that if $n$ is even we can choose signs so that the vector sum $\\pm PA_1 \\pm PA_2 \\pm \\ldots \\pm PA_n = 0$, but if $n$ is odd, then this is only possible for finitely many points $P$.","solutions":[],"images":[]});

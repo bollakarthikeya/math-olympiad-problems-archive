@@ -1,0 +1,1 @@
+__p({"id":"0cfb","competition":"74th NMO Shortlisted Problems","problem":"Determine the real numbers $a$, $b$, $c$ and $d$ for which the inequality\n$$\n|x+a| + |y+b| + |z+c| + |x+y+z+d| \\geq |x| + |y| + |z| + |x+y+z|\n$$\nholds for any real numbers $x$, $y$ and $z$.","solutions":[],"images":[]});

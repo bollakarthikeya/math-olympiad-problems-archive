@@ -1,0 +1,1 @@
+__p({"id":"0lad","competition":"Vijetnam 2008","problem":"Let $x$, $y$, $z$ be pairwise distinct non-negative real numbers. Prove that\n$$\n(xy + yz + zx) \\left( \\frac{1}{(x-y)^2} + \\frac{1}{(y-z)^2} + \\frac{1}{(z-x)^2} \\right) \\ge 4.\n$$\nWhen does equality hold?","solutions":[],"images":[]});

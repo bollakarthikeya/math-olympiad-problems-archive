@@ -1,0 +1,1 @@
+__p({"id":"0eqh","competition":"South African Mathematics Olympiad","problem":"The value of $1 + \\frac{1}{3 + \\frac{1}{2}}$ is\n(A) $\\frac{6}{5}$ (B) $\\frac{7}{6}$ (C) $\\frac{9}{2}$ (D) $\\frac{6}{7}$ (E) $\\frac{9}{7}$","solutions":[],"images":[]});

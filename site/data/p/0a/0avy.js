@@ -1,0 +1,1 @@
+__p({"id":"0avy","competition":"19th Philippine Mathematical Olympiad","problem":"In parallelogram $ABCD$, $AB = 1$, $BC = 4$, and $\\angle ABC = 60^\\circ$. Suppose that $AC$ is extended from $A$ to a point $E$ beyond $C$ so that triangle $ADE$ has the same area as the parallelogram. Find the length of $DE$.","solutions":[],"images":[]});

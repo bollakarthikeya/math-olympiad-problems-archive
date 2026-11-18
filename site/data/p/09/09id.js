@@ -1,0 +1,1 @@
+__p({"id":"09id","competition":"Mongolian Mathematical Olympiad Round 2","problem":"70 pairwise distinct positive integers are written on the blackboard, each not exceeding 100. Show that it is possible to choose pairwise distinct integers $a, b, c, d, e$ from the blackboard satisfying $a + b + c = d + e$.","solutions":[],"images":[]});

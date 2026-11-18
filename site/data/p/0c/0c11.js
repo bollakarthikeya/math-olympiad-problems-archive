@@ -1,0 +1,1 @@
+__p({"id":"0c11","competition":"69th Romanian Mathematical Olympiad","problem":"The sum of 15 consecutive positive integers is a number written with distinct digits, among these being 0, 1, 2 and 4. Find the least possible number among the 15 consecutive numbers.","solutions":[],"images":[]});

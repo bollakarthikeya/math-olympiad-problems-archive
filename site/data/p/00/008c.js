@@ -1,0 +1,1 @@
+__p({"id":"008c","competition":"XXIX Olimpíada Matemática Argentina National Round","problem":"Determine if there are triples $(x, y, z)$ of real numbers such that:\n$$\nx + y + z = 7 \\text{ and } xy + yz + zx = 11.\n$$\nIf the answer is yes, find the minimum and maximum value of $z$ in such triples.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0398","competition":"Second selection test for IMO 2007, Vietnam","problem":"Find all positive integers $m$ such that\n$$\n\\frac{2^m \\alpha^m - (\\alpha + \\beta)^m - (\\alpha - \\beta)^m}{3\\alpha^2 + \\beta^2}\n$$\nis an integer for all integer values of $\\alpha, \\beta$ with $\\alpha\\beta \\neq 0$.","solutions":[],"images":[]});

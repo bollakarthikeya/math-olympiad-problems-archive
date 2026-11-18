@@ -1,0 +1,1 @@
+__p({"id":"01w1","competition":"69th Belarusian Mathematical Olympiad","problem":"The parabolas $y = x^2 - 2$ and $x = y^2 - 2$ intersect at the points $A$, $B$, $C$ and $D$, wherein $D$ lies in the third quadrant of the Cartesian plane.\nFind the coordinates of the circumcenter of the triangle $ABC$.","solutions":["Answer: $(\\frac{1}{2}; \\frac{1}{2})$."],"images":[]});

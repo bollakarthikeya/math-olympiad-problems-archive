@@ -1,0 +1,1 @@
+__p({"id":"0bwj","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Let $ABC$ be a triangle, with $m(\\angle BAC) = 90^\\circ$ and $AB = 2AC$. On the ray $CA$ we consider the point $D$ such that $CD = 3CA$. Let $E \\in BC$ such that $DE = DB$. Show that $AE \\perp BC$.\n\nAdrian Bud","solutions":[],"images":[]});

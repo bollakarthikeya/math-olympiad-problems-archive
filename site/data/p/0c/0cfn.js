@@ -1,0 +1,1 @@
+__p({"id":"0cfn","competition":"74th NMO Shortlisted Problems","problem":"Determine the functions $f : \\mathbb{Q} \\to \\mathbb{Q}$ and $g : \\mathbb{Q} \\to \\mathbb{Q}$ for which\n$$\ng(f(x+y)) = f(x) + y g(y) - a x, \\forall x, y \\in \\mathbb{Q},\n$$\nwhere $a \\in \\mathbb{Q}^*$ is given.","solutions":[],"images":[]});

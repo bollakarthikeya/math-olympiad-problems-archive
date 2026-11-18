@@ -1,0 +1,1 @@
+__p({"id":"0djb","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Let $ABC$ be an acute, non-isosceles triangle. A circle $(O)$ passes through $B$, $C$ and meets $AB$, $AC$ at $D$, $E$. Lines $BE$, $CD$ meet at $I$. Denote $M$, $N$ as midpoints of $BE$, $CD$ and $MN$ meets $AB$, $AC$ at $P$, $Q$. Prove that $(OI)$ is tangent to $(APQ)$.","solutions":[],"images":[]});

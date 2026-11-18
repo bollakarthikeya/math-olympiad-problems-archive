@@ -1,0 +1,1 @@
+__p({"id":"0b9y","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"Let $x, y$ be real numbers such that $x+y$, $x^3+y^3$, $x^5+y^5$ and $y^5$ are rational. Prove that $x$ and $y$ are rational.","solutions":[],"images":[]});

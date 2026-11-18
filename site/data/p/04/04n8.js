@@ -1,0 +1,1 @@
+__p({"id":"04n8","competition":"Croatia_2018","problem":"Determine all pairs $(x, y)$ of real numbers such that $x, y \\in [0, \\frac{\\pi}{2}]$ for which the following holds:\n$$\n\\frac{2 \\sin^2 x + 2}{\\sin x + 1} = 3 + \\cos (x + y). \\quad (\\text{Petar Bakić})\n$$","solutions":[],"images":[]});

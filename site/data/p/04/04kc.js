@@ -1,0 +1,1 @@
+__p({"id":"04kc","competition":"Mathematical competitions in Croatia","problem":"Points $M$ and $N$ lie on the sides $\\overline{BC}$ and $\\overline{CD}$ (respectively) of the square $ABCD$ so that $\\angle BMA = \\angle NMC = 60^\\circ$. Determine $\\angle MAN$. (Ukraine 2013)","solutions":[],"images":[]});

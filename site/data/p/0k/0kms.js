@@ -1,0 +1,1 @@
+__p({"id":"0kms","competition":"AMC 12 A","problem":"Let $M$ be the least common multiple of all the integers $10$ through $30$, inclusive. Let $N$ be the least common multiple of $32$, $33$, $34$, $35$, $36$, $37$, $38$, $39$, and $40$. What is the value of $\\frac{N}{M}$?\n\n(A) 1 (B) 2 (C) 37 (D) 74 (E) 2886","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0cic","competition":"75th NMO","problem":"Three lines in space are pairwise skew and are located at distance $1$ from each other. Prove that there exists a line situated at distance $1$ from each of the three lines.","solutions":[],"images":[]});

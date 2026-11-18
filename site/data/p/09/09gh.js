@@ -1,0 +1,1 @@
+__p({"id":"09gh","competition":"Mongolian Mathematical Olympiad","problem":"Find all positive integer numbers $a, b, c$ such that $a+b = (a,b)^2$, $b+c = (b,c)^2$, $c+a = (c,a)^2$. Here denoted by $(a,b)$ the greatest common divisor of $a, b$.","solutions":[],"images":[]});

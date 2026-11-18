@@ -1,0 +1,1 @@
+__p({"id":"09h3","competition":"Mongolian Mathematical Olympiad","problem":"Let $a_1, a_2, \\dots, a_{2n+1}$ be given integers with sum zero. If any partial sum of these numbers is non zero and $1 \\le |a_i| \\le n+1$ for each $i$, then find these integers.","solutions":[],"images":[]});

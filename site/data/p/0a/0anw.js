@@ -1,0 +1,1 @@
+__p({"id":"0anw","competition":"Qualifying Round","problem":"Determine the slopes of the lines passing through $P(3,0)$ that intersect the parabola with equation $y=8-x^{2}$ at exactly one point.\n(a) $-4,-8$\n(b) $-3,-2$\n(c) $-5,-7$\n(d) $-4,-7$","solutions":[],"images":[]});

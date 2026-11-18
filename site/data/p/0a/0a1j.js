@@ -1,0 +1,1 @@
+__p({"id":"0a1j","competition":"Dutch Mathematical Olympiad","problem":"How many pairs of positive integers $a$ and $b$ with $a < b$ are there such that\n$$\n\\frac{1}{a} + \\frac{1}{b} = \\frac{4}{15} ?\n$$\nA) 1  B) 2  C) 3  D) 4  E) 5","solutions":["C) 3"],"images":[]});

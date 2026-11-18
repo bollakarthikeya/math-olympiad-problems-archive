@@ -1,0 +1,1 @@
+__p({"id":"0df0","competition":"Saudi Arabian IMO Booklet","problem":"Let $O$ be the circumcenter of triangle $ABC$. Points $X$ and $Y$ on side $BC$ are such that $AX = BX$ and $AY = CY$. Prove that the circumcircle of triangle $AXY$ passes through the circumcenters of triangles $AOB$ and $AOC$.","solutions":[],"images":[]});

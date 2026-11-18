@@ -1,0 +1,1 @@
+__p({"id":"09m1","competition":"Mongolian Mathematical Olympiad","problem":"Let $a$, $b$, $c$ be real numbers such that the system of equations\n$$\n\\begin{cases}\nax + by = 1 \\\\\nx + cy = a \\\\\ncx + y = b\n\\end{cases}\n$$\nhas a real solution $(x, y)$.\n\nProve that $a^2 + b^2 + c^2 = 2abc + 1$.","solutions":[],"images":[]});

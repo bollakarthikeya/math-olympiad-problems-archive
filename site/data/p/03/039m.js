@@ -1,0 +1,1 @@
+__p({"id":"039m","competition":"Winter Mathematical Competition","problem":"Find all values of the real parameter $p$ such that the equation $x^2 + (p^2 + 1)x + p = 2$ has two real distinct roots $x_1$ and $x_2$ such that\n$$\n\\frac{2x_1 - 1}{x_2} + \\frac{2x_2 - 1}{x_1} = x_1x_2 + \\frac{55}{x_1x_2}.\n$$","solutions":[],"images":[]});

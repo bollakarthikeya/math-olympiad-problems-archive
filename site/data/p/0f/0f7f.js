@@ -1,0 +1,1 @@
+__p({"id":"0f7f","competition":"21st ASU","problem":"$ABCDE$ is a convex pentagon with $\\angle ABC = \\angle ADE$ and $\\angle AEC = \\angle ADB$. Show that $\\angle BAC = \\angle DAE$.","solutions":[],"images":[]});

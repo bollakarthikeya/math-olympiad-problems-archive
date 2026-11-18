@@ -1,0 +1,1 @@
+__p({"id":"0ax1","competition":"Philippine Mathematical Olympiad Area Stage","problem":"Let $\\lfloor x\\rfloor$ denote the greatest integer less than or equal to $x$. If $a_{n}\\lfloor a_{n}\\rfloor=49^{n}+2 n+1$, find the value of $2 S+1$, where $S=\\left\\lfloor\\sum_{n=1}^{2017} \\frac{a_{n}}{2}\\right\\rfloor$.","solutions":[],"images":[]});

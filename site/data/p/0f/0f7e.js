@@ -1,0 +1,1 @@
+__p({"id":"0f7e","competition":"21st ASU","problem":"Ten players play in a tournament. Each pair plays one match, which results in a win or loss. If the $i$th player wins $a_i$ matches and loses $b_i$ matches, show that $$\\sum a_i^2 = \\sum b_i^2.$$","solutions":[],"images":[]});

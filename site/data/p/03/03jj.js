@@ -1,0 +1,1 @@
+__p({"id":"03jj","competition":"Canadian Mathematical Olympiad","problem":"For what values of $b$ do the equations: $1988 x^{2} + b x + 8891 = 0$ and $8891 x^{2} + b x + 1988 = 0$ have a common root?","solutions":[],"images":[]});

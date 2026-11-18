@@ -1,0 +1,1 @@
+__p({"id":"00w5","competition":"Baltic Way","problem":"Let $m$ and $n$ be positive integers. Prove that $25 m+3 n$ is divisible by $83$ if and only if $3 m+7 n$ is divisible by $83$.","solutions":["Use the equality $2 \\cdot (25 m + 3 n) + 11 \\cdot (3 m + 7 n) = 83 m + 83 n$."],"images":[]});

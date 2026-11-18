@@ -1,0 +1,1 @@
+__p({"id":"0diw","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Consider function $f : \\mathbb{R} \\to \\mathbb{R}$ such that $x^2 f(x - y^2) \\geq (x + 2y + 1) f(x)$ for all $x, y \\in \\mathbb{R}$. Calculate $f(2022)$.","solutions":[],"images":[]});

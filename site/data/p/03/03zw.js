@@ -1,0 +1,1 @@
+__p({"id":"03zw","competition":"China Western Invitational Mathematical Competition","problem":"Find the least positive integer $m$, such that for every prime number $p>3$, we have $105 < 9^p - 29^p + m$.","solutions":[],"images":[]});

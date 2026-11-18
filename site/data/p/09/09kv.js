@@ -1,0 +1,1 @@
+__p({"id":"09kv","competition":"Mongolian Mathematical Olympiad","problem":"Let $a$ and $b$ be positive reals satisfying\n$$\n\\begin{cases} a^2 = 2 + b \\\\ b^3 = 3 - a \\end{cases}.\n$$\nFind all positive integer $n$ such that the equation $x^n + a x + b = 0$ has no real solutions.","solutions":[],"images":[]});

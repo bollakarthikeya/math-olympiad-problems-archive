@@ -1,0 +1,1 @@
+__p({"id":"0bbw","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"Find all positive integers $n$ for which there exists a set $S \\subset \\mathbb{C}$ with $n$ elements, such that\n\ni) each element of $S$ has modulus $1$,\nii) $\\sum_{z \\in S} z = 0$, and\niii) $z + w \\neq 0$, for each $z, w \\in S$.","solutions":[],"images":[]});

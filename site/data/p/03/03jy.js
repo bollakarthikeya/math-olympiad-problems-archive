@@ -1,0 +1,1 @@
+__p({"id":"03jy","competition":"Canadian Mathematical Olympiad","problem":"Let $C$ be a circle and $P$ a given point in the plane. Each line through $P$ which intersects $C$ determines a chord of $C$. Show that the midpoints of these chords lie on a circle.","solutions":[],"images":[]});

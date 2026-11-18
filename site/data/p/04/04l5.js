@@ -1,0 +1,1 @@
+__p({"id":"04l5","competition":"Mathematical competitions in Croatia","problem":"A number written only with digits $2$ and $3$ is called *happy*. Therefore, the happy numbers are $2$, $3$, $22$, $23$, $32$, $33$, $222$, $223$, $232$, $233$, $322$, $323$, $332$, $333$, ... Determine the $2050$th happy number.","solutions":[],"images":[]});

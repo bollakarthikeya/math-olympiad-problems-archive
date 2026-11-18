@@ -1,0 +1,1 @@
+__p({"id":"0ius","competition":"12th Annual Harvard-MIT Mathematics Tournament","problem":"If $n$ is a positive integer such that $n^{3} + 2 n^{2} + 9 n + 8$ is the cube of an integer, find $n$.","solutions":["Since $n^{3} < n^{3} + 2 n^{2} + 9 n + 8 < (n+2)^{3}$, we must have $n^{3} + 2 n^{2} + 9 n + 8 = (n+1)^{3}$. Thus $n^{2} = 6 n + 7$, so $n = 7$."],"images":[]});

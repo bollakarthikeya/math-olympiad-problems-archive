@@ -1,0 +1,1 @@
+__p({"id":"0kn7","competition":"AMC 12 B","problem":"Triangle $ABC$ is equilateral with side length $6$. Suppose that $O$ is the center of the inscribed circle of this triangle. What is the area of the circle passing through $A$, $O$, and $C$?\n\n(A) $9\\pi$\n(B) $12\\pi$\n(C) $18\\pi$\n(D) $24\\pi$\n(E) $27\\pi$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f7o","competition":"21st ASU","problem":"The set $S_0 = \\{1, 2!, 4!, 8!, 16!, \\ldots\\}$. The set $S_{n+1}$ consists of all finite sums of distinct elements of $S_n$. Show that there is a positive integer not in $S_{1987}$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0c5t","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Let $a$, $b$, $c$ be positive real numbers. Prove that\n$$\n\\frac{1}{abc} + 1 \\geq 3 \\left( \\frac{1}{a^2 + b^2 + c^2} + \\frac{1}{a + b + c} \\right).\n$$","solutions":[],"images":[]});

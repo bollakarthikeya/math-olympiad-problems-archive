@@ -1,0 +1,1 @@
+__p({"id":"09pe","competition":"MMO2025 Round 2","problem":"Prove that the polynomial $P(X) = X^8 + 61X + 2025$ is not the product of two non-constant polynomials with integer coefficients.\n(Otgonbayar Uuye)","solutions":[],"images":[]});

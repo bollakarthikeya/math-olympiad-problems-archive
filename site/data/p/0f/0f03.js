@@ -1,0 +1,1 @@
+__p({"id":"0f03","competition":"ASU","problem":"$P$ is a convex polygon and $X$ is an interior point such that for every pair of vertices $A$, $B$, the triangle $XAB$ is isosceles. Prove that all the vertices of $P$ lie on some circle center $X$.","solutions":[],"images":[]});

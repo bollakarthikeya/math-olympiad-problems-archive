@@ -1,0 +1,1 @@
+__p({"id":"0alp","competition":"QUALIFYING STAGE","problem":"If $36-4 \\sqrt{2}-6 \\sqrt{3}+12 \\sqrt{6}=(a \\sqrt{2}+b \\sqrt{3}+c)^{2}$, find the value of $a^{2}+b^{2}+c^{2}$.\n\n(a) 12\n(c) 14\n(b) 5\n(d) 6","solutions":[],"images":[]});

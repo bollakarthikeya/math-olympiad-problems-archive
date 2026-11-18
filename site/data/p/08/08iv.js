@@ -1,0 +1,1 @@
+__p({"id":"08iv","competition":"The first selection test for IMO 2003 and BMO 2003","problem":"The positive real numbers $x$, $y$ and $z$ satisfy the relation $x + y + z \\geq 1$. Prove the inequality\n$$\n\\frac{x \\sqrt{x}}{y + z} + \\frac{y \\sqrt{y}}{x + z} + \\frac{z \\sqrt{z}}{x + y} \\geq \\frac{\\sqrt{3}}{2}\n$$","solutions":[],"images":[]});

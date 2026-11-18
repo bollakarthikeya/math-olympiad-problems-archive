@@ -1,0 +1,1 @@
+__p({"id":"08hq","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"For every positive integer $n \\geq 1$ we define the polynomial $P(X) = X^{2n} - X^{2n-1} + \\ldots - X + 1$. Find the remainder of the division of the polynomial $P\\left(X^{2n+1}\\right)$ by the polynomial $P(X)$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f34","competition":"ASU","problem":"A convex quadrilateral is divided by its diagonals into four triangles. The incircles of each of the four are equal. Show that the quadrilateral has all its sides equal.","solutions":[],"images":[]});

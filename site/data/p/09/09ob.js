@@ -1,0 +1,1 @@
+__p({"id":"09ob","competition":"MMO2025 Round 2","problem":"Consider the equation $(x^2 - 3)^2 = x + 3$.\n\n(1) Find the integer solutions of the equation.\n\n(2) Find the product of the non-integer solutions of the equation.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09kk","competition":"Mongolian Mathematical Olympiad","problem":"Consider all positive integers with at least 4 digits that can be formed using the digits $0$, $1$, $2$, and $3$. How many of these integers contain at least four occurrences of the digit $1$?","solutions":[],"images":[]});

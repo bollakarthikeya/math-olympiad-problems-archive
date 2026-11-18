@@ -1,0 +1,1 @@
+__p({"id":"0an3","competition":"AREA STAGE","problem":"Define the following operation for real numbers: $a \\star b = ab + a + b$. If $x \\star y = 11$, $y \\star z = -4$, and $x \\star z = -5$. What is the difference between the maximum and minimum elements of the solution set $\\{x, y, z\\}$?","solutions":[],"images":[]});

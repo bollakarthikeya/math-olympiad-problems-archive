@@ -1,0 +1,1 @@
+__p({"id":"0dc4","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Find all positive integers of form $\\overline{abcd}$ such that\n$$\n\\overline{abcd} = a^{a+b+c+d} - a^{-a+b-c+d} + a.\n$$","solutions":[],"images":[]});

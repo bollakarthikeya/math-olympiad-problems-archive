@@ -1,0 +1,1 @@
+__p({"id":"0dbl","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $a$, $b$, $c$ be positive real numbers such that $a^{2} + b^{2} + c^{2} = 1$. Find the minimum for\n$$\nS = \\frac{1}{a^{2}} + \\frac{1}{b^{2}} + \\frac{1}{c^{2}} - \\frac{2\\left(a^{3} + b^{3} + c^{3}\\right)}{a b c}\n$$","solutions":[],"images":[]});

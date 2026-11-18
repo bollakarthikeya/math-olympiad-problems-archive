@@ -1,0 +1,1 @@
+__p({"id":"0ccd","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Find all twice differentiable functions $f : \\mathbb{R} \\to (0, \\infty)$ with the property $3(f'(x))^2 \\le 2f(x)f''(x)$, for every $x \\in \\mathbb{R}$.","solutions":[],"images":[]});

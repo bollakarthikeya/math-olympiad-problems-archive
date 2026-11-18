@@ -1,0 +1,1 @@
+__p({"id":"0anh","competition":"QUALIFYING STAGE","problem":"Find all possible values of $\\frac{2 \\cdot 3^{-x}-1}{3^{-x}-2}$, as $x$ runs through all real numbers.\n\n(a) $(-\\infty, 1 / 2) \\cup (2,+\\infty)$\n\n(b) $(1 / 2,2)$\n\n(c) $[2,+\\infty]$\n\n(d) $(0,+\\infty)$","solutions":[],"images":[]});

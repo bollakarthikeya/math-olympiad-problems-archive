@@ -1,0 +1,1 @@
+__p({"id":"0f93","competition":"23rd ASU","problem":"The incircle of $ABC$ touches $AB$ at $M$. $N$ is any point on the segment $BC$. Show that the incircles of $AMN$, $BMN$, $ACN$ have a common tangent.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"01qv","competition":"Selection and Training Session","problem":"$N$ cells are marked on an $n \\times n$ table so that at least one marked cell is among any four cells of the table which form the figure $\\Box\\Box$ (the figure may be rotated). Find the smallest possible value of $N$.","solutions":["Answer: $(n - 3)([n/3] + 1) + 1$."],"images":[]});

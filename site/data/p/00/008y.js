@@ -1,0 +1,1 @@
+__p({"id":"008y","competition":"XXI Olimpiada Matemática Rioplatense","problem":"Let $N$ be a positive integer such that the only perfect square number which divides it is $1$. Find the amount of positive multiples of $N$ which have exactly $N$ positive divisors.","solutions":[],"images":[]});

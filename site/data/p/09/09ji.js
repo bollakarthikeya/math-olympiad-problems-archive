@@ -1,0 +1,1 @@
+__p({"id":"09ji","competition":"Mongolian Mathematical Olympiad Round 2","problem":"A red ball of radius $7$, two green balls of radius $3$ and a yellow ball of radius no more than $2$ are placed on the floor so that each pair is tangent to each other. What is the radius of the yellow ball?","solutions":[],"images":[]});

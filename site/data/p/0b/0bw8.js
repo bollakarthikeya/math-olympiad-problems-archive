@@ -1,0 +1,1 @@
+__p({"id":"0bw8","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Find the numbers of the solutions $(x, y)$ of the equation\n$$\n4x^3 + 20x^2 + 33x = 2y^2 - 18,\n$$\nwith $x < 2017$, $x, y \\in \\mathbb{Z}$.","solutions":[],"images":[]});

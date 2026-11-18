@@ -1,0 +1,1 @@
+__p({"id":"08hb","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Solve the system\n$$\n\\begin{cases}\nx + y + z + t = 6, \\\\\n\\sqrt{1 - x^{2}} + \\sqrt{4 - y^{2}} + \\sqrt{9 - z^{2}} + \\sqrt{16 - t^{2}} = 8.\n\\end{cases}\n$$","solutions":[],"images":[]});

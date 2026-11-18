@@ -1,0 +1,1 @@
+__p({"id":"0ati","competition":"Philippine Mathematical Olympiad","problem":"Trapezoid $ABCD$ has parallel sides $AB$ and $CD$, with $BC$ perpendicular to them. Suppose $AB = 13$, $BC = 16$ and $DC = 11$. Let $E$ be the midpoint of $AD$ and $F$ the point on $BC$ so that $EF$ is perpendicular to $AD$. Find the area of quadrilateral $AEFB$.","solutions":[],"images":[]});

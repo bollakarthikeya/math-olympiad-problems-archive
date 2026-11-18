@@ -1,0 +1,1 @@
+__p({"id":"06cs","competition":"HKG TST","problem":"Find the remainder of $1999^{2000}$ when it is divided by $31$.","solutions":["The remainder is $1$.\nNote that $1999 \\equiv -16 = -2^4 \\pmod{31}$. Therefore, we have\n$$\n1999^{2000} \\equiv (2^4)^{2000} = (2^5)^{1600} = 32^{1600} \\equiv 1 \\pmod{31}.\n$$\nThus, the remainder is $1$."],"images":[]});

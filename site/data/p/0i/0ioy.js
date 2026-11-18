@@ -1,0 +1,1 @@
+__p({"id":"0ioy","competition":"Harvard-MIT Mathematics Tournament","problem":"Let $f(x) = 1 + x + x^{2} + \\cdots + x^{100}$. Find $f'(1)$.","solutions":["Note that $f'(x) = 1 + 2x + 3x^{2} + \\cdots + 100x^{99}$, so $f'(1) = 1 + 2 + \\cdots + 100 = \\frac{100 \\cdot 101}{2} = 5050$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bps","competition":"67th NMO Shortlisted Problems","problem":"Let $A$ and $B$ be two $3 \\times 3$ matrices with real entries, so that $AB^2A = BA^2B$.\n\na) Prove that there exists $\\alpha, \\beta \\in \\mathbb{R}$ so that\n$$\n\\det[(AB)^2 + (BA)^2] = [\\det(A)\\det(B) - \\alpha]^2 + [\\det(A)\\det(B) - \\beta]^2.\n$$","solutions":[],"images":[]});

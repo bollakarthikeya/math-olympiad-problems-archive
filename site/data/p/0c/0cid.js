@@ -1,0 +1,1 @@
+__p({"id":"0cid","competition":"75th NMO","problem":"Let $ABC$ be an isosceles triangle with $AB = AC$ and $\\angle BAC = 20^\\circ$. Points $X$ and $Y$ are taken on side $AC$ such that $AX = YC = BC$. Find $\\angle XBY$.\nMihaela Berindeanu","solutions":[],"images":[]});

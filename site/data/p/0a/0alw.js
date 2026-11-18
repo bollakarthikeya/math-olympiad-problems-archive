@@ -1,0 +1,1 @@
+__p({"id":"0alw","competition":"QUALIFYING STAGE","problem":"If $x$ satisfies $\\frac{\\log_{2} x}{\\log_{2} 2x - \\log_{8} 2} = 3$, the value of $1 + x + x^{2} + x^{3} + x^{4} + \\cdots$ is\n\n(a) 1\n(b) 2\n(c) $\\frac{1}{2}$\n(d) the value does not exist","solutions":[],"images":[]});

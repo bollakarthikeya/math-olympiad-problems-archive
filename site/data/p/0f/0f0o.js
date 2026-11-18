@@ -1,0 +1,1 @@
+__p({"id":"0f0o","competition":"ASU","problem":"$p(x) = ax^2 + bx + c$ is a real quadratic such that $|p(x)| \\leq 1$ for all $|x| \\leq 1$. Prove that $|cx^2 + bx + a| \\leq 2$ for $|x| \\leq 1$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0c2n","competition":"2018 Romanian Mathematical Olympiad","problem":"For a fixed integer $n \\ge 2$, determine complex numbers $z$ that satisfy the relations:\n$$\na)\\ z^n + z^{n-1} + \\dots + z^2 + |z| = n;\n$$\n$$\nb)\\ |z|^{n-1} + |z|^{n-2} + \\dots + |z|^2 + z = n z^n.\n$$","solutions":[],"images":[]});

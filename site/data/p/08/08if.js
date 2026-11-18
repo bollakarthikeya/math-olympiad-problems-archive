@@ -1,0 +1,1 @@
+__p({"id":"08if","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"The distinct points $M$ and $N$ lie on the hypotenuse ($AC$) of the right isosceles triangle $ABC$ so that $M \\in (AN)$ and $MN^{2} = AM^{2} + CN^{2}$. Prove that $m(\\angle MBN) = 45^{\\circ}$.","solutions":[],"images":[]});

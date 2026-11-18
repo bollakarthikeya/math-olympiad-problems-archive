@@ -1,0 +1,1 @@
+__p({"id":"0c38","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"$$\\int_{0}^{x} \\left( 1 + \\frac{t}{1!} + \\frac{t^2}{2!} + \\dots + \\frac{t^{2n+1}}{(2n+1)!} \\right) \\cdot \\frac{1}{1+t^2} \\, dt < \\frac{\\arctan x}{x} \\int_{0}^{x} e^t \\, dt,$$\nfor every $x > 0$.","solutions":[],"images":[]});

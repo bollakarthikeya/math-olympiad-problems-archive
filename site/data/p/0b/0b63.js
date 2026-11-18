@@ -1,0 +1,1 @@
+__p({"id":"0b63","competition":"Shortlisted Problems for the Romanian NMO","problem":"If $a$, $b$, $c$ are complex numbers of modulus $1$, prove that\n$$\n|a - b|^2 + |a - c|^2 - |b - c|^2 \\ge -1.\n$$","solutions":[],"images":[]});

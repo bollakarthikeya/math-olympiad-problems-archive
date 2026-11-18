@@ -1,0 +1,1 @@
+__p({"id":"0avb","competition":"19th Philippine Mathematical Olympiad","problem":"Find the number of pairs of positive integers $(n, k)$ that satisfy the equation $(n+1)^{k} - 1 = n$.","solutions":[],"images":[]});

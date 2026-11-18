@@ -1,0 +1,1 @@
+__p({"id":"0bzt","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Prove that there are infinitely many sets of four positive integers so that the sum of the squares of any three elements is a perfect square.","solutions":[],"images":[]});

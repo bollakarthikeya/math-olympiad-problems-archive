@@ -1,0 +1,1 @@
+__p({"id":"04n1","competition":"Croatia_2018","problem":"Let $n \\ge 4$ be a positive integer. Prove that among any $n$ numbers from the set\n$$\n\\{1, 2, \\dots, 2n - 1\\}\n$$\nthere are some of them with the sum divisible by $2n$. (Ratko Višak)","solutions":[],"images":[]});

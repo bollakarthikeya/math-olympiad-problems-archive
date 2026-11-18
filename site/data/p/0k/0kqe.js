@@ -1,0 +1,1 @@
+__p({"id":"0kqe","competition":"2022 AIME I","problem":"In isosceles trapezoid $ABCD$, parallel bases $\\overline{AB}$ and $\\overline{CD}$ have lengths $500$ and $650$, respectively, and $AD = BC = 333$. The angle bisectors of $\\angle A$ and $\\angle D$ meet at $P$, and the angle bisectors of $\\angle B$ and $\\angle C$ meet at $Q$. Find $PQ$.","solutions":[],"images":[]});

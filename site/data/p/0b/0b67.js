@@ -1,0 +1,1 @@
+__p({"id":"0b67","competition":"Shortlisted Problems for the Romanian NMO","problem":"Prove that every matrix $A \\in \\mathcal{M}_2(\\mathbb{R})$ can be written in the form $A = X^3 + Y^3$, where $X, Y \\in \\mathcal{M}_2(\\mathbb{R})$, $XY = YX$.","solutions":[],"images":[]});

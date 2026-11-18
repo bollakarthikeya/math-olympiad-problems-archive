@@ -1,0 +1,1 @@
+__p({"id":"008q","competition":"XXIX Olimpíada Matemática Argentina National Round","problem":"Let $ABC$ be an acute triangle and $O$ be its circumcenter. The line $AO$ meets the side $BC$ at the point $D$. It is known that $OD = BD = 1$ and $CD = 1 + \\sqrt{2}$. Calculate the lengths of the sides of the triangle.","solutions":[],"images":[]});

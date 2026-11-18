@@ -1,0 +1,1 @@
+__p({"id":"0anq","competition":"QUALIFYING STAGE","problem":"Find the solution set of the inequality\n$$\\left(\\frac{\\pi}{2}\\right)^{(x-1)^{2}} \\leq \\left(\\frac{2}{\\pi}\\right)^{x^{2}-5x-5}.$$","solutions":[],"images":[]});

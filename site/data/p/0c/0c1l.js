@@ -1,0 +1,1 @@
+__p({"id":"0c1l","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"The rhombus $ABCD$ has $m(\\widehat{BAD}) = 30^\\circ$, and the bisector of the angle $\\angle ADB$ intersects the side $[AB]$ in the point $E$. Find $m(\\widehat{DEC})$.","solutions":[],"images":[]});

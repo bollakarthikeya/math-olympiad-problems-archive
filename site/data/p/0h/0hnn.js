@@ -1,0 +1,1 @@
+__p({"id":"0hnn","competition":"","problem":"How many different combinations of 4 marbles can be made from 5 indistinguishable red marbles, 4 indistinguishable blue marbles, and 2 indistinguishable black marbles?","solutions":["$5 + 4 + 3 = 12$."],"images":[]});

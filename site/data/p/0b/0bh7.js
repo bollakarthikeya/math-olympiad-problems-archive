@@ -1,0 +1,1 @@
+__p({"id":"0bh7","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Find how many pairs $(a, b)$, with $a$ and $b$ non-nil digits, have the property that $\\frac{a}{b}$ is irreducible and the decimal fractions $\\frac{a}{b}$ and $\\frac{a+b}{b(b+1)}$ are finite.\nGabriel Vrînceanu","solutions":[],"images":[]});

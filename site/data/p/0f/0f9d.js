@@ -1,0 +1,1 @@
+__p({"id":"0f9d","competition":"24th ASU","problem":"Find all integers $n$ such that $\\left[ \\frac{n}{1!} \\right] + \\left[ \\frac{n}{2!} \\right] + \\ldots + \\left[ \\frac{n}{10!} \\right] = 1001$.","solutions":[],"images":[]});

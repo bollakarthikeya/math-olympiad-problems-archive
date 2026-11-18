@@ -1,0 +1,1 @@
+__p({"id":"0k5m","competition":"HMMT February 2019","problem":"Find the sum of all real solutions to $x^{2} + \\cos x = 2019$.","solutions":["The left-hand side is an even function, hence for each $x$ that solves the equation, $-x$ will also be a solution. Pairing the solutions up in this way, we get that the sum must be $0$."],"images":[]});

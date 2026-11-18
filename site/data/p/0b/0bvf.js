@@ -1,0 +1,1 @@
+__p({"id":"0bvf","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Let $ABC$ and $ADC$ be isosceles right triangles with $AB = BC = CD = DA$ and $B \\neq D$. Consider $E \\in (CD)$ and $F \\in AD$ such that $EC = AF$ and $A \\in (DF)$. Denote $\\{G\\} = EF \\cap AC$. Find the measures of the angles in triangle $EGB$.\n\nSorin Peligrad","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0cej","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Find the real solutions of the equation\n$$\n\\frac{4x - 1}{x^2 - 2x + 2} + \\frac{4x + 7}{x^2 + 2x + 2} = \\frac{4(2x + 3)}{x^2 + 2}.\n$$","solutions":[],"images":[]});

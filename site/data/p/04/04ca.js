@@ -1,0 +1,1 @@
+__p({"id":"04ca","competition":"Mathematica competitions in Croatia","problem":"$ABCDA_1B_1C_1D_1$ is a cube of edge length $a$. A plane is set through the vertices $A$ and $C_1$ and the midpoint of edge $\\overline{BB_1}$. Determine the area of the intersection of the cube and the plane.","solutions":[],"images":[]});

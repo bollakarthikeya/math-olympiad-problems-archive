@@ -1,0 +1,1 @@
+__p({"id":"0493","competition":"CroatianCompetitions2011","problem":"Let $x$, $y$, $z$ be positive real numbers such that $x^3 + y^3 + z^3 = 1$. Prove that\n$$\nx^2 + y^2 + z^2 > x^5 + y^5 + z^5 + 2x^2y^2z^2(x + y + z).\n$$","solutions":[],"images":[]});

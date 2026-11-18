@@ -1,0 +1,1 @@
+__p({"id":"09hx","competition":"Round 2","problem":"Let $f(X)$ be a polynomial with integer coefficients. Suppose that $p \\mid f(n)$ implies $p^2 \\mid f(n)$ for any integer $n$ and any prime number $p$. Show that $(X-k) \\mid f(X)$ implies $(X-k)^2 \\mid f(X)$ for any integer $k$.","solutions":[],"images":[]});

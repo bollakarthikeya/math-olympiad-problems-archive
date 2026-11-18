@@ -1,0 +1,1 @@
+__p({"id":"0blf","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"a) Show that the equation $p + x + y + z = xyz$ has positive integer solutions for every positive prime $p$.\n\nb) Find the positive integer solutions of the equation $3 + x + y + z = xyz$.","solutions":[],"images":[]});

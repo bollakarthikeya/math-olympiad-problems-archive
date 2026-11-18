@@ -1,0 +1,1 @@
+__p({"id":"0koq","competition":"AIME II","problem":"Let $a$, $b$, $x$, and $y$ be real numbers with $a > 4$ and $b > 1$ such that\n$$\n\\frac{x^2}{a^2} + \\frac{y^2}{a^2 - 16} = \\frac{(x - 20)^2}{b^2 - 1} + \\frac{(y - 11)^2}{b^2} = 1.\n$$\nFind the least possible value for $a + b$.","solutions":[],"images":[]});

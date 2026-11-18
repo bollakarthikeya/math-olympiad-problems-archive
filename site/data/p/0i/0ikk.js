@@ -1,0 +1,1 @@
+__p({"id":"0ikk","competition":"Harvard-MIT Mathematics Tournament, Team Round B","problem":"Suppose we have a regular hexagon and draw all its sides and diagonals. Into how many regions do the segments divide the hexagon? (No proof is necessary.)","solutions":["An accurate diagram and a careful count yields the answer.\n\n**Answer:** $24$"],"images":[]});

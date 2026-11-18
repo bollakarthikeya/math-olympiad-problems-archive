@@ -1,0 +1,1 @@
+__p({"id":"0de3","competition":"Saudi Arabian Mathematical Competitions","problem":"Call a positive integer $x$ to be remote from squares and cubes if each integer $k$ satisfies both $|x - k^2| > 10^6$ and $|x - k^3| > 10^6$. Prove that there exist infinitely many positive integers $n$ such that $2^n$ is remote from squares and cubes.","solutions":[],"images":[]});

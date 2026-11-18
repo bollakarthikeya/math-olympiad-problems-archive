@@ -1,0 +1,1 @@
+__p({"id":"0epl","competition":"South African Mathematics Olympiad","problem":"How many zeroes will there be in the answer if the following number is divided by $111$?\n$1110222222003333333330004444444444440000$","solutions":["$\\frac{1110222222003333333330004444444444440000}{111} = 100020020000300300300000400400400400000$, which contains $28$ zeroes."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0alo","competition":"Area Stage","problem":"Evaluate\n$$\n\\sqrt[1000]{1000^{1000}+\\binom{1000}{1} 1000^{998}+\\binom{1000}{2} 1000^{996}+\\cdots+\\binom{1000}{999} 1000^{-998}+1000^{-1000}}\n$$","solutions":[],"images":[]});

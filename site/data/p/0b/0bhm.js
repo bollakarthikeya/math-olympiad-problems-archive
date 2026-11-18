@@ -1,0 +1,1 @@
+__p({"id":"0bhm","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Let $n \\in \\mathbb{N}^*$ and $(G, \\cdot)$ be a group with the property that there exists an endomorphism $f : G \\to G$, so that\n$$\nf(x^n y^{n+1}) = x^{n+1} y^n \\text{ for every } x, y \\in G\n$$","solutions":[],"images":[]});

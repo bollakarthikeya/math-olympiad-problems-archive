@@ -1,0 +1,1 @@
+__p({"id":"0civ","competition":"75th NMO","problem":"Find the real numbers $a$, $b$, $c$, with sum $s$, such that\n$$\n(\\sqrt{s} - \\sqrt{a})(\\sqrt{s} - \\sqrt{b}) + (\\sqrt{s} - \\sqrt{b})(\\sqrt{s} - \\sqrt{c}) + (\\sqrt{s} - \\sqrt{c})(\\sqrt{s} - \\sqrt{a}) = \\frac{s}{2}.\n$$","solutions":[],"images":[]});

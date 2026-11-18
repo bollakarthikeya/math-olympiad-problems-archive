@@ -1,0 +1,1 @@
+__p({"id":"0f5e","competition":"17th ASU","problem":"$X$ is a union of $k$ disjoint intervals of the real line. It has the property that for any $h < 1$ we can find two points of $X$ which are a distance $h$ apart. Show that the sum of the lengths of the intervals in $X$ is at least $1 / k$.","solutions":[],"images":[]});

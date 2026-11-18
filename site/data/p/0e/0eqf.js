@@ -1,0 +1,1 @@
+__p({"id":"0eqf","competition":"South African Mathematics Olympiad","problem":"If $a \\bullet b$ means the value of $ab + a + b$, and $5 \\bullet x = 35$, the value of $x$ must be\n\n(A) 5\n(B) 7\n(C) 9\n(D) 12\n(E) 15","solutions":["By definition of $\\bullet$, we know $5 \\bullet x = 5x + 5 + x = 6x + 5$. If this is $35$, then $6x = 30$, so $x = 5$"],"images":[]});

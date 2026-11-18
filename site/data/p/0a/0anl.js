@@ -1,0 +1,1 @@
+__p({"id":"0anl","competition":"QUALIFYING STAGE","problem":"In how many ways can one select five books from a row of twelve books so that no two adjacent books are chosen?\n\n(a) 34\n(b) 78\n(c) 42\n(d) 56","solutions":[],"images":[]});

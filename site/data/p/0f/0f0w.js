@@ -1,0 +1,1 @@
+__p({"id":"0f0w","competition":"ASU","problem":"Arrange the numbers $1, 2, \\ldots, 32$ in a sequence such that the arithmetic mean of two numbers does not lie between them. (For example, $\\ldots, 3, 4, 5, 2, 1, \\ldots$ is invalid, because $2$ lies between $1$ and $3$.) Can you arrange the numbers $1, 2, \\ldots, 100$ in the same way?","solutions":[],"images":[]});

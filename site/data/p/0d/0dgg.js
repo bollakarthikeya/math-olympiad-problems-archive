@@ -1,0 +1,1 @@
+__p({"id":"0dgg","competition":"Saudi Arabian IMO Booklet","problem":"Let $S(n)$ be the sum of divisors of $n$ (for example $S(6) = 1+2+3+6 = 12$). Find all $n$ for which $S(2n) = 3S(n)$.","solutions":[],"images":[]});

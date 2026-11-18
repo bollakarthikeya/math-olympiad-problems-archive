@@ -1,0 +1,1 @@
+__p({"id":"03je","competition":"Canadian Mathematical Olympiad","problem":"Find all solutions of $a^{2} + b^{2} = n!$ for positive integers $a$, $b$, $n$ with $a \\leq b$ and $n < 14$.","solutions":[],"images":[]});

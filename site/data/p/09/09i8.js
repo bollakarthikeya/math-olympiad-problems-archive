@@ -1,0 +1,1 @@
+__p({"id":"09i8","competition":"Mongolian Mathematical Olympiad Round 1","problem":"There is a country, where the price of every fruit is an integer prime. Here 6 melons, 5 oranges, 5 apples and 3 pineapples cost 130 coins. Also, 3 melons, 3 oranges, 5 apples and 6 pineapples cost 130 coins. What is the price of each fruit?","solutions":[],"images":[]});

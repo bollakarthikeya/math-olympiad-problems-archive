@@ -1,0 +1,1 @@
+__p({"id":"0703","competition":"Iberoamerican Mathematical Olympiad","problem":"Show that given any integer $0 < n \\leq 2^{1000000}$ we can find a set $S$ of at most $1100000$ positive integers such that $S$ includes $1$ and $n$ and every element of $S$ except $1$ is a sum of two (possibly equal) smaller elements of $S$.","solutions":[],"images":[]});

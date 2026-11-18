@@ -1,0 +1,1 @@
+__p({"id":"04bt","competition":"Mathematica competitions in Croatia","problem":"Let $P$ be a point inside the triangle $ABC$. Let $D$, $E$ and $F$ be the feet of the perpendiculars from point $P$ to $BC$, $CA$, and $AB$ respectively. If the quadrilaterals $AEPF$, $BFPD$, and $CDPE$ are circumscribed, prove that $P$ is the incentre of triangle $ABC$.","solutions":[],"images":[]});

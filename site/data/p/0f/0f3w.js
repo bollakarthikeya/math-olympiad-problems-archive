@@ -1,0 +1,1 @@
+__p({"id":"0f3w","competition":"15th ASU","problem":"A chess board is placed on top of an identical board and rotated through $45$ degrees about its center. What is the area which is black in both boards?","solutions":[],"images":[]});

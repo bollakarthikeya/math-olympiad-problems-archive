@@ -1,0 +1,1 @@
+__p({"id":"03gx","competition":"Canadian Mathematical Olympiad","problem":"Given three non-collinear points $A$, $B$, $C$, construct a circle with centre $C$ such that the tangents from $A$ and $B$ to the circle are parallel.","solutions":[],"images":[]});

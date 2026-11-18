@@ -1,0 +1,1 @@
+__p({"id":"0bfl","competition":"Shortlisted Problems for the 64th NMO","problem":"Prove that the sum of the distances from the barycenter of a tetrahedron to its faces is at least $4r$, where $r$ is the radius of the sphere inscribed in the tetrahedron.","solutions":[],"images":[]});

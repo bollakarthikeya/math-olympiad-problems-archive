@@ -1,0 +1,1 @@
+__p({"id":"0c3d","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Let $n$ be a positive integer and $A$ be a set of complex numbers with $2n + 1$ elements. Prove that there exists two sets $B, C$ so that $B \\cup C = A$, $B \\cap C = \\emptyset$, $B$ has $n$ elements and $|\\sum_{z \\in B} z| \\le |\\sum_{z \\in C} z|$.","solutions":[],"images":[]});

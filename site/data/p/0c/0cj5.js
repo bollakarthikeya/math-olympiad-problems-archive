@@ -1,0 +1,1 @@
+__p({"id":"0cj5","competition":"75th NMO","problem":"Determine the smallest natural number $n \\ge 3$ with the property that there exists a unique set of natural numbers $a_1 < a_2 < \\dots < a_n \\le 100$ which are directly proportional to $1, 2, \\dots, n$.","solutions":[],"images":[]});

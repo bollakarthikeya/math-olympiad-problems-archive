@@ -1,0 +1,1 @@
+__p({"id":"04kv","competition":"Mathematical competitions in Croatia","problem":"What is the maximum number of elements that a subset of $\\{1, 2, 3, \\dots, 2017\\}$ can have so that for any two distinct elements $a$ and $b$ of that subset, the number $a + b$ is not divisible by $a - b$? (Hong Kong 1992)","solutions":[],"images":[]});

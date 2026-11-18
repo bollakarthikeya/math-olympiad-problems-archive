@@ -1,0 +1,1 @@
+__p({"id":"0e6o","competition":"National Math Olympiad 2012","problem":"What is the sum of all the real numbers that solve the equation $|x - 2011| + |x - 2012| = 3$?\n(A) 2011 (B) 2012 (C) 2013 (D) 4021 (E) 4023","solutions":["There are only two such real numbers: $2010$ and $2013$. Their sum is equal to $4023$."],"images":[]});

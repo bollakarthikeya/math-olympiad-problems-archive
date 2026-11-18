@@ -1,0 +1,1 @@
+__p({"id":"0ang","competition":"Area Stage","problem":"The length of a leg of a right triangle is $5$ while the length of the altitude to its hypotenuse is $4$. Find the length of the other leg.","solutions":[],"images":[]});

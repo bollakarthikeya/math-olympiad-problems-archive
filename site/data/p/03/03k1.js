@@ -1,0 +1,1 @@
+__p({"id":"03k1","competition":"Canadian Mathematical Olympiad","problem":"Let $n$ be a fixed positive integer. Find the sum of all positive integers with the following property: In base $2$, it has exactly $2n$ digits consisting of $n$ $1$'s and $n$ $0$'s. (The first digit cannot be $0$.)","solutions":[],"images":[]});

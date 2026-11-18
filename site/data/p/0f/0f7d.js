@@ -1,0 +1,1 @@
+__p({"id":"0f7d","competition":"20th ASU","problem":"Let $d(n)$ be the number of (positive integral) divisors of $n$. For example, $d(12) = 6$. Find all $n$ such that $n = d(n)^2$.","solutions":[],"images":[]});

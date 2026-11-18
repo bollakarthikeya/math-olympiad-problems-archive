@@ -1,0 +1,1 @@
+__p({"id":"04ix","competition":"Croatia Mathematical Competitions","problem":"Determine all values that the expression\n$$ \\frac{1 + \\cos^2 x}{\\sin^2 x} + \\frac{1 + \\sin^2 x}{\\cos^2 x}, $$\ncan attain, where $x$ is a real number.","solutions":[],"images":[]});

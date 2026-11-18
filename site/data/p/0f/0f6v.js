@@ -1,0 +1,1 @@
+__p({"id":"0f6v","competition":"20th ASU","problem":"Find all positive integers $a$, $b$, $c$ so that $a^2 + b = c$ and $a$ has $n > 1$ decimal digits all the same, $b$ has $n$ decimal digits all the same, and $c$ has $2n$ decimal digits all the same.","solutions":[],"images":[]});

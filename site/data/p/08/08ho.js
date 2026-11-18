@@ -1,0 +1,1 @@
+__p({"id":"08ho","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"In the circle with radius $R$ the distinct chords $[AB]$ and $[CD]$ are concurrent and form an acute angle with measure $\\alpha$. Prove that $AB + CD > 2R \\sin \\alpha$.","solutions":[],"images":[]});

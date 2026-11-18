@@ -1,0 +1,1 @@
+__p({"id":"0avq","competition":"19th Philippine Mathematical Olympiad","problem":"Suppose that $S_{k}$ is the sum of the first $k$ terms of an arithmetic sequence with common difference $3$. If the value of $\\frac{S_{3n}}{S_{n}}$ does not depend on $n$, what is the $100$th term of the sequence?","solutions":[],"images":[]});

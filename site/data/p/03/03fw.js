@@ -1,0 +1,1 @@
+__p({"id":"03fw","competition":"5 Bulgarian National Olympiad - Final Round","problem":"Find all functions $f : \\mathbb{R}^+ \\to \\mathbb{R}^+$, such that\n$$\nf(af(b) + a)(f(bf(a)) + a) = 1\n$$\nfor any positive reals $a, b$.\n(Lyuben Lichev)","solutions":[],"images":[]});

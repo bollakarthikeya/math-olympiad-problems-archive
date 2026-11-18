@@ -1,0 +1,1 @@
+__p({"id":"0f0s","competition":"ASU","problem":"$ABC$ is an acute-angled triangle. $D$ is the reflection of $A$ in $BC$, $E$ is the reflection of $B$ in $AC$, and $F$ is the reflection of $C$ in $AB$. Show that the circumcircles of $DBC$, $ECA$, $FAB$ meet at a point and that the lines $AD$, $BE$, $CF$ meet at a point.","solutions":[],"images":[]});

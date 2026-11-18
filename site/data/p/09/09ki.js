@@ -1,0 +1,1 @@
+__p({"id":"09ki","competition":"Mongolian Mathematical Olympiad","problem":"Let $p \\ge 5$ be a prime number and $f(x) = (x-1)(x^3-1)\\dots(x^{p-4}-1)(x^{p-2}-1)$. Show that $f(n^k) - f(n)$ is divisible by $p$ for any positive integer $k$ relatively prime to $p-1$.","solutions":[],"images":[]});

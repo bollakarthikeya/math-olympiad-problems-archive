@@ -1,0 +1,1 @@
+__p({"id":"0cib","competition":"75th NMO","problem":"Let $(a_n)_{n \\ge 1}$ and $(b_n)_{n \\ge 1}$ be the sequences defined by the equations\n$$\n\\prod_{k=1}^{n} (2k^2 + i) = a_n + ib_n, \\quad n = 1, 2, \\dots\n$$\nProve that the sequence $\\left(\\frac{a_n}{b_n}\\right)_{n \\ge 1}$ is convergent and find its limit.","solutions":[],"images":[]});

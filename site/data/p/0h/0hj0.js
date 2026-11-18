@@ -1,0 +1,1 @@
+__p({"id":"0hj0","competition":"Berkeley Math Circle Monthly Contest 1","problem":"Let $ABCDE$ be a convex pentagon with perimeter $1$. Prove that triangle $ACE$ has perimeter less than $1$.","solutions":["By the triangle inequality, we have $AC < AB + BC$ and $CE < CD + DE$, so $AC + CE + EA < AB + BC + CD + DE + EA$ as desired."],"images":[]});

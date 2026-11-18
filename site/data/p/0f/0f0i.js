@@ -1,0 +1,1 @@
+__p({"id":"0f0i","competition":"ASU","problem":"A convex $n$-gon has no two sides parallel. Given a point $P$ inside the $n$-gon, show that there are at most $n$ lines through $P$ which bisect the area of the $n$-gon.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f7a","competition":"20th ASU","problem":"Prove that we can find an $m \\times n$ array of squares so that the sum of each row and the sum of each column is also a square.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0amg","competition":"AREA STAGE","problem":"Find the value of $p$, where,\n\n$$\np = \\frac{16^{2}-4}{18 \\times 13} \\times \\frac{16^{2}-9}{19 \\times 12} \\times \\frac{16^{2}-16}{20 \\times 11} \\times \\cdots \\times \\frac{16^{2}-64}{24 \\times 7}\n$$","solutions":[],"images":[]});

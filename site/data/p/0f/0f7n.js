@@ -1,0 +1,1 @@
+__p({"id":"0f7n","competition":"21st ASU","problem":"A convex pentagon is cut along all its diagonals to give 11 pieces. Show that the pieces cannot all have equal areas.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f4u","competition":"16th ASU","problem":"Do there exist polynomials $p(x)$, $q(x)$, $r(x)$ such that\n$$\np(x - y + z)^3 + q(y - z - 1)^3 + r(z - 2x + 1)^3 = 1\n$$\nfor all $x$, $y$, $z$?\n\nDo there exist polynomials $p(x)$, $q(x)$, $r(x)$ such that\n$$\np(x - y + z)^3 + q(y - z - 1)^3 + r(z - x + 1)^3 = 1\n$$\nfor all $x$, $y$, $z$?","solutions":[],"images":[]});

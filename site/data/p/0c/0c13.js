@@ -1,0 +1,1 @@
+__p({"id":"0c13","competition":"2018 Romanian Mathematical Olympiad","problem":"Let $p$ be an integer greater or equal to $2$ and let $(M, \\cdot)$ be a finite semi-group, such that $a^p \\neq a$, for all $a \\in M \\setminus \\{e\\}$, where $e$ is the null element in $M$. Prove that $(M, \\cdot)$ is a group.\n\nTraian Preda","solutions":[],"images":[]});

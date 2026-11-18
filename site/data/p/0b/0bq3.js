@@ -1,0 +1,1 @@
+__p({"id":"0bq3","competition":"67th NMO Shortlisted Problems","problem":"Prove that the ratio of the area of a rectangle and the area of a triangle whose vertices are on the sides of the rectangle and centroid coincides with the centroid of the rectangle is a constant.","solutions":[],"images":[]});

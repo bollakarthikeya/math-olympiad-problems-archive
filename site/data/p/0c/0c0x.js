@@ -1,0 +1,1 @@
+__p({"id":"0c0x","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Two continuous functions $f, g: [0, 1] \\to [0, 1]$ are such that $f \\circ g = g \\circ f$, and one of them is nondecreasing. Prove that there exists $a \\in [0, 1]$ so that $f(a) = a = g(a)$.","solutions":[],"images":[]});

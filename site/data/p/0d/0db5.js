@@ -1,0 +1,1 @@
+__p({"id":"0db5","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let non-integer real numbers $a$, $b$, $c$, $d$ are given, such that the sum of each 3 of them is integer. May it happen that $a b + c d$ is an integer.","solutions":[],"images":[]});

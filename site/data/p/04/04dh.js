@@ -1,0 +1,1 @@
+__p({"id":"04dh","competition":"Mathematica competitions in Croatia","problem":"By erasing the first two digits of a positive integer $n$ we obtain a number that is 73 times smaller. Determine the smallest two such numbers $n$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bh6","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"A sequence $(a_n)_n$ of positive integers is such that the sequence $\\frac{a_n}{n}$ is bounded and $a_n - a_m$ is divisible by $n - m$ for every positive integers $m, n$. Prove that $(a_n)_n$ is an arithmetic sequence.","solutions":[],"images":[]});

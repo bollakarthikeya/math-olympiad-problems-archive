@@ -1,0 +1,1 @@
+__p({"id":"0kg8","competition":"HMMT November 2021","problem":"The graphs of the equations\n$$\n\\begin{aligned}\ny & = -x + 8 \\\\\n173y & = -289x + 2021\n\\end{aligned}\n$$\non the Cartesian plane intersect at $(a, b)$. Find $a + b$.","solutions":["From the first equation, it is known that $(a, b)$ lies on the line $x + y = 8$, therefore $a + b = 8$."],"images":[]});

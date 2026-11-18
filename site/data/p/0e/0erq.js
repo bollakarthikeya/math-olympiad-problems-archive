@@ -1,0 +1,1 @@
+__p({"id":"0erq","competition":"South African Mathematics Olympiad First Round","problem":"The value of $\\sqrt{2 \\times 0 \\times 1 \\times 6}$ is\n(A) 6 (B) 3 (C) 2 (D) 1 (E) 0","solutions":["$2 \\times 0 \\times 1 \\times 6 = 0$, and $\\sqrt{0} = 0$"],"images":[]});

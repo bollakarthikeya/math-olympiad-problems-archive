@@ -1,0 +1,1 @@
+__p({"id":"09z6","competition":"First Round","problem":"When you add the digits of the number $2022$, you get $6$.\nHow many $4$-digit numbers are there (including $2022$) such that, when you add the digits, you get $6$? The numbers are not allowed to start with the digit $0$.\nA) $40$  B) $45$  C) $50$  D) $55$  E) $56$","solutions":[],"images":[]});

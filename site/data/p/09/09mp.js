@@ -1,0 +1,1 @@
+__p({"id":"09mp","competition":"Mongolian Mathematical Olympiad","problem":"Let $a$, $b$, $c$ be real numbers with sum $a + b + c = 6$. Prove that\n$$\n\\frac{a^4 + 1}{b^2 + 1} + \\frac{b^4 + 1}{c^2 + 1} + \\frac{c^4 + 1}{a^2 + 1} \\ge \\frac{51}{5}.\n$$","solutions":[],"images":[]});

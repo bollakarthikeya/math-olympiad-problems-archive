@@ -1,0 +1,1 @@
+__p({"id":"0ao8","competition":"QUALIFYING STAGE","problem":"Sixty men working on a construction job have done $1/3$ of the work in $18$ days. The project is behind schedule and must be accomplished in the next twelve days. How many more workers need to be hired?\n\n(a) $60$\n(b) $180$\n(c) $120$\n(d) $240$","solutions":[],"images":[]});

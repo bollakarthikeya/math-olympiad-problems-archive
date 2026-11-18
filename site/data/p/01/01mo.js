@@ -1,0 +1,1 @@
+__p({"id":"01mo","competition":"Belarusian Mathematical Olympiad","problem":"Prove that if positive numbers $a, b, x, y$ satisfy the inequality $ab \\ge xa + yb$, then they satisfy the inequality $\\sqrt{a+b} \\ge \\sqrt{x} + \\sqrt{y}$.","solutions":[],"images":[]});

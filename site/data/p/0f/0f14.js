@@ -1,0 +1,1 @@
+__p({"id":"0f14","competition":"ASU","problem":"Given $n$ unit vectors in the plane whose sum has length less than one. Show that you can arrange them so that the sum of the first $k$ has length less than $2$ for every $1 < k < n$.","solutions":[],"images":[]});

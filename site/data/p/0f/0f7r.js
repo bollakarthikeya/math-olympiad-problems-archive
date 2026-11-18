@@ -1,0 +1,1 @@
+__p({"id":"0f7r","competition":"21st ASU","problem":"A convex polyhedron has all its faces triangles. Show that it is possible to color some edges red and the others blue so that given any two vertices one can always find a path between them along the red edges and another path between them along the blue edges.","solutions":[],"images":[]});

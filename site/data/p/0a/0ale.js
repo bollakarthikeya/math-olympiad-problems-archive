@@ -1,0 +1,1 @@
+__p({"id":"0ale","competition":"Qualifying Round","problem":"Let $w^{3}=1$. What is a value of $\\left(1+w-w^{2}\\right)^{3}+\\left(1-w+w^{2}\\right)^{3}$?\n(a) -16\n(b) -21\n(c) 18\n(d) 15","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f24","competition":"ASU","problem":"Given a sequence $a_1$, $a_2$, ..., $a_n$ of positive integers. Let $S$ be the set of all sums of one or more members of the sequence. Show that $S$ can be divided into $n$ subsets such that the smallest member of each subset is at least half the largest member.","solutions":[],"images":[]});

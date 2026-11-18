@@ -1,0 +1,1 @@
+__p({"id":"0cuh","competition":"XLIII Russian mathematical olympiad","problem":"A convex polygon is dissected into isosceles triangles by several non-intersecting diagonals. Prove that this polygon has two sides of equal lengths.","solutions":["10.7. See problem 9.7.","10.7. См. задачу 9.7."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04h2","competition":"Mathematica competitions in Croatia","problem":"Let $a$, $b$, $c$ and $d$ be positive real numbers such that $a^2 + b^2 = c^2 + d^2$.\nDetermine the largest possible area of a quadrilateral $ABCD$ with side-lengths $|AB| = a$, $|BC| = b$, $|CD| = c$, $|DA| = d$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0aoj","competition":"AREA STAGE","problem":"Consider an acute triangle with angles $\\alpha, \\beta, \\gamma$ opposite the sides $a, b, c$, respectively. If $\\sin \\alpha=\\frac{3}{5}$ and $\\cos \\beta=\\frac{5}{13}$, evaluate $\\frac{a^{2}+b^{2}-c^{2}}{a b}$.","solutions":[],"images":[]});

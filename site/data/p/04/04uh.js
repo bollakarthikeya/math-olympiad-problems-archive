@@ -1,0 +1,1 @@
+__p({"id":"04uh","competition":"First Round","problem":"Is it possible to fill an $n \\times n$ table with numbers $1$ and $2$ such that the sum of the numbers in each column is a multiple of $5$ and the sum of the numbers in each row is a multiple of $7$? Solve this:\n\na) for $n = 9$\n\nb) for $n = 12$\n\n(Tomáš Bárta)","solutions":[],"images":[]});

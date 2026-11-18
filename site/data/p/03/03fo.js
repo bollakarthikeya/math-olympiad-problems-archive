@@ -1,0 +1,1 @@
+__p({"id":"03fo","competition":"4 Bulgarian National Olympiad - Regional Round","problem":"Let $ABC$ be an acute triangle with midpoint $M$ of $AB$. The point $D$ lies on the segment $MB$ and $I_1, I_2$ denote the incenters of $\\triangle ADC$ and $\\triangle BDC$. Given that $\\angle I_1MI_2 = 90^\\circ$, show that $CA = CB$.","solutions":[],"images":[]});

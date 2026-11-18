@@ -1,0 +1,1 @@
+__p({"id":"0cxr","competition":"SAMC","problem":"Let $a_{0}$ be a positive integer and $a_{n+1} = \\sqrt{a_{n}^{2} + 1}$, for all $n \\geq 0$.\n\n1) Prove that for all $a_{0}$ the sequence contains infinitely many integers and infinitely many irrational numbers.\n\n2) Is there an $a_{0}$ for which $a_{2010}$ is an integer?","solutions":[],"images":[]});

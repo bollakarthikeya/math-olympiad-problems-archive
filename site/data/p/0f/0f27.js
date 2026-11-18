@@ -1,0 +1,1 @@
+__p({"id":"0f27","competition":"ASU","problem":"The positive integers $a_1$, $a_2$, ..., $a_m$, $b_1$, $b_2$, ..., $b_n$ satisfy: $a_1 + a_2 + \\ldots + a_m = b_1 + b_2 + \\ldots + b_n < mn$. Show that we can delete some (but not all) of the numbers so that the sum of the remaining $a$'s equals the sum of the remaining $b$'s.","solutions":[],"images":[]});

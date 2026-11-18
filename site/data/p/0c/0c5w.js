@@ -1,0 +1,1 @@
+__p({"id":"0c5w","competition":"70th ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Determine the triples $(m, n, p)$, of integers not greater than $5$, such that $10$ is a divisor of $A = 2^m + 3^n + 5^p$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04ew","competition":"Mathematica competitions in Croatia","problem":"How many complex numbers $z$ are there that satisfy the following two conditions:\n$$\n|z| = 1, \\quad \\text{Re}(z^{100}) = \\text{Im}(z^{200}) \\quad ? \\qquad (\\text{Ilko Brnetić})\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0db1","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $ABCD$ be a cyclic quadrilateral with $AB = BC$ and $AD = CD$. A point $M$ lies on the minor arc $CD$ of its circumcircle. The lines $BM$ and $CD$ meet at point $P$, the lines $AM$ and $BD$ meet at point $Q$. Prove that $PQ \\parallel AC$.","solutions":[],"images":[]});

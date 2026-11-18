@@ -1,0 +1,1 @@
+__p({"id":"04pb","competition":"Croatian Mathematical Society Competitions","problem":"Cities are connected by one-way airline routes. Each two cities $A$ and $B$ are connected by exactly one route: either from $A$ to $B$, or from $B$ to $A$. Prove that there exists a city from which it is possible to reach any other city with at most one layover.","solutions":[],"images":[]});

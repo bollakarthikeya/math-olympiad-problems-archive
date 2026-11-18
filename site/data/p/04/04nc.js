@@ -1,0 +1,1 @@
+__p({"id":"04nc","competition":"Croatia_2018","problem":"Determine all positive integers which are squares of integers, and which have exactly two non-zero digits in the decimal representation, one of which is equal to $3$.","solutions":[],"images":[]});

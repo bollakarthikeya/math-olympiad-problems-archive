@@ -1,0 +1,1 @@
+__p({"id":"0f0c","competition":"ASU","problem":"$O$ is the point of intersection of the diagonals of the convex quadrilateral $ABCD$. Prove that the line joining the centroids of $ABO$ and $CDO$ is perpendicular to the line joining the orthocenters of $BCO$ and $ADO$.","solutions":[],"images":[]});

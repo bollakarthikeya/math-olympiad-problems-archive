@@ -1,0 +1,1 @@
+__p({"id":"04lt","competition":"Mathematical competitions in Croatia","problem":"Find the number of nine-digit numbers with digits $1$, $2$, $3$, $4$, $5$, $6$, $7$, $8$ and $9$, such that no three consecutive digits equal $123$, $246$ or $678$.","solutions":[],"images":[]});

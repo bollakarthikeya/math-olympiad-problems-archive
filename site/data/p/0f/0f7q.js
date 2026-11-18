@@ -1,0 +1,1 @@
+__p({"id":"0f7q","competition":"21st ASU","problem":"If the graph of the function $f = f(x)$ is rotated through $90$ degrees about the origin, then it is not changed. Show that there is a unique solution to $f(b) = b$. Give an example of such a function.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04cf","competition":"Mathematica competitions in Croatia","problem":"In triangle $ABC$ the side $BC$ is of length $6$, cosine of the angle $\\angle ABC$ equals $\frac{4}{5}$, and the radius of the incircle is $1$. Determine the lengths of the sides $AB$ and $AC$ of the triangle.","solutions":[],"images":[]});

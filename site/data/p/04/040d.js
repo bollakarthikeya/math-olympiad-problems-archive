@@ -1,0 +1,1 @@
+__p({"id":"040d","competition":"China Girls' Mathematical Olympiad","problem":"There is a stone at each vertex of a given regular $13$-gon, and the color of each stone is black or white. Prove that we may exchange the position of two stones such that the coloring of these stones are symmetric with respect to some symmetric axis of the $13$-gon.","solutions":[],"images":[]});

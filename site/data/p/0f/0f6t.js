@@ -1,0 +1,1 @@
+__p({"id":"0f6t","competition":"20th ASU","problem":"$ABC$ is a triangle with $AB \\neq AC$. Show that for each line through $A$, there is at most one point $X$ on the line (excluding $A$, $B$, $C$) with $\\angle ABX = \\angle ACX$. Which lines contain no such points $X$?","solutions":[],"images":[]});

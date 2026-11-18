@@ -1,0 +1,1 @@
+__p({"id":"0hq4","competition":"","problem":"The cafeteria in a certain laboratory is open from noon until 2 in the afternoon every Monday for lunch. Two professors eat 15 minute lunches sometime between noon and 2. What is the probability that they are in the cafeteria simultaneously on any given Monday?","solutions":["$\\frac{15}{64}$."],"images":[]});

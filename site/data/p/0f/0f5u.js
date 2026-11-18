@@ -1,0 +1,1 @@
+__p({"id":"0f5u","competition":"18th ASU","problem":"A number is prime however we order its digits. Show that it cannot contain more than three different digits. For example, $337$ satisfies the conditions because $337$, $373$ and $733$ are all prime.","solutions":[],"images":[]});

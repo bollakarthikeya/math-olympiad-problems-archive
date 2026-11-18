@@ -1,0 +1,1 @@
+__p({"id":"0f15","competition":"ASU","problem":"Find all real $a$, $b$, $c$ such that $a x + b y + c z + b x + c y + a z + c x + a y + b z = x + y + z$ for all real $x$, $y$, $z$.","solutions":[],"images":[]});

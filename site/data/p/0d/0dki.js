@@ -1,0 +1,1 @@
+__p({"id":"0dki","competition":"Saudi Booklet","problem":"Let $\\triangle ABC$ be an acute triangle and $\\omega$ be its circumcircle. Points $F$ on $AC$, $E$ on $AB$, and $P$ and $Q$ on $\\omega$ are given such that\n$$\n\\angle AFB = \\angle AEC = \\angle APE = \\angle AQF = 90^\\circ.\n$$\nProve that the lines $BC$, $EF$, and $PQ$ are concurrent.","solutions":[],"images":[]});

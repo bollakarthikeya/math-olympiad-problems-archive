@@ -1,0 +1,1 @@
+__p({"id":"04m9","competition":"Croatia_2018","problem":"In 2018 Matija will turn the age which is equal to three times the sum of digits of the year he was born in. The same statement is true for his grandfather. What age did his grandfather turn in the year Matija was born?","solutions":[],"images":[]});

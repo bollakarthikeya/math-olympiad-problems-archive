@@ -1,0 +1,1 @@
+__p({"id":"09l4","competition":"Mongolian Mathematical Olympiad","problem":"A convex polygon has exactly $2023$ obtuse angles. Determine the maximum possible number of angles that this polygon can have.","solutions":[],"images":[]});

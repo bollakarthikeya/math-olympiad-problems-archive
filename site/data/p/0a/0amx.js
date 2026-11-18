@@ -1,0 +1,1 @@
+__p({"id":"0amx","competition":"QUALIFYING STAGE","problem":"Find the maximum value of $y = (7 - x)^{4} (2 + x)^{5}$ when $x$ lies strictly between $-2$ and $7$.\n\n(a) $7^{4} 2^{5}$\n(b) $(4.5)^{4} (2.5)^{5}$\n(c) $(2.5)^{9}$\n(d) $(4.5)^{9}$","solutions":[],"images":[]});

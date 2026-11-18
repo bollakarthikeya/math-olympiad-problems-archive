@@ -1,0 +1,1 @@
+__p({"id":"09hs","competition":"Round 2","problem":"For nonnegative real numbers $a, b, c \\ge 0$ satisfying $a+b+c \\le 1$, prove\n$$ (b+ac)^4 + c^2 \\ge (ab+c)^4 + c^2a^4. $$\n(Proposed by Otgonbayar Uuye)","solutions":[],"images":[]});

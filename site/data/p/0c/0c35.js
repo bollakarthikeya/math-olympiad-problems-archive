@@ -1,0 +1,1 @@
+__p({"id":"0c35","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Determine digits $x$ and $y$ such that $\\frac{5xy23}{4xy24} = \\frac{523}{424}$.","solutions":[],"images":[]});

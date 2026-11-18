@@ -1,0 +1,1 @@
+__p({"id":"0as4","competition":"13th Philippine Mathematical Olympiad","problem":"If $\\frac{x-a-b}{c}+\\frac{x-b-c}{a}+\\frac{x-c-a}{b}=3$, where $a, b, c$ are positive constants, find $x$ in terms of $a, b$ and $c$.","solutions":["(ans. $x=a+b+c$.\nSubstituting this into the equation, one gets $\\frac{c}{c}+\\frac{a}{a}+\\frac{b}{b}=3$.)"],"images":[]});

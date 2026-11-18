@@ -1,0 +1,1 @@
+__p({"id":"0b4t","competition":"25th Philippine Mathematical Olympiad Area Stage","problem":"Suppose that $P(x)$ and $Q(x)$ are both quadratic polynomials with leading coefficient $1$ such that $P(P(x)-x) = (Q(x))^2$ for all real numbers $x$ and $P(2) = 0$. Find the sum of all possible values of $P(10)$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09n2","competition":"Mongolian Mathematical Olympiad","problem":"Let $a$, $b$, $c$ be real numbers with sum $a + b + c = 3$. Prove that\n$$\n\\frac{a^2 + b^2 + c^2}{2} + \\frac{1}{a^2 + 1} + \\frac{1}{b^2 + 1} + \\frac{1}{c^2 + 1} \\geq 3.\n$$","solutions":[],"images":[]});

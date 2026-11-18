@@ -1,0 +1,1 @@
+__p({"id":"04lj","competition":"Mathematical competitions in Croatia","problem":"Sequences $(x_n)$ and $(y_n)$ are given recursively:\n$x_1 = 3$, $y_1 = 1$,\n$x_{n+1} = 3x_n + y_n$, for all $n \\in \\mathbb{N}$;\n$y_{n+1} = x_n + 3y_n$, for all $n \\in \\mathbb{N}$.\nProve that $x_{2017}^2 - y_{2017}^2 = 8^{2017}$.","solutions":[],"images":[]});

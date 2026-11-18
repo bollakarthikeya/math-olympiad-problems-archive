@@ -1,0 +1,1 @@
+__p({"id":"0jim","competition":"HMMT November 2014","problem":"Solve for $x$ in the equation $20 \\cdot 14 + x = 20 + 14 \\cdot x$.","solutions":["Answer: $20$\n\nBy inspection, $20 + 14 \\cdot 20 = 20 \\cdot 14 + 20$.\n\nAlternatively, one can simply compute $x = \\frac{20 \\cdot 14 - 20}{14 - 1} = 20$."],"images":[]});

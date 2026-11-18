@@ -1,0 +1,1 @@
+__p({"id":"08hu","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"2003 denars were divided in several bags and the bags were placed in several pockets. The number of bags is greater than the number of denars in each pocket. Is it true that the number of pockets is greater than the number of denars in one of the bags?","solutions":[],"images":[]});

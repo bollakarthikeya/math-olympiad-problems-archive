@@ -1,0 +1,1 @@
+__p({"id":"03a8","competition":"Winter Mathematical Competition","problem":"Let $a$ be a real number such that the quadratic equation $x^2 - x + a = 0$ has two real distinct roots $x_1$ and $x_2$. Prove that $|x_1^2 - x_2^2| = 1$ if and only if $|x_1^3 - x_2^3| = 1$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"03kk","competition":"Canadian Mathematical Olympiad","problem":"Find all real solutions to the following system of equations. Carefully justify your answer.\n$$\n\\left\\{\\begin{array}{l}\n\\frac{4 x^{2}}{1+4 x^{2}}=y \\\\\n\\frac{4 y^{2}}{1+4 y^{2}}=z \\\\\n\\frac{4 z^{2}}{1+4 z^{2}}=x\n\\end{array}\\right.\n$$","solutions":[],"images":[]});

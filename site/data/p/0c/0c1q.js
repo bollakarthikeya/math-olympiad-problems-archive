@@ -1,0 +1,1 @@
+__p({"id":"0c1q","competition":"2018 Romanian Mathematical Olympiad","problem":"Prove that a continuous function $f: \\mathbb{R} \\to \\mathbb{R}$ is non-decreasing if and only if\n$$\n(c - b) \\int_{a}^{b} f(x) \\, dx \\leq (b - a) \\int_{b}^{c} f(x) \\, dx,\n$$\nfor all $a < b < c$.","solutions":[],"images":[]});

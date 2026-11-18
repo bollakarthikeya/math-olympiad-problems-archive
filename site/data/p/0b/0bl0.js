@@ -1,0 +1,1 @@
+__p({"id":"0bl0","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Consider numbers $7^{n+7}, 11^{n+11}, 15^{n+15}, \\dots, 4007^{n+4007}$, where $n$ is a positive integer. Prove that at least ten non-nil differences of the given numbers are divisible by $500$.","solutions":[],"images":[]});

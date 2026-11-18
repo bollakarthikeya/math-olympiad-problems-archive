@@ -1,0 +1,1 @@
+__p({"id":"0di0","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"How many triples $(x, y, z)$ of 6 digit positive integers exists, such that all digits of $x, y, z$ are odd and $x + y = 10z$?","solutions":[],"images":[]});

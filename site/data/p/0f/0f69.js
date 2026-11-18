@@ -1,0 +1,1 @@
+__p({"id":"0f69","competition":"18th ASU","problem":"The incircle of the triangle $ABC$ has center $I$ and touches $BC$, $CA$, $AB$ at $D$, $E$, $F$ respectively. The segments $AI$, $BI$, $CI$ intersect the circle at $D'$, $E'$, $F'$ respectively. Show that $DD'$, $EE'$, $FF'$ are collinear.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0asj","competition":"Philippines Mathematical Olympiad","problem":"Find all real values of $x$ that satisfy the equation $x^{x^{2010}} = x^{2010}$.","solutions":["$\\sqrt[2010]{2010}$\n\n$-\\sqrt[2010]{2010}, 1$"],"images":[]});

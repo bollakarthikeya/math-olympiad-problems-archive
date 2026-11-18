@@ -1,0 +1,1 @@
+__p({"id":"01ws","competition":"69th Belarusian Mathematical Olympiad","problem":"Does there exist an integer $n > 1$ such that $2^{n-1} + 1$ is divisible by $n$?","solutions":["See T. Andreescu, G. Dospinescu, Problems from the Book, 2008, P. 54, Ex. 7."],"images":[]});

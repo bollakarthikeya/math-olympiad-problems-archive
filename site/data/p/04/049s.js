@@ -1,0 +1,1 @@
+__p({"id":"049s","competition":"CroatianCompetitions2011","problem":"Let $a$, $b$, $c$ be positive real numbers such that $a + b + c = abc$. Prove\n$$\na^{5} (bc - 1) + b^{5} (ca - 1) + c^{5} (ab - 1) \\geq 54\\sqrt{3}.\n$$","solutions":[],"images":[]});

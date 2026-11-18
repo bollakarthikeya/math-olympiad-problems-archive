@@ -1,0 +1,1 @@
+__p({"id":"0bzz","competition":"Shortlisted problems for the 69th NMO","problem":"Consider integers of the form $\\overline{abcd}$ such that:\n\na) $a \\ge b \\ge c \\ge d$;\n\nb) $a+b+c+d = 11$;\n\nc) $\\overline{abcd} - \\overline{cba} = 8082$.\n\nDetermine integers of the form $\\overline{bdca}$ that satisfy all these conditions.","solutions":[],"images":[]});

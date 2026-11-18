@@ -1,0 +1,1 @@
+__p({"id":"078b","competition":"IMOTC Practice Test 2","problem":"Let $n$ be any positive integer, and let $S(n)$ denote the number of permutations $\\tau$ of $\\{1, \\dots, n\\}$ such that $k^4 + (\\tau(k))^4$ is prime for all $k = 1, \\dots, n$. Show that $S(n)$ is always a square.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0anr","competition":"QUALIFYING STAGE","problem":"The equation $x^{2}-b x+c=0$ has two roots $p$ and $q$. If the product $p q$ is to be maximum, what value of $b$ will make $b+c$ minimum?\n\n(a) $-c$\n(b) $-2$\n(c) $\\frac{1}{2}$\n(d) $2c$","solutions":[],"images":[]});

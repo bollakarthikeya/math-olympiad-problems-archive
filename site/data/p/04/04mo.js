@@ -1,0 +1,1 @@
+__p({"id":"04mo","competition":"Croatia_2018","problem":"Marin labels the vertices of a cube with numbers $1, 2, \\ldots, 8$, and then labels each edge with the sum of numbers in the vertices joined by that edge. Can he arrange the numbers in the vertices so that all the edges are labelled with different numbers?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04hs","competition":"Croatia Mathematical Competitions","problem":"Let $x$ and $y$ be distinct real numbers such that $2xy + 1 \\neq 0$, and let\n$$\nA = \\frac{6x^2y^2 + xy - 1}{2xy + 1} \\quad \\text{and} \\quad B = \\frac{x(x^2 - 1) - y(y^2 - 1)}{x - y}.\n$$\nDetermine which number is larger, $A$ or $B$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0atc","competition":"Philippine Mathematical Olympiad","problem":"Let $r$ be some real constant, and $P(x)$ a polynomial which has remainder $2$ when divided by $x - r$, and remainder $-2x^{2} - 3x + 4$ when divided by $(2x^{2} + 7x - 4)(x - r)$. Find all values of $r$.","solutions":[],"images":[]});

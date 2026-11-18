@@ -1,0 +1,1 @@
+__p({"id":"09oy","competition":"MMO2025 Round 2","problem":"Let $\\alpha = \\sqrt{60} + \\sqrt{61}$.\n\n(1) Prove that $\\alpha$ is irrational.\n\n(2) Find an example of polynomial with integer coefficients for which $\\alpha$ is a root.\n\n(Batbayasgalan Balkhuu)","solutions":[],"images":[]});

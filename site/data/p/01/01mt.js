@@ -1,0 +1,1 @@
+__p({"id":"01mt","competition":"61st Belarusian Mathematical Olympiad","problem":"Points $M$ and $L$ are the midpoints of the sides $AB$ and $BC$ of an isosceles triangle $ABC$ ($BC = AC$). Point $N$ is marked on the side $AC$ so that $NA + AM = LN = LM$.\nFind the value of the angle $NLM$.\n(Slovenia, 2010)","solutions":[],"images":[]});

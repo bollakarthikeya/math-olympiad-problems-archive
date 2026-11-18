@@ -1,0 +1,1 @@
+__p({"id":"0kj1","competition":"AMC 12 A","problem":"For each positive integer $n$, let $f_1(n)$ be twice the number of positive integer divisors of $n$, and for $j \\ge 2$, let $f_j(n) = f_1(f_{j-1}(n))$. For how many values of $n \\le 50$ is $f_{50}(n) = 12$?\n(A) 7 (B) 8 (C) 9 (D) 10 (E) 11","solutions":[],"images":[]});

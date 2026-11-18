@@ -1,0 +1,1 @@
+__p({"id":"0jl8","competition":"HMMT November 2014","problem":"How many two-digit prime numbers have the property that both digits are also primes?","solutions":["Answer: $4$\n\nWhen considering the $16$ two-digit numbers with $2, 3, 5$, and $7$ as digits, we find that only $23, 37, 53$, and $73$ have this property."],"images":[]});

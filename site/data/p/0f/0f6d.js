@@ -1,0 +1,1 @@
+__p({"id":"0f6d","competition":"19th ASU","problem":"$n$ lines are drawn in the plane. Some of the resulting regions are colored black, no pair of painted regions have a boundary line in common (but they may have a common vertex). Show that at most $\\dfrac{n^2 + n}{3}$ regions are black.","solutions":[],"images":[]});

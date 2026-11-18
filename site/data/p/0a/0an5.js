@@ -1,0 +1,1 @@
+__p({"id":"0an5","competition":"Area Stage","problem":"If $(x-a)(x-b)(x-c)(x-d)=9$ is solved by $x=2$, and $a, b, c$, and $d$ are distinct integers, find the sum $a+b+c+d$.","solutions":[],"images":[]});

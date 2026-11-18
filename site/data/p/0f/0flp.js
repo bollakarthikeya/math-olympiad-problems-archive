@@ -1,0 +1,1 @@
+__p({"id":"0flp","competition":"Spanija 2012","problem":"For a given positive integer $n$, find the sum of all positive integers smaller than $10n$ which are not divisible neither by $2$ nor by $5$.","solutions":[],"images":[]});

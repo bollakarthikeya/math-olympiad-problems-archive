@@ -1,0 +1,1 @@
+__p({"id":"06l4","competition":"HKG TST","problem":"Find the maximal value of\n$$\nS = \\sqrt[3]{\\frac{a}{b+7}} + \\sqrt[3]{\\frac{b}{c+7}} + \\sqrt[3]{\\frac{c}{d+7}} + \\sqrt[3]{\\frac{d}{a+7}},\n$$\nwhere $a$, $b$, $c$, $d$ are nonnegative real numbers which satisfy $a + b + c + d = 100$.","solutions":["(IMO Shortlist 2018 A7) See the official solution."],"images":[]});

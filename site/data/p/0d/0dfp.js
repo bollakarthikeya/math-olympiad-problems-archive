@@ -1,0 +1,1 @@
+__p({"id":"0dfp","competition":"Saudi Arabian IMO Booklet","problem":"Let $f(x) = x^2 - 6x + 5$. Draw on the plane the set of pairs $(x, y)$ that satisfy the following system of inequalities\n$$\n\\begin{cases}\nf(x) + f(y) \\leq 0 \\\\\nf(x) - f(y) \\geq 0\n\\end{cases} .\n$$","solutions":[],"images":[]});

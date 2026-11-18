@@ -1,0 +1,1 @@
+__p({"id":"03dj","competition":"Bulgaria 2022","problem":"Find $x^2 + p = qx$ where\n$$\np = (32 + \\sqrt{2})(9 - \\sqrt{8})^{-1}, \\quad q = \\sqrt{9 + \\sqrt{8} - \\sqrt{24} - \\sqrt{48}} + \\sqrt{3 - \\sqrt{8}} + \\sqrt{55 - 14\\sqrt{6}}\n$$","solutions":[],"images":[]});

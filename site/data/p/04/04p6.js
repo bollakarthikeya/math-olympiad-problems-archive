@@ -1,0 +1,1 @@
+__p({"id":"04p6","competition":"Croatian Mathematical Society Competitions","problem":"Point $P$ is the midpoint of the segment $\\overline{AB}$ of length $2$. Let $T$ be the point at which the tangent from $A$ touches the circle with diameter $\\overline{PB}$. Find the length of the segment $\\overline{PT}$.\n\n(Petar Bakić)","solutions":[],"images":[]});

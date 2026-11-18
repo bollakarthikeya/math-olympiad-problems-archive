@@ -1,0 +1,1 @@
+__p({"id":"0am5","competition":"Area Stage","problem":"There are two values of $r$ such that $x^{4} - x^{3} - 18 x^{2} + 52 x + k$ has $x - r$ as a factor. If one of them is $r = 2$, what is the other value of $r$?","solutions":[],"images":[]});

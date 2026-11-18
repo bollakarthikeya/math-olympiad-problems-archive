@@ -1,0 +1,1 @@
+__p({"id":"0789","competition":"EGMO TST Day 2","problem":"Let $ABC$ be an isosceles triangle with $AB = AC$. Suppose $P, Q, R$ are points on segments $AC, AB, BC$ respectively such that $AP = QB$, $\\angle PBC = 90 - \\angle BAC$ and $RP = RQ$. Let $O_1, O_2$ be the circumcenters of $\\triangle APQ$ and $\\triangle CRP$. Prove that $BR = O_1O_2$.","solutions":[],"images":[]});

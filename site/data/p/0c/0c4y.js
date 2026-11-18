@@ -1,0 +1,1 @@
+__p({"id":"0c4y","competition":"SHORTLISTED PROBLEMS FOR THE 70th NMO","problem":"Find three integers so that their sum is $2^{93} + 2^{90} + 3^{51}$, the first is 4 times smaller than the second and the third is with $27^{17}$ larger than the second.","solutions":[],"images":[]});

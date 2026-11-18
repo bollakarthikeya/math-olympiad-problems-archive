@@ -1,0 +1,1 @@
+__p({"id":"03kp","competition":"Canadian Mathematical Olympiad","problem":"Write the sum\n$$\n\\sum_{k=0}^{n} \\frac{(-1)^{k}\\binom{n}{k}}{k^{3}+9 k^{2}+26 k+24}\n$$\nin the form $\\frac{p(n)}{q(n)}$, where $p$ and $q$ are polynomials with integer coefficients.","solutions":[],"images":[]});

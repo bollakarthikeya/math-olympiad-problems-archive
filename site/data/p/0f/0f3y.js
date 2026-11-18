@@ -1,0 +1,1 @@
+__p({"id":"0f3y","competition":"15th ASU","problem":"Is it possible to color half the cells in a rectangular array white and half black so that in each row and column more than $\\frac{3}{4}$ of the cells are the same color?","solutions":[],"images":[]});

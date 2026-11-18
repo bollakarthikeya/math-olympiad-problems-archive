@@ -1,0 +1,1 @@
+__p({"id":"0dc3","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $a$, $b$, $c$ be positive real numbers. Prove that\n$$\n\\frac{a^{3}}{a^{2}+b c}+\\frac{b^{3}}{b^{2}+c a}+\\frac{c^{3}}{c^{2}+a b} \\geq \\frac{\\left(a^{2}+b^{2}+c^{2}\\right)(a b+b c+c a)}{a^{3}+b^{3}+c^{3}+3 a b c}\n$$\nWhen will the equality hold?","solutions":[],"images":[]});

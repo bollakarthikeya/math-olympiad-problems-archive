@@ -1,0 +1,1 @@
+__p({"id":"09wi","competition":"Second Round","problem":"The *digit sum* of a number is obtained by adding all digits of the number. For example, the digit sum of $1303$ is $1 + 3 + 0 + 3 = 7$. Find the smallest positive integer $n$ for which both the digit sum of $n$ and the digit sum of $n + 1$ are divisible by $5$.","solutions":["$49999$"],"images":[]});

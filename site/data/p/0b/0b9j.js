@@ -1,0 +1,1 @@
+__p({"id":"0b9j","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"Prove that if $n$ and $p$ are integers, $1 < p < n$, then the number\n$$\n(2p+1)n^3 + 6n(1^2 + 2^2 + 3^2 + \\dots + p^2)\n$$\ncan be written as the sum of $2p + 1$ different perfect cubes.","solutions":[],"images":[]});

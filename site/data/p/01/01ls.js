@@ -1,0 +1,1 @@
+__p({"id":"01ls","competition":"Selection and Training Session","problem":"Is it possible to arrange the numbers $1, 2, \\ldots, 2011$ over the circle in some order so that among any $25$ successive numbers at least $8$ numbers are multiples of $5$ or $7$ (or both $5$ and $7$)?","solutions":["Answer: it is not possible."],"images":[]});

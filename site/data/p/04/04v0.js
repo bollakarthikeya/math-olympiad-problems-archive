@@ -1,0 +1,1 @@
+__p({"id":"04v0","competition":"Final Round","problem":"Let $ABCD$ be a convex quadrilateral with $AB = BC = CD$ and $P$ its intersection of diagonals. Denote by $O_1, O_2$ the circumcenters of triangles $ABP, CDP$, respectively. Prove that $O_1BCO_2$ is a parallelogram.","solutions":[],"images":[]});

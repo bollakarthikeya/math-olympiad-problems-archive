@@ -1,0 +1,1 @@
+__p({"id":"0f6c","competition":"19th ASU","problem":"The sequence $\\{a_1, a_2, a_3, \\ldots\\}$ satisfies $a_{4n + 1} = 1$, $a_{4n + 3} = 0$, $a_{2n} = a_n$. Show that it is not periodic.","solutions":[],"images":[]});

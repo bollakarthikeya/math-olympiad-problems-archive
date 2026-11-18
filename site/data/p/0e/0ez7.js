@@ -1,0 +1,1 @@
+__p({"id":"0ez7","competition":"4th ASU","problem":"$ABC$ is a triangle with incenter $I$. $M$ is the midpoint of $BC$. $IM$ meets the altitude $AH$ at $E$. Show that $AE = r$, the radius of the inscribed circle.","solutions":[],"images":[]});

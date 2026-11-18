@@ -1,0 +1,1 @@
+__p({"id":"0ame","competition":"Area Stage","problem":"For what values of $k$ will the system below have no solution?\n$$\n\\begin{aligned}\n(k-3)x + 2y &= k^2 - 1 \\\\\nx + \\left(\\frac{k-4}{3}\\right)y &= 0\n\\end{aligned}\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f5p","competition":"18th ASU","problem":"$ABC$ is a triangle and $P$ is any point. The lines $PA$, $PB$, $PC$ cut the circumcircle of $ABC$ again at $A'$, $B'$, $C'$ respectively. Show that there are at most eight points $P$ such that $A'B'C'$ is congruent to $ABC$.","solutions":[],"images":[]});

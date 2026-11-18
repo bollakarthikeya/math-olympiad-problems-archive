@@ -1,0 +1,1 @@
+__p({"id":"0djs","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Find all function $f: \\mathbb{R}^+ \\to \\mathbb{R}^+$ such that for $x, y, z > 0$ pairwise distinct then\n$$\nf(x)^2 - f(y)f(z) \\le f(xy)f(y)f(z)[f(yz) - f(zx)].\n$$","solutions":[],"images":[]});

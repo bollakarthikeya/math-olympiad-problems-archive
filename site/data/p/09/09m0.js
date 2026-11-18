@@ -1,0 +1,1 @@
+__p({"id":"09m0","competition":"Mongolian Mathematical Olympiad","problem":"Find all ordered triples of positive integers $x \\le y \\le z$ such that $x^2 + y^2 + z^2 = 99\\ldots 9$.","solutions":[],"images":[]});

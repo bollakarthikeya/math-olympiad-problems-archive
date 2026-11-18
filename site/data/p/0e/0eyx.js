@@ -1,0 +1,1 @@
+__p({"id":"0eyx","competition":"3rd ASU","problem":"A regular $n$-gon is inscribed in a circle radius $R$. The distance from the center of the circle to the center of a side is $h_{n}$. Prove that $(n + 1) h_{n + 1} - n h_{n} > R$.","solutions":[],"images":[]});

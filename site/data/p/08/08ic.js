@@ -1,0 +1,1 @@
+__p({"id":"08ic","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Let $x$ be a real number. Find the smallest value of the expression\n$$\\sqrt{x^{2}+2x+4}+\\sqrt{x^{2}-\\sqrt{3}\\,x+1}.$$","solutions":[],"images":[]});

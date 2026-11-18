@@ -1,0 +1,1 @@
+__p({"id":"0f8q","competition":"23rd ASU","problem":"Do there exist two reals whose sum is rational, but the sum of their $n$th powers is irrational for all $n > 1$? Do there exist two reals whose sum is irrational, but the sum of whose $n$th powers is rational for all $n > 1$?","solutions":[],"images":[]});

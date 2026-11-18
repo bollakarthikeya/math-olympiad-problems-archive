@@ -1,0 +1,1 @@
+__p({"id":"0f9p","competition":"24th ASU","problem":"Given $2n$ genuine coins and $2n$ fake coins. The fake coins look the same as genuine coins but weigh less (but all fake coins have the same weight). Show how to identify each coin as genuine or fake using a balance at most $3n$ times.","solutions":[],"images":[]});

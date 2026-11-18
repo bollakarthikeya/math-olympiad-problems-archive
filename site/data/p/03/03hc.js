@@ -1,0 +1,1 @@
+__p({"id":"03hc","competition":"Canadian Mathematical Olympiad","problem":"Prove that if $p$ and $p+2$ are both prime integers greater than $3$, then $6$ is a factor of $p+1$.","solutions":[],"images":[]});

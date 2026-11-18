@@ -1,0 +1,1 @@
+__p({"id":"0dig","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Let $ABC$ be an acute triangle, $D$ be the foot of altitude from $A$ to $BC$. We constructed the two squares $ABKL$, $ACMN$ outside the triangle. Prove that the lines $AD$, $BM$, $KC$ are concurrent at one point.","solutions":[],"images":[]});

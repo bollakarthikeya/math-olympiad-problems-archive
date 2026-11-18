@@ -1,0 +1,1 @@
+__p({"id":"0alj","competition":"18th PMO Area Stage","problem":"Marc and Jon together have $66$ marbles although Marc has twice as many marbles as Jon. Incidentally, Jon found a bag of marbles which enabled him to have three times as many marbles as Mark. How many marbles were in the bag that Jon found?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0deq","competition":"Saudi Arabian IMO Booklet","problem":"Prove that for every polynomial $P(x)$ there exist polynomials $Q(x)$ and $R(x)$ such that $P(x) = Q(x^2) + R((x+1)^2)$.","solutions":[],"images":[]});

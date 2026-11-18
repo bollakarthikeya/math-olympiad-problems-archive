@@ -1,0 +1,1 @@
+__p({"id":"01mp","competition":"61st Belarusian Mathematical Olympiad","problem":"Prove that if positive numbers $a$, $b$, $x$, $y$ satisfy the inequalities $ab \\ge xa + yb$, then they satisfy the inequality $ab \\ge 4xy$.","solutions":[],"images":[]});

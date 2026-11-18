@@ -1,0 +1,1 @@
+__p({"id":"0jjq","competition":"HMMT 2014 HMIC","problem":"2014 triangles have non-overlapping interiors contained in a circle of radius $1$. What is the largest possible value of the sum of their areas?","solutions":["Answer: N/A This problem turned out to be much trickier than we expected. We have yet to see a complete solution, but let us know if you find one!"],"images":[]});

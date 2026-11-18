@@ -1,0 +1,1 @@
+__p({"id":"0c70","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Find the greatest integer $n$ for which the following condition holds: one can find $n$ distinct lines starting at the same point such that the angle made by any two of them, measured in degrees, is an integer that is not a prime.","solutions":[],"images":[]});

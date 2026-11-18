@@ -1,0 +1,1 @@
+__p({"id":"0c6g","competition":"70th ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Let $n \\ge 2$, be an integer. Find in terms of $n$ the maximum value of $m \\le n$ such that we can select $m$ numbers from the set $1, 2, 3, \\dots, n$ in such a way that for any two of them, say $a, b$, with $a > b$, the number $a-b$ does not divide $a+b$.\nVasile Pop","solutions":[],"images":[]});

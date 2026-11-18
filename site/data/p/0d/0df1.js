@@ -1,0 +1,1 @@
+__p({"id":"0df1","competition":"Saudi Arabian IMO Booklet","problem":"You are given $n$ different primes $p_1, p_2, \\dots, p_n$. Consider the polynomial\n$$\nx^n + a_1x^{n-1} + a_2x^{n-2} + \\dots + a_{n-1}x + a_n,\n$$\nwhere $a_i$ is the product of the first $i$ given prime numbers. For what $n$ can it have an integer root?","solutions":[],"images":[]});

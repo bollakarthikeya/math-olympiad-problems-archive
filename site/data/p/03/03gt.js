@@ -1,0 +1,1 @@
+__p({"id":"03gt","competition":"Canadian Mathematical Olympiad","problem":"Find all number triples $(x, y, z)$ such that when any one of these numbers is added to the product of the other two, the result is $2$.","solutions":[],"images":[]});

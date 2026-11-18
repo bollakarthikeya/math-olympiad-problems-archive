@@ -1,0 +1,1 @@
+__p({"id":"0c4v","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"Let $x$, $y$, $z$, $t$ be a permutation of the real numbers $a$, $b$, $c$, $d$. It is known that $x \\le 2a - b$, $y \\le 2b - c$, $z \\le 2c - d$, $t \\le 2d - a$. Prove that $a = b = c = d$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04gy","competition":"Mathematica competitions in Croatia","problem":"Let $n \\ge 2$ be an integer and let $a_0, a_1, \\ldots, a_n$ be consecutive terms of an arithmetic progression. Prove that\n$$\na_0 - \\binom{n}{1}a_1 + \\dots + (-1)^k \\binom{n}{k}a_k + \\dots + (-1)^n \\binom{n}{n}a_n = 0.\n$$","solutions":[],"images":[]});

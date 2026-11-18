@@ -1,0 +1,1 @@
+__p({"id":"03ey","competition":"Bulgarian Winter Tournament","problem":"Let $p > q$ be primes, such that $240 \\nmid p^4 - q^4$. Find the maximal value of $\\frac{q}{p}$.\n(Angel Gushev)","solutions":["$\\square$"],"images":[]});

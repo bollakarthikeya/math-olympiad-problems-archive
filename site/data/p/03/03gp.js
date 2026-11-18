@@ -1,0 +1,1 @@
+__p({"id":"03gp","competition":"Canadian Mathematical Olympiad","problem":"Two flag poles of heights $h$ and $k$ are situated $2a$ units apart on a level surface. Find the set of all points on the surface which are so situated that the angles of elevation of the tops of the poles are equal.","solutions":[],"images":[]});

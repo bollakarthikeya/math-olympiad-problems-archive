@@ -1,0 +1,1 @@
+__p({"id":"0ao5","competition":"18th PMO Area Stage","problem":"Evaluate\n$$\n\\prod_{\\theta=1}^{89}\\left(\\tan \\theta^{\\circ} \\cos 1^{\\circ}+\\sin 1^{\\circ}\\right)\n$$","solutions":[],"images":[]});

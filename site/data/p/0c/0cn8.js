@@ -1,0 +1,1 @@
+__p({"id":"0cn8","competition":"Russian mathematical olympiad","problem":"Given integers $x, y \\in [2, 100]$, prove that there exists a positive integer $n$ such that the number $x^2 + y^2$ is composite.\n\n(S. Berlov, A. Belov)","solutions":["11.8. См. решение задачи 10.8."],"images":[]});

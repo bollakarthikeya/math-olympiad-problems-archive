@@ -1,0 +1,1 @@
+__p({"id":"04pk","competition":"Croatian Mathematical Society Competitions","problem":"We define the weight of a pair of numbers $\\{a, b\\}$ as $|a-b|$. In how many ways can the set $\\{1, 2, \\dots, 12\\}$ be divided into six pairs so that the total sum of weights of all pairs equals $30$?\n\n(Japan 2018)","solutions":[],"images":[]});

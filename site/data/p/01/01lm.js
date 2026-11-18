@@ -1,0 +1,1 @@
+__p({"id":"01lm","competition":"Belarusian Mathematical Olympiad","problem":"Three distinct real numbers satisfy the following condition: the sum of cubes of any two of them is $\\frac{3}{4}$ smaller than the square of the remaining number.\nFind all possible values of the product of these numbers.","solutions":[],"images":[]});

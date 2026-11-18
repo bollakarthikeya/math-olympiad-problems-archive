@@ -1,0 +1,1 @@
+__p({"id":"0axe","competition":"Philippine Mathematical Olympiad","problem":"Evaluate: $6+\\frac{16}{6+\\frac{16}{6+\\frac{16}{6+\\cdots}}}$","solutions":["Let $x$ be equal to the continued fraction to be evaluated. Assuming the continued fraction converges, we must have $x=6+\\frac{16}{x}$, which has $8$ and $-2$ as solutions. Since $x$ must be positive, $x=8$."],"images":[]});

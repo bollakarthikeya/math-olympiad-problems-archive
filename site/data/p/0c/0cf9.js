@@ -1,0 +1,1 @@
+__p({"id":"0cf9","competition":"74th NMO Shortlisted Problems","problem":"Let $k \\ge 2$ be a given positive integer. Determine the number of pairs $(m, n)$ of positive integers, with $m, n < 2^k$, such that the equation $z^{2^k} - z^m - z^n = 1$ has at least one solution with modulus $1$.\nBogdan Blaga","solutions":[],"images":[]});

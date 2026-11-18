@@ -1,0 +1,1 @@
+__p({"id":"04b9","competition":"Mathematica competitions in Croatia","problem":"Let $ABCD$ be a parallelogram with an acute angle at vertex $A$. $G$ is a point on the line $AB$, different from $B$, such that $|BC| = |CG|$, and $H$ is a point on the line $BC$, different from $B$, such that $|AB| = |AH|$. Prove that the triangle $DGH$ is isosceles.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dhr","competition":"Saudi Arabian IMO Booklet","problem":"Given is a convex $n$-gon with no four vertices concyclic. A triple of vertices is called 'round' if the circle passing through these points covers the entire polygon. Determine, in terms of $n$, all possible values of the number of round triples.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0at4","competition":"Philippines Mathematical Olympiad","problem":"In $\\triangle ABC$ with $BC = 24$, one of the trisectors of $\\angle A$ is a median, while the other trisector is an altitude. What is the area of $\\triangle ABC$?","solutions":["$32 \\sqrt{3}$"],"images":[]});

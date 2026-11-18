@@ -1,0 +1,1 @@
+__p({"id":"0aua","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"What is the remainder when\n$$\n16^{15} - 8^{15} - 4^{15} - 2^{15} - 1^{15}\n$$\nis divided by $96$?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"03as","competition":"Selection test for 27. Balkan Mathematical Olympiad","problem":"The convex quadrilateral $ABCD$ is inscribed in the circle with diameter $AC$. The point $A$ lies on the smaller arc $BD$. Prove the inequality $|AB - AD| \\ge |CB - CD|$.","solutions":[],"images":[]});

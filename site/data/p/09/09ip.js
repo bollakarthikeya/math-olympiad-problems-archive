@@ -1,0 +1,1 @@
+__p({"id":"09ip","competition":"Mongolian Mathematical Olympiad Round 1","problem":"Prove that $\\underbrace{99\\ldots99}_{2997}$ is divisible by $998001$ and find the first four digits of the quotient.","solutions":[],"images":[]});

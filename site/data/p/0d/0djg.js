@@ -1,0 +1,1 @@
+__p({"id":"0djg","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Let $ABCD$ be a cyclic quadrilateral. Take $F \\in AB$, $E \\in CD$ such that $(FCD)$ is tangent to $AB$ and $(EAB)$ is tangent to $CD$. Denote $G = AE \\cap DF$, $H = BE \\cap CF$. Prove that $EF$ is the perpendicular bisector of $GH$.","solutions":[],"images":[]});

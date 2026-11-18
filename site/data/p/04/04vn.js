@@ -1,0 +1,1 @@
+__p({"id":"04vn","competition":"School Round","problem":"Do there exist mutually distinct real numbers $a$, $b$, $c$ such that the numbers $a^2 + b$, $b^2 + c$, $c^2 + a$ are equal, in some order, to the numbers $a + b^2$, $b + c^2$, $c + a^2$?","solutions":[],"images":[]});

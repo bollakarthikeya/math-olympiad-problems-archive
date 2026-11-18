@@ -1,0 +1,1 @@
+__p({"id":"06m5","competition":"IMO HK TST","problem":"Let $n$ be an integer, and let $A$ be a subset of $\\{0, 1, 2, 3, \\dots, 5^n\\}$ consisting of $4n+2$ numbers. Prove that there exist $a, b, c \\in A$ such that $a < b < c$ and $c + 2a > 3b$.","solutions":["(IMO Shortlist 2021 A1) See the official solution."],"images":[]});

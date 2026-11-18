@@ -1,0 +1,1 @@
+__p({"id":"0cix","competition":"75th NMO","problem":"Determine the natural numbers $n$ that are perfect squares, $2 \\le n \\le 1000$, such that $n = a^2 + b^2 + c^2$, where $a$ is the smallest proper divisor of $n$, and $b$ and $c$ are divisors of $n$, not necessarily distinct, greater than 1.","solutions":[],"images":[]});

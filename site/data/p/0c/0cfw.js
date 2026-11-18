@@ -1,0 +1,1 @@
+__p({"id":"0cfw","competition":"74th NMO Shortlisted Problems","problem":"Prove that there exist infinitely many positive integers $n$ so that $n + s(n)$ is a perfect square, where $s(x)$ stands for the sum of the decimal digits of $x$.","solutions":[],"images":[]});

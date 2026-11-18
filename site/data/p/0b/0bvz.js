@@ -1,0 +1,1 @@
+__p({"id":"0bvz","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"a) Let $n \\in \\{2, 3, \\dots, 2015\\}$ and $A \\in \\mathcal{M}_n(\\mathbb{Q})$ such that $A^{2017} = I_n$. Show that $A = I_n$.\n\nb) Is the previous affirmation true for every positive integer $n$?","solutions":[],"images":[]});

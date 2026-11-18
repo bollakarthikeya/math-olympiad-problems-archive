@@ -1,0 +1,1 @@
+__p({"id":"0bl7","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Let $n$ be a positive integer. Prove that the polynomial\n$$(X^3 + X + 1)^n + 5X^2 + 30X + 5$$\nis irreducible in $\\mathbb{Z}[X]$.","solutions":[],"images":[]});

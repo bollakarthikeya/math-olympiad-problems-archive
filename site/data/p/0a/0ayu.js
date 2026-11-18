@@ -1,0 +1,1 @@
+__p({"id":"0ayu","competition":"21st PMO Area Stage","problem":"How many distinct numbers are there in the sequence $\\left\\lfloor\\frac{1^{2}}{2018}\\right\\rfloor, \\left\\lfloor\\frac{2^{2}}{2018}\\right\\rfloor, \\ldots, \\left\\lfloor\\frac{2018^{2}}{2018}\\right\\rfloor$?","solutions":[],"images":[]});

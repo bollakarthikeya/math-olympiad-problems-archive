@@ -1,0 +1,1 @@
+__p({"id":"0hv3","competition":"","problem":"A triangle has sides of length $888$, $925$, and $x > 0$. Find the value of $x$ that minimizes the area of the circle circumscribed about the triangle.","solutions":["259 ."],"images":[]});

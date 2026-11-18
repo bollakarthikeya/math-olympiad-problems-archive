@@ -1,0 +1,1 @@
+__p({"id":"0am3","competition":"Qualifying Round","problem":"What is the constant term in the expansion of $\\left(2 x^{2}+\\frac{1}{4 x}\\right)^{6}$?\n(a) $\\frac{15}{32}$\n(b) $\\frac{12}{25}$\n(c) $\\frac{25}{42}$\n(d) $\\frac{15}{64}$","solutions":[],"images":[]});

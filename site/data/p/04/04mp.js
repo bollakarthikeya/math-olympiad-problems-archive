@@ -1,0 +1,1 @@
+__p({"id":"04mp","competition":"Croatia_2018","problem":"Find all complex numbers $z$ such that\n$$ \\mathrm{Re}(z) = 9 \\quad \\text{and} \\quad \\mathrm{Im}(z^2) = \\mathrm{Im}(z^3). \\qquad (\\text{AIME 2007}) $$","solutions":[],"images":[]});

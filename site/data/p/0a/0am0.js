@@ -1,0 +1,1 @@
+__p({"id":"0am0","competition":"18th PMO Area Stage","problem":"Find all real numbers $a$ and $b$ so that for all real numbers $x$,\n$$\n2 \\cos^2\\left(x+\\frac{b}{2}\\right) - 2 \\sin\\left(a x - \\frac{\\pi}{2}\\right) \\cos\\left(a x - \\frac{\\pi}{2}\\right) = 1\n$$","solutions":[],"images":[]});

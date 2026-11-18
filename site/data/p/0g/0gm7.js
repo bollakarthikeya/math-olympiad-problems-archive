@@ -1,0 +1,1 @@
+__p({"id":"0gm7","competition":"VIIth NATIONAL MATHEMATICAL OLYMPIAD","problem":"A positive real number $a$ and an angle with vertex $A$ are given. Show that all the circles which pass through $A$ and intersect the sides of the given angle at points $B$, $C$ with $|AB| + |AC| = a$ have a second common point in addition to $A$.","solutions":[],"images":[]});

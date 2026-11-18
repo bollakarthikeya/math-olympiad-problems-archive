@@ -1,0 +1,1 @@
+__p({"id":"06cf","competition":"HKG TST","problem":"The diagonals of a quadrilateral $ABCD$ intersect at $K$. $M, N$ are the midpoints of $AB$ and $CD$ respectively. Let $k, m, n$ be the lines through $K, M, N$ perpendicular to $AD, BD$ and $AC$ respectively. Show that if $k, m, n$ are concurrent, then $A, B, C, D$ are concyclic.","solutions":[],"images":[]});

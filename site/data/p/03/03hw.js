@@ -1,0 +1,1 @@
+__p({"id":"03hw","competition":"Canadian Mathematical Olympiad","problem":"If $A, B, C, D$ are four points in space, such that\n$$\n\\angle A B C=\\angle B C D=\\angle C D A=\\angle D A B=\\pi / 2\n$$\nprove that $A, B, C, D$ lie in a plane.","solutions":[],"images":[]});

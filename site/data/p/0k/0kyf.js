@@ -1,0 +1,1 @@
+__p({"id":"0kyf","competition":"HMMT February 2024 Guts Round","problem":"Compute the sum of all integers $n$ such that $n^{2}-3000$ is a perfect square.","solutions":["If $n^{2}-3000$ is a square, then $(-n)^{2}-3000$ is also a square, so the sum is 0."],"images":[]});

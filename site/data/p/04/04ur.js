@@ -1,0 +1,1 @@
+__p({"id":"04ur","competition":"Second Round","problem":"Is it possible to fill the $8 \\times 8$ table with numbers $6$ and $7$ such that the sum of the numbers in each column is a multiple of $5$ and the sum of the numbers in each row is a multiple of $7$? (Josef Tkadlec)","solutions":[],"images":[]});

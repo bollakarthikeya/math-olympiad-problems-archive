@@ -1,0 +1,1 @@
+__p({"id":"0bw9","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Determine the numbers written with three distinct nonzero even digits which are divisible by the product of their digits.","solutions":[],"images":[]});

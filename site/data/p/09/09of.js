@@ -1,0 +1,1 @@
+__p({"id":"09of","competition":"MMO2025 Round 2","problem":"Let $n \\ge 2$. Determine the number of ways to color the cells of a $4 \\times n$ grid such that every $2 \\times 2$ subgrid contains exactly one colored cell.\n(Batbayasgalan Balkhuu)","solutions":[],"images":[]});

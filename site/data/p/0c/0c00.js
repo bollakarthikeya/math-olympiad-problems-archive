@@ -1,0 +1,1 @@
+__p({"id":"0c00","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"The orthocenter $H$, the centroid $G$ and the incenter $I$ of a triangle are collinear points. Prove that the triangle is isosceles.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"043e","competition":"China Mathematical Competition","problem":"Suppose $f(x)$ is an odd function with domain $\\mathbb{R}$. If $f(1) = 2$, $f(2) = 3$, then the value of $f(f(-1))$ is ______.","solutions":["By the given conditions we have $f(-1) = -f(1) = -2$. Therefore,\n$$\nf(f(-1)) = f(-2) = -f(2) = -3.\n$$"],"images":[]});

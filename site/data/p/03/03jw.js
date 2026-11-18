@@ -1,0 +1,1 @@
+__p({"id":"03jw","competition":"Canadian Mathematical Olympiad","problem":"A particle can travel at speeds up to $2$ metres per second along the $x$-axis, and up to $1$ metre per second elsewhere in the plane. Provide a labelled sketch of the region which can be reached within one second by the particle starting at the origin.","solutions":[],"images":[]});

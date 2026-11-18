@@ -1,0 +1,1 @@
+__p({"id":"0d9i","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"A chessboard has $64$ cells painted black and white in the usual way. A bishop path is a sequence of distinct cells such that two consecutive cells have exactly one common point. At least how many bishop paths can the set of all white cells be divided into?","solutions":[],"images":[]});

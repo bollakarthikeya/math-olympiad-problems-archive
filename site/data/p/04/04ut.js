@@ -1,0 +1,1 @@
+__p({"id":"04ut","competition":"Second Round","problem":"Find all triples $(x, y, z)$ of positive real numbers such that\n$$\n\\begin{aligned}\nx^2 + 2y^2 &= x + 2y + 3z, \\\\\ny^2 + 2z^2 &= 2x + 3y + 4z, \\\\\nz^2 + 2x^2 &= 3x + 4y + 5z.\n\\end{aligned}\n$$\n(Patrik Bak)","solutions":[],"images":[]});

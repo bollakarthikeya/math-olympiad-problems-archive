@@ -1,0 +1,1 @@
+__p({"id":"0au3","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"In $\\triangle ABC$, $\\angle A = 80^\\circ$, $\\angle B = 30^\\circ$, and $\\angle C = 70^\\circ$. Let $BH$ be an altitude of the triangle. Extend $BH$ to a point $D$ on the other side of $AC$ so that $BD = BC$. Find $\\angle BDA$.","solutions":[],"images":[]});

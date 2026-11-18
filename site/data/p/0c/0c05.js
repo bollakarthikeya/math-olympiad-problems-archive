@@ -1,0 +1,1 @@
+__p({"id":"0c05","competition":"2018 Romanian Mathematical Olympiad","problem":"Let $x$, $y$, $z$ be natural numbers so that $13x + 8y = 5z$. Prove that the number $(x + y)(y + z)(z + x)$ is divisible by $130$.","solutions":[],"images":[]});

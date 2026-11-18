@@ -1,0 +1,1 @@
+__p({"id":"04ml","competition":"Croatia_2018","problem":"There are $599$ yellow and $301$ blue balls. Can these balls be ordered in a sequence so that the number of balls between any two blue balls is different from $2$ and $5$?","solutions":[],"images":[]});

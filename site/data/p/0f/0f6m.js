@@ -1,0 +1,1 @@
+__p({"id":"0f6m","competition":"19th ASU","problem":"Given a large sheet of squared paper, show that for $n > 12$ you can cut along the grid lines to get a rectangle of more than $n$ unit squares such that it is impossible to cut it along the grid lines to get a rectangle of $n$ unit squares from it.","solutions":[],"images":[]});

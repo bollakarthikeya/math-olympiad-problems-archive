@@ -1,0 +1,1 @@
+__p({"id":"0cee","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Let $a$ be a real number. Find the real numbers $x$, $y$, $z$ so that $x + y + z = 3a - 1$ and $xy + xz + yz + x + y = 3a^2$.","solutions":[],"images":[]});

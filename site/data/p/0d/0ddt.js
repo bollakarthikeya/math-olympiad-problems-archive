@@ -1,0 +1,1 @@
+__p({"id":"0ddt","competition":"Saudi Arabian Mathematical Competitions","problem":"Given an infinite sequence of numbers $a_1, a_2, a_3, \\ldots$ such that for each positive integer $k$, there exists positive integer $t$ for which $a_k = a_{k+t} = a_{k+2t} = \\ldots$. Does this sequence must be periodic?","solutions":[],"images":[]});

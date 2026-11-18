@@ -1,0 +1,1 @@
+__p({"id":"04bx","competition":"Mathematica competitions in Croatia","problem":"Determine and draw in the complex plane the set of all complex numbers $z$ which satisfy the condition\n$$\n\\text{Re}[(4 + 3i)z^2] \\ge 0.\n$$","solutions":[],"images":[]});

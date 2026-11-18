@@ -1,0 +1,1 @@
+__p({"id":"0c5n","competition":"70th ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Determine three digit numbers $abc$, such that its square has $a$ as the hundreds digit, $b$ as the tenth digit and $c$ as the units digit.","solutions":[],"images":[]});

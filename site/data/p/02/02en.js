@@ -1,0 +1,1 @@
+__p({"id":"02en","competition":"XII OBM","problem":"Show that there are infinitely many positive integer solutions to $a^3 + 1990b^3 = c^4$.","solutions":["Take, for instance, $a = b = 1991k^4$ and $c = 1991k^3$ (there are lots of other solutions; can you find them all?)."],"images":[]});

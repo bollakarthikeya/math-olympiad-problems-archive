@@ -1,0 +1,1 @@
+__p({"id":"0780","competition":"EGMO TST Day 2","problem":"Let $f, g$ be functions $\\mathbb{R} \\to \\mathbb{R}$ such that\n$$\nf(g(x) + y) = g(x + y) \\quad \\forall x, y \\in \\mathbb{R}\n$$\nthen either $f$ is the identity¹ function or $g$ is periodic².","solutions":[],"images":[]});

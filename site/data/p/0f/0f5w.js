@@ -1,0 +1,1 @@
+__p({"id":"0f5w","competition":"18th ASU","problem":"$A$, $B$, $C$ and $D$ lie on a line in that order. Show that if $X$ does not lie on the line then\n$$\n|XA| + |XD| + ||AB| - |CD|| > |XB| + |XC|\n$$","solutions":[],"images":[]});

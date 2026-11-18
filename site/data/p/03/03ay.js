@@ -1,0 +1,1 @@
+__p({"id":"03ay","competition":"Selection test for 27. Balkan Mathematical Olympiad","problem":"Given a $\\triangle ABC$ with $\\angle ACB = 90^\\circ$ and altitude $CH$ ($H \\in AB$). A circle $k$ touches the segments $BH$ and $CH$, and the circumcircle of $\\triangle ABC$. If $D = k \\cap BH$, prove that $CD$ bisects $\\angle BCH$.","solutions":[],"images":[]});

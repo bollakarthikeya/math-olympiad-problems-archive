@@ -1,0 +1,1 @@
+__p({"id":"0i2m","competition":"Harvard-MIT Math Tournament","problem":"Given that $7,999,999,999$ has at most two prime factors, find its largest prime factor.","solutions":["$7,999,999,999 = 8 \\cdot 10^{9} - 1 = 2000^{3} - 1 = (2000 - 1)\\left(2000^{2} + 2000 + 1\\right)$, so $\\left(2000^{2} + 2000 + 1\\right) = 4,002,001$ is its largest prime factor."],"images":[]});

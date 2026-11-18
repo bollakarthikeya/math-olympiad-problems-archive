@@ -1,0 +1,1 @@
+__p({"id":"0cx1","competition":"SAMC","problem":"Find all triples $(x, y, z)$ of positive integers such that\n$$\nx + y + z = 2010 \\text{ and } x^2 + y^2 + z^2 - x y - y z - z x = 3.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04sc","competition":"Czech and Slovak Mathematical Olympiad","problem":"A natural number $n$ is given. Square with side of length $n$ is divided into $n^2$ unit squares. For the distance between two squares we consider the distance from centre to centre. Find the number of pairs of squares whose distance is $5$.","solutions":[],"images":[]});

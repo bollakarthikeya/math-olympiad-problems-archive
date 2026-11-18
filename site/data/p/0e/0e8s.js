@@ -1,0 +1,1 @@
+__p({"id":"0e8s","competition":"National Math Olympiad 2013 - First Round","problem":"What is the value of the product $x \\cdot y$ if $3^x = a$ and $a^y = 81$?\n(A) 4\n(B) 3\n(C) 12\n(D) 0\n(E) 1","solutions":["Since $81 = a^y = (3^x)^y = 3^{x y}$, and $81 = 3^4$, we have $x y = 4$. The correct answer is **A**."],"images":[]});

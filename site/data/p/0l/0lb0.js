@@ -1,0 +1,1 @@
+__p({"id":"0lb0","competition":"IMO2011 Selection","problem":"a_0 = 1, a_1 = 3 \\text{ and } a_{n+2} = 1 + \\left\\lfloor \\frac{a_{n+1}^2}{a_n} \\right\\rfloor \\text{ for all } n \\ge 0.\nShow that $a_{n+2} \\cdot a_n - a_{n+1}^2 = 2^n$ for all integers $n$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bfi","competition":"Shortlisted Problems for the 64th NMO","problem":"Let $p \\ge 2$ be a prime, $(K, +, \\cdot)$ be a field with $p^2$ elements and\n$$\nL = \\{0, 1, \\dots, \\underbrace{1+1+\\cdots+1}_{p-1 \\text{ times}}\\}.\n$$\nProve that for every $x \\in K \\setminus L$ there exists $a, b \\in L$ so that $x^{2013} + ax + b = 0$.","solutions":[],"images":[]});

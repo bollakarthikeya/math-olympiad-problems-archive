@@ -1,0 +1,1 @@
+__p({"id":"0cff","competition":"74th NMO Shortlisted Problems","problem":"Let $n \\ge 2$ be an integer number. Determine all the values of $m \\in \\mathbb{N}$ such that there is $A \\in \\mathcal{M}_n(\\mathbb{C})$ with the property that $\\text{rank}(A^k) + \\text{rank}(A^{n-k}) = m$, for any $k \\in \\{1, 2, \\dots, n-1\\}$.","solutions":[],"images":[]});

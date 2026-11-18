@@ -1,0 +1,1 @@
+__p({"id":"0er1","competition":"South African Mathematics Olympiad Second Round","problem":"If $f(x) = 2^x$, what is the value of $\\frac{f(x+1) + f(x)}{f(x)}$?","solutions":["$$\n\\frac{f(x + 1) + f(x)}{f(x)} = \\frac{f(x + 1)}{f(x)} + 1 = \\frac{2^{x+1}}{2^x} + 1 = 2^1 + 1 = 3.\n$$"],"images":[]});

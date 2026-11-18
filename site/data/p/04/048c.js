@@ -1,0 +1,1 @@
+__p({"id":"048c","competition":"Hrvatska 2011","problem":"If one half of a working crew finishes one quarter of a job in one third of a day, how many crews does it take to finish 15 jobs in five days?","solutions":[],"images":[]});

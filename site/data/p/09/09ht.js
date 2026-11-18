@@ -1,0 +1,1 @@
+__p({"id":"09ht","competition":"Round 2","problem":"What is the maximum number of pawns that can be placed on a $10 \\times 10$ chess board in such a way that a knight placed anywhere on the board attacks at most one pawn? (We allow the knight to be placed in a cell with a pawn.)","solutions":[],"images":[]});

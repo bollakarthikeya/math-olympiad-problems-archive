@@ -1,0 +1,1 @@
+__p({"id":"04bj","competition":"Mathematica competitions in Croatia","problem":"Determine all pairs of prime numbers $p$ and $q$ for which there exists an integer $a$ such that $a^4 = p a^3 + q$.","solutions":[],"images":[]});

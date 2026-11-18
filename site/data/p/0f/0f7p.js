@@ -1,0 +1,1 @@
+__p({"id":"0f7p","competition":"21st ASU","problem":"Find all sets of 6 weights such that for each of $n = 1, 2, 3, \\ldots, 63$, there is a subset of weights weighing $n$.","solutions":[],"images":[]});

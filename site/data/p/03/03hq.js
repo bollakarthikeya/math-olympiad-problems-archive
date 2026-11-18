@@ -1,0 +1,1 @@
+__p({"id":"03hq","competition":"Canadian Mathematical Olympiad","problem":"Let $k$ be a positive integer. Find all polynomials\n$$\nP(x) = a_{0} + a_{1} x + \\cdots + a_{n} x^{n}\n$$\nwhere the $a_{i}$ are real, which satisfy the equation\n$$\nP(P(x)) = [P(x)]^{k}\n$$","solutions":[],"images":[]});

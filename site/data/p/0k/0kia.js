@@ -1,0 +1,1 @@
+__p({"id":"0kia","competition":"AMC 12 B","problem":"Set $u_0 = \\frac{1}{4}$, and for $k \\ge 0$ let $u_{k+1}$ be determined by the recurrence $u_{k+1} = 2u_k - 2u_k^2$. This sequence tends to a limit; call it $L$. What is the least value of $k$ such that\n$$\n|u_k - L| \\le \\frac{1}{2^{1000}}?\n$$\n(A) 10 (B) 97 (C) 123 (D) 329 (E) 401","solutions":[],"images":[]});

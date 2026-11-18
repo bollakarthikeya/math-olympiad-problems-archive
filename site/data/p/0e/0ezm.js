@@ -1,0 +1,1 @@
+__p({"id":"0ezm","competition":"ASU","problem":"Given any set $S$ of $25$ positive integers, show that you can always find two such that none of the other numbers equals their sum or difference.","solutions":[],"images":[]});

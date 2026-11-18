@@ -1,0 +1,1 @@
+__p({"id":"0532","competition":"Open Contests","problem":"Publisher Soothsayer published a reference book claiming that for each real number $x$ and positive even number $n$ the equality $(1+x)^n \\ge 2^n x$ holds. Is this claim true?","solutions":["*Answer:* No.\n\nThe inequality does not hold for example when $x = \\frac{1}{2}$ and $n = 4$."],"images":[]});

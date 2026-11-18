@@ -1,0 +1,1 @@
+__p({"id":"0hv2","competition":"","problem":"How many multiples of $7$ between $10^{6}$ and $10^{9}$ are perfect squares?","solutions":["$\\left[\\sqrt{\\frac{10^{9}}{7^{2}}}\\right] - \\left[\\sqrt{\\frac{10^{6}}{7^{2}}}\\right] = 4517 - 142 = 4375$."],"images":[]});

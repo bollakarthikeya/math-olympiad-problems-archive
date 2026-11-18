@@ -1,0 +1,1 @@
+__p({"id":"0e44","competition":"Selection Examinations for the IMO","problem":"A sequence of positive real numbers contains at least 5 different terms. For any two terms of this sequence we can find two more terms with the same product. At least how many terms does the progression have?","solutions":[],"images":[]});

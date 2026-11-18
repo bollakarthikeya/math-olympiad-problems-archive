@@ -1,0 +1,1 @@
+__p({"id":"04dr","competition":"Mathematica competitions in Croatia","problem":"A regular 2013-gon $A_1A_2...A_{2013}$ is given. Let $S$ be the intersection of the segments $A_1A_4$ and $A_3A_5$. Determine the angle $\\angle A_3SA_4$.","solutions":[],"images":[]});

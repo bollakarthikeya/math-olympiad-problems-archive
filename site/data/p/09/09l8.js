@@ -1,0 +1,1 @@
+__p({"id":"09l8","competition":"Mongolian Mathematical Olympiad","problem":"Prove that the sum of the squares of seven consecutive terms in an arithmetic progression of positive integers cannot be a perfect square.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04eo","competition":"Mathematica competitions in Croatia","problem":"Determine the product\n$$\n\\left(1 - \\frac{\\cos 61^{\\circ}}{\\cos 1^{\\circ}}\\right) \\left(1 - \\frac{\\cos 62^{\\circ}}{\\cos 2^{\\circ}}\\right) \\dots \\left(1 - \\frac{\\cos 119^{\\circ}}{\\cos 59^{\\circ}}\\right).\n$$","solutions":[],"images":[]});

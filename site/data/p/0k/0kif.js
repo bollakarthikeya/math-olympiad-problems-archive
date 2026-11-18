@@ -1,0 +1,1 @@
+__p({"id":"0kif","competition":"AMC 12 A","problem":"Let $x$ be the least real number greater than $1$ such that $\\sin x = \\sin(x^2)$, where the arguments are in degrees. What is $x$ rounded up to the closest integer?\n(A) 10 (B) 13 (C) 14 (D) 19 (E) 20","solutions":[],"images":[]});

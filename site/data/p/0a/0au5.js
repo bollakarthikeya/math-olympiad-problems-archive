@@ -1,0 +1,1 @@
+__p({"id":"0au5","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"Suppose that the function $y = f(x)$ satisfies $1 - y = \\frac{9 e^{x} + 2}{12 e^{x} + 3}$. If $m$ and $n$ are consecutive integers so that $m < \\frac{1}{y} < n$ for all real $x$, find the value of $mn$.","solutions":[],"images":[]});

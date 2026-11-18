@@ -1,0 +1,1 @@
+__p({"id":"0ayg","competition":"21st PMO Area Stage","problem":"Suppose that the lengths of the sides of a right triangle are integers and its area is six times its perimeter. What is the least possible length of its hypotenuse?","solutions":[],"images":[]});

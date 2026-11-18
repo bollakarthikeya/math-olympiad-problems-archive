@@ -1,0 +1,1 @@
+__p({"id":"0awp","competition":"Philippine Mathematical Olympiad Area Stage","problem":"Given $a_{n} \\in \\mathbb{Z}$ with $a_{10}=11$ and $a_{9}=-143$, determine the number of polynomials of the form\n$$\nP(x)=\\sum_{n=0}^{10} a_{n} x^{n}\n$$\nsuch that the zeros of $P(x)$ are all positive integers.","solutions":[],"images":[]});

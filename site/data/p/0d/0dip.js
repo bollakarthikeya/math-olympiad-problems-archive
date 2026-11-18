@@ -1,0 +1,1 @@
+__p({"id":"0dip","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Find the maximum integer $k$ such that\n$$\n\\frac{a}{b} + \\frac{b}{c} + \\frac{c}{a} + k \\frac{(a-b)(b-c)(c-a)}{(a+b)(b+c)(c+a)} \\ge 3\n$$\nfor all positive real numbers $a, b, c$.","solutions":[],"images":[]});

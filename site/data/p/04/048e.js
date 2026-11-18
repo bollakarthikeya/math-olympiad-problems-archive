@@ -1,0 +1,1 @@
+__p({"id":"048e","competition":"CroatianCompetitions2011","problem":"A triangle $ABC$ with $\\angle BAC = 120^\\circ$ is given. Let $D$ be the point in its interior such that $\\angle DBC = 2\\angle ABD$ and $\\angle DCB = 2\\angle ACD$. Determine $\\angle BDC$.","solutions":[],"images":[]});

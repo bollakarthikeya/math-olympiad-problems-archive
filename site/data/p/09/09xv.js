@@ -1,0 +1,1 @@
+__p({"id":"09xv","competition":"Dutch Mathematical Olympiad","problem":"The integers $1$ to $n$ are written on the board. One of the numbers is wiped out. The average of the remaining numbers is $11\\frac{1}{4}$.\nWhich number has been wiped out?\nA) $6$  B) $7$  C) $11$  D) $12$  E) $21$","solutions":["A) $6$"],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0hxl","competition":"","problem":"Suppose $x$ satisfies $x^{3}+x^{2}+x+1=0$. What are all possible values of $x^{4}+2 x^{3}+2 x^{2}+2 x+1$?","solutions":["$x^{4}+2 x^{3}+2 x^{2}+2 x+1 = (x+1)\\left(x^{3}+x^{2}+x+1\\right) = 0$ is the only possible solution."],"images":[]});

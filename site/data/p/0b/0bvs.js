@@ -1,0 +1,1 @@
+__p({"id":"0bvs","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Show that there is no positive integer with $2017$ divisors and the sum of the digits $2017$.","solutions":[],"images":[]});

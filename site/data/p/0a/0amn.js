@@ -1,0 +1,1 @@
+__p({"id":"0amn","competition":"Area Stage","problem":"Let $DAN$ be a triangle whose vertices lie on a circle $C$. Let $AE$ be the angle bisector of $\\angle DAN$ with $E$ on $C$. If $DA = 2$, $AN = 1$, $AE = 2.5$, and $AE$ intersects $DN$ at $I$, find $AI$.","solutions":[],"images":[]});

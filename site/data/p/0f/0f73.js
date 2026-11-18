@@ -1,0 +1,1 @@
+__p({"id":"0f73","competition":"20th ASU","problem":"Let $S$ be the set of all numbers which can be written as $1/mn$, where $m$ and $n$ are positive integers not exceeding $1986$. Show that the sum of the elements of $S$ is not an integer.","solutions":[],"images":[]});

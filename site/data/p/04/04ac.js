@@ -1,0 +1,1 @@
+__p({"id":"04ac","competition":"Hrvatska 2011","problem":"Matija and Tomislav play the following game:\nEach of them throws a pair of dice. If at least one of them gets numbers whose sum is divisible by $3$, then Matija wins; otherwise, Tomislav wins.\nWhat is the probability that Matija wins?","solutions":[],"images":[]});

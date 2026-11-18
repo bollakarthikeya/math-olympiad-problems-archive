@@ -1,0 +1,1 @@
+__p({"id":"0eqk","competition":"South African Mathematics Olympiad First Round","problem":"The last digit when $8\\,045 - 4\\,058$ is calculated is\n(A) 1   (B) 3   (C) 5   (D) 7   (E) 9","solutions":["The last digit will be found by subtracting $8$ from $15$."],"images":[]});

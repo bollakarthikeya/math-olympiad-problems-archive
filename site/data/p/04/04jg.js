@@ -1,0 +1,1 @@
+__p({"id":"04jg","competition":"Croatia Mathematical Competitions","problem":"Let $n$ be a positive integer and let $S_n = \\sum_{k=1}^{n} k!(k^2 + k + 1)$. Determine $\\frac{S_n + 1}{(n+1)!}$.","solutions":[],"images":[]});

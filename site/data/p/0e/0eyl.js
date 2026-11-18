@@ -1,0 +1,1 @@
+__p({"id":"0eyl","competition":"2nd ASU","problem":"Which is greater: $31^{11}$ or $17^{14}$? [No calculators allowed!]","solutions":["$17^{2} = 289 > 9 \\cdot 31$. So $17^{14} > 9^{7} 31^{7}$. But $3^{7} = 2187 > 31^{2}$. Hence $17^{14} > 31^{11}$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bqu","competition":"67th NMO Shortlisted Problems","problem":"Let $f : [0, 2] \\to \\mathbb{R}$ be a continuous function. Compute\n$$\n\\lim_{t \\to 0} \\int_{0}^{1} \\frac{f(x+t) - f(x)}{t} \\, dx.\n$$","solutions":[],"images":[]});

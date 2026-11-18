@@ -1,0 +1,1 @@
+__p({"id":"0ewe","competition":"2nd ASU","problem":"Given four positive real numbers $a$, $b$, $c$, $d$ such that $abcd = 1$, prove that\n$$\na^2 + b^2 + c^2 + d^2 + ab + ac + ad + bc + bd + cd \\geq 10.\n$$","solutions":["Applying the arithmetic/geometric mean result to the 10 numbers gives the result immediately."],"images":[]});

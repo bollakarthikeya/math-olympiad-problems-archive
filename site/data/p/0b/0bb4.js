@@ -1,0 +1,1 @@
+__p({"id":"0bb4","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"Let $p$ be a positive integer and $A_p = \\{x \\in \\mathbb{R} \\mid p\\{x\\} = (p+1)[x]\\}$. Find the cardinals of the sets $A_p$ and $A_1 \\cup A_2 \\cup \\dots \\cup A_p$.","solutions":[],"images":[]});

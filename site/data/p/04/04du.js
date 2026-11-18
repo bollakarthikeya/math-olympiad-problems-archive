@@ -1,0 +1,1 @@
+__p({"id":"04du","competition":"Mathematica competitions in Croatia","problem":"Determine all real numbers $a$ such that there exists a complex number $z$ which satisfies\n$$\n|z| = 1 \\quad \\text{and} \\quad |az - 1| = a|z + 1|.\n$$","solutions":[],"images":[]});

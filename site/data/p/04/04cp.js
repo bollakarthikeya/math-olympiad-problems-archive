@@ -1,0 +1,1 @@
+__p({"id":"04cp","competition":"Mathematica competitions in Croatia","problem":"Find the real number $A$, given that the coefficient with $x^{12}$ in the polynomial\n$$\n(1 + x^4)^{12} + A (x(1 - x^2)^2)^{12}\n$$\nequals 100.","solutions":[],"images":[]});

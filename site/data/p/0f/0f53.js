@@ -1,0 +1,1 @@
+__p({"id":"0f53","competition":"17th ASU","problem":"A $4 \\times 4$ array of unit cells is made up of a grid of total length $40$. Can we divide the grid into $8$ paths of length $5$? Into $5$ paths of length $8$?","solutions":[],"images":[]});

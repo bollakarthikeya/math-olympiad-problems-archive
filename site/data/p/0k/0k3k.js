@@ -1,0 +1,1 @@
+__p({"id":"0k3k","competition":"HMMT February 2018","problem":"Find the sum of the digits of $11 \\cdot 101 \\cdot 111 \\cdot 110011$.","solutions":["There is no regrouping, so the answer is $2 \\cdot 2 \\cdot 3 \\cdot 4=48$. The actual product is 13566666531 ."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04cm","competition":"Mathematica competitions in Croatia","problem":"Determine and sketch in the Gaussian plane the set of all $z$ that satisfy\n$$\n|z - 1| - |z + 1| = \\sqrt{3}.\n$$","solutions":[],"images":[]});

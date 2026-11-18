@@ -1,0 +1,1 @@
+__p({"id":"0bw4","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"If $a$, $b$, $c$ are positive real numbers such that $a^2 + b^2 + c^2 = 1$, show that\n$$\n\\frac{bc}{2 - a^2} + \\frac{ca}{2 - b^2} + \\frac{ab}{2 - c^2} \\le \\frac{3}{5}.\n$$","solutions":[],"images":[]});

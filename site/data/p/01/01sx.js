@@ -1,0 +1,1 @@
+__p({"id":"01sx","competition":"66th Belarusian Mathematical Olympiad","problem":"The sequence $a_1, a_2, \\dots$ of positive real numbers satisfies\n$$\na_{k+1} \\ge \\frac{ka_k}{a_k^2 + k - 1}\n$$\nfor every positive integer $k$.\nProve that $a_1 + a_2 + \\dots + a_n \\ge n$ for every $n \\ge 2$.","solutions":["2. See IMO-2015 Shortlist, Problem A1."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0ble","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Find four consecutive numbers, knowing that they are obtained by adding a prime number (not necessary the same) to $91$, $109$, $124$ and $148$.","solutions":[],"images":[]});

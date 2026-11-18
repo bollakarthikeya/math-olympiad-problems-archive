@@ -1,0 +1,1 @@
+__p({"id":"04it","competition":"Croatia Mathematical Competitions","problem":"Let $I$ be the incentre of the triangle $ABC$. If $|AI| = |BC|$ and $\\angle ACB = 2\\angle BAC$, determine the angles of the triangle $ABC$. (Brazil 2011)","solutions":[],"images":[]});

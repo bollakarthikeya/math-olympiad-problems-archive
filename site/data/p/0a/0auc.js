@@ -1,0 +1,1 @@
+__p({"id":"0auc","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"Find the maximum value of\n$$\n(1-x)(2-y)(3-z)\\left(x+\\frac{y}{2}+\\frac{z}{3}\\right)\n$$\nwhere $x<1$, $y<2$, $z<3$, and $x+\\frac{y}{2}+\\frac{z}{3}>0$.","solutions":[],"images":[]});

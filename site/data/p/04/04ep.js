@@ -1,0 +1,1 @@
+__p({"id":"04ep","competition":"Mathematica competitions in Croatia","problem":"Let $ABCD$ be a circumscribed quadrilateral where $\\angle DAB = \\angle ABC = 120^\\circ$ and $\\angle CDA = 90^\\circ$. If $|AB| = 1$, determine the circumference of $ABCD$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0ayw","competition":"21st PMO Area Stage","problem":"Given that $a$ and $b$ are real numbers satisfying the equation\n$$\n\\log_{16} 3 + 2 \\log_{16}(a-b) = \\frac{1}{2} + \\log_{16} a + \\log_{16} b\n$$\nfind all possible values of $\\frac{a}{b}$.","solutions":[],"images":[]});

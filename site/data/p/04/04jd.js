@@ -1,0 +1,1 @@
+__p({"id":"04jd","competition":"Croatia Mathematical Competitions","problem":"One side of a square lies on the line $y = 2x - 17$, while the remaining two vertices lie on the parabola $y = x^2$. Determine the area of that square. (China 2005)","solutions":[],"images":[]});

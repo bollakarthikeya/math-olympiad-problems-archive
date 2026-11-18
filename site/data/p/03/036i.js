@@ -1,0 +1,1 @@
+__p({"id":"036i","competition":"Bulgarian Mathematical Competitions","problem":"Let $a$ be an integer. Find all real numbers $x, y, z$ such that\n$$\na(\\cos 2 x + \\cos 2 y + \\cos 2 z) + 2(1-a)(\\cos x + \\cos y + \\cos z) + 6 = 9a\n$$","solutions":[],"images":[]});

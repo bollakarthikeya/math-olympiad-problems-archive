@@ -1,0 +1,1 @@
+__p({"id":"04ic","competition":"Croatia Mathematical Competitions","problem":"Determine all triples $(a, b, c)$ of real numbers such that\n$$\na^2 + b^2 + c^2 = 1 \\quad \\text{and} \\quad (2b - 2a - c)a \\ge \\frac{1}{2}. \\quad \\text{(Ivan Kokan)}\n$$","solutions":[],"images":[]});

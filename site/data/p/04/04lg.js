@@ -1,0 +1,1 @@
+__p({"id":"04lg","competition":"Mathematical competitions in Croatia","problem":"Find all positive integers $b$ such that $11 \\cdot 22 \\cdot 33 = 13310$ holds in base $b$.","solutions":[],"images":[]});

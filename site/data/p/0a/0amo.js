@@ -1,0 +1,1 @@
+__p({"id":"0amo","competition":"AREA STAGE","problem":"A sequence of numbers is defined using the relation\n$$\na_{n} = -a_{n-1} + 6 a_{n-2}\n$$\nwhere $a_{1} = 2$, $a_{2} = 1$. Find $a_{100} + 3 a_{99}$.","solutions":[],"images":[]});

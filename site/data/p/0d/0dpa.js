@@ -1,0 +1,1 @@
+__p({"id":"0dpa","competition":"Silk Road Mathematics Competition","problem":"In convex quadrilateral $ABCD$\n$$\n\\angle ADB + \\angle ACB = \\angle CAB + \\angle DBA = 30^\\circ \\text{ and } AD = BC.\n$$\nProve that segments $DB$, $CA$ and $DC$ form the sides of the right triangle.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"01lr","competition":"Belarusian Mathematical Olympiad","problem":"Let $S(n)$ be the sum of all digits in the decimal representation of $n \\in \\mathbb{N}$. How many numbers $n$, $1 \\le n \\le 999$, satisfy the following condition $S(n) = \\text{GCD}(n, n+6)$?","solutions":[],"images":[]});

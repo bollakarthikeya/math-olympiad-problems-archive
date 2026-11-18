@@ -1,0 +1,1 @@
+__p({"id":"0bkz","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Find all positive primes $p$ such that the system of equations $x^2(y+z) + y^2(z+x) + z^2(x+y) = 3xyz = p^2$ has positive integer solutions.","solutions":[],"images":[]});

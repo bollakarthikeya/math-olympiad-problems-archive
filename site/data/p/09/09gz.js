@@ -1,0 +1,1 @@
+__p({"id":"09gz","competition":"Mongolian Mathematical Olympiad","problem":"Let $a$, $b$ and $c$ are positive numbers such that $a^2 + b^2 + c^2 = 3$. Prove that\n$$\nab + bc + ca + 3\\sqrt{\\frac{a^3 + b^3 + c^3}{a + b + c}} \\le 6$$","solutions":[],"images":[]});

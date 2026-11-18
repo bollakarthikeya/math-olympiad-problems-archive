@@ -1,0 +1,1 @@
+__p({"id":"0eo9","competition":"South African Mathematics Olympiad","problem":"I have R4. How many sweets can I buy if one sweet costs 40c?","solutions":["Since total cost = number of sweets × cost of each sweet, it follows that the number of sweets is $\\text{R}4.00 \\div 40\\text{c} = \\text{R}4.00 \\div \\text{R}0.40 = 4 \\div 0.4 = 10$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dfu","competition":"Saudi Arabian IMO Booklet","problem":"Let the sequence $a_1, a_2, \\dots, a_n$ is such that $a_1 = 0$, $|a_2| = |a_1 + 1|$, $|a_3| = |a_2 + 1|$, $\\dots$, $|a_n| = |a_{n-1} + 1|$. Prove that\n$$\n\\frac{a_1 + a_2 + \\dots + a_n}{n} \\geq -\\frac{1}{2}.\n$$","solutions":[],"images":[]});

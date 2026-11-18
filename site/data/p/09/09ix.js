@@ -1,0 +1,1 @@
+__p({"id":"09ix","competition":"Mongolian Mathematical Olympiad Round 2","problem":"Let $A_n$ denote the number of ways to color the vertices of an $n$-gon in four colors – red, green, blue and yellow – so that each three consecutive vertices are colored in three different colors. Prove that $A_7 = A_8$.","solutions":[],"images":[]});

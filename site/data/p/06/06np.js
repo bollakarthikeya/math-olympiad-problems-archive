@@ -1,0 +1,1 @@
+__p({"id":"06np","competition":"IMO HK TST","problem":"A number is called *Norwegian* if it has three distinct positive divisors whose sum is equal to $2022$. Determine the smallest Norwegian number.\n\n(Note: The total number of positive divisors of a Norwegian number is allowed to be larger than $3$.)","solutions":[],"images":[]});

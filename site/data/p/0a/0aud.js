@@ -1,0 +1,1 @@
+__p({"id":"0aud","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"Let $f(x) = a^{x} - 1$. Find the largest value of $a > 1$ so that if $0 \\leq x \\leq 3$, then $0 \\leq f(x) \\leq 3$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0am6","competition":"AREA STAGE","problem":"Given that $\\tan \\alpha + \\cot \\alpha = 4$, find $\\sqrt{\\sec^{2} \\alpha + \\csc^{2} \\alpha - \\frac{1}{2} \\sec \\alpha \\csc \\alpha}$.","solutions":[],"images":[]});

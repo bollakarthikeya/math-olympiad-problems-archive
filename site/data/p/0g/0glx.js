@@ -1,0 +1,1 @@
+__p({"id":"0glx","competition":"T3MO 2017","problem":"Let $n \\ge 4$ be an integer. Define\n$$\nS = \\{(x, y, z) \\in \\mathbb{Z}^3 \\mid xyz = 0 \\text{ and } 0 \\le x, y, z < n\\}.\n$$\nLet $S'$ be the projection of all points in $S$ onto a plane $P$. Given that $|S'| > n^2$, determine the least possible value of $|S'|$.","solutions":[],"images":[]});

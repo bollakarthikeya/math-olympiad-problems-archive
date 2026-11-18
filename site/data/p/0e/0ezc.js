@@ -1,0 +1,1 @@
+__p({"id":"0ezc","competition":"4th ASU","problem":"The vertices of a regular $n$-gon are colored (each vertex has only one color). Each color is applied to at least three vertices. The vertices of any given color form a regular polygon. Show that there are two colors which are applied to the same number of vertices.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09yl","competition":"First Round","problem":"Line up the numbers $1$ to $15$ such that if you add any two numbers that are next to each other, you get a square number.\nWhat do you get if you add the first and last number from the line?","solutions":[],"images":[]});

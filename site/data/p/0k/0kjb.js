@@ -1,0 +1,1 @@
+__p({"id":"0kjb","competition":"2021 AMC 10 B Fall","problem":"For each integer $n \\ge 2$, let $S_n$ be the sum of all products $jk$, where $j$ and $k$ are integers and $1 \\le j < k \\le n$. What is the sum of the 10 least values of $n$ such that $S_n$ is divisible by 3?\n(A) 196 (B) 197 (C) 198 (D) 199 (E) 200","solutions":[],"images":[]});

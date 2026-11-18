@@ -1,0 +1,1 @@
+__p({"id":"0f6k","competition":"19th ASU","problem":"Is there an integer $n$ such that the sum of the (decimal) digits of $n$ is $1000$ and the sum of the squares of the digits is $1000^2$?","solutions":[],"images":[]});

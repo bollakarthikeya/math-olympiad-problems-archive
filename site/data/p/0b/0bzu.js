@@ -1,0 +1,1 @@
+__p({"id":"0bzu","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Find the positive integer solutions of the equation\n$$\n\\lfloor\\sqrt{8n+1}\\rfloor + \\lfloor\\sqrt{8n+2}\\rfloor + \\dots + \\lfloor\\sqrt{8n+7}\\rfloor = 2027.\n$$","solutions":[],"images":[]});

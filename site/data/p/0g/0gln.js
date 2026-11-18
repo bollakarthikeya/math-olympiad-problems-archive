@@ -1,0 +1,1 @@
+__p({"id":"0gln","competition":"T3MO 2017","problem":"Determine all polynomials $P \\in \\mathbb{R}[x, y]$ such that\n$$\nP(a, b^2 - ac) + P(b, c^2 - ab) + P(c, a^2 - bc) = 0\n$$\nfor all $a, b, c \\in \\mathbb{R}$.","solutions":[],"images":[]});

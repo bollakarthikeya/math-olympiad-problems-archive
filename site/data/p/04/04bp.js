@@ -1,0 +1,1 @@
+__p({"id":"04bp","competition":"Mathematica competitions in Croatia","problem":"Determine all positive integers $n$ that satisfy the equality\n$$\n5^n + 2^{n+1} 3^n = 9^n + 4^n.\n$$","solutions":[],"images":[]});

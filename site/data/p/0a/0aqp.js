@@ -1,0 +1,1 @@
+__p({"id":"0aqp","competition":"12th Philippine Mathematical Olympiad - Area Stage","problem":"Simplify: $\\sqrt{\\sin^{4} 15^{\\circ} + 4 \\cos^{2} 15^{\\circ}} - \\sqrt{\\cos^{4} 15^{\\circ} + 4 \\sin^{2} 15^{\\circ}}$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0c0w","competition":"Shortlisted problems for the 69th NMO","problem":"Find all integers $n$ such that\n$$\n2^{2018} + 2^{2022} + 2^{2023} + 2^{2024} + 2^{2026} + 2^n\n$$\nis a square.","solutions":[],"images":[]});

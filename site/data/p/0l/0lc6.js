@@ -1,0 +1,1 @@
+__p({"id":"0lc6","competition":"Vietnamese Mathematical Competitions","problem":"Find all functions $f: \\mathbb{R} \\to \\mathbb{R}$ satisfying following conditions\n\ni) $\\lim_{x \\to 0} f(x) = f(0) = 0,$\n\nii) $f(x)f(x^{1959} + x^{54}) = f(x^{2013} + x)$ for all $x \\in \\mathbb{R}$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f48","competition":"15th ASU","problem":"Given 6 points inside a $3 \\times 4$ rectangle, show that we can find two points whose distance does not exceed $\\sqrt{5}$.","solutions":[],"images":[]});

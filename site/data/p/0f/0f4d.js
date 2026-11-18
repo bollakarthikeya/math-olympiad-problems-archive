@@ -1,0 +1,1 @@
+__p({"id":"0f4d","competition":"15th ASU","problem":"Let $S$ be the set of points $(x, y)$ given by $y \\leq -x^2$ and $y \\geq x^2 - 2x + a$. Find the area of the rectangle with sides parallel to the axes and the smallest possible area which encloses $S$.","solutions":[],"images":[]});

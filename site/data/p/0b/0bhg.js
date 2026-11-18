@@ -1,0 +1,1 @@
+__p({"id":"0bhg","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Let $n \\ge 2$ be an integer and $z$ be a complex number so that $z^n = 1$. Prove that:\n$$ \\prod_{k=1}^{n} (1 - z^k - z^{2k}) = \\left\\lfloor \\left( \\frac{1 + \\sqrt{5}}{2} \\right)^n \\right\\rfloor - \\frac{1 + (-1)^n}{2} $$","solutions":[],"images":[]});

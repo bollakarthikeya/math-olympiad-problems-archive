@@ -1,0 +1,1 @@
+__p({"id":"03k6","competition":"Canadian Mathematical Olympiad","problem":"Show that the number $x$ is rational if and only if three distinct terms that form a geometric progression can be chosen from the sequence\n$$\nx, x+1, x+2, x+3, \\ldots\n$$","solutions":[],"images":[]});

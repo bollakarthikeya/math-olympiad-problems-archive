@@ -1,0 +1,1 @@
+__p({"id":"0apk","competition":"Tenth Philippine Mathematical Olympiad","problem":"Solve for $x$: $16^{1 / 8} + x^{1 / 4} = \\frac{23}{5 - \\sqrt{2}}$.","solutions":["After rationalizing the denominator, we get\n$$\n16^{1 / 8} + x^{1 / 4} = 5 + \\sqrt{2}\n$$\nIt follows that $x^{1 / 4} = 5$ or $x = 625$."],"images":[]});

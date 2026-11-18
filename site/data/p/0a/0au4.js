@@ -1,0 +1,1 @@
+__p({"id":"0au4","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"Find all integer values of $n$ that will make $\\frac{6 n^{3}-n^{2}+2 n+32}{3 n+1}$ an integer.","solutions":[],"images":[]});

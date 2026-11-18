@@ -1,0 +1,1 @@
+__p({"id":"0aum","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"How many ways can 6 boys and 6 girls be seated in a circle so that no two boys sit next to each other?","solutions":[],"images":[]});

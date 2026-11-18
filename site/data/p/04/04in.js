@@ -1,0 +1,1 @@
+__p({"id":"04in","competition":"Croatia Mathematical Competitions","problem":"Let $ABCD$ be a quadrilateral such that $|AB| = 6$, $|BC| = 9$, $|CD| = 18$ and $|AD| = 5$ hold. Determine the length of the diagonal $AC$ if it is known that it is a positive integer. (Andrea Aglić-Aljinović)","solutions":[],"images":[]});

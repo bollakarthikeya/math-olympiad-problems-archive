@@ -1,0 +1,1 @@
+__p({"id":"0cbc","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Let $O$ be the common point of the diagonals of the convex quadrilateral $ABCD$ and $M, N, P$ be the midpoints of the segments $AB, CD$ respectively $DO$. Prove that $AP \\parallel MN$ if and only if $AD \\parallel BN$.","solutions":[],"images":[]});

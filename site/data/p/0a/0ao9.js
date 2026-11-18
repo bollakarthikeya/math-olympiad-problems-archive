@@ -1,0 +1,1 @@
+__p({"id":"0ao9","competition":"QUALIFYING STAGE","problem":"A fair die is thrown three times. What is the probability that the largest outcome of the three throws is a $3$?\n\n(a) $1/36$\n(b) $19/216$\n(c) $25/36$\n(d) $1/8$","solutions":[],"images":[]});

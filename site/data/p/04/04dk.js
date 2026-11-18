@@ -1,0 +1,1 @@
+__p({"id":"04dk","competition":"Mathematica competitions in Croatia","problem":"Determine all ordered triplets of real numbers $(x, y, z)$ such that\n$$\n\\begin{cases}\nx + y = \\sqrt{28} \\\\\nxy - 2z^2 = 7.\n\\end{cases}\n$$","solutions":[],"images":[]});

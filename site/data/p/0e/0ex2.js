@@ -1,0 +1,1 @@
+__p({"id":"0ex2","competition":"4th ASU","problem":"If $m$, $k$, $n$ are natural numbers and $n > 1$, prove that we cannot have $m(m + 1) = k^n$.","solutions":["$m$ and $m + 1$ have no common divisors, so each must separately be an $n$th power. But the difference between the two $n$th powers is greater than $1$ (for $n > 1$)."],"images":[]});

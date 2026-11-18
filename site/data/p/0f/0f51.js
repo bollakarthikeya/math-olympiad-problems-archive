@@ -1,0 +1,1 @@
+__p({"id":"0f51","competition":"16th ASU","problem":"$M$ is a point inside a regular tetrahedron. Show that we can find two vertices $A$, $B$ of the tetrahedron such that $\\cos \\angle AMB \\leq -1/3$.","solutions":[],"images":[]});

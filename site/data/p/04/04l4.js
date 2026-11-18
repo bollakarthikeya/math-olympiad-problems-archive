@@ -1,0 +1,1 @@
+__p({"id":"04l4","competition":"Mathematical competitions in Croatia","problem":"Does there exist a positive integer $m$ such that $2^{m^2} - 4$ is divisible by $7$? (Ukraine 2013)","solutions":[],"images":[]});

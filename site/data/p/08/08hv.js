@@ -1,0 +1,1 @@
+__p({"id":"08hv","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"In the triangle $ABC$, $R$ and $r$ are the radii of the circumcircle and the incircle, respectively; $a$ is the longest side and $h$ is the shortest altitude. Prove that $R / r > a / h$.","solutions":[],"images":[]});

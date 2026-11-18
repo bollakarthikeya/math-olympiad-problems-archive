@@ -1,0 +1,1 @@
+__p({"id":"03kv","competition":"Canadian Mathematical Olympiad","problem":"Find all real numbers $x$ such that\n$$\nx = \\left(x - \\frac{1}{x}\\right)^{1/2} + \\left(1 - \\frac{1}{x}\\right)^{1/2}\n$$","solutions":[],"images":[]});

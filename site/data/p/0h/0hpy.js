@@ -1,0 +1,1 @@
+__p({"id":"0hpy","competition":"","problem":"Count the number of permutations $a_{1} a_{2} \\ldots a_{7}$ of $1234567$ with longest decreasing subsequence of length at most two (i.e. there does not exist $i<j<k$ such that $a_{i}>a_{j}>a_{k}$ ).","solutions":["$C(7) = 429$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0lcb","competition":"Vietnamese Mathematical Competitions","problem":"Let $ABCD$ be a cyclic quadrilateral. Let $M$, $N$ respectively be the midpoints of the segment $AC$, $BD$; $E$, $F$ respectively be the intersection points of $AB$ and $CD$, $AD$ and $BC$. Prove that $\\frac{2MN}{EF} = \\left|\\frac{AC}{BD} - \\frac{BD}{AC}\\right|$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04ki","competition":"Mathematical competitions in Croatia","problem":"Prove that among any three positive integers we can choose two, say $a$ and $b$, so that the number $a^3b - ab^3$ is a multiple of $10$.","solutions":[],"images":[]});

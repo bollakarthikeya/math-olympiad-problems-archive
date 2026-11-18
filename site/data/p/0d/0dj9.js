@@ -1,0 +1,1 @@
+__p({"id":"0dj9","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Let $ABC$ be a triangle with circumcircle $(O)$ with orthocenter $H$. Take $X \\in AB$, $Y \\in AC$ such that $XB = XH$, $YC = YH$. Prove that $O$ belongs to the Euler line of triangle $AXY$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dgt","competition":"Saudi Arabian IMO Booklet","problem":"Prove that for $n \\ge 1$ the following inequality holds\n$$\n1 + \\frac{5}{6n - 5} \\le 6^{1/n} \\le 1 + \\frac{5}{n}.\n$$","solutions":[],"images":[]});

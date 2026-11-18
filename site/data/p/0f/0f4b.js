@@ -1,0 +1,1 @@
+__p({"id":"0f4b","competition":"15th ASU","problem":"Find an example of $m$ and $n$ such that $m$ is the product of $n$ consecutive positive integers and also the product of $n + 2$ consecutive positive integers. Show that we cannot have $n = 2$.","solutions":[],"images":[]});

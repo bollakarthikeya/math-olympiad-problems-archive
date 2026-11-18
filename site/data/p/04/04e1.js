@@ -1,0 +1,1 @@
+__p({"id":"04e1","competition":"Mathematica competitions in Croatia","problem":"Solve the following equation in the set of real numbers\n$$\n\\frac{1}{x^2} + \\frac{1}{(1-x)^2} = 24.\n$$","solutions":[],"images":[]});

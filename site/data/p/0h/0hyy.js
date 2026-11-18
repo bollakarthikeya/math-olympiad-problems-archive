@@ -1,0 +1,1 @@
+__p({"id":"0hyy","competition":"Harvard-MIT Math Tournament","problem":"Find all possible values of $\\frac{d}{a}$ where $a^{2}-6 a d+8 d^{2}=0$, $a \\neq 0$.","solutions":["Dividing $a^{2}-6 a d+8 d^{2}=0$ by $a^{2}$, we get $1-6 \\frac{d}{a}+8\\left(\\frac{d}{a}\\right)^{2}=0$.\n\nThe roots of this quadratic are $\\frac{1}{2}, \\frac{1}{4}$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0cy7","competition":"SAMC","problem":"In triangle $ABC$ with centroid $G$ let $M \\in (AB)$ and $N \\in (AC)$ be points on two of its sides. Prove that points $M$, $G$, $N$ are collinear if and only if\n$$\n\\frac{MB}{MA} + \\frac{NC}{NA} = 1\n$$","solutions":[],"images":[]});

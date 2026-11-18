@@ -1,0 +1,1 @@
+__p({"id":"09h2","competition":"Mongolian Mathematical Olympiad","problem":"Let $G$ be a graph with at least two vertices. Denote by $n(u)$ the sum of all degrees of vertices adjacent to a vertex $u$ of $G$. If $G$ does not contain cycles of length $3$ and $4$ then there are two vertices $u$ and $v$ of $G$ such that $n(u) = n(v)$.","solutions":[],"images":[]});

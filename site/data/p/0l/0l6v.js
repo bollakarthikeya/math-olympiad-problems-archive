@@ -1,0 +1,1 @@
+__p({"id":"0l6v","competition":"TST2025","problem":"Prove that there exists a real number $\\varepsilon > 0$ such that there are infinitely many sequences of integers $0 < a_1 < a_2 < \\dots < a_{2025}$ satisfying\n$$\n\\text{gcd}(a_1^2 + 1, a_2^2 + 1, \\dots, a_{2025}^2 + 1) > a_{2025}^{1+\\varepsilon}.\n$$","solutions":[],"images":[]});

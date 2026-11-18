@@ -1,0 +1,1 @@
+__p({"id":"0b47","competition":"25th Philippine Mathematical Olympiad Area Stage","problem":"In parallelogram $WXYZ$, the length of diagonal $WY$ is $15$, and the perpendicular distances from $W$ to lines $YZ$ and $XY$ are $9$ and $12$, respectively. Find the least possible area of the parallelogram.","solutions":[],"images":[]});

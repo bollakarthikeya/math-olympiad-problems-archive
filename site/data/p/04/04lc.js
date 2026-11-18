@@ -1,0 +1,1 @@
+__p({"id":"04lc","competition":"Mathematical competitions in Croatia","problem":"What is the maximum number of elements that a finite set $S$ can have so that among any three elements of $S$ there exist two distinct whose sum is an element of $S$ as well? (Russia 2000)","solutions":[],"images":[]});

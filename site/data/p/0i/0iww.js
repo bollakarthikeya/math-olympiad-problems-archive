@@ -1,0 +1,1 @@
+__p({"id":"0iww","competition":"12th Annual Harvard-MIT Mathematics Tournament","problem":"Simplify: $i^{0} + i^{1} + \\cdots + i^{2009}$.","solutions":["By the geometric series formula, the sum is equal to\n$$\n\\frac{i^{2010} - 1}{i - 1} = \\frac{-2}{i - 1} = 1 + i.\n$$"],"images":[]});

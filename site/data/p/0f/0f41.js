@@ -1,0 +1,1 @@
+__p({"id":"0f41","competition":"15th ASU","problem":"$ABC$ is a triangle. $A'$ lies on the side $BC$ with $BA' / BC = 1 / 4$. Similarly, $B'$ lies on the side $CA$ with $CB' / CA = 1 / 4$, and $C'$ lies on the side $AB$ with $AC' / AB = 1 / 4$. Show that the perimeter of $A'B'C'$ is between $1/2$ and $3/4$ of the perimeter of $ABC$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f5b","competition":"17th ASU","problem":"Show that given any $2m + 1$ different integers lying between $-(2m-1)$ and $2m-1$ (inclusive) we can always find three whose sum is zero.","solutions":[],"images":[]});

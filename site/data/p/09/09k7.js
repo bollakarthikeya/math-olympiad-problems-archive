@@ -1,0 +1,1 @@
+__p({"id":"09k7","competition":"Mongolian Mathematical Olympiad","problem":"Let $n$, $m$, $k$ be integers such that $\\frac{mk+n}{n^2+1}$ and $\\frac{nk+m}{m^2+1}$ are integers. Show that $k^2 - 1$ is divisible by the greatest common divisor of $n^2+1$ and $m^2+1$.","solutions":[],"images":[]});

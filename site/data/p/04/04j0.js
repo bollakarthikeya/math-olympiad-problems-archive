@@ -1,0 +1,1 @@
+__p({"id":"04j0","competition":"Croatia Mathematical Competitions","problem":"Let $n$ be a positive integer larger than $1$ such that both $2n - 1$ and $3n - 2$ are perfect squares. Prove that $10n - 7$ is composite.","solutions":[],"images":[]});

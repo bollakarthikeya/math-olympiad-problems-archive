@@ -1,0 +1,1 @@
+__p({"id":"0b2h","competition":"23rd Philippine Mathematical Olympiad Qualifying Stage","problem":"In how many ways can $2021$ be written as a sum of two or more consecutive integers?\n(a) $3$\n(b) $5$\n(c) $7$\n(d) $9$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0anm","competition":"Qualifying Round","problem":"Exactly one of the following people is lying. Determine the liar.\n\nBee said, \"Cee is certainly not a liar.\"\n\nCee said, \"I know Gee is lying.\"\n\nDee said, \"Bee is telling the truth.\"\n\nGee said, \"Dee is not telling the truth.\"\n\n(a) Bee\n(b) Cee\n(c) Dee\n(d) Gee","solutions":[],"images":[]});

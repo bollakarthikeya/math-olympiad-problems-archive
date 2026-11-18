@@ -1,0 +1,1 @@
+__p({"id":"0cfa","competition":"74th NMO Shortlisted Problems","problem":"Find the lengths of the sides of a right triangle, if they are integers and the area of the triangle (in cm²) is 5 times larger than its perimeter (in cm).","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"076x","competition":"INMO-2017","problem":"Let $ABCDE$ be a convex pentagon in which $\\angle A = \\angle B = \\angle C = \\angle D = 120^\\circ$ and side lengths are five consecutive integers in some order. Find all possible values of $AB + BC + CD$.","solutions":[],"images":[]});

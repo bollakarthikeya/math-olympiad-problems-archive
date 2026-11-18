@@ -1,0 +1,1 @@
+__p({"id":"0faa","competition":"25th ASU","problem":"$ABCD$ is a square. The points $X$ on the side $AB$ and $Y$ on the side $AD$ are such that $AX \\cdot AY = 2 \\; BX \\cdot DY$. The lines $CX$ and $CY$ meet the diagonal $BD$ in two points. Show that these points lie on the circumcircle of $AXY$.","solutions":[],"images":[]});

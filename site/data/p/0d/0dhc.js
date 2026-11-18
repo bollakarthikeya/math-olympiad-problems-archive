@@ -1,0 +1,1 @@
+__p({"id":"0dhc","competition":"Saudi Arabian IMO Booklet","problem":"Let $\\phi_n(m) = \\phi(\\phi_{n-1}(m))$, where $\\phi_1(m) = \\phi(m)$ is the Euler totient function, and set $\\omega(m)$ the smallest number $n$ such that $\\phi_n(m) = 1$. If $m < 2^\\alpha$, then prove that $\\omega(m) \\le \\alpha$.","solutions":[],"images":[]});

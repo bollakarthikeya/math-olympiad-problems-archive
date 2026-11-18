@@ -1,0 +1,1 @@
+__p({"id":"0aqf","competition":"12th Philippine Mathematical Olympiad - Area Stage","problem":"Determine the smallest positive integer $n$ such that $n$ is divisible by $20$, $n^{2}$ is a perfect cube, and $n^{3}$ is a perfect square.","solutions":[],"images":[]});

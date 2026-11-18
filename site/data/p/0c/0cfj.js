@@ -1,0 +1,1 @@
+__p({"id":"0cfj","competition":"74th NMO Shortlisted Problems","problem":"Prove that there are no nonnegative real numbers $x$ such that $[nx]$ is an odd natural number for any positive integer $n$.","solutions":[],"images":[]});

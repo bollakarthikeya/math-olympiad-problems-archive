@@ -1,0 +1,1 @@
+__p({"id":"0bl5","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Consider the real sequences $(a_n)_{n \\ge 1}$, $(b_n)_{n \\ge 1}$, $(c_n)_{n \\ge 1}$. Prove that if the sequence\n$$\np_n(x) = (x - a_n)(x - b_n)(x - c_n)\n$$\nconverges for infinitely many values of $x$, then it converges for every $x \\in \\mathbb{R}$.","solutions":[],"images":[]});

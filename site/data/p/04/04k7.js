@@ -1,0 +1,1 @@
+__p({"id":"04k7","competition":"Mathematical competitions in Croatia","problem":"Let $S$ be the centre of the circle $k$ with radius $1$. Vertices $A$ and $B$ of the square $ABCD$ belong to the circle $k$, and its side $CD$ passes through the point $S$. Find the length of the side of the square $ABCD$.","solutions":[],"images":[]});

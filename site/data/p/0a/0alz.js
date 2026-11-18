@@ -1,0 +1,1 @@
+__p({"id":"0alz","competition":"Area Stage","problem":"Find all ordered pairs $(x, y)$ satisfying the system\n$$\n\\begin{aligned}\nx^{2} + 4y^{2} - x y &= 10 \\\\\n2x - 4y + 3x y &= 11\n\\end{aligned}\n$$","solutions":[],"images":[]});

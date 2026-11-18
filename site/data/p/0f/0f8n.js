@@ -1,0 +1,1 @@
+__p({"id":"0f8n","competition":"23rd ASU","problem":"7 boys each went to a shop 3 times. Each pair met at the shop. Show that 3 must have been in the shop at the same time.","solutions":[],"images":[]});

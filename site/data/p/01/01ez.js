@@ -1,0 +1,1 @@
+__p({"id":"01ez","competition":"Baltic Way 2019","problem":"Prove that for arbitrary positive integer $n$ the following inequality holds\n$$\n\\frac{1}{1^2 + 2019} + \\frac{1}{2^2 + 2019} + \\dots + \\frac{1}{n^2 + 2019} < \\frac{1}{22}.\n$$","solutions":[],"images":[]});

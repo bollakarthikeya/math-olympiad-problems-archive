@@ -1,0 +1,1 @@
+__p({"id":"04nx","competition":"Croatia_2018","problem":"Let $d$ be a positive integer, and let $(a_n)$ be an arithmetic sequence of positive integers with the common difference $d$. If $d \\le 2018$, prove that at most 11 consecutive terms of that sequence can be prime numbers.","solutions":[],"images":[]});

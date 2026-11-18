@@ -1,0 +1,1 @@
+__p({"id":"0es0","competition":"South African Mathematics Olympiad First Round","problem":"$0.125$ divided by $0.25$ is\n(A) $0.75$ (B) $0.65$ (C) $0.55$ (D) $0.50$ (E) $0.40$","solutions":["(D) $0.125$ is half of $0.25$, so result is $0.5$"],"images":[]});

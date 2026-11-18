@@ -1,0 +1,1 @@
+__p({"id":"0f09","competition":"ASU","problem":"a, $m$, $n$ are positive integers and $a > 1$. Show that if $a^{m} + 1$ divides $a^{n} + 1$, then $m$ divides $n$.\n\nThe positive integer $b$ is relatively prime to $a$, show that if $a^{m} + b^{m}$ divides $a^{n} + b^{n}$ then $m$ divides $n$.","solutions":[],"images":[]});

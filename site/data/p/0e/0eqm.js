@@ -1,0 +1,1 @@
+__p({"id":"0eqm","competition":"South African Mathematics Olympiad Second Round","problem":"Find the value of $2 + 2 \\times 3^2$","solutions":["The value is $2 + 2 \\times 9 = 2 + 18 = 20$"],"images":[]});

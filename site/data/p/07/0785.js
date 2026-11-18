@@ -1,0 +1,1 @@
+__p({"id":"0785","competition":"IMOTC Practice Test 1","problem":"Let $S(k)$ denote the sum of digits (in base 10) of any positive integer $k$. Does there exist a positive integer $N$ so that $S(2^n) \\le S(2^{n+1})$ for all integers $n > N$?","solutions":[],"images":[]});

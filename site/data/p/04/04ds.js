@@ -1,0 +1,1 @@
+__p({"id":"04ds","competition":"Mathematica competitions in Croatia","problem":"Determine the smallest positive integer $n$ such that a half of $n$ is a perfect square, a third of $n$ is a perfect cube, and a fifth of $n$ a fifth power of an integer.","solutions":[],"images":[]});

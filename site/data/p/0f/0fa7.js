@@ -1,0 +1,1 @@
+__p({"id":"0fa7","competition":"25th ASU","problem":"The chords $AB$ and $CD$ of a sphere intersect at $X$. $A$, $C$ and $X$ are equidistant from a point $Y$ on the sphere. Show that $BD$ and $XY$ are perpendicular.","solutions":[],"images":[]});

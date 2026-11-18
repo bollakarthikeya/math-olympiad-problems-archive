@@ -1,0 +1,1 @@
+__p({"id":"0c58","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"Show that if $a, b, c \\in (0, \\infty)$, then\n$$\n\\frac{a^2b}{a^6 + b^2 + 4ac + 2} + \\frac{b^2c}{b^6 + c^2 + 4ba + 2} + \\frac{c^2a}{c^6 + a^2 + 4cb + 2} \\le \\frac{a+b+c}{8}.\n$$","solutions":[],"images":[]});

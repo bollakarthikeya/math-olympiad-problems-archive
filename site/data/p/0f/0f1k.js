@@ -1,0 +1,1 @@
+__p({"id":"0f1k","competition":"ASU","problem":"Show that there are $2^{n + 1}$ numbers each with $2^{n}$ digits, all $1$ or $2$, so that every two numbers differ in at least half their digits.","solutions":[],"images":[]});

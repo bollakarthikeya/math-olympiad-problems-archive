@@ -1,0 +1,1 @@
+__p({"id":"0dln","competition":"Saudi Booklet","problem":"$$\nx^2 + a x + 1 = 0 \\text{ and } x^2 + b x + c = 0\n$$\nhave a common real root. In addition, the equations\n$$\nx^2 + x + a = 0 \\text{ and } x^2 + c x + b = 0\n$$\nhave a common real root. What values can the sum $a + b + c$ take?","solutions":[],"images":[]});

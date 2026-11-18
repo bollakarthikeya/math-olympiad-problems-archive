@@ -1,0 +1,1 @@
+__p({"id":"0anj","competition":"Qualifying Round","problem":"Let $r = \\log 50$ and $s = \\log 80$. Express $7 \\log 20$ in terms of $r$ and $s$.\n\n(a) $2r + s$\n(b) $2r + 3s$\n(c) $r + 2s$\n(d) $3r + 2s$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"03kf","competition":"Canadian Mathematical Olympiad","problem":"Let $ABC$ be an acute angled triangle. Let $AD$ be the altitude on $BC$, and let $H$ be any interior point on $AD$. Lines $BH$ and $CH$, when extended, intersect $AC$ and $AB$ at $E$ and $F$, respectively. Prove that $\\angle EDH = \\angle FDH$.","solutions":[],"images":[]});

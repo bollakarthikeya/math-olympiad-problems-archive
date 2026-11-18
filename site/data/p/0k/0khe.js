@@ -1,0 +1,1 @@
+__p({"id":"0khe","competition":"AMC 12 A","problem":"The angle bisector of the acute angle formed at the origin by the graphs of the lines $y = x$ and $y = 3x$ has equation $y = kx$. What is $k$?\n(A) $\\frac{1 + \\sqrt{5}}{2}$ (B) $\\frac{1 + \\sqrt{7}}{2}$ (C) $\\frac{2 + \\sqrt{3}}{2}$ (D) $2$ (E) $\\frac{2 + \\sqrt{5}}{2}$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f6u","competition":"20th ASU","problem":"An $n \\times n \\times n$ cube is divided into $n^3$ unit cubes. Show that we can assign a different integer to each unit cube so that the sum of each of the $3n^2$ rows parallel to an edge is zero.","solutions":[],"images":[]});

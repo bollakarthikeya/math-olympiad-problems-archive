@@ -1,0 +1,1 @@
+__p({"id":"0eoa","competition":"South African Mathematics Olympiad","problem":"The value of $\\frac{2015 \\times 2 + 4 \\times 4030}{4030}$ is\n(A) 2 (B) 3 (C) 4 (D) 5 (E) 6","solutions":["$$\n\\frac{2015 \\times 2 + 4 \\times 4030}{4030} = \\frac{4030 + 4 \\times 4030}{4030} = \\frac{5 \\times 4030}{4030} = 5.\n$$"],"images":[]});

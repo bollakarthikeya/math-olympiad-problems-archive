@@ -1,0 +1,1 @@
+__p({"id":"0f6e","competition":"19th ASU","problem":"Each face of a cube is painted a different color. The same colors are used to paint every face of a cubical box a different color. Show that the cube can always be placed in the box, so that every face is a different color from the box face it is in contact with.","solutions":[],"images":[]});

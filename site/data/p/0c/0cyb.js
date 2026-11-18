@@ -1,0 +1,1 @@
+__p({"id":"0cyb","competition":"SAMC","problem":"Let $AMNB$ be a quadrilateral inscribed in a semicircle of diameter $AB = x$. Denote $AM = a$, $MN = b$, $NB = c$. Prove that\n$$\nx^{3} - (a^{2} + b^{2} + c^{2})x - 2abc = 0.\n$$","solutions":[],"images":[]});

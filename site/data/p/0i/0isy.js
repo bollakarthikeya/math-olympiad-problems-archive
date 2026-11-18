@@ -1,0 +1,1 @@
+__p({"id":"0isy","competition":"Harvard-MIT Mathematics Tournament","problem":"In a triangle $ABC$, take point $D$ on $BC$ such that $DB = 14$, $DA = 13$, $DC = 4$, and the circumcircle of $ADB$ is congruent to the circumcircle of $ADC$. What is the area of triangle $ABC$?","solutions":[],"images":[]});

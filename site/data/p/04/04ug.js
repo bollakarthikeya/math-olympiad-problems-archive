@@ -1,0 +1,1 @@
+__p({"id":"04ug","competition":"First Round","problem":"Find the largest integer $d$ for which a $43 \\times 47$ table can be filled with numbers $1$ and $2$ such that the sum of the numbers in each column and in each row is a multiple of $d$. (Do not forget to show that no larger $d$ works.) (Tomáš Bárta)","solutions":[],"images":[]});

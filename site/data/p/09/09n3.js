@@ -1,0 +1,1 @@
+__p({"id":"09n3","competition":"Mongolian Mathematical Olympiad","problem":"Let $ABC$ be a triangle such that $\\angle ACB = 90^\\circ$ and $\\angle BAC = 36^\\circ$. Let $AL$ be the angle bisector of the angle $\\angle BAC$. The point $M$ is taken on $AL$ so that $AM = MB$. Prove that $AM = 2 CL$.","solutions":[],"images":[]});

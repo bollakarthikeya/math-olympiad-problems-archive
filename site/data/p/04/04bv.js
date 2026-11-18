@@ -1,0 +1,1 @@
+__p({"id":"04bv","competition":"Mathematica competitions in Croatia","problem":"Determine the number of quadratic functions with coefficients from the set\n$$\nS = \\{1, 2, 4, 8, 16, 32\\},\n$$\nthat have no real roots.","solutions":[],"images":[]});

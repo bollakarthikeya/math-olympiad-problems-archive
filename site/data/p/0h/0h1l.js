@@ -1,0 +1,1 @@
+__p({"id":"0h1l","competition":"51st Ukrainian National Mathematical Olympiad, 3rd Round","problem":"Does there exist a quadruple with non parallel sides, that can be partitioned into 2011 isosceles triangles?","solutions":["**Answer:** See fig. 13."],"images":[]});

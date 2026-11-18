@@ -1,0 +1,1 @@
+__p({"id":"0490","competition":"CroatianCompetitions2011","problem":"Determine all $a \\in \\mathbb{R}$ such that for every $x \\in \\mathbb{R}$ the following inequality holds:\n$$\n\\frac{x}{x^2 + 2x + 3} > \\frac{x+a}{1+x+x^2}.\n$$","solutions":[],"images":[]});

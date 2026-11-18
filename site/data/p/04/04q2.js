@@ -1,0 +1,1 @@
+__p({"id":"04q2","competition":"Croatian Mathematical Society Competitions","problem":"The point $A(0, 2)$ is given on the parabola $y^2 = x + 4$. Find all points $B$ on the given parabola, different from $A$, for which there exists a point $C$, also on the parabola, such that the angle $\\angle ACB$ is right. (China)","solutions":[],"images":[]});

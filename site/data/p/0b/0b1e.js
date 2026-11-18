@@ -1,0 +1,1 @@
+__p({"id":"0b1e","competition":"Philippines Mathematical Olympiad","problem":"Find the largest three-digit integer for which the product of its digits is 3 times the sum of its digits.","solutions":[],"images":[]});

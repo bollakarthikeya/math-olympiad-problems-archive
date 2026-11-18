@@ -1,0 +1,1 @@
+__p({"id":"0ay1","competition":"Philippine Mathematical Olympiad Area Stage","problem":"Let $A$ be the sum of the decimal digits of the largest 2017-digit multiple of $7$ and let $B$ be the sum of the decimal digits of the smallest 2017-digit multiple of $7$. Find $A - B$.","solutions":[],"images":[]});

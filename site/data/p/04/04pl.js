@@ -1,0 +1,1 @@
+__p({"id":"04pl","competition":"Croatian Mathematical Society Competitions","problem":"The product of a certain number of distinct positive integers less than $1000$ is not divisible by $250$. At most how many numbers have been multiplied?","solutions":[],"images":[]});

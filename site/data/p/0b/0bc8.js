@@ -1,0 +1,1 @@
+__p({"id":"0bc8","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"The function $f : [0, 1] \\to \\mathbb{R}$ is differentiable and\n$$\n\\int_{0}^{1} f(x) \\, dx = \\int_{0}^{1} x f(x) \\, dx = 0.\n$$\nProve that there exists $c \\in (0, 1)$ such that $f'(c) = 0$.","solutions":[],"images":[]});

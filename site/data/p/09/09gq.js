@@ -1,0 +1,1 @@
+__p({"id":"09gq","competition":"Mongolian Mathematical Olympiad","problem":"Let $ABC$ be a triangle. Take the points $D$ and $E$ outside and $F$ inside of the triangle. If $ADB$, $BEC$ and $CFA$ are all similar to each other and isosceles triangles with bases $AB$, $BC$ and $CA$, respectively then prove that $DBEF$ is a parallelogram.","solutions":[],"images":[]});

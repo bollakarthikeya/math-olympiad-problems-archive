@@ -1,0 +1,1 @@
+__p({"id":"04ak","competition":"Hrvatska 2011","problem":"Among all the points $z$ in the complex plane satisfying $|z+3| + |z-3| = 10$ determine the point closest to the line through $(-3+4i)$ and $(-8+i)$.","solutions":[],"images":[]});

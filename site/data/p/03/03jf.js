@@ -1,0 +1,1 @@
+__p({"id":"03jf","competition":"Canadian Mathematical Olympiad","problem":"The number $1987$ can be written as a three digit number $x y z$ in some base $b$. If $x + y + z = 1 + 9 + 8 + 7$, determine all possible values of $x, y, z, b$.","solutions":[],"images":[]});

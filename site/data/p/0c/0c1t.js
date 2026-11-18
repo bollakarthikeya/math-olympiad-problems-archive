@@ -1,0 +1,1 @@
+__p({"id":"0c1t","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Consider the natural numbers $a \\neq 0$, $b = 2a + 1000$, $c = a + 1$ and $d = 2a + 1002$.\n\na) Show that $\\frac{a}{b} < \\frac{c}{d}$.\n\nb) For $a = 9$, find the least natural number $n$ such that\n$$\n\\frac{a+n}{b+n} > \\frac{c+n}{d+n}.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"077t","competition":"EGMO TST Day 1","problem":"Alice has an integer $N > 1$ written on a blackboard. Each minute, she deletes the current number $x$ on the blackboard and writes $2x + 1$ if $x$ is not the cube of an integer, or the cube root of $x$ otherwise. Prove that at some point in time, she writes a number larger than $10^{100}$.","solutions":[],"images":[]});

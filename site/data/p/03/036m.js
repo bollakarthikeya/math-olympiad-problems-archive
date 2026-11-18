@@ -1,0 +1,1 @@
+__p({"id":"036m","competition":"Bulgarian Mathematical Competitions","problem":"Let $O$ be the circumcenter of a triangle $ABC$ with $AC = BC$. The line $AO$ meets the side $BC$ at $D$. If the lengths of $BD$ and $CD$ are integers, and $AO - CD$ is a prime number, find these three numbers.","solutions":[],"images":[]});

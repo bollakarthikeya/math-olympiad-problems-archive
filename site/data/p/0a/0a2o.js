@@ -1,0 +1,1 @@
+__p({"id":"0a2o","competition":"Junior Mathematical Olympiad","problem":"What is the smallest integer $a > 10$ for which:\n* $a$ is divisible by $10$ and\n* $a + 1$ is divisible by $11$ and\n* $a + 2$ is divisible by $12$?","solutions":[],"images":[]});

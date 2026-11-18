@@ -1,0 +1,1 @@
+__p({"id":"0h33","competition":"Ukrainian Mathematical Olympiad","problem":"Let $f(x) = x^2 - 8x + 20$. Solve the equation $f(f(f(x))) = 5$.","solutions":["Неважко помітити, що $f(x) = (x - 4)^2 + 4$. Тоді рівняння $f(f(f(x))) = 5$ рівносильне рівнянню $(x - 4)^8 + 4 = 5$, звідки $x - 4 = \\pm 1$, тобто $x = 3$ або $x = 5$.\n\nВідповідь: $x = 3, x = 5$."],"images":[]});

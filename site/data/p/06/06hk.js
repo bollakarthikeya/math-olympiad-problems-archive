@@ -1,0 +1,1 @@
+__p({"id":"06hk","competition":"HONG KONG PRELIMINARY SELECTION CONTEST","problem":"How many sets of integers $(a, b, c)$ satisfy $2 \\le a \\le b \\le c$ and $abc = 2013 \\times 2014$? (2 marks)\n\n有多少組整數 $(a, b, c)$ 滿足 $2 \\le a \\le b \\le c$ 及 $abc = 2013 \\times 2014$? (2分)","solutions":[],"images":[]});

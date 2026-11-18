@@ -1,0 +1,1 @@
+__p({"id":"09jz","competition":"Mongolian Mathematical Olympiad","problem":"A family has four children with pairwise distinct positive integer ages such that the sum of the ages of any set of the children is different from the sum of the ages of any other set of the children. What is the minimum possible age of the eldest child?","solutions":[],"images":[]});

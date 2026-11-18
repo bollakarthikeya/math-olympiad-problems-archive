@@ -1,0 +1,1 @@
+__p({"id":"03kn","competition":"Canadian Mathematical Olympiad","problem":"If $\\alpha, \\beta, \\gamma$ are the roots of $x^{3}-x-1=0$, compute\n$$\n\\frac{1+\\alpha}{1-\\alpha}+\\frac{1+\\beta}{1-\\beta}+\\frac{1+\\gamma}{1-\\gamma}\n$$","solutions":[],"images":[]});

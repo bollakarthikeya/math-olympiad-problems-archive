@@ -1,0 +1,1 @@
+__p({"id":"0c7x","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Solve in the set of real numbers the equation\n$$\n\\left[ x + \\frac{1}{x} \\right] = \\left[ x^2 + \\frac{1}{x^2} \\right],\n$$\nwhere $[a]$ represents the integer part of the real number $a$.","solutions":[],"images":[]});

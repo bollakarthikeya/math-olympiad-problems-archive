@@ -1,0 +1,1 @@
+__p({"id":"0f9t","competition":"24th ASU","problem":"Find three non-zero reals such that all quadratics with those numbers as coefficients have two distinct rational roots.","solutions":["Answer $1$, $2$, $-3$\n\nIf $a + b + c = 0$, then $1$ is a root of $a x^2 + b x + c$, and so the other root is $-\\frac{b}{a} - 1$, which is rational."],"images":[]});

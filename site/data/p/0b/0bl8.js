@@ -1,0 +1,1 @@
+__p({"id":"0bl8","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Prove that $13$ has a multiple whose decimal writing contains only two digits $a$, $b$ and $a$ appears in exactly $3$ places, which are not contiguous.","solutions":[],"images":[]});

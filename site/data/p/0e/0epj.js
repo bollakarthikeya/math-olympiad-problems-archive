@@ -1,0 +1,1 @@
+__p({"id":"0epj","competition":"South African Mathematics Olympiad","problem":"If $\\frac{12}{x}$ is a natural number and $x$ is a natural number, how many possible values are there for $x$?\n(A) 4\n(B) 5\n(C) 6\n(D) 7\n(E) 8","solutions":["$x$ must be a divisor of $12$, and the possibilities are $1$, $2$, $3$, $4$, $6$, $12$, which is $6$ in all."],"images":[]});

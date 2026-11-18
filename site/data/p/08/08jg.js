@@ -1,0 +1,1 @@
+__p({"id":"08jg","competition":"The second selection test for JMBO 2003","problem":"Prove that each positive integer is equal to a difference of two positive integers with the same number of the prime divisors.","solutions":[],"images":[]});

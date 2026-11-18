@@ -1,0 +1,1 @@
+__p({"id":"04mm","competition":"Croatia_2018","problem":"In how many ways can we fill a $2018 \\times 2018$ board with positive integers so that the sum of numbers in any three consecutive cells in the same row or the same column equals $5$?","solutions":[],"images":[]});

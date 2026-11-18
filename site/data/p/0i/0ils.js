@@ -1,0 +1,1 @@
+__p({"id":"0ils","competition":"10th Annual Harvard-MIT Mathematics Tournament","problem":"$ABCD$ is a convex quadrilateral such that $AB = 2$, $BC = 3$, $CD = 7$, and $AD = 6$. It also has an incircle. Given that $\\angle ABC$ is right, determine the radius of this incircle.","solutions":[],"images":[]});

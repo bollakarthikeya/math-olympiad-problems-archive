@@ -1,0 +1,1 @@
+__p({"id":"0410","competition":"China Western Invitational Mathematical Competition","problem":"Find all prime numbers $p$, for which there are infinitely many positive integers $n$, such that: $p \\mid n^{n+1} + (n+1)^n$.","solutions":[],"images":[]});

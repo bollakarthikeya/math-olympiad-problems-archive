@@ -1,0 +1,1 @@
+__p({"id":"0c39","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Prove that if $n \\in \\mathbb{N}^*$ and there exists $a, b \\in \\mathbb{Z}$ so that $\\frac{a+bi}{\\sqrt{n}}$ is a root of order $n$ of the unity, then $n = 8m^2$, for some integer $m$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f05","competition":"ASU","problem":"$x_1$, $x_2$, ..., $x_n$ are positive reals with sum $1$. Let $s$ be the largest of $\\dfrac{x_1}{1 + x_1}$, $\\dfrac{x_2}{1 + x_1 + x_2}$, ..., $\\dfrac{x_n}{1 + x_1 + ... + x_n}$. What is the smallest possible value of $s$? What are the corresponding $x_i$?","solutions":[],"images":[]});

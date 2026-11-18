@@ -1,0 +1,1 @@
+__p({"id":"09lg","competition":"Mongolian Mathematical Olympiad","problem":"An $n$-digit positive integer written in the digits $0$, $1$, $2$, $3$ is called a *rabbit number* if deleting $n - 4$ digits yields the number $2023$. How many $n$-digit rabbit numbers are there?","solutions":[],"images":[]});

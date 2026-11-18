@@ -1,0 +1,1 @@
+__p({"id":"03i6","competition":"Canadian Mathematical Olympiad","problem":"Determine the largest real number $z$ such that\n$$\n\\begin{gathered}\nx + y + z = 5 \\\\\nx y + y z + x z = 3\n\\end{gathered}\n$$\nand $x$, $y$ are also real.","solutions":[],"images":[]});

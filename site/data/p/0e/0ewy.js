@@ -1,0 +1,1 @@
+__p({"id":"0ewy","competition":"4th ASU","problem":"How many (algebraically) different expressions can we obtain by placing parentheses in $a_1 / a_2 / \\ldots / a_n$?","solutions":["Answer $2^{n - 2}$. $a_1$ must be in the numerator, and $a_2$ must be in the denominator, but the other symbols can be in either. This is easily proved by induction."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0alu","competition":"QUALIFYING STAGE","problem":"If $2 \\sin (3x) = a \\cos (3x + c)$, find all values of $ac$. In the choices below, $k$ runs through all integers.\n\n(a) $-\\frac{\\pi}{2}$\n\n(b) $2k\\pi$\n\n(c) $-\\pi$\n\n(d) $(4k-1)\\pi$","solutions":[],"images":[]});

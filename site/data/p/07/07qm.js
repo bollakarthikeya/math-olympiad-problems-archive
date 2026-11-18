@@ -1,0 +1,1 @@
+__p({"id":"07qm","competition":"Irish Mathematical Olympiad","problem":"Let $a_1, a_2, \\dots, a_m$ be positive integers, none of which is equal to $10$, such that $a_1 + a_2 + \\dots + a_m = 10m$. Prove that\n$$\n(a_1 a_2 a_3 \\cdots a_m)^{1/m} \\le 3\\sqrt{11}.\n$$","solutions":[],"images":[]});

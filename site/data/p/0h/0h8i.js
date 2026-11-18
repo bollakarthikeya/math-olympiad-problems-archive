@@ -1,0 +1,1 @@
+__p({"id":"0h8i","competition":"58th Ukrainian National Mathematical Olympiad","problem":"Determine if there exist non-integer $x, y$, so that for any integer $a, b$, both $x+y$ and $ax+by$ are integers.","solutions":["Suppose such numbers exist. Then $ax+by = a(x+y) + (b-a)y$. Hence $(b-a)y$ is an integer. Let $b=2, a=1$, then $y$ is an integer – contradiction."],"images":[]});

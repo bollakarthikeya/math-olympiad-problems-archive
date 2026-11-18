@@ -1,0 +1,1 @@
+__p({"id":"04bc","competition":"Mathematica competitions in Croatia","problem":"Determine the number of pairs of integers $(x, y)$ that satisfy the equality:\n$$\n(x + y + 2012)^2 = x^2 + y^2 + 2012^2 .\n$$","solutions":[],"images":[]});

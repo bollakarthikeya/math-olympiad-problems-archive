@@ -1,0 +1,1 @@
+__p({"id":"03hn","competition":"Canadian Mathematical Olympiad","problem":"$A$, $B$, $C$, $D$ are four \"consecutive\" points on the circumference of a circle and $P$, $Q$, $R$, $S$ are points on the circumference which are respectively the midpoints of the $\\operatorname{arcs}\\ AB$, $BC$, $CD$, $DA$. Prove that $PR$ is perpendicular to $QS$.","solutions":[],"images":[]});

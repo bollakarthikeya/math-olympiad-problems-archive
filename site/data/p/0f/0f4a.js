@@ -1,0 +1,1 @@
+__p({"id":"0f4a","competition":"15th ASU","problem":"$ABCDEF$ is a prism. Its base $ABC$ and its top $DEF$ are congruent equilateral triangles. The side edges are $AD$, $BE$ and $CF$. Find all points on the base which are equidistant from the three lines $AE$, $BF$ and $CD$.","solutions":[],"images":[]});

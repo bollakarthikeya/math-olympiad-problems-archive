@@ -1,0 +1,1 @@
+__p({"id":"0bvl","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"What values can assume $[\\sqrt{m} + \\frac{1}{m+n}] + [\\sqrt{n} + \\frac{1}{m+n}] - [\\sqrt{m}] - [\\sqrt{n}]$, when $m$ and $n$ are integers $\\ge 9$?","solutions":[],"images":[]});

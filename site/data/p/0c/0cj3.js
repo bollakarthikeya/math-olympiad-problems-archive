@@ -1,0 +1,1 @@
+__p({"id":"0cj3","competition":"75th NMO","problem":"Let $f : [0, \\infty) \\to \\mathbb{R}$ be a differentiable function, with continuous derivative, such that $f(0) > 0$, $f'(x) + (f(x))^2 > 0$, for any $x > 0$ and\n$$\n\\lim_{x \\to \\infty} [f'(x) + (f(x))^2] = 0.\n$$\nShow that $\\lim_{x \\to \\infty} f(x) = 0$.","solutions":[],"images":[]});

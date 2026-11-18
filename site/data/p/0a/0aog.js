@@ -1,0 +1,1 @@
+__p({"id":"0aog","competition":"QUALIFYING STAGE","problem":"The vertices $D$, $E$ and $F$ of the rectangle are midpoints of the sides of $\\triangle ABC$. If the area of $\\triangle ABC$ is $48$, find the area of the rectangle.\n\n![](attached_image_1.png)\n\n(a) 12\n(b) 24\n(c) 6\n(d) $12 \\sqrt{2}$","solutions":[],"images":["img/0aog_1.jpg"]});

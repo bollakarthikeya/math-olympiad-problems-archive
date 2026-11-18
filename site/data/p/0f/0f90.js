@@ -1,0 +1,1 @@
+__p({"id":"0f90","competition":"23rd ASU","problem":"A polyhedron has an even number of edges. Show that we can place an arrow on each edge so that each vertex has an even number of arrows pointing towards it (on adjacent edges).","solutions":[],"images":[]});

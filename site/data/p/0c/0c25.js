@@ -1,0 +1,1 @@
+__p({"id":"0c25","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Find all the real numbers $k$ such that\n$$\n\\sqrt{3(a^2 + b^2 + c^2)} \\leq a + b + c + k\\sqrt{a^2 + b^2 + c^2 - ab - bc - ca},\n$$\nfor every positive real numbers $a$, $b$, $c$.","solutions":[],"images":[]});

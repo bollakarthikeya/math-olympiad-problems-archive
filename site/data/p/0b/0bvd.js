@@ -1,0 +1,1 @@
+__p({"id":"0bvd","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"The point $M$ is on the incircle of the square $ABCD$. Show that $MA \\cdot MB \\cdot MC \\cdot MD \\le 5$.","solutions":[],"images":[]});

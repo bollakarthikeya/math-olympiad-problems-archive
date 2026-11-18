@@ -1,0 +1,1 @@
+__p({"id":"0f1o","competition":"ASU","problem":"50 watches, all keeping perfect time, lie on a table. Show that there is a moment when the sum of the distances from the center of the table to the center of each dial equals the sum of the distances from the center of the table to the tip of each minute hand.","solutions":[],"images":[]});

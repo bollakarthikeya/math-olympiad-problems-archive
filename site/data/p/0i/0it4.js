@@ -1,0 +1,1 @@
+__p({"id":"0it4","competition":"1st Annual Harvard-MIT November Tournament","problem":"Find all ordered pairs $(x, y)$ such that\n$$\n(x-2y)^2 + (y-1)^2 = 0\n$$","solutions":["The square of a real number is always at least $0$, so to have equality we must have $(x-2y)^2 = 0$ and $(y-1)^2 = 0$.\n\nThen $y = 1$ and $x = 2y = 2$.\n\nSo the only solution is $(2, 1)$."],"images":[]});

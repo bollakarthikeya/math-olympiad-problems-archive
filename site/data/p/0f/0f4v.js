@@ -1,0 +1,1 @@
+__p({"id":"0f4v","competition":"16th ASU","problem":"A tetrahedron $T'$ has all its vertices inside the tetrahedron $T$. Show that the sum of the edge lengths of $T'$ is less than $\\frac{4}{3}$ times the corresponding sum for $T$.","solutions":[],"images":[]});

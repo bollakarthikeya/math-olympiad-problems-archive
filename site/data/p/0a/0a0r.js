@@ -1,0 +1,1 @@
+__p({"id":"0a0r","competition":"Junior Mathematical Olympiad","problem":"In how many ways can you divide the numbers $1$ up to $10$ into pairs such that, for each pair, the largest number is at least twice the smallest number?","solutions":["$12$"],"images":[]});

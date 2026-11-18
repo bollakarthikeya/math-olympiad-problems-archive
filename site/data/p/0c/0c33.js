@@ -1,0 +1,1 @@
+__p({"id":"0c33","competition":"Shortlisted problems for the 69th NMO","problem":"Consider an isosceles triangle $ABC$, where $AB = AC$ and $\\angle BAC = 100^\\circ$. Let point $D$ on the opposite side from $C$ with respect to $AB$ such that $DC = BC$, and $\\angle BCD = 20^\\circ$. Find $\\angle DAB$.","solutions":[],"images":[]});

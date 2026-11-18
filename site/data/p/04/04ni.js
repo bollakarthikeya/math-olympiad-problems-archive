@@ -1,0 +1,1 @@
+__p({"id":"04ni","competition":"Croatia_2018","problem":"Find all prime numbers $p$ for which there exists a positive integer $m$ such that the number $p^m + 4$ is a square of some positive integer.","solutions":[],"images":[]});

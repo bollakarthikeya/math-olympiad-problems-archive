@@ -1,0 +1,1 @@
+__p({"id":"0c4o","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"The differentiable function $f : (0, \\infty) \\to \\mathbb{R}$ is such that the limit $\\lim_{x \\to \\infty} f'(x)$ exists and $x(f(x+1) - f(x)) = f(x)$, $\\forall x > 0$. Prove that $f(x) = ax$, $\\forall x \\in (0, \\infty)$, for some real number $a$.","solutions":[],"images":[]});

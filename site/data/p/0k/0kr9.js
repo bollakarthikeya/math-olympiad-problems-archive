@@ -1,0 +1,1 @@
+__p({"id":"0kr9","competition":"AIME II","problem":"There is a positive real number $x$ not equal to either $\\frac{1}{20}$ or $\\frac{1}{2}$ such that\n$$\n\\log_{20x}(22x) = \\log_{2x}(202x).\n$$\nThe value $\\log_{20x}(22x)$ can be written as $\\log_{10}(\\frac{m}{n})$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.","solutions":[],"images":[]});

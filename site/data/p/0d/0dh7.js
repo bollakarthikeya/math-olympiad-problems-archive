@@ -1,0 +1,1 @@
+__p({"id":"0dh7","competition":"Saudi Arabian IMO Booklet","problem":"Let $ABC$ be a triangle with midpoints $K$, $M$, $N$ of $BC$, $CA$, $AB$ respectively. Let $AD$, $BE$, $CF$ be the altitudes of the triangle $ABC$ and let $U$, $V$, $W$ be the midpoints of $FD$, $DE$, $EF$ respectively. Prove that $KW$, $MV$, $NU$ intersect at one point.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04uo","competition":"First Round","problem":"Consider an infinite sequence $a_0, a_1, a_2, \\dots$ of integers that satisfies $a_0 \\ge 2$ and $a_{n+1} \\in \\{2a_n - 1, 2a_n + 1\\}$ for all indices $n \\ge 0$. Prove that any such infinite sequence contains infinitely many composite numbers. (Martin Melicher, Josef Tkadlec)","solutions":[],"images":[]});

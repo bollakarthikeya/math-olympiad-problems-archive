@@ -1,0 +1,1 @@
+__p({"id":"0dm7","competition":"Saudi Booklet","problem":"Let $n$ be a positive integer and $A = \\{n, n+1, \\dots, 2n-1\\}$. Prove that there is a number $a \\in A$ such that the sum of elements of the set $A \\setminus \\{a\\}$ is not divisible by any element of $A$.","solutions":[],"images":[]});

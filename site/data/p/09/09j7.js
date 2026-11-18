@@ -1,0 +1,1 @@
+__p({"id":"09j7","competition":"Mongolian Mathematical Olympiad Round 1","problem":"Are there positive integers $A$, $B$ and $C$ such that $A$, $B$, $C$ have exactly $550$ common divisors and $A$, $B$ have exactly $2000$ common divisors and $A$, $C$ have exactly $1440$ common divisors?","solutions":[],"images":[]});

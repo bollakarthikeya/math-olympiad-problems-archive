@@ -1,0 +1,1 @@
+__p({"id":"0dl3","competition":"Saudi Booklet","problem":"Let $n$ be a positive integer and $P(x)$ be a polynomial of degree $n$ with real coefficients. Prove that all the roots of the polynomial $x^3P(x) + 1$ can not be real at the same time.","solutions":[],"images":[]});

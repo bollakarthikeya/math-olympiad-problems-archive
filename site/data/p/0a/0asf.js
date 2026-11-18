@@ -1,0 +1,1 @@
+__p({"id":"0asf","competition":"Philippines Mathematical Olympiad","problem":"Let $\\llbracket x \\rrbracket$ denote the greatest integer less than or equal to the real number $x$. What is the largest two-digit integral value of $x \\llbracket x \\rrbracket$?","solutions":["99"],"images":[]});

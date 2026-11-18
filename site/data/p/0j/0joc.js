@@ -1,0 +1,1 @@
+__p({"id":"0joc","competition":"Berkeley Math Circle","problem":"Suppose $x$ and $y$ are real numbers satisfying $x + y = 5$. What is the largest possible value of $x^{2} + 2 x y$?","solutions":["The quantity in question is $(x + y)^{2} - y^{2} \\leq (x + y)^{2} = 25$. Equality occurs when $x = 5$ and $y = 0$, hence the maximum possible value is $25$."],"images":[]});

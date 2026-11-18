@@ -1,0 +1,1 @@
+__p({"id":"0f16","competition":"ASU","problem":"$ABCD$ is a square. $P$ is on the segment $AB$ and $Q$ is on the segment $BC$ such that $BP = BQ$. $H$ lies on $PC$ such that $BHC$ is a right angle. Show that $DHQ$ is a right angle.","solutions":[],"images":[]});

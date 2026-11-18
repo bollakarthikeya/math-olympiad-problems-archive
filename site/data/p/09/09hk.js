@@ -1,0 +1,1 @@
+__p({"id":"09hk","competition":"Mongolian National Mathematical Olympiad","problem":"Let $p \\ge 5$ be a prime number. Prove that there are positive integers $n$ and $m$ with $n + m \\le (p+1)/2$ such that $p$ divides $2^n \\cdot 3^m - 1$.","solutions":[],"images":[]});

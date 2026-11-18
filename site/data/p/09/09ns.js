@@ -1,0 +1,1 @@
+__p({"id":"09ns","competition":"MMO2025 Round 2","problem":"The numbers $1, 2, \\dots, 2025$ are placed in the cells of a $45 \\times 45$ grid so that each pair of consecutive integers occupies adjacent cells (i.e., sharing a common edge). Is it possible that all perfect squares $1^2, 2^2, \\dots, 45^2$ lie in the same row?\n(Nursoltan Khavalbolot)","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0df6","competition":"Saudi Arabian IMO Booklet","problem":"Find all quadruples $(p, a, b, x)$ that satisfy the equality $p^2 + 4a9^b = x^2$, where $p$ is a prime and $a, b, x$ are nonnegative integers.","solutions":[],"images":[]});

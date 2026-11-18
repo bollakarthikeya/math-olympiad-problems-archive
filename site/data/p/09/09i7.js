@@ -1,0 +1,1 @@
+__p({"id":"09i7","competition":"Mongolian Mathematical Olympiad Round 2","problem":"For nonnegative reals $x, y, z \\ge 0$ satisfying $xy + yz + zx = 3$, prove\n$$\n(1 + 2x)(1 + y)^2 + (1 + 2y)(1 + z)^2 + (1 + 2z)(1 + x)^2 \\ge 36.\n$$","solutions":[],"images":[]});

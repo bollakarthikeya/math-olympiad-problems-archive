@@ -1,0 +1,1 @@
+__p({"id":"0cef","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Find the integer solutions of the equation\n$$\n\\left( \\frac{1 + \\sqrt{1 - x^2}}{2} \\right)^{\\sqrt{1-x}} = (\\sqrt{1-x})^{\\sqrt{1-x}+\\sqrt{1+x}}.\n$$","solutions":[],"images":[]});

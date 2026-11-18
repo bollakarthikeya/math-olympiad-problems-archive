@@ -1,0 +1,1 @@
+__p({"id":"0ayq","competition":"21st PMO Area Stage","problem":"Evaluate the expression $\\left(1+\\tan 7.5^\\circ\\right)\\left(1+\\tan 18^\\circ\\right)\\left(1+\\tan 27^\\circ\\right)\\left(1+\\tan 37.5^\\circ\\right)$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"01mj","competition":"Belarusian Mathematical Olympiad","problem":"Find all positive integer $m$ so that the number $7 \\cdot 2^m$ may be presented as the sum of the squares of three positive integers.","solutions":[],"images":[]});

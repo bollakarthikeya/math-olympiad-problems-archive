@@ -1,0 +1,1 @@
+__p({"id":"0f2r","competition":"ASU","problem":"$ABCD$ is a quadrilateral. $M$ is a point inside it such that $ABMD$ is a parallelogram. $\\angle CBM = \\angle CDM$. Show that $\\angle ACD = \\angle BCM$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"03jk","competition":"Canadian Mathematical Olympiad","problem":"A house is in the shape of a triangle, perimeter $P$ metres and area $A$ square metres. The garden consists of all the land within 5 metres of the house. How much land do the garden and house together occupy?","solutions":[],"images":[]});

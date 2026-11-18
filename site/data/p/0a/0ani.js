@@ -1,0 +1,1 @@
+__p({"id":"0ani","competition":"QUALIFYING STAGE","problem":"A polyhedron has $30$ faces and $62$ edges. How many vertices does the polyhedron have?\n\n(a) $61$\n(b) $34$\n(c) $46$\n(d) $77$","solutions":[],"images":[]});

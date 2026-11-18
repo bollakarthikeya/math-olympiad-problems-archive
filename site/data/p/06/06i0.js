@@ -1,0 +1,1 @@
+__p({"id":"06i0","competition":"HONG KONG PRELIMINARY SELECTION CONTEST","problem":"If $x$ is a real number, find the minimum value of $|x+1| + 2|x-5| + |2x-7| + \\frac{|x-11|}{2}$.\n\n若 $x$ 為實數, 求 $|x+1| + 2|x-5| + |2x-7| + \\frac{|x-11|}{2}$ 的最小值。","solutions":[],"images":[]});

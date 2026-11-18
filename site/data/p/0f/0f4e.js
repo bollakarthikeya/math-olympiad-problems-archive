@@ -1,0 +1,1 @@
+__p({"id":"0f4e","competition":"15th ASU","problem":"$ABC$, $CDE$, $EFG$ are equilateral triangles (not necessarily the same size). The vertices are counter-clockwise in each case. $A$, $D$, $G$ are collinear and $AD = DG$. Show that $BFD$ is equilateral.","solutions":[],"images":[]});

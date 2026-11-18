@@ -1,0 +1,1 @@
+__p({"id":"0f1w","competition":"ASU","problem":"The circles $C_1$, $C_2$, $C_3$ with equal radius all pass through the point $X$. $C_i$ and $C_j$ also intersect at the point $Y_{ij}$. Show that $\\angle X O_1 Y_{12} + \\angle X O_2 Y_{23} + \\angle X O_3 Y_{31} = 180^\\circ$ where $O_i$ is the center of circle $C_i$.","solutions":[],"images":[]});

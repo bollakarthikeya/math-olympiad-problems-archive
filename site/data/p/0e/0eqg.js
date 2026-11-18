@@ -1,0 +1,1 @@
+__p({"id":"0eqg","competition":"South African Mathematics Olympiad","problem":"As a decimal number $6.28\\%$ is equal to\n(A) $0.0628$ (B) $0.628$ (C) $6.28$ (D) $62.8$ (E) $628$","solutions":[],"images":[]});

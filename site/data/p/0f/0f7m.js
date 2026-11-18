@@ -1,0 +1,1 @@
+__p({"id":"0f7m","competition":"21st ASU","problem":"Some lattice points in the plane are marked. $S$ is a set of non-zero vectors. If you take any one of the marked points $P$ and place each vector in $S$ with its beginning at $P$, then more vectors will have their ends on marked points than not. Show that there are an infinite number of points.","solutions":[],"images":[]});

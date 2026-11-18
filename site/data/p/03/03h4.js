@@ -1,0 +1,1 @@
+__p({"id":"03h4","competition":"Canadian Mathematical Olympiad","problem":"What is the maximum number of terms in a geometric progression with common ratio greater than $1$ whose entries all come from the set of integers between $100$ and $1000$ inclusive?","solutions":[],"images":[]});

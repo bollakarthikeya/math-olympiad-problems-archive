@@ -1,0 +1,1 @@
+__p({"id":"0c4q","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"Prove that for every real numbers $x_1, x_2, \\dots, x_n$, where $n \\ge 2$, it is possible to choose $+$ and $-$ so that\n$$\n\\cos (x_1 \\pm x_2 \\pm \\cdots \\pm x_n) \\le \\cos x_1 \\cos x_2 \\cdots \\cos x_n.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"036o","competition":"Bulgarian Mathematical Competitions","problem":"Let $b$ and $c$ be real numbers such that the equation $x^{2} + b x + c = 0$ has two distinct real roots $x_{1}$ and $x_{2}$ with $x_{1} = x_{2}^{2} + x_{2}$.\n\na) Find $b$ and $c$ if $b + c = 4$.\n\nб) Find $b$ and $c$ if they are coprime integers.","solutions":[],"images":[]});

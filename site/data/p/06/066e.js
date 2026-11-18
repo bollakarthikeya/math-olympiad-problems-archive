@@ -1,0 +1,1 @@
+__p({"id":"066e","competition":"Junior Balkan Mathematical Olympiad","problem":"Find all ordered pairs $(a, b)$ of positive integers for which the numbers $\\frac{a^3b - 1}{a + 1}$ and $\\frac{b^3a + 1}{b - 1}$ are both positive integers.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bc2","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"Given in the plane equilateral triangles $ABC$ and $BDE$, with $C \\in (BD)$ and $A, E$ are on different sides of the line $BD$. Denote $M, N, P$ the midpoints of the segments $(AB)$, $(CD)$, $(BE)$ respectively. Find the measures of the angles of the triangle $MNP$.","solutions":[],"images":[]});

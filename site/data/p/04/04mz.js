@@ -1,0 +1,1 @@
+__p({"id":"04mz","competition":"Croatia_2018","problem":"Determine all pairs $(x, y)$ of real numbers such that\n$$\n\\begin{aligned}\nx^2 + x y - 4 y^2 &= -1 \\\\\n4 x^2 + x y - 11 y^2 &= -2.\n\\end{aligned}\n$$","solutions":[],"images":[]});

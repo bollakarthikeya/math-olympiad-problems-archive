@@ -1,0 +1,1 @@
+__p({"id":"04b6","competition":"Mathematica competitions in Croatia","problem":"One of the numbers $x^2$ and $(1-x)^2$ is smaller, and the other is greater than $1$.\nProve that $0 < x^2 - x < 2$.","solutions":[],"images":[]});

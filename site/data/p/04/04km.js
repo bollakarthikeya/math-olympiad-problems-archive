@@ -1,0 +1,1 @@
+__p({"id":"04km","competition":"Mathematical competitions in Croatia","problem":"Determine all complex numbers $z$ for which the ratio of the imaginary part of the fifth power of $z$ to the fifth power of the imaginary part of $z$ is the smallest possible. (Revista de Matematică din Timișoara 1984)","solutions":[],"images":[]});

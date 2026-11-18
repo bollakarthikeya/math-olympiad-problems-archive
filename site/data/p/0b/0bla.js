@@ -1,0 +1,1 @@
+__p({"id":"0bla","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Let $n \\in \\mathbb{N}^*$. Prove that\n$$\n\\frac{a}{(n+1)a+b+c} + \\frac{b}{a+(n+1)b+c} + \\frac{c}{a+b+(n+1)c} \\le \\frac{1}{2}\\sqrt{\\frac{3}{n}},\n$$\nfor every $a, b, c \\in (0, \\infty)$. Find the cases of equality.","solutions":[],"images":[]});

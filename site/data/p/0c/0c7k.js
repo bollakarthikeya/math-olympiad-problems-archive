@@ -1,0 +1,1 @@
+__p({"id":"0c7k","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Find all positive integers $p$ for which there exists $n \\in \\mathbb{N}^*$ such that $p^n + 3^n$ divides $p^{n+1} + 3^{n+1}$.","solutions":[],"images":[]});

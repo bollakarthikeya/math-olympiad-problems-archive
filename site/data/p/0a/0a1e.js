@@ -1,0 +1,1 @@
+__p({"id":"0a1e","competition":"Junior Mathematical Olympiad","problem":"We consider the number $666\\ldots666$ which consists of $2023$ sixes. The square of this number has $4046$ digits.\nHow many of those digits are a $5$?","solutions":["5."],"images":[]});

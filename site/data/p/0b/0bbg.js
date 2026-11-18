@@ -1,0 +1,1 @@
+__p({"id":"0bbg","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"Let $f: \\mathbb{R} \\to \\mathbb{R}$ be a continuous function such that, on each non degenerated interval $I$, the function reaches its maximum or its minimum in an interior point of $I$. Prove that $f$ is a constant.","solutions":[],"images":[]});

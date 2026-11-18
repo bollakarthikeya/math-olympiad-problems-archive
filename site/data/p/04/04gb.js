@@ -1,0 +1,1 @@
+__p({"id":"04gb","competition":"Mathematica competitions in Croatia","problem":"All vertices of the pentagon $ABCDE$ lie on the same circle. If $\\angle CAD = 50^\\circ$, determine\n$$\n\\angle ABC + \\angle AED.\n$$","solutions":[],"images":[]});

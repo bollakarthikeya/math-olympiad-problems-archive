@@ -1,0 +1,1 @@
+__p({"id":"0hji","competition":"Berkeley Math Circle","problem":"If $k$ is an integer, prove that the number $k^{2}+k+1$ is not divisible by $2006$.","solutions":["The number $k^{2}+k+1 = k(k+1)+1$ is odd, because $k(k+1)$ is even. Hence it can't be divisible by $2006$."],"images":[]});

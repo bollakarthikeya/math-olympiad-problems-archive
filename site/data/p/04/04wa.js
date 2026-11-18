@@ -1,0 +1,1 @@
+__p({"id":"04wa","competition":"District Round","problem":"Given two different real numbers $a$, $b$ such that the expressions $a^3 + b$ and $a + b^3$ have the same value, prove that $-1 \\le ab < \\frac{1}{3}$.","solutions":[],"images":[]});

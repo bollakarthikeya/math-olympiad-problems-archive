@@ -1,0 +1,1 @@
+__p({"id":"0bho","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Find the minimum value of the expression\n$$\nE = \\sqrt{x^2 + \\frac{1}{y^2}} + \\sqrt{y^2 + \\frac{1}{z^2}} + \\sqrt{z^2 + \\frac{1}{x^2}},\n$$\ntaken for all $x, y, z \\in \\mathbb{R}^*$.","solutions":[],"images":[]});

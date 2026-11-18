@@ -1,0 +1,1 @@
+__p({"id":"0any","competition":"AREA STAGE","problem":"Consider a function $f(x) = a x^{2} + b x + c$, $a > 0$ with two distinct roots a distance $p$ apart. By how much, in terms of $a, b, c$ should the function be translated downwards so that the distance between the roots becomes $2p$?","solutions":[],"images":[]});

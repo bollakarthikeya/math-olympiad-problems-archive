@@ -1,0 +1,1 @@
+__p({"id":"09yz","competition":"Junior Mathematical Olympiad","problem":"We draw a rectangle in a grid. The four midpoints of the four sides of the rectangle turn out to be the vertices $(-3, 0)$, $(2, 0)$, $(5, 4)$, and $(0, 4)$.\nWhat is the area of the rectangle?","solutions":[],"images":[]});

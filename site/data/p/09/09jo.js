@@ -1,0 +1,1 @@
+__p({"id":"09jo","competition":"Mongolian Mathematical Olympiad","problem":"The numbers $1$, $2$, $3$, $\\ldots$, $11$, and $12$ are to be divided into several groups. If the maximum number in each group is equal to the sum of the other numbers in that group, how many groups can the numbers be divided into?","solutions":[],"images":[]});

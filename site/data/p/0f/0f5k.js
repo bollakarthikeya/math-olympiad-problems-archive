@@ -1,0 +1,1 @@
+__p({"id":"0f5k","competition":"17th ASU","problem":"$a_n$ is the last digit of $[10^{n / 2}]$. Is the sequence $a_n$ periodic?\n\n$b_n$ is the last digit of $[2^{n / 2}]$. Is the sequence $b_n$ periodic?","solutions":[],"images":[]});

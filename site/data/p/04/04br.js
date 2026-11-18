@@ -1,0 +1,1 @@
+__p({"id":"04br","competition":"Mathematica competitions in Croatia","problem":"For which $x \\in \\mathbb{R}$ is the number $\\sqrt[3]{4+4x}$ greater than the number $1+\\sqrt[3]{x}$?","solutions":[],"images":[]});

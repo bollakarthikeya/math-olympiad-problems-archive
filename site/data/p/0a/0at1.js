@@ -1,0 +1,1 @@
+__p({"id":"0at1","competition":"Philippines Mathematical Olympiad","problem":"If $0 < \\theta < \\pi / 2$ and $1 + \\sin \\theta = 2 \\cos \\theta$, determine the numerical value of $\\sin \\theta$.","solutions":["$\\frac{3}{5}$"],"images":[]});

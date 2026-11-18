@@ -1,0 +1,1 @@
+__p({"id":"0cip","competition":"75th NMO","problem":"Let $P$ and $Q$ be two matrices in $M_n(\\mathbb{C})$. Assume $a \\in \\mathbb{R} \\setminus \\{-1, 0, 1\\}$, such that $Q^2 = (a-1)QP - (a+1)PQ$. Prove that $(PQ - QP)^n = O_n$.","solutions":[],"images":[]});

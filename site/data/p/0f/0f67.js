@@ -1,0 +1,1 @@
+__p({"id":"0f67","competition":"18th ASU","problem":"Two players play a game. Each takes it in turn to paint three unpainted edges of a cube. The first player uses red paint and the second blue paint. So each player has two moves. The first player wins if he can paint all edges of some face red. Can the first player always win?","solutions":[],"images":[]});

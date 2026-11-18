@@ -1,0 +1,1 @@
+__p({"id":"03aq","competition":"Selection test for 51. International Mathematical Olympiad","problem":"Let $a$, $b$, $c$ and $d$ be positive real numbers. Prove the inequality\n\n$$\n\\left(\\frac{a}{a+b}\\right)^{5} + \\left(\\frac{b}{b+c}\\right)^{5} + \\left(\\frac{c}{c+d}\\right)^{5} + \\left(\\frac{d}{d+a}\\right)^{5} \\ge \\frac{1}{8}\n$$","solutions":[],"images":[]});

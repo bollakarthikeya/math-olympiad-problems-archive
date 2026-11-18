@@ -1,0 +1,1 @@
+__p({"id":"04hx","competition":"Croatia Mathematical Competitions","problem":"Determine how many 6-digit positive integers are there such that by removing its first two digits and its last two digits we get two 4-digit numbers, which give the same remainder when divided by $99$.","solutions":[],"images":[]});

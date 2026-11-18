@@ -1,0 +1,1 @@
+__p({"id":"0ala","competition":"Area Stage","problem":"Let $ABCD$ be a rectangle with $AB = 3$ and $BC = 1$. Let $E$ be the midpoint of $AB$ and let $F$ be a point on the extension of $DE$ such that $|CF| = |CD|$. Find the area of $\\triangle CDF$.","solutions":[],"images":[]});

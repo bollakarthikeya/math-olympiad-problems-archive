@@ -1,0 +1,1 @@
+__p({"id":"0faj","competition":"1st CIS","problem":"Show that $x^4 + y^4 + z^2 \\geq xyz\\sqrt{8}$ for all positive reals $x$, $y$, $z$.","solutions":["By AM/GM, $x^4 + y^4 \\geq 2x^2y^2$. Then by AM/GM again, $2x^2y^2 + z^2 \\geq (\\sqrt{8})xyz$."],"images":[]});

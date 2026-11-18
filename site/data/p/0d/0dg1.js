@@ -1,0 +1,1 @@
+__p({"id":"0dg1","competition":"Saudi Arabian IMO Booklet","problem":"Prove there exist infinitely many positive integers divisible by $2021$ and each of them containing the same number of digits $0, 1, \\ldots, 9$.","solutions":[],"images":[]});

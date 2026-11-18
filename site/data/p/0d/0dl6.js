@@ -1,0 +1,1 @@
+__p({"id":"0dl6","competition":"Saudi Booklet","problem":"Let $a > b$ be odd positive integers and $k$ be a positive integer such that $a^{1001} + k$ and $b^{1001} + k$ are powers of $2$. Prove that $a > b^{1001} + k$.","solutions":[],"images":[]});

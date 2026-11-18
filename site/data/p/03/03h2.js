@@ -1,0 +1,1 @@
+__p({"id":"03h2","competition":"Canadian Mathematical Olympiad","problem":"Let $a$ and $b$ be distinct real numbers. Prove that there exist integers $m$ and $n$ such that $a m + b n < 0$, $b m + a n > 0$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dbz","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Two circles with centers $A$ and $B$ intersect at points $M$ and $N$. Radii $A P$ and $B Q$ are parallel (on opposite sides of $A B$). If the common external tangents meet $A B$ at $D$, and $P Q$ meets $A B$ at $C$, prove that $C N D$ is a right angle.","solutions":[],"images":[]});

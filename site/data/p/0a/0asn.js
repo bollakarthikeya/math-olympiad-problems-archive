@@ -1,0 +1,1 @@
+__p({"id":"0asn","competition":"Philippines Mathematical Olympiad","problem":"How many ways can you choose four integers from the set $\\{1,2,3, \\ldots, 10\\}$ so that no two of them are consecutive?","solutions":["35"],"images":[]});

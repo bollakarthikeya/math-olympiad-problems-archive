@@ -1,0 +1,1 @@
+__p({"id":"0bfk","competition":"Shortlisted Problems for the 64th NMO","problem":"For each complex $z$ define $A_z = \\{1+z+z^2+\\dots+z^n \\mid n \\in \\mathbb{N}\\}$.\n\na) Find all $z$ for which $A_z$ is finite.\n\nb) How many complex numbers $z$ have the property that $A_z$ has 2013 elements?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0ak9","competition":"Mediterranean Mathematical Olympiad","problem":"Let $a_1, a_2, \\ldots, a_n$ be $n \\ge 2$ real numbers such that $0 \\le a_i \\le \\frac{\\pi}{2}$. Prove that\n$$\n\\left( \\frac{1}{n} \\sum_{i=1}^{n} \\frac{1}{1 + \\sin a_i} \\right) \\left( 1 + \\prod_{i=1}^{n} (\\sin a_i)^{\\frac{1}{n}} \\right) \\le 1.\n$$","solutions":[],"images":[]});

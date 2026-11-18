@@ -1,0 +1,1 @@
+__p({"id":"01xq","competition":"69th Belarusian Mathematical Olympiad","problem":"Find all functions $f(x): \\mathbb{R} \\to \\mathbb{R}$ satisfying the equality\n$$\nx = -\\frac{1}{2}f(|x|) + |f(x)|\n$$\nfor all real numbers $x$.","solutions":["$f(x) = 2x$ for all $x \\ge 0$ and $f(x) = 0$ for all $x < 0$."],"images":[]});

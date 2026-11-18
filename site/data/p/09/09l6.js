@@ -1,0 +1,1 @@
+__p({"id":"09l6","competition":"Mongolian Mathematical Olympiad","problem":"Prove that there exists a sequence of 2023 consecutive positive integers in which exactly 2000 numbers are composite.","solutions":[],"images":[]});

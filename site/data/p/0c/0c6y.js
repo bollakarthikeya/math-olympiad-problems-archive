@@ -1,0 +1,1 @@
+__p({"id":"0c6y","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Let $a, b, c$ be distinct complex numbers, such that $|a| = |b| = |c| = 1$. Prove that if $|a+b-c|^2 + |b+c-a|^2 + |c+a-b|^2 = 12$, then the geometric images of $a, b, c$ are the vertices of an equilateral triangle.\nMihaela Berindeanu","solutions":[],"images":[]});

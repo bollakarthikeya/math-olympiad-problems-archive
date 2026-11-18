@@ -1,0 +1,1 @@
+__p({"id":"0b0i","competition":"Philippines Mathematical Olympiad","problem":"In $\\triangle PMO$, $PM = 6\\sqrt{3}$, $PO = 12\\sqrt{3}$, and $S$ is a point on $MO$ such that $PS$ is the angle bisector of $\\angle MPO$. Let $T$ be the reflection of $S$ across $PM$. If $PO$ is parallel to $MT$, find the length of $OT$.","solutions":[],"images":[]});

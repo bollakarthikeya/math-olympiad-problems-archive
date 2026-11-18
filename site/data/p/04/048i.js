@@ -1,0 +1,1 @@
+__p({"id":"048i","competition":"Hrvatska 2011","problem":"Let $a$, $b$, $c \\in \\mathbb{R}$ satisfy $a + b + c = 3$ and $\\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} = 0$. Determine $a^2 + b^2 + c^2$.","solutions":[],"images":[]});

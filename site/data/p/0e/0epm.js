@@ -1,0 +1,1 @@
+__p({"id":"0epm","competition":"South African Mathematics Olympiad","problem":"If $\\frac{20}{3} = \\frac{120}{y}$ then $y$ equals\n(A) 9\n(B) 12\n(C) 15\n(D) 18\n(E) 20","solutions":["If the numerator has been multiplied by $6$ and the fraction stays the same, the denominator is also multiplied by $6$ and becomes $3 \\times 6 = 18$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"049m","competition":"Hrvatska 2011","problem":"Let $\\triangle ABC$ be a triangle. Angle bisector of $\\angle CAB$ intersects the segment $\\overline{BC}$ at $D$, and angle bisector of $\\angle ABC$ intersects the segment $\\overline{AC}$ at $E$. If $\\angle ACB \\ge 60^\\circ$, prove that $|AE| + |BD| \\le |AB|$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f2z","competition":"ASU","problem":"$T$ is an isosceles triangle. Another isosceles triangle $T'$ has one vertex on each side of $T$. What is the smallest possible value of $\\dfrac{\\text{area } T'}{\\text{area } T}$?","solutions":[],"images":[]});

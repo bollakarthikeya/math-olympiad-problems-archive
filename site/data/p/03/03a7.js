@@ -1,0 +1,1 @@
+__p({"id":"03a7","competition":"Fall Mathematical Competition","problem":"Consider the functions $f(x) = |x-1| - |x-2|$ and $g(x) = |x-3|$.\n\na) Draw the graph of the function $f(x)$.\n\nb) Find the area of the figure determined by the graphs of $f(x)$ and $g(x)$.","solutions":[],"images":[]});

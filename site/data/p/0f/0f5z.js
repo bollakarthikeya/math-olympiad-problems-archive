@@ -1,0 +1,1 @@
+__p({"id":"0f5z","competition":"18th ASU","problem":"The squares of a $1983 \\times 1984$ chess board are colored alternately black and white in the usual way. Each white square is given the number $1$ or the number $-1$. For each black square the product of the numbers in the neighbouring white squares is $1$. Show that all the numbers must be $1$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bzv","competition":"2018 Romanian Mathematical Olympiad","problem":"Determine the increasing functions $f : \\mathbb{N} \\to \\mathbb{N}$ having the property that the number $\\frac{f(x) + f(y)}{1 + f(x + y)}$ is a non-negative integer, for all $x, y \\in \\mathbb{N}$.","solutions":[],"images":[]});

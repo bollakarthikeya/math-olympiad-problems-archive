@@ -1,0 +1,1 @@
+__p({"id":"039a","competition":"Second selection test for IMO 2007, Vietnam","problem":"Find all integers $n \\ge 3$ such that: for any two positive integers $m < n-1$, $r < n-1$ there exist $m$ distinct elements of the set $\\{1, 2, \\dots, n-1\\}$ whose sum is congruent to $r$ modulo $n$.","solutions":[],"images":[]});

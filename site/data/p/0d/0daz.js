@@ -1,0 +1,1 @@
+__p({"id":"0daz","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Find all functions $f: \\mathbb{R}^2 \\rightarrow \\mathbb{R}$ that for all real numbers $x, y, z$ satisfies the equation\n$$\nf(f(x, z), f(z, y)) = f(x, y) + z.\n$$","solutions":[],"images":[]});

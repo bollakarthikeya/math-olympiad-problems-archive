@@ -1,0 +1,1 @@
+__p({"id":"0dso","competition":"Singapore International Mathematical Olympiad","problem":"Suppose $f: N \\to N$ is a function such that\n$$\nf^n(n) = 2n\n$$\nfor all $n \\in N$. Must $f(n) = n + 1$ for all $n$?","solutions":[],"images":[]});

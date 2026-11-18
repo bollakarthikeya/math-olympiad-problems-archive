@@ -1,0 +1,1 @@
+__p({"id":"0f4i","competition":"16th ASU","problem":"The circle $C$ has center $O$ and radius $r$ and contains the points $A$ and $B$. The circle $C'$ touches the rays $OA$ and $OB$ and has center $O'$ and radius $r'$. Find the area of the quadrilateral $OAOB$.","solutions":[],"images":[]});

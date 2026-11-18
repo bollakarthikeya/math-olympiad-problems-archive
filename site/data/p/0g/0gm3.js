@@ -1,0 +1,1 @@
+__p({"id":"0gm3","competition":"VIIth NATIONAL MATHEMATICAL OLYMPIAD","problem":"Given a circle with center $O$ and a point $A$ in the interior of this circle, find the geometric locus of the intersection of $[AB]$ with the inner bisection of $\\angle AOB$, where $B$ is a point on the circle outside the line $OA$.","solutions":[],"images":[]});

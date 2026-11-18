@@ -1,0 +1,1 @@
+__p({"id":"0c1o","competition":"2018 Romanian Mathematical Olympiad","problem":"The sequence $(a_n)_{n \\ge 1}$ has the properties that $a_n > 1$ and $a_{n+1}^2 \\ge a_n a_{n+2}$, for $n \\ge 1$. Show that the sequence $(x_n)_{n \\ge 1}$, defined by $x_n = \\log_{a_n} a_{n+1}$, for $n \\ge 1$, has a finite limit. Find it.","solutions":[],"images":[]});

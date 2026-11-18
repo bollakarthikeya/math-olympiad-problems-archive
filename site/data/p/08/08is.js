@@ -1,0 +1,1 @@
+__p({"id":"08is","competition":"The first selection test for IMO 2003 and BMO 2003","problem":"Each side of the arbitrary triangle is divided into $2002$ congruent segments. After that each interior division point of the side is joined with the opposite vertex. Prove that the number of obtained regions of the triangle is divisible by $6$.","solutions":[],"images":[]});

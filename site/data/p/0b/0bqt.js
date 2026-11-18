@@ -1,0 +1,1 @@
+__p({"id":"0bqt","competition":"67th NMO Shortlisted Problems","problem":"Let $a, b \\in \\mathbb{R}$ and the function $f_{a,b}: \\mathbb{R} \\to \\mathbb{R}$, $f_{a,b}(x) = a[x] + b\\{x\\}$. Prove that this function is bijective if and only if $a^2 = b^2 \\ne 0$.","solutions":[],"images":[]});

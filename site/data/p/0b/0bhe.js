@@ -1,0 +1,1 @@
+__p({"id":"0bhe","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Let $A$ and $B$ be two matrices from $M_3(\\mathbb{C})$, such that $(AB)^2 = A^2B^2$ and $(BA)^2 = B^2A^2$. Prove that $(AB - BA)^3 = O_3$.","solutions":[],"images":[]});

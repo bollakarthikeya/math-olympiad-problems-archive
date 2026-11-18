@@ -1,0 +1,1 @@
+__p({"id":"0hq9","competition":"Berkeley Math Circle","problem":"Let $n$ be a positive integer. Prove that there exist distinct positive integers $x$, $y$, $z$ such that\n$$\nx^{n-1} + y^n = z^{n+1}.\n$$","solutions":["One solution is\n$$\nx = 2^{n^2} 3^{n+1}, \\quad y = 2^{n^2 - n} 3^n, \\quad z = 2^{n^2 - 2n + 2} 3^{n-1}.\n$$"],"images":[]});

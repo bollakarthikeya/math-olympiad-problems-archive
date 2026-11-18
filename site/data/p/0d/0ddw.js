@@ -1,0 +1,1 @@
+__p({"id":"0ddw","competition":"Saudi Arabian Mathematical Competitions","problem":"Prove that it is impossible to fill the cells of an $8 \\times 8$ table with the numbers from $1$ to $64$ (each number must be used once) so that for each $2 \\times 2$ square, the difference between products of the numbers on its diagonals will be equal to $1$.","solutions":[],"images":[]});

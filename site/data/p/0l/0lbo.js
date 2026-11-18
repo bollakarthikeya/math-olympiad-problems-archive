@@ -1,0 +1,1 @@
+__p({"id":"0lbo","competition":"Vietnamese Mathematical Competitions","problem":"Let $a$, $b$ be two positive real numbers and $n$ be an integer greater than $1$. Prove that for all positive real number $x$ satisfying $x^n \\leq a x + b$, we have\n$$\nx < n^{-1/2} \\sqrt{a} + n^{1/2} \\sqrt{b}.\n$$","solutions":[],"images":[]});

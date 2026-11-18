@@ -1,0 +1,1 @@
+__p({"id":"01we","competition":"69th Belarusian Mathematical Olympiad","problem":"Four positive integers $x$, $y$, $z$ and $t$ satisfy the relations\n$$\nxy - zt = x + y = z + t.\n$$\nIs it possible that both $xy$ and $zt$ are perfect squares?","solutions":["2. See IMO-2018 Shortlist, Problem N5."],"images":[]});

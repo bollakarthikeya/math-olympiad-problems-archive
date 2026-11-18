@@ -1,0 +1,1 @@
+__p({"id":"0ao3","competition":"Qualifying Round","problem":"A point $(x, y)$ is called a lattice point if $x$ and $y$ are integers. How many lattice points are there inside the circle of radius $2 \\sqrt{2}$ with center at the origin?\n(a) 25\n(b) 21\n(c) 17\n(d) 19","solutions":[],"images":[]});

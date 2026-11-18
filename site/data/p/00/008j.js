@@ -1,0 +1,1 @@
+__p({"id":"008j","competition":"XXI Olimpiada Matemática Rioplatense","problem":"A rectangle is divided in $n^2$ smaller rectangles by means of $n-1$ horizontal lines and $n-1$ vertical lines. Among those rectangles, there are exactly 5660 which are not congruent. For which minimum value of $n$ is this possible?","solutions":[],"images":[]});

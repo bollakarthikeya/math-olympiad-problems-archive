@@ -1,0 +1,1 @@
+__p({"id":"04sm","competition":"Czech and Slovak Mathematical Olympiad","problem":"Find all integers $k \\ge 2$ for which there exists $k$-element set $M$ of positive integers such that the product of all numbers in $M$ is divisible by the sum of any two (different) numbers from $M$.","solutions":[],"images":[]});

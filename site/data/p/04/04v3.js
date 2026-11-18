@@ -1,0 +1,1 @@
+__p({"id":"04v3","competition":"Final Round","problem":"Consider any graph with $50$ vertices and $225$ edges. We say that a triplet of its (mutually distinct) vertices is *connected* if the three vertices determine at least two edges. Determine the smallest and the largest possible number of connected triples.","solutions":[],"images":[]});

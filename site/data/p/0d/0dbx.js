@@ -1,0 +1,1 @@
+__p({"id":"0dbx","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $a, b, c \\in \\mathbb{R}_{+}$. Prove that\n$$\n\\frac{a}{b} + \\frac{b}{c} + \\frac{c}{a} \\geq \\frac{c+a}{c+b} + \\frac{a+b}{a+c} + \\frac{b+c}{b+a}\n$$","solutions":[],"images":[]});

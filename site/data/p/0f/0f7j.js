@@ -1,0 +1,1 @@
+__p({"id":"0f7j","competition":"21st ASU","problem":"$AB$ is a chord of the circle center $O$. $P$ is a point outside the circle and $C$ is a point on the chord. The angle bisector of $APC$ is perpendicular to $AB$ and a distance $d$ from $O$. Show that $BC = 2d$.","solutions":[],"images":[]});

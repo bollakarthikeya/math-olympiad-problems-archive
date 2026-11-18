@@ -1,0 +1,1 @@
+__p({"id":"0dis","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Find all monic integer polynomials $P(x)$ of second degree such that there exist some integer polynomial $Q(x)$ satisfying $P(x)Q(x)$ have all coefficients in the set $\\{-1, 0, 1\\}$.","solutions":[],"images":[]});

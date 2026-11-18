@@ -1,0 +1,1 @@
+__p({"id":"04vr","competition":"School Round","problem":"Let $ABCDE$ be a convex pentagon such that $AB = BC$, $AE = DE$, $AC \\perp AD$ and $CD \\parallel BE$. Prove that triangles $ABC$ and $ADE$ have equal areas. (Patrik Bak)","solutions":[],"images":[]});

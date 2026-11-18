@@ -1,0 +1,1 @@
+__p({"id":"04gw","competition":"Mathematica competitions in Croatia","problem":"Let $\\triangle ABC$ be a right triangle. Point $M$ is chosen on the bisector of the right angle $\\angle ACB$. If we have $\\sin \\angle MAC = \\frac{8}{17}$ and $\\cos \\angle MBC = \\frac{3}{5}$, determine the ratio $|AB| : |CM|$.","solutions":[],"images":[]});

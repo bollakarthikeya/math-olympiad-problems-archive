@@ -1,0 +1,1 @@
+__p({"id":"0c4l","competition":"SHORTLISTED PROBLEMS FOR THE 70th NMO","problem":"At a dinner there are $5$ people. Among them there are $7$ pairs of acquaintances (if $A$ knows $B$, then $B$ knows $A$). Prove that there exists a group of $3$ people who know each other.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0ert","competition":"South African Mathematics Olympiad Second Round","problem":"Determine the value of $\\frac{13 \\times 13 \\times 12}{1 + 13 + 13 + 12}$","solutions":["The fraction is $\\frac{13 \\times 13 \\times 12}{39} = \\frac{13 \\times 13 \\times 12}{3 \\times 13} = \\frac{13 \\times 12}{3} = 13 \\times 4 = 52$"],"images":[]});

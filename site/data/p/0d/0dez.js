@@ -1,0 +1,1 @@
+__p({"id":"0dez","competition":"Saudi Arabian IMO Booklet","problem":"What is the maximum number of $2 \\times 3 \\times 3$ bricks that can be fit inside an $8 \\times 8 \\times 9$ box?","solutions":[],"images":[]});

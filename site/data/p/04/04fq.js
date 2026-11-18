@@ -1,0 +1,1 @@
+__p({"id":"04fq","competition":"Mathematica competitions in Croatia","problem":"Do there exist real numbers $x, y, z$ such that\n$$\n\\frac{x}{y} + \\frac{y}{z} + \\frac{z}{x} = -5 \\quad \\text{and} \\quad \\frac{y^2}{x^2} + \\frac{z^2}{y^2} + \\frac{x^2}{z^2} = 8? \\quad (\\text{Ilko Brneti\\'c})\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f49","competition":"15th ASU","problem":"What is the smallest value of $4 + x^{2}y^{4} + x^{4}y^{2} - 3x^{2}y^{2}$ for real $x$, $y$? Show that the polynomial cannot be written as a sum of squares. [Note the candidates did not know calculus.]","solutions":[],"images":[]});

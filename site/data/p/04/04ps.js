@@ -1,0 +1,1 @@
+__p({"id":"04ps","competition":"Croatian Mathematical Society Competitions","problem":"Find all positive integers $n$ such that some three consecutive coefficients in the power series representation of $(1+x)^n$ are in the $3:4:5$ ratio. (AIME 1992)","solutions":[],"images":[]});

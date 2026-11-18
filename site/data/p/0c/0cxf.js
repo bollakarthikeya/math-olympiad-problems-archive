@@ -1,0 +1,1 @@
+__p({"id":"0cxf","competition":"SAMC","problem":"1) Prove that there is a triangle with side lengths\n$$\n\\sqrt{a^{2}-a+1},\\ \\sqrt{a^{2}+a+1},\\ \\text{ and }\\ \\sqrt{4 a^{2}+3}.\n$$\n\n2) Prove that the area of this triangle does not depend on $a$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f5m","competition":"17th ASU","problem":"The projection of a tetrahedron onto the plane $P$ is $ABCD$. Can we find a distinct plane $P'$ such that the projection of the tetrahedron onto $P'$ is $A'B'C'D'$ and $AA'$, $BB'$, $CC'$ and $DD'$ are all parallel?","solutions":[],"images":[]});

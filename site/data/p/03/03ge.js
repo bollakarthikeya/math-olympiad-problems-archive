@@ -1,0 +1,1 @@
+__p({"id":"03ge","competition":"Canadian Mathematical Olympiad","problem":"Let $n$ be a five digit number (whose first digit is non-zero) and let $m$ be the four digit number formed from $n$ by deleting its middle digit. Determine all $n$ such that $n / m$ is an integer.","solutions":[],"images":[]});

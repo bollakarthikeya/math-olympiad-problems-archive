@@ -1,0 +1,1 @@
+__p({"id":"0ats","competition":"Philippine Mathematical Olympiad","problem":"Find all positive integers $m$ and $n$ so that for any $x$ and $y$ in the interval $[m, n]$, the value of $\\frac{5}{x} + \\frac{7}{y}$ will also be in $[m, n]$.","solutions":[],"images":[]});

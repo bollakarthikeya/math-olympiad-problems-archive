@@ -1,0 +1,1 @@
+__p({"id":"0anv","competition":"QUALIFYING STAGE","problem":"Find the range of\n$$\nf(x) = \\frac{(x-a)(x-b)}{(c-a)(c-b)} + \\frac{(x-b)(x-c)}{(a-b)(a-c)} + \\frac{(x-c)(x-a)}{(b-c)(b-a)}\n$$\nwhere $a$, $b$, $c$ are distinct real numbers.\n(a) all real numbers\n(b) $\\{1\\}$\n(c) $[-a-b-c, +\\infty)$\n(d) $\\{a+b+c\\}$","solutions":[],"images":[]});

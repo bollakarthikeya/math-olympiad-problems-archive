@@ -1,0 +1,1 @@
+__p({"id":"0auj","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"Triangle $ABC$ has a right angle at $B$, with $AB = 3$ and $BC = 4$. If $D$ and $E$ are points on $AC$ and $BC$, respectively, such that $CD = DE = \\frac{5}{3}$, find the perimeter of quadrilateral $ABED$.","solutions":[],"images":[]});

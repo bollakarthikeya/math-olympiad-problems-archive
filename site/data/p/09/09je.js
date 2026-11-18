@@ -1,0 +1,1 @@
+__p({"id":"09je","competition":"Mongolian Mathematical Olympiad Round 2","problem":"A cube number is a cube of a positive integer. For which values of a positive integer $n \\ge 3$, the sum of $n$ cube numbers can again be a cube number?","solutions":[],"images":[]});

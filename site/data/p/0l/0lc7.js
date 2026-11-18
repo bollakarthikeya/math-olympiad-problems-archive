@@ -1,0 +1,1 @@
+__p({"id":"0lc7","competition":"Vietnamese Mathematical Competitions","problem":"Find all natural number $n$ and prime number $p$ for which the polynomial\n$$\nx^n - p x + p^2\n$$\ncan be written as product of two polynomials from $\\mathbb{Z}[x]$ with degree at least $1$.","solutions":[],"images":[]});

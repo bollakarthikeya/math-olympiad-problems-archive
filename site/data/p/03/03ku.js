@@ -1,0 +1,1 @@
+__p({"id":"03ku","competition":"Canadian Mathematical Olympiad","problem":"Determine the number of real solutions $a$ to the equation\n$$\n\\left[\\frac{1}{2} a\\right]+\\left[\\frac{1}{3} a\\right]+\\left[\\frac{1}{5} a\\right]=a\n$$\nHere, if $x$ is a real number, then $[x]$ denotes the greatest integer that is less than or equal to $x$.","solutions":[],"images":[]});

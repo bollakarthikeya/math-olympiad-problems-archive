@@ -1,0 +1,1 @@
+__p({"id":"0ep4","competition":"South African Mathematics Olympiad","problem":"Let $f$ be a function satisfying\n$$\nf(xy) = \\frac{f(x)}{y}\n$$\nfor all positive real numbers $x$ and $y$. If $f(500) = 3$, what is the value of $f(100)$?","solutions":["We are given $3 = f(500) = f(100 \\times 5) = \\frac{f(100)}{5}$, so $f(100) = 3 \\times 5 = 15$."],"images":[]});

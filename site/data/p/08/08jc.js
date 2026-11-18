@@ -1,0 +1,1 @@
+__p({"id":"08jc","competition":"The first selection test for JBMO 2003","problem":"Let $n \\geq 2003$ be a positive integer such that the number $1+2003 n$ is a perfect square. Prove that the number $n+1$ is equal to the sum of 2003 positive perfect squares.","solutions":[],"images":[]});

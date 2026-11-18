@@ -1,0 +1,1 @@
+__p({"id":"09m4","competition":"Mongolian Mathematical Olympiad","problem":"Suppose $f(x)$ and $g(x)$ are quadratic trinomials with the property that\n$$\n\\frac{f(-2)}{g(-2)} = \\frac{f(3)}{g(3)} = 4.\n$$\nGiven that $g(5) = 2$, $f(7) = 8$, and $g(7) = 6$, determine the value of $f(5)$.","solutions":[],"images":[]});

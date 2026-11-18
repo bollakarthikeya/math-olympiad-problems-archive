@@ -1,0 +1,1 @@
+__p({"id":"0asx","competition":"Philippines Mathematical Olympiad","problem":"Let $x$ and $y$ be positive real numbers such that $x + 2y = 8$. Determine the minimum value of\n$$\nx + y + \\frac{3}{x} + \\frac{9}{2y}\n$$","solutions":["8"],"images":[]});

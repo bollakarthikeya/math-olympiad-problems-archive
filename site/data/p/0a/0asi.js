@@ -1,0 +1,1 @@
+__p({"id":"0asi","competition":"Philippines Mathematical Olympiad","problem":"A figure consists of two overlapping circles that have radii $4$ and $6$. If the common region of the circles has area $2\\pi$, what is the area of the entire figure?","solutions":["$50\\pi$"],"images":[]});

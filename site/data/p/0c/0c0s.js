@@ -1,0 +1,1 @@
+__p({"id":"0c0s","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"The triangle $ABC$ is inscribed in the circle $\\mathcal{C}(O, 1)$. Let $G_1$, $G_2$ and $G_3$ be the centroids of the triangles $OBC$, $OAC$ and $OAB$ respectively. Prove that the triangle $ABC$ is equilateral if and only if $AG_1 + BG_2 + CG_3 = 4$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f2v","competition":"ASU","problem":"Show that there is an infinite sequence of reals $x_1$, $x_2$, $x_3$, ... such that $|x_n|$ is bounded and for any $m > n$, we have $|x_m - x_n| > 1 / (m - n)$.","solutions":[],"images":[]});

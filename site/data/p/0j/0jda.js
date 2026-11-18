@@ -1,0 +1,1 @@
+__p({"id":"0jda","competition":"HMMT November 2013","problem":"Evaluate $2+5+8+\\cdots+101$.","solutions":["There are $\\frac{102}{3}=34$ terms with average $\\frac{2+101}{2}$, so their sum is $17 \\cdot 103=1751$."],"images":[]});

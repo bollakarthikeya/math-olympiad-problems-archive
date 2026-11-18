@@ -1,0 +1,1 @@
+__p({"id":"0f9a","competition":"24th ASU","problem":"Show that $\\{x\\}^4 > \\{x\\} - 1/2$ for all real $x$.","solutions":["$\\{x\\}^4 - \\{x\\} + 1/2 = (\\{x\\}^2 - 1/2)^2 + (\\{x\\} - 1/2)^2 \\geq 0$. We could only have equality if $\\{x\\}^2 = \\{x\\} = 1/2$, which is impossible, so the inequality is strict."],"images":[]});

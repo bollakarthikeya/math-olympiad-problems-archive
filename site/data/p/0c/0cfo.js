@@ -1,0 +1,1 @@
+__p({"id":"0cfo","competition":"74th NMO Shortlisted Problems","problem":"Let $f : [0, 1] \\to [0, \\infty)$ be a convex function with $f(0) = 0$. Show that\n\n$$\n\\left( \\int_{0}^{1} f(x) \\, dx \\right)^{2} \\leq \\frac{3}{4} \\int_{0}^{1} f^{2}(x) \\, dx .\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0aqd","competition":"12th Philippine Mathematical Olympiad - Area Stage","problem":"For what value(s) of $k$ will the lines $2x + 7y = 14$ and $kx - y = k + 1$ intersect in the first quadrant?","solutions":[],"images":[]});

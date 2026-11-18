@@ -1,0 +1,1 @@
+__p({"id":"0c30","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Let $f : [0, \\infty) \\to [0, \\infty)$ be a differentiable function, with continuous derivative, and $f(f(x)) = x^2$, for every $x \\in [0, \\infty)$. Prove that\n$$\n\\int_{0}^{1} (f'(x))^2 \\, dx \\ge \\frac{30}{31}.\n$$","solutions":[],"images":[]});

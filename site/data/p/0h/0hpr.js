@@ -1,0 +1,1 @@
+__p({"id":"0hpr","competition":"","problem":"Find the number of triangulations of a general convex $7$-gon into $5$ triangles by $4$ diagonals that do not intersect in their interiors.","solutions":["Define the Catalan numbers by $C(n) = \\frac{1}{n+1} \\binom{2n}{n}$. The current solution is the $C($ number of triangles $) = C(5) = 42$."],"images":[]});

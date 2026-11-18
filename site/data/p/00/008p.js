@@ -1,0 +1,1 @@
+__p({"id":"008p","competition":"XXI Olimpiada Matemática Rioplatense","problem":"Let $T$ be a non-isosceles triangle and $n \\ge 4$ be an integer. Show that $T$ can be divided in $n$ triangles and one interior bisector can be traced in each one of them so that those $n$ bisectors are parallel.","solutions":[],"images":[]});

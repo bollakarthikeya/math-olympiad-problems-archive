@@ -1,0 +1,1 @@
+__p({"id":"0c1a","competition":"2018 Romanian Mathematical Olympiad","problem":"Prove that the number\n$$\n\\sqrt[n]{\\sqrt{2018} + \\sqrt{2017}} + \\sqrt[n]{\\sqrt{2018} - \\sqrt{2017}}\n$$\nis not rational for $n \\ge 2$.","solutions":[],"images":[]});

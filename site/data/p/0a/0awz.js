@@ -1,0 +1,1 @@
+__p({"id":"0awz","competition":"Philippine Mathematical Olympiad Area Stage","problem":"In cyclic pentagon $ABCDE$, $\\angle ABD = 90^\\circ$, $BC = CD$, and $AE$ is parallel to $BC$. If $AB = 8$ and $BD = 6$, find $AE^2$.","solutions":[],"images":[]});

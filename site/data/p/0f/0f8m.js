@@ -1,0 +1,1 @@
+__p({"id":"0f8m","competition":"22nd ASU","problem":"Find all positive integers $n$ satisfying $$(1 + 1 / n)^{n + 1} = (1 + 1 / 1998)^{1998}.$$","solutions":["Answer: no solutions.\n\nWe have $$(1 + 1 / n)^{n + 1} > e > (1 + 1 / n)^{n}.$$"],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09my","competition":"Mongolian Mathematical Olympiad","problem":"Find all strictly increasing arithmetic progressions $a < b < c$ of positive integers such that the sequence $a^2 + c$, $b^2 + b$, $c^2 + a$ is a geometric progression.","solutions":[],"images":[]});

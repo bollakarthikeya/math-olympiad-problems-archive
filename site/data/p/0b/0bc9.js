@@ -1,0 +1,1 @@
+__p({"id":"0bc9","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"Prove that, if $x, y > 0$, then\n$$\n0 < \\frac{x}{x+y^4} + \\frac{y}{y+x^4} - \\frac{1}{x^2y^2+1} < 1.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bpr","competition":"67th NMO Shortlisted Problems","problem":"The incircle of the triangle $ABC$ has center $I$, touches $BC$, $CA$ and $AB$ at $D$, $E$, respectively $F$ and meets $AI$, $BI$, $CI$ in $M$, $N$, respectively $P$. Prove that if the triangles $DEF$ and $MNP$ have the same centroid, then the triangle $ABC$ is equilateral.","solutions":[],"images":[]});

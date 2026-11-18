@@ -1,0 +1,1 @@
+__p({"id":"04a1","competition":"CroatianCompetitions2011","problem":"The difference in reciprocal values of two consecutive positive integers is $0.0\\dot{a} = 0.0aaa...$. Determine all possible values of the digit $a$.","solutions":[],"images":[]});

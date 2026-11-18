@@ -1,0 +1,1 @@
+__p({"id":"008n","competition":"XXI Olimpiada Matemática Rioplatense","problem":"Find the smallest positive integer $k$ for which the 100 fractions\n$$\n\\frac{50}{k+49}, \\frac{50}{k+51}, \\frac{51}{k+50}, \\frac{51}{k+52}, \\dots, \\frac{99}{k+98}, \\frac{99}{k+100}\n$$\nare irreducible.","solutions":[],"images":[]});

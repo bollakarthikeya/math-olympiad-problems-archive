@@ -1,0 +1,1 @@
+__p({"id":"0bqk","competition":"67th NMO Shortlisted Problems","problem":"For a positive integer $n$ denote $d(n)$ the number of its positive divisors and $s(n)$ their sum. It is known that $n + d(n) = s(n) + 1$, $m + d(m) = s(m) + 1$ and $nm + d(nm) + 2016 = s(nm)$. Find $n$ and $m$.\n\nMihai Bunget","solutions":[],"images":[]});

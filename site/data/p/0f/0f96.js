@@ -1,0 +1,1 @@
+__p({"id":"0f96","competition":"23rd ASU","problem":"$ABC$ is a triangle. $A'$, $B'$, $C'$ are points on the segments $BC$, $CA$, $AB$ respectively. $\\angle B'A'C' = \\angle A$ and $\\dfrac{AC'}{C'B} = \\dfrac{BA'}{A'C} = \\dfrac{CB'}{B'A}$. Show that $ABC$ and $A'B'C'$ are similar.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0c2x","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Let $a, b \\in \\mathbb{R}$, $a < b$, and let $f : [a, b] \\to [0, \\infty)$ be a continuous nondecreasing function. Prove that\n$$\n\\lim_{n \\to \\infty} \\int_a^b \\sqrt[n]{f^n(x) + f^n(a + b - x)} \\, dx = 2 \\int_{\\frac{a+b}{2}}^b f(x) \\, dx.\n$$","solutions":[],"images":[]});

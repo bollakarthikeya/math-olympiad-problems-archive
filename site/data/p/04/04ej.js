@@ -1,0 +1,1 @@
+__p({"id":"04ej","competition":"Mathematica competitions in Croatia","problem":"Prove that the number $\\cos \\frac{\\pi}{2 \\cdot 3^n}$ is irrational for every positive integer $n$.\n(A real number is irrational if it cannot be expressed as a ratio of two integers.)","solutions":[],"images":[]});

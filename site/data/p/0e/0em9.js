@@ -1,0 +1,1 @@
+__p({"id":"0em9","competition":"South-Afrika 2011-2013","problem":"Are there infinitely many integers whose square ends in three 4s, i.e. ...444?","solutions":["Notice that $38^2 = 1444$ which ends in ...444.\n\nMoreover, $(1000k + 38)^2 = 1000000k^2 + 76000k + 1444$ which ends in ...444 for any natural number $k$. Thus there are infinitely many such numbers."],"images":[]});

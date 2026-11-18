@@ -1,0 +1,1 @@
+__p({"id":"0la9","competition":"Vijetnam 2008","problem":"Find all the positive integers $m$ such that there exist polynomials with real coefficients $P(x)$, $Q(x)$, and $R(x, y)$, satisfying the following condition:\n$$\nP(R(a, b)) = a \\text{ and } Q(R(a, b)) = b\n$$\nfor all real numbers $a, b$ such that $a^m - b^2 = 0$.","solutions":[],"images":[]});

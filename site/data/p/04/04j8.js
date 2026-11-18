@@ -1,0 +1,1 @@
+__p({"id":"04j8","competition":"Croatia Mathematical Competitions","problem":"Let $ABC$ be a triangle in which $\\tan \\angle BAC = 1$ and $\\tan \\angle ABC = 2$ holds.\nDetermine the ratio $|BC| : |AB|$. (Ilko Brnetić)","solutions":[],"images":[]});

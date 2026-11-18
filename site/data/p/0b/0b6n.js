@@ -1,0 +1,1 @@
+__p({"id":"0b6n","competition":"Shortlisted Problems for the Romanian NMO","problem":"A triangle has side lengths $a$, $b$, $c$ and perimeter $3$. Prove that\n\na) it is not possible that all the altitudes have integer length;\n\nb) if $\\sqrt{a+b-c} + \\sqrt{b+c-a} + \\sqrt{c+a-b} = 3$, then the triangle is equilateral.","solutions":[],"images":[]});

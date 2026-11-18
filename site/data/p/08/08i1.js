@@ -1,0 +1,1 @@
+__p({"id":"08i1","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Let $a$ and $b$ be positive integers such that $a + b \\leq 10$. Find all pairs $(a, b)$ such that the fraction $(2n + a)/(5n + b)$ is irreducible for every natural number $n$.","solutions":[],"images":[]});

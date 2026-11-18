@@ -1,0 +1,1 @@
+__p({"id":"09v0","competition":"Junior Mathematical Olympiad","problem":"A four digit number $\\overline{aabb}$, that is, the number whose digits are $a, a, b$, and $b$, is the square of an integer.\nOf which integer is $\\overline{aabb}$ the square?","solutions":["$88$"],"images":[]});

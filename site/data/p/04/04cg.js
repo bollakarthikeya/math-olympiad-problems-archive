@@ -1,0 +1,1 @@
+__p({"id":"04cg","competition":"Mathematica competitions in Croatia","problem":"Determine the smallest integer $N$ larger than $1000$ such that exactly half of the numbers from $1$ to $N$ have at least one digit $1$ in their decimal notation.","solutions":[],"images":[]});

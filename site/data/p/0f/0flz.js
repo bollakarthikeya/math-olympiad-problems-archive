@@ -1,0 +1,1 @@
+__p({"id":"0flz","competition":"Spanija 2012","problem":"Find all integer positive numbers $r$ and $s$ such that the integer positive number $n = 2^r - 16^s$ gives remainder $5$ when divided by $7$. Find the smallest $n$ satisfying this condition.","solutions":[],"images":[]});

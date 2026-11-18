@@ -1,0 +1,1 @@
+__p({"id":"049y","competition":"CroatianCompetitions2011","problem":"Bisector of an acute angle in the right triangle divides the opposite side into parts of lengths $4$ and $5$. What is the area of that triangle?","solutions":[],"images":[]});

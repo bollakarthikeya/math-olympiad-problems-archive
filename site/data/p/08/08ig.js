@@ -1,0 +1,1 @@
+__p({"id":"08ig","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Find all the functions $f: N^{*} \\rightarrow N^{*}$ which verify the relation $f(2x+3y) = 2f(x) + 3f(y) + 4$ for every positive integers $x, y \\geq 1$.","solutions":[],"images":[]});

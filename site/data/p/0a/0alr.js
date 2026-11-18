@@ -1,0 +1,1 @@
+__p({"id":"0alr","competition":"Qualifying Round","problem":"There are $5$ shmacks in $2$ shicks, $3$ shicks in $5$ shures, and $2$ shures in $9$ shneids. How many shmacks are there in $6$ shneids?\n\n(a) $5$\n(b) $8$\n(c) $2$\n(d) $1$","solutions":[],"images":[]});

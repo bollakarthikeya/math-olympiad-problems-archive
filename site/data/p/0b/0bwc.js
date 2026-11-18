@@ -1,0 +1,1 @@
+__p({"id":"0bwc","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Show that the equation $x^2 + y^2 - z^2 + xy = 0$ has infinitely many positive integer solutions.","solutions":[],"images":[]});

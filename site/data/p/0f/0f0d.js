@@ -1,0 +1,1 @@
+__p({"id":"0f0d","competition":"ASU","problem":"9 lines each divide a square into two quadrilaterals with areas $\\frac{2}{5}$ and $\\frac{3}{5}$ that of the square. Show that 3 of the lines meet in a point.","solutions":[],"images":[]});

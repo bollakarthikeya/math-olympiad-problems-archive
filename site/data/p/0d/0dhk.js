@@ -1,0 +1,1 @@
+__p({"id":"0dhk","competition":"Saudi Arabian IMO Booklet","problem":"Given a quadrilateral $ABCD$, the external angle bisectors of $\\angle CAD$, $\\angle CBD$ intersect at $P$. Show that if $AD + AC = BC + BD$, then $\\angle APD = \\angle BPC$.","solutions":[],"images":[]});

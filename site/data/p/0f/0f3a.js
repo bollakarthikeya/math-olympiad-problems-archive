@@ -1,0 +1,1 @@
+__p({"id":"0f3a","competition":"ASU","problem":"a and b are real numbers. Find real $x$ and $y$ satisfying:\n\n$$(x - y)(x^2 - y^2)^{1/2} = a(1 - x^2 + y^2)^{1/2}$$\nand\n$$(y - x)(x^2 - y^2)^{1/2} = b(1 - x^2 + y^2)^{1/2}.$$","solutions":[],"images":[]});

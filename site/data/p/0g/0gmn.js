@@ -1,0 +1,1 @@
+__p({"id":"0gmn","competition":"IMO TEAM SELECTION EXAM","problem":"Find the smallest\n\na. positive real number\nb. positive integer\n$t$ for which the equation $(x^2 + y^2)^2 + 2t x (x^2 + y^2) = t^2 y^2$ has a solution in positive real numbers.","solutions":[],"images":[]});

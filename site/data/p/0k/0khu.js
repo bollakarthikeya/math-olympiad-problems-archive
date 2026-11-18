@@ -1,0 +1,1 @@
+__p({"id":"0khu","competition":"AMC 12 B","problem":"Suppose $a$, $b$, and $c$ are positive integers such that $a + b + c = 23$ and $\\gcd(a, b) + \\gcd(b, c) + \\gcd(c, a) = 9$. What is the sum of all possible distinct values of $a^2 + b^2 + c^2$?\n\n(A) 259   (B) 438   (C) 516   (D) 625   (E) 687","solutions":[],"images":[]});

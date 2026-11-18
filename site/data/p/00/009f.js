@@ -1,0 +1,1 @@
+__p({"id":"009f","competition":"XXIX Olimpíada Matemática Argentina National Round","problem":"There are $2k$ chips placed in one row. A move consists in switching two adjacent chips. Several moves must be made until each chip occupies at some point the first and the last position. Which is the smallest amount of moves to achieve that?","solutions":[],"images":[]});

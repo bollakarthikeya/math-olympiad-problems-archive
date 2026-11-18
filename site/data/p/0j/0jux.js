@@ -1,0 +1,1 @@
+__p({"id":"0jux","competition":"HMMT November","problem":"If $x + 2y - 3z = 7$ and $2x - y + 2z = 6$, determine $8x + y$.","solutions":["$8x + y = 2(x + 2y - 3z) + 3(2x - y + 2z) = 2(7) + 3(6) = 32$"],"images":[]});

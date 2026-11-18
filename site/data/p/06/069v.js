@@ -1,0 +1,1 @@
+__p({"id":"069v","competition":"SELECTION EXAMINATION","problem":"Determine all functions $f : (0, +\\infty) \\to \\mathbb{R}$ satisfying\n$$\n(y^2 + 1)f(x) - y f(xy) = y f\\left(\\frac{x}{y}\\right), \\text{ for all } x, y > 0.\n$$\n(IMO 2018 shortlist, modified)","solutions":[],"images":[]});

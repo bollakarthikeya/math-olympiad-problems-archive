@@ -1,0 +1,1 @@
+__p({"id":"04fx","competition":"Mathematica competitions in Croatia","problem":"How many four-digit numbers whose digits are mutually different and from the set $\\{0, 1, 2, 3, 4, 5\\}$, and that are divisible by $5$, are there? (Hong Kong)","solutions":[],"images":[]});

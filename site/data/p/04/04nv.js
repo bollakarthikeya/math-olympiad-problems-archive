@@ -1,0 +1,1 @@
+__p({"id":"04nv","competition":"Croatia_2018","problem":"A box holds $n$ balls, some of which are white, and some are black. Find $n$ if the probability that by drawing two balls we draw exactly one white and one black is $\\frac{1}{2}$, and we know that there are 2018 more balls of one colour than the other.","solutions":[],"images":[]});

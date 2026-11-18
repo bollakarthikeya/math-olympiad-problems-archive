@@ -1,0 +1,1 @@
+__p({"id":"0knj","competition":"USAJMO","problem":"Rectangles $BCC_1B_2$, $CAA_1C_2$, and $ABB_1A_2$ are erected outside an acute triangle $ABC$. Suppose that\n$$\n\\angle BC_1C + \\angle CA_1A + \\angle AB_1B = 180^\\circ.\n$$\nProve that lines $B_1C_2$, $C_1A_2$, and $A_1B_2$ are concurrent.","solutions":[],"images":[]});

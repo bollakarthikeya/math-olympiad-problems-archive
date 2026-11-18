@@ -1,0 +1,1 @@
+__p({"id":"0eyw","competition":"3rd ASU","problem":"20 teams compete in a competition. What is the smallest number of games that must be played to ensure that given any three teams at least two play each other?","solutions":[],"images":[]});

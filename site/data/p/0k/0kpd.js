@@ -1,0 +1,1 @@
+__p({"id":"0kpd","competition":"2022 AIME I","problem":"Find the three-digit positive integer $abc$ whose representation in base nine is $\\underline{b}\\ \\underline{c}\\ \\underline{a}$ base $9$, where $a$, $b$, and $c$ are (not necessarily distinct) digits.","solutions":[],"images":[]});

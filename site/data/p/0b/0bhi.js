@@ -1,0 +1,1 @@
+__p({"id":"0bhi","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Denote $O$ the center of the square $ABCD$. The bisector of the angle $\\angle OAB$ meets $OB$ in $N$ and $BC$ in $P$. Prove that $PC = 2ON$.","solutions":[],"images":[]});

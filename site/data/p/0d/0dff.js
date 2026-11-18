@@ -1,0 +1,1 @@
+__p({"id":"0dff","competition":"Saudi Arabian IMO Booklet","problem":"Does there exist a polynomial $P(x)$ of second degree with integer coefficients such that the leading coefficient is not divisible by $2022$ and all numbers $P(1), P(2), \\dots, P(2022)$ give different residues mod $2022$?","solutions":[],"images":[]});

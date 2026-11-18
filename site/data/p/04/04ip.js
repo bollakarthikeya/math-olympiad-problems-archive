@@ -1,0 +1,1 @@
+__p({"id":"04ip","competition":"Croatia Mathematical Competitions","problem":"A field of the shape of a circular sector needs to be fenced using a wire of length $d$. What is the maximal area of that field? (Ilko Brnetić)","solutions":[],"images":[]});

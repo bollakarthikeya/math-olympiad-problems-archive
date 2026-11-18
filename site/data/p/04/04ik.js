@@ -1,0 +1,1 @@
+__p({"id":"04ik","competition":"Croatia Mathematical Competitions","problem":"Let $O$ be the circumcentre and $H$ be the orthocentre of the triangle $ABC$. Ray $AO$ intersects the circumcircle of the triangle $ABC$ in point $D$. Prove that the line $HD$ passes through the midpoint of the segment $\\overline{BC}$.","solutions":[],"images":[]});

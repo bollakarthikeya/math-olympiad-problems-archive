@@ -1,0 +1,1 @@
+__p({"id":"04kk","competition":"Mathematical competitions in Croatia","problem":"Let $p$ be a prime number. Determine all pairs $(a, b)$ of integers such that\n$$\np(a - 2) = a(b - 1).\n$$","solutions":[],"images":[]});

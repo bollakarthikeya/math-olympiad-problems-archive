@@ -1,0 +1,1 @@
+__p({"id":"08ix","competition":"The first selection test for IMO 2003 and BMO 2003","problem":"Prove that the equation\n$$\n\\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} + \\frac{1}{abc} = \\frac{12}{a + b + c}\n$$\nhas many solutions $(a, b, c)$ in strictly positive integers.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09zs","competition":"Second Round","problem":"In triangle $ABC$, $\\angle A$ is a right angle. A point $D$ lies on line segment $AB$ in such a way that the angles $ACD$ and $BCD$ are equal. Moreover, $|AD| = 2$ and $|BD| = 3$.\n\n![](attached_image_1.png)\n\nWhat is the length of line segment $CD$?","solutions":[],"images":["img/09zs_1.png"]});

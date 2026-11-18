@@ -1,0 +1,1 @@
+__p({"id":"04mn","competition":"Croatia_2018","problem":"Let $ABC$ be a triangle such that $|AB| = 6$ and $|BC| = 9$, and let the measure of the angle $\\angle ABC$ be $120^\\circ$. Let $P$ and $Q$ be points on the side $\\overline{AC}$ such that the triangle $BPQ$ is equilateral. Determine the length of the segment $\\overline{PQ}$.","solutions":[],"images":[]});

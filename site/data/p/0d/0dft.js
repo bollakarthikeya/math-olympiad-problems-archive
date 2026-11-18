@@ -1,0 +1,1 @@
+__p({"id":"0dft","competition":"Saudi Arabian IMO Booklet","problem":"Let the triangle $ABC$ is given and $D$, $E$, $F$ are on sides $BC$, $AC$, $AB$, respectively, such that\n$$\n\\frac{BD}{CD} = \\frac{CE}{AE} = \\frac{AF}{BF}.\n$$\nShow that if the circumcircle of $ABC$ and $DEF$ coincide, then $ABC$ is equilateral.","solutions":[],"images":[]});

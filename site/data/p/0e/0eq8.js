@@ -1,0 +1,1 @@
+__p({"id":"0eq8","competition":"South African Mathematics Olympiad","problem":"If $\\frac{n+3}{13}$ is a positive integer, then the remainder when $n$ is divided by $13$ is","solutions":["10 Suppose $\\frac{n+3}{13} = k$; then $n = 13k - 3$ or $n = 13(k-1) + 10$. This shows that $n$ leaves remainder $10$ on division by $13$."],"images":[]});

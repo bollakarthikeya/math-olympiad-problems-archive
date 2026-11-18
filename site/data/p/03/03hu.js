@@ -1,0 +1,1 @@
+__p({"id":"03hu","competition":"Canadian Mathematical Olympiad","problem":"Given four weights in geometric progression and an equal arm balance, show how to find the heaviest weight using the balance only twice.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0an8","competition":"Qualifying Round","problem":"If $4 + 12 \\cdot 4^{x} = 16 \\cdot 16^{x}$, what is the value of $2^{2x+4} - 2^{2x}$?\n(a) 120\n(b) 60\n(c) 30\n(d) 15","solutions":[],"images":[]});

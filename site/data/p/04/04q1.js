@@ -1,0 +1,1 @@
+__p({"id":"04q1","competition":"Croatian Mathematical Society Competitions","problem":"What is the probability that for numbers $x$ and $y$ selected at random from the interval $[-2, 2]$ we have\n$$\n|x| + |y| \\ge 1 \\quad \\text{and} \\quad ||x| - |y|| \\le 1?\n$$","solutions":[],"images":[]});

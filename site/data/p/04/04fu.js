@@ -1,0 +1,1 @@
+__p({"id":"04fu","competition":"Mathematica competitions in Croatia","problem":"Let $a$ and $b$ be different real numbers and define $s = a - b$ and $t = a^3 - b^3$. Express $(a+b)^2$ in terms of $s$ and $t$. (Santos J. Prob. Seminar)","solutions":[],"images":[]});

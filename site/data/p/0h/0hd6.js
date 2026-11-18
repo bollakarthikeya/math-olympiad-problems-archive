@@ -1,0 +1,1 @@
+__p({"id":"0hd6","competition":"60th Ukrainian National Mathematical Olympiad","problem":"Determine which of the following numbers is greater: $2$ or $\\operatorname{tg} 1$?","solutions":["Consider the following inequalities: $2 > \\sqrt{3} = \\operatorname{tg} \\frac{\\pi}{3} > \\operatorname{tg} 1$."],"images":[]});

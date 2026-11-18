@@ -1,0 +1,1 @@
+__p({"id":"0ath","competition":"Philippine Mathematical Olympiad","problem":"Two couples and a single person are seated at random in a row of five chairs. What is the probability that at least one person is not beside his/her partner?","solutions":[],"images":[]});

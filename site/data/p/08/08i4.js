@@ -1,0 +1,1 @@
+__p({"id":"08i4","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"In the square $ABCD$ the point $N$ is the middle point of the side $[AB]$ and the point $M$ lies on the diagonal $(AC)$ so that $AC = 4CM$. Prove that the angle $DMN$ is right.","solutions":[],"images":[]});

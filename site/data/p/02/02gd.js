@@ -1,0 +1,1 @@
+__p({"id":"02gd","competition":"XXIII OBM","problem":"Prove that\n$$\n(a+b)(a+c) \\ge 2\\sqrt{abc(a+b+c)}\n$$\nfor all positive real numbers $a$, $b$ and $c$.","solutions":["By AM-GM,\n$$\n(a+b)(a+c) = bc + a(a+b+c) \\geq 2\\sqrt{bc \\cdot a(a+b+c)}\n$$"],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f1y","competition":"ASU","problem":"Can you label each vertex of a cube with a different three digit binary number so that the numbers at any two adjacent vertices differ in at least two digits?","solutions":[],"images":[]});

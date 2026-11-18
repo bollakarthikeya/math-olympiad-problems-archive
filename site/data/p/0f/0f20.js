@@ -1,0 +1,1 @@
+__p({"id":"0f20","competition":"ASU","problem":"$n$ rectangles are drawn on a rectangular sheet of paper. Each rectangle has its sides parallel to the sides of the paper. No pair of rectangles has an interior point in common. If the rectangles were removed show that the rest of the sheet would be in at most $n + 1$ parts.","solutions":[],"images":[]});

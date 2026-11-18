@@ -1,0 +1,1 @@
+__p({"id":"0dh0","competition":"Saudi Arabian IMO Booklet","problem":"Let $ABC$ be a right-angled triangle with $\\angle A = 90^\\circ$ and let $AD$ be an altitude of the triangle $ABC$. Let $J$, $K$ be the incenters of the triangles $ABD$, $ACD$ respectively. Let $JK$ intersect $AB$, $AC$ at $E$, $F$ respectively. Prove that $AE = AF$.","solutions":[],"images":[]});

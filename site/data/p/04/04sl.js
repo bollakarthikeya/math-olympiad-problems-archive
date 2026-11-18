@@ -1,0 +1,1 @@
+__p({"id":"04sl","competition":"Czech and Slovak Mathematical Olympiad","problem":"For positive real numbers $a$, $b$, $c$ the following holds:\n$$ab + bc + ca = 16, \\quad a \\ge 3.$$\nFind the smallest possible value of the expression $2a + b + c$. (Michal Rolínek)","solutions":[],"images":[]});

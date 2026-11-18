@@ -1,0 +1,1 @@
+__p({"id":"04or","competition":"Croatian Mathematical Society Competitions","problem":"A square board whose squares are coloured in either black or white is called *beautiful* if a rotation by $90^\\circ$ does not change its appearance.\nHow many different $5 \\times 5$ beautiful boards are there? (Azra Tafro)","solutions":[],"images":[]});

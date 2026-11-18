@@ -1,0 +1,1 @@
+__p({"id":"0b18","competition":"Philippines Mathematical Olympiad","problem":"Let $f(x) = x^{2} + 3$. How many positive integers $x$ are there such that $x$ divides $f(f(f(x)))$?","solutions":[],"images":[]});

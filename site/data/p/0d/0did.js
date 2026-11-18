@@ -1,0 +1,1 @@
+__p({"id":"0did","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Find all functions $f : \\mathbb{R}^+ \\to \\mathbb{R}^+$ satisfy the following conditions:\ni) $f(2x) \\ge 2f(x)$ for all $x > 0$;\nii) $f$ is strictly increasing $(0; +\\infty)$.\niii) $f(f(x)f(y) + x) = f(xf(y)) + f(x)$ for all $x, y > 0$.","solutions":[],"images":[]});

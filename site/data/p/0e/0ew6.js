@@ -1,0 +1,1 @@
+__p({"id":"0ew6","competition":"2nd ASU","problem":"The triangle $ABC$ satisfies $0 \\leq AB \\leq 1 \\leq BC \\leq 2 \\leq CA \\leq 3$. What is the maximum area it can have?","solutions":["If we ignore the restrictions of $CA$, then the maximum area is $1$, achieved when $AB$ is perpendicular to $BC$. But in this case $CA$ satisfies the restrictions."],"images":[]});

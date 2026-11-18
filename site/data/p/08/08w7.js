@@ -1,0 +1,1 @@
+__p({"id":"08w7","competition":"Japan Mathematical Olympiad","problem":"Find all functions $f : \\mathbb{R} \\to \\mathbb{R}$ such that\n$$\nf(f(x+y)f(x-y)) = x^2 - y f(y)\n$$\nfor all $x, y \\in \\mathbb{R}$.","solutions":[],"images":[]});

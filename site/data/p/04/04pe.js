@@ -1,0 +1,1 @@
+__p({"id":"04pe","competition":"Croatian Mathematical Society Competitions","problem":"Calculate\n$$\n\\frac{\\tan 192^\\circ + \\tan 48^\\circ}{1 + \\tan 168^\\circ \\cdot \\tan 408^\\circ}\n$$","solutions":[],"images":[]});

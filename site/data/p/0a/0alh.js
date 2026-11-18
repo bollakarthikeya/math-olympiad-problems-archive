@@ -1,0 +1,1 @@
+__p({"id":"0alh","competition":"Qualifying Round","problem":"Let $p$ and $q$ be the roots of $2x^{2} - 5x + 1 = 0$. Find the value of $\\log_{2} p + \\log_{2} q$.\n\n(a) 2\n(b) 0\n(c) 1\n(d) -1","solutions":[],"images":[]});

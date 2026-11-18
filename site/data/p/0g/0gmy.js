@@ -1,0 +1,1 @@
+__p({"id":"0gmy","competition":"Team Selection Examination for the International Mathematical Olympiad","problem":"For a positive integer $n$, find in how many different ways a $2 \\times n$ rectangle can be partitioned into rectangles with integer side lengths.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0gmu","competition":"XIII. National Mathematical Olympiad","problem":"If $a$, $b$, $c$ are side lengths and $r$ is the radius of the incircle of a triangle, prove that\n$$\n\\frac{1}{a^2} + \\frac{1}{b^2} + \\frac{1}{c^2} \\le \\frac{1}{4r^2}.\n$$","solutions":[],"images":[]});

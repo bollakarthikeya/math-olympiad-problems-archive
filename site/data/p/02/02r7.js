@@ -1,0 +1,1 @@
+__p({"id":"02r7","competition":"Brazilian Math Olympiad","problem":"Let $N = 2012$. Find all $N^2$-uples of real numbers $a_{i,j}$, $1 \\le i, j \\le N$, such that the following limit is convergent:\n$$\n\\lim_{x \\to +\\infty} \\sum_{1 \\le i,j \\le N} \\left(a_{i,j} \\sqrt[j]{x+i}\\right)\n$$","solutions":[],"images":[]});

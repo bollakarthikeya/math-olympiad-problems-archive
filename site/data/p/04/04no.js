@@ -1,0 +1,1 @@
+__p({"id":"04no","competition":"Croatia_2018","problem":"Let $z$ be a complex number such that $\\arg z \\in [\\frac{\\pi}{2}, \\pi]$ and $z^6 + z^3 + 1 = 0$. Determine the modulus and the argument of $z$. The argument of the complex number $z = |z|(\\cos\\varphi + i\\sin\\varphi)$ is the number $\\arg z = \\varphi$.","solutions":[],"images":[]});

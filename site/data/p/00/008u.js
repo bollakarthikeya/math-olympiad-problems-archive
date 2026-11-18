@@ -1,0 +1,1 @@
+__p({"id":"008u","competition":"XXIX Olimpíada Matemática Argentina National Round","problem":"Let $ABC$ be a triangle such that $A = 105^\\circ$ and $B = 45^\\circ$. Let $L$ be a point in $BC$ such that $AL$ is the bisector of $BAC$ and $M$ be the midpoint of $AC$. If $AL$ and $BM$ meet at the point $P$, calculate the ratio $\\frac{AP}{AL}$.","solutions":[],"images":[]});

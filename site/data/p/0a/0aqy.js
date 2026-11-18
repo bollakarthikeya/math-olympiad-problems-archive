@@ -1,0 +1,1 @@
+__p({"id":"0aqy","competition":"13th Philippine Mathematical Olympiad","problem":"Let $f(x)$ be a nonzero function whose domain and range is the set of complex numbers. Find all complex numbers $x$ such that $f\\left(x^{2}\\right)+x f\\left(\\frac{1}{x^{2}}\\right)=\\frac{1}{x}$.","solutions":[],"images":[]});

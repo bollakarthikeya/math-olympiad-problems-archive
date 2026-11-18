@@ -1,0 +1,1 @@
+__p({"id":"09ib","competition":"Mongolian Mathematical Olympiad Round 1","problem":"Let $ABC$ be a triangle with $AB = 2BC$. Points $P$ and $Q$ are chosen on side the $AB$ to satisfy $AP : PQ : QB = 1 : 2 : 3$. A point $R$ is chosen on side the $AC$ to satisfy $AR : RC = 1 : 2$. Show that $\\angle PRQ = 90^\\circ$.","solutions":[],"images":[]});

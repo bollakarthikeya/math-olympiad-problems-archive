@@ -1,0 +1,1 @@
+__p({"id":"0huy","competition":"","problem":"The Fibonacci sequence $F_{1}, F_{2}, F_{3}, \\ldots$ is defined by $F_{1}=F_{2}=1$ and $F_{n+2}=F_{n+1}+F_{n}$. Find the least positive integer $t$ such that for all $n>0$, $F_{n}=F_{n+t}$.","solutions":["60 ."],"images":[]});

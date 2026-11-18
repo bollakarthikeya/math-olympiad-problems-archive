@@ -1,0 +1,1 @@
+__p({"id":"0f00","competition":"ASU","problem":"$ABCD$ is a rectangle. $M$ is the midpoint of $AD$ and $N$ is the midpoint of $BC$. $P$ is a point on the ray $CD$ on the opposite side of $D$ to $C$. The ray $PM$ intersects $AC$ at $Q$. Show that $MN$ bisects the angle $PNQ$.","solutions":[],"images":[]});

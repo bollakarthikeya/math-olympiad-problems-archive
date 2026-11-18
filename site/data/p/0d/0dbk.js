@@ -1,0 +1,1 @@
+__p({"id":"0dbk","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Each integer is painted one of three colors. Prove that there exist two distinct numbers of the same color, whose difference is a perfect square.","solutions":[],"images":[]});

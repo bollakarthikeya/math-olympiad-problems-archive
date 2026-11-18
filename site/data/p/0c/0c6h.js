@@ -1,0 +1,1 @@
+__p({"id":"0c6h","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Show that, if the numbers $a$, $b$, $c \\in [0, \\infty)$ satisfy the relation $a + b + c = 3$, then\n$$\n\\frac{a}{3a + bc + 12} + \\frac{b}{3b + ca + 12} + \\frac{c}{3c + ab + 12} \\le \\frac{3}{16}.\n$$","solutions":[],"images":[]});

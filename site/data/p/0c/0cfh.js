@@ -1,0 +1,1 @@
+__p({"id":"0cfh","competition":"74th NMO Shortlisted Problems","problem":"Solve the equation\n$$\n((((((((n - \\frac{1}{2}) \\cdot 2 - \\frac{2}{3}) \\cdot 3 - \\frac{3}{4}) \\cdot 4 - \\frac{4}{5}) \\cdot \\dots) \\cdot 2023 - \\frac{2023}{2024}) \\cdot 2024 = 1.\n$$","solutions":[],"images":[]});

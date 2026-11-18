@@ -1,0 +1,1 @@
+__p({"id":"0f92","competition":"23rd ASU","problem":"A convex polygon is such that any segment dividing the polygon into two parts of equal area which has at least one end at a vertex has length $< 1$. Show that the area of the polygon is $< \\pi /4$.","solutions":[],"images":[]});

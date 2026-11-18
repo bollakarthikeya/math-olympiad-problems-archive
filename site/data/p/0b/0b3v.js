@@ -1,0 +1,1 @@
+__p({"id":"0b3v","competition":"24th Philippine Mathematical Olympiad","problem":"A lattice point is a point $(x, y)$ where $x$ and $y$ are both integers. Find the number of lattice points that lie on the closed line segment whose endpoints are $(2002,2022)$ and $(2022,2202)$.\n(a) 20\n(b) 21\n(c) 22\n(d) 23","solutions":[],"images":[]});

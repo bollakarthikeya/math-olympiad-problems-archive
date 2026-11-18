@@ -1,0 +1,1 @@
+__p({"id":"03k5","competition":"Canadian Mathematical Olympiad","problem":"For $x, y, z \\geq 0$, establish the inequality\n$$\nx(x-z)^2 + y(y-z)^2 \\geq (x-z)(y-z)(x+y-z)\n$$\nand determine when equality holds.","solutions":[],"images":[]});

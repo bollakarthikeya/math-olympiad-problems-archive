@@ -1,0 +1,1 @@
+__p({"id":"03gv","competition":"Canadian Mathematical Olympiad","problem":"A set of balls is given. Each ball is coloured red or blue, and there is at least one of each colour. Each ball weighs either $1$ pound or $2$ pounds, and there is at least one of each weight. Prove that there are $2$ balls having different weights and different colours.","solutions":[],"images":[]});

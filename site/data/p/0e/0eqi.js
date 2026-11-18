@@ -1,0 +1,1 @@
+__p({"id":"0eqi","competition":"South African Mathematics Olympiad","problem":"The tens digit of the product $1 \\times 2 \\times 3 \\times \\cdots \\times 98 \\times 99$ is\n(A) 0 (B) 1 (C) 2 (D) 4 (E) 9","solutions":[],"images":[]});

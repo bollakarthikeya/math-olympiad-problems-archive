@@ -1,0 +1,1 @@
+__p({"id":"0glu","competition":"T3MO 2017","problem":"Does there exist a function $f: \\mathbb{N} \\to \\mathbb{Q}$ such that for any rational number $r$, there exists exactly one ordered pair $(m, n)$ of positive integers satisfying the equation $r = f(m) + \\frac{1}{n}$?","solutions":[],"images":[]});

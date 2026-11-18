@@ -1,0 +1,1 @@
+__p({"id":"0b1r","competition":"22nd Philippine Mathematical Olympiad","problem":"What is the sum of all four-digit numbers that each use the digits $2, 4, 6$, and $8$ exactly once?","solutions":["Every digit appears in each decimal place exactly $6$ times. Therefore, the sum is $6 \\cdot (2+4+6+8) \\cdot 1111 = 133,320$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"08le","competition":"2008 Shortlist JBMO","problem":"If the real numbers $x_{1}, x_{2}, \\ldots, x_{2008}$ are such that $0 < x_{i} < 1$, for any $i$, show that\n$$\n1 + \\sum_{1 \\leq i < j \\leq 2008} x_{i} x_{j} > \\sum_{i=1}^{2008} x_{i}\n$$","solutions":[],"images":[]});

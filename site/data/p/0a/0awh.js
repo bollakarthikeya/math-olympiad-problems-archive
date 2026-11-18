@@ -1,0 +1,1 @@
+__p({"id":"0awh","competition":"Philippine Mathematical Olympiad Area Stage","problem":"Suppose that $x$ and $y$ are nonzero real numbers such that $\\left(x+\\frac{1}{y}\\right)\\left(y+\\frac{1}{x}\\right)=7$. Find the value of $\\left(x^{2}+\\frac{1}{y^{2}}\\right)\\left(y^{2}+\\frac{1}{x^{2}}\\right)$.","solutions":[],"images":[]});

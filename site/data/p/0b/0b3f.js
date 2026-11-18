@@ -1,0 +1,1 @@
+__p({"id":"0b3f","competition":"24th Philippine Mathematical Olympiad","problem":"Call a whole number ordinary if the product of its digits is less than or equal to the sum of its digits. How many numbers from the set $\\{1,2, \\ldots, 999\\}$ are ordinary?\n(a) 151\n(b) 162\n(c) 230\n(d) 241","solutions":[],"images":[]});

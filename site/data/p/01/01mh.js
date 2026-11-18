@@ -1,0 +1,1 @@
+__p({"id":"01mh","competition":"61st Belarusian Mathematical Olympiad","problem":"Prove that the number $9 \\cdot 2^m$ can be presented as the sum of the squares of three positive integers for any positive integer $m$.","solutions":[],"images":[]});

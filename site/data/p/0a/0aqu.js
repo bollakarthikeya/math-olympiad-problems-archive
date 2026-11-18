@@ -1,0 +1,1 @@
+__p({"id":"0aqu","competition":"13th Philippine Mathematical Olympiad","problem":"Find the sum of the coefficients of the polynomial $\\cos \\left(2 \\arccos \\left(1-x^{2}\\right)\\right)$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0b06","competition":"Philippines Mathematical Olympiad","problem":"A sequence $\\{a_n\\}_{n \\geq 1}$ of positive integers satisfies the recurrence relation $a_{n+1} = n \\left\\lfloor \\frac{a_n}{n} \\right\\rfloor + 1$ for all integers $n \\geq 1$. If $a_4 = 34$, find the sum of all the possible values of $a_1$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0b0s","competition":"Philippines Mathematical Olympiad","problem":"In the figure below, an equilateral triangle of height $1$ is inscribed in a semicircle of radius $1$. A circle is then inscribed in the triangle. Find the fraction of the semicircle that is shaded.\n\n![](attached_image_1.png)","solutions":[],"images":["img/0b0s_1.jpg"]});

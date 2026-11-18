@@ -1,0 +1,1 @@
+__p({"id":"04l2","competition":"Mathematical competitions in Croatia","problem":"Let $x$ and $y$ be positive real numbers such that\n$$\n2^{x^2} = 16^y \\quad \\text{and} \\quad \\log_{\\sqrt{2017}} x + \\log_{\\sqrt{2017}} y > 0.\n$$\nProve that $y > \\frac{1}{2}$. (Kristina Ana Škreb)","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0ao4","competition":"QUALIFYING STAGE","problem":"Find the range of the function $f(x) = \\frac{6}{5 \\sqrt{x^{2} - 10x + 29} - 2}$.\n\n(a) $[-1/2, 3/4]$\n(b) $(0, 3/4]$\n(c) $(1/2, 4/3]$\n(d) $[-1/2, 0) \\cup (0, 4/3]$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04pp","competition":"Croatian Mathematical Society Competitions","problem":"Find all pairs $(a, b)$ of integers such that $b \\ge 0$ and\n$$\na^2 + 2ab + b! = 131.\n$$\n(Olimpiada Matemática del Istmo Centroamericano 2017)","solutions":[],"images":[]});

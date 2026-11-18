@@ -1,0 +1,1 @@
+__p({"id":"0dfr","competition":"Saudi Arabian IMO Booklet","problem":"Let convex $s$-gon is divided to $q$ quadrilaterals such that $b$ of them are not convex. Prove that\n$$\nq \\geq b + \\frac{s-2}{2}.\n$$","solutions":[],"images":[]});

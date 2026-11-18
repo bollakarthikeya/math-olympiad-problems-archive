@@ -1,0 +1,1 @@
+__p({"id":"04a9","competition":"CroatianCompetitions2011","problem":"On the sides of a square $4n$ points are given: the four vertices of the square and another $n-1$ points on each side. Determine the number of all (non-degenerated) triangles with vertices at the given points.","solutions":[],"images":[]});

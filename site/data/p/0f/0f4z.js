@@ -1,0 +1,1 @@
+__p({"id":"0f4z","competition":"16th ASU","problem":"$ABCD$ is a parallelogram and $AB \\ne BC$. $M$ is chosen so that\n\n(1) $\\angle MAC = \\angle DAC$ and $M$ is on the opposite side of $AC$ to $D$, and\n\n(2) $\\angle MBD = \\angle CBD$ and $M$ is on the opposite side of $BD$ to $C$.\n\nFind $AM/BM$ in terms of $k = AC / BD$.","solutions":[],"images":[]});

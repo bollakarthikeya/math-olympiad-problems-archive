@@ -1,0 +1,1 @@
+__p({"id":"0bc5","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"The matrix $A \\in M_k(\\mathbb{R})$ ($k \\ge 2$) has the property: for every positive integer $n$, $\\det(n^2 I_k - A^2) \\ge n^k (\\det(nI_k - A) + \\det(nI_k + A) - 1)$. Prove that $\\operatorname{tr}(A) = 0$.","solutions":[],"images":[]});

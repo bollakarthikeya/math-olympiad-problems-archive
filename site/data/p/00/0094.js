@@ -1,0 +1,1 @@
+__p({"id":"0094","competition":"XXI Olimpiada Matemática Rioplatense","problem":"An integer number $n > 2$ is called *k-beta* if two different numbers can be chosen from the set $\\{1, 2, 3, \\dots, n\\}$ so that their product is equal to $k$ times the sum of the other $n-2$ numbers. For each positive integer $k$, find all the *k-beta* numbers.","solutions":[],"images":[]});

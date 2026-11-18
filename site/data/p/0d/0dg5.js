@@ -1,0 +1,1 @@
+__p({"id":"0dg5","competition":"Saudi Arabian IMO Booklet","problem":"In the cells of the grid $10 \\times 10$ are written positive integers, all of them less than $11$. It is known that the sum of $2$ numbers written in the cells having common vertex is a prime number. Prove that there are $17$ cells containing the same number.","solutions":[],"images":[]});

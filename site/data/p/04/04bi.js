@@ -1,0 +1,1 @@
+__p({"id":"04bi","competition":"Mathematica competitions in Croatia","problem":"Ana is four times as old as Petar was when Ana was as old as Petar is now. When Petar becomes as old as Ana is now, the sum of their ages will be $95$. How old is Ana, and how old is Petar?","solutions":[],"images":[]});

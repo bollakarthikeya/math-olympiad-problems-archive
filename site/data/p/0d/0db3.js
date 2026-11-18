@@ -1,0 +1,1 @@
+__p({"id":"0db3","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let 6 pairwise different digits are given and all of them are different from $0$. Prove that there exist $2$ six-digit integers, such that their difference is equal to $9$ and each of them contains all given $6$ digits.","solutions":[],"images":[]});

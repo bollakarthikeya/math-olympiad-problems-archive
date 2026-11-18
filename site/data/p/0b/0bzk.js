@@ -1,0 +1,1 @@
+__p({"id":"0bzk","competition":"2018 Romanian Mathematical Olympiad","problem":"Let $\\mathcal{F}$ be the set of all continuous functions $f: [0, 1] \\to \\mathbb{R}$, satisfying\n$$ \\max_{0 \\le x \\le 1} |f(x)| = 1, \\text{ and let } I: \\mathcal{F} \\to \\mathbb{R}, $$\n$$\nI(f) = \\int_{0}^{1} f(x) \\, dx - f(0) + f(1).\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dkx","competition":"Saudi Booklet","problem":"Find all positive integers $n$ that cannot be written in the form\n$$\nn = \\frac{a}{b} + \\frac{a+1}{b+1},\n$$\nwhere $a$ and $b$ are positive integers.","solutions":[],"images":[]});

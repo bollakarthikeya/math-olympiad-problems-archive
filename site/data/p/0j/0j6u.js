@@ -1,0 +1,1 @@
+__p({"id":"0j6u","competition":"Harvard-MIT November Tournament","problem":"Let $x$ be a real number such that $2^{x} = 3$. Determine the value of $4^{3x+2}$.","solutions":["We have\n$$\n4^{3x+2} = 4^{3x} \\cdot 4^{2} = \\left(2^{2}\\right)^{3x} \\cdot 16 = 2^{6x} \\cdot 16 = \\left(2^{x}\\right)^{6} \\cdot 16 = 3^{6} \\cdot 16 = 11664\n$$"],"images":[]});

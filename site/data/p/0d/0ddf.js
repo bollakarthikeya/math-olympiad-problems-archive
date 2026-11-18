@@ -1,0 +1,1 @@
+__p({"id":"0ddf","competition":"Saudi Arabian Mathematical Competitions","problem":"Let $ABCD$ be a convex quadrilateral and $X$ lying inside it such that $XA \\cdot XC^2 = XB \\cdot XD^2$ and $\\angle AXD + \\angle BXC = \\angle CXD$. Prove that $\\angle XAD + \\angle XCD = \\angle XBC + \\angle XDC$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09zi","competition":"Junior Mathematical Olympiad","problem":"Kjell has a large piece of graph paper of $100 \\times 100$ squares.\nHow many squares can Kjell colour at most without there being three coloured squares in a row, all directly next to each other or all directly above each other?","solutions":[],"images":[]});

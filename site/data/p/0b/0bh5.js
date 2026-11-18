@@ -1,0 +1,1 @@
+__p({"id":"0bh5","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Let $\\triangle ABC$ be a triangle and $D, E, F$ be the second intersection of its medians with its circumcircle. Prove that if the triangles $BDC, CEA, AFB$ have the same area, then triangle $ABC$ is equilateral.\nMarian Ionescu","solutions":[],"images":[]});

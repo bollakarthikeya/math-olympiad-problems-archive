@@ -1,0 +1,1 @@
+__p({"id":"0bkq","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Find all four digit numbers $abcd$ which are equal to the sum of all the positive integers starting with $ab$ and finishing with $cd$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f50","competition":"16th ASU","problem":"$3n$ points divide a circle into $3n$ arcs. One third of the arcs have length $1$, one third have length $2$ and one third have length $3$. Show that two of the points are at opposite ends of a diameter.","solutions":[],"images":[]});

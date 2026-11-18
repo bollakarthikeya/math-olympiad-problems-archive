@@ -1,0 +1,1 @@
+__p({"id":"04w0","competition":"First Round (take-home)","problem":"Let $ABC$ be a triangle with side lengths $AB = 13$, $BC = 14$, $CA = 15$. Let $A'B'C'$ be a translate of $ABC$ by some unit vector. Find the largest possible area of the intersection of triangles $ABC$ and $A'B'C'$.","solutions":[],"images":[]});

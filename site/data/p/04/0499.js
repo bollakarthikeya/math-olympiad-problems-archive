@@ -1,0 +1,1 @@
+__p({"id":"0499","competition":"Hrvatska 2011","problem":"Mario has written a 30-digit number whose sum of digits is 123. Then he wrote all the digits again in some other order following the original number. Prove that the 60-digit number he obtained is not a perfect square.","solutions":[],"images":[]});

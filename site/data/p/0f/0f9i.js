@@ -1,0 +1,1 @@
+__p({"id":"0f9i","competition":"24th ASU","problem":"Given $1990$ piles of stones, containing $1, 2, 3, \\ldots, 1990$ stones. A move is to take an equal number of stones from one or more piles. How many moves are needed to take all the stones?","solutions":[],"images":[]});

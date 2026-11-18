@@ -1,0 +1,1 @@
+__p({"id":"0dbi","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Each point of the plane has some color. It is known that on every straight line there are points in at most two different colors. What is the maximum possible number of colors present on this plane?","solutions":[],"images":[]});

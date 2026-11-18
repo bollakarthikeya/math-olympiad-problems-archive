@@ -1,0 +1,1 @@
+__p({"id":"0bkv","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Let $A$, $B \\in \\mathcal{M}_3(\\mathbb{Z})$ be such that $AB = BA$ and $\\det A = \\det B = 0$. Prove that $\\det(A^3 + B^3)$ is the sum of two perfect cubes.","solutions":[],"images":[]});

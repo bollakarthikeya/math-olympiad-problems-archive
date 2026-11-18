@@ -1,0 +1,1 @@
+__p({"id":"0atl","competition":"Philippine Mathematical Olympiad","problem":"What is the largest number of $7~\\mathrm{m} \\times 9~\\mathrm{m} \\times 11~\\mathrm{m}$ boxes that can fit inside a box of size $17~\\mathrm{m} \\times 37~\\mathrm{m} \\times 27~\\mathrm{m}$?","solutions":[],"images":[]});

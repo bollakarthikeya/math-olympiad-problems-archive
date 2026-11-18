@@ -1,0 +1,1 @@
+__p({"id":"04a5","competition":"Hrvatska 2011","problem":"Let $z$ be a root of the polynomial $z^2 - 2z \\cos \\frac{\\pi}{n} + 1$. Determine all the possible values of $z^n$.","solutions":[],"images":[]});

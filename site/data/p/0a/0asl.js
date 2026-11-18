@@ -1,0 +1,1 @@
+__p({"id":"0asl","competition":"Philippines Mathematical Olympiad","problem":"Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be a function that satisfies the functional equation\n$$\nf(x-y)=2009 f(x) f(y)\n$$\nfor all $x, y \\in \\mathbb{R}$. If $f(x)$ is never zero, what is $f(\\sqrt{2009})$?","solutions":["$\\frac{1}{2009}$"],"images":[]});

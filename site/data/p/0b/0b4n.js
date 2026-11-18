@@ -1,0 +1,1 @@
+__p({"id":"0b4n","competition":"25th Philippine Mathematical Olympiad Area Stage","problem":"Let $x$ and $y$ be integers satisfying $x^{2}+30x+25=y^{4}$. What is the largest possible value of $x+y$?","solutions":[],"images":[]});

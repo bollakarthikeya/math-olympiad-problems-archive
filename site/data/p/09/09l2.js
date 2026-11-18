@@ -1,0 +1,1 @@
+__p({"id":"09l2","competition":"Mongolian Mathematical Olympiad","problem":"Let $a$, $b$, and $c$ be real numbers.\n(1)\nShow that if $a^2 + b^2 = c^2$ and $a^3 + b^3 = c^3$, then either $a = 0$ or $b = 0$.\n\n(2)\nShow that if $a^3 + b^3 = c^3$ and $a^4 + b^4 = c^4$, then either $a = 0$ or $b = 0$.","solutions":[],"images":[]});

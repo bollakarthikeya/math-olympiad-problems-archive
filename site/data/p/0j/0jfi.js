@@ -1,0 +1,1 @@
+__p({"id":"0jfi","competition":"HMMT November 2013","problem":"A square is inscribed in a circle of radius $1$. Find the perimeter of the square.","solutions":["The square has diagonal length $2$, so the side length is $\\sqrt{2}$ and the perimeter is $4\\sqrt{2}$."],"images":[]});

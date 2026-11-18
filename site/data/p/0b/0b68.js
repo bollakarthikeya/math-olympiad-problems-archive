@@ -1,0 +1,1 @@
+__p({"id":"0b68","competition":"Shortlisted Problems for the Romanian NMO","problem":"Let $f : [a, b] \\to \\mathbb{R}$ be a continuous function with the property that for every $x \\in [a, b)$ there exists $y \\in (x, b]$ such that $f(x) \\le f(y)$. Find $\\max f(x)$.","solutions":[],"images":[]});

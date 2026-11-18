@@ -1,0 +1,1 @@
+__p({"id":"0f6h","competition":"19th ASU","problem":"An $r \\times s \\times t$ cuboid is divided into $rst$ unit cubes. Three faces of the cuboid, having a common vertex, are colored. As a result exactly half the unit cubes have at least one face colored. What is the total number of unit cubes?","solutions":[],"images":[]});

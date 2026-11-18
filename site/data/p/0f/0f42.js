@@ -1,0 +1,1 @@
+__p({"id":"0f42","competition":"15th ASU","problem":"The positive reals $x$, $y$ satisfy $x^{3} + y^{3} = x - y$. Show that $x^{2} + y^{2} < 1$.","solutions":["Since $x$, $y$ are positive, so is $x^{3} + y^{3}$, and hence $x > y$. So\n$$(x^{2} + y^{2})(x - y) = (x^{3} - y^{3}) - xy(x - y) < x^{3} - y^{3} = x - y.$$\nHence $x^{2} + y^{2} < 1$."],"images":[]});

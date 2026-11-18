@@ -1,0 +1,1 @@
+__p({"id":"0hl1","competition":"","problem":"12 points are placed around the circumference of a circle. How many ways are there to draw 6 non-intersecting chords joining these points in pairs?","solutions":["$C$ (number of chords) $= C(6) = 132$."],"images":[]});

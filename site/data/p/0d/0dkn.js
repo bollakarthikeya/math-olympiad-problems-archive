@@ -1,0 +1,1 @@
+__p({"id":"0dkn","competition":"Saudi Booklet","problem":"Find all positive integers $n$ such that there exist $n$ consecutive positive integers whose sum is a perfect square.","solutions":[],"images":[]});

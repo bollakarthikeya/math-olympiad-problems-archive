@@ -1,0 +1,1 @@
+__p({"id":"04eu","competition":"Mathematica competitions in Croatia","problem":"Exactly three internal angles of a convex polygon are obtuse. How many sides (at most) can this polygon have? (Math Questions 2009)","solutions":[],"images":[]});

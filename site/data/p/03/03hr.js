@@ -1,0 +1,1 @@
+__p({"id":"03hr","competition":"Canadian Mathematical Olympiad","problem":"Suppose\n$$\nn(n+1) a_{n+1} = n(n-1) a_n - (n-2) a_{n-1}\n$$\nfor every positive integer $n \\geq 1$.\nGiven that $a_0 = 1$, $a_1 = 2$, find\n$$\n\\frac{a_0}{a_1} + \\frac{a_1}{a_2} + \\frac{a_2}{a_3} + \\cdots + \\frac{a_{50}}{a_{51}}.\n$$","solutions":[],"images":[]});

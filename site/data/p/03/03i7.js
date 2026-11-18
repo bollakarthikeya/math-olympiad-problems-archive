@@ -1,0 +1,1 @@
+__p({"id":"03i7","competition":"Canadian Mathematical Olympiad","problem":"The sides $AD$ and $BC$ of a convex quadrilateral $ABCD$ are extended to meet at $E$. Let $H$ and $G$ be the midpoints of $BD$ and $AC$, respectively. Find the ratio of the area of the triangle $EHG$ to that of the quadrilateral $ABCD$.","solutions":[],"images":[]});

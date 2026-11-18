@@ -1,0 +1,1 @@
+__p({"id":"0atg","competition":"Philippine Mathematical Olympiad","problem":"Rectangle $BRIM$ has $BR = 16$ and $BM = 18$. The points $A$ and $H$ are located on $IM$ and $BM$, respectively, so that $MA = 6$ and $MH = 8$. If $T$ is the intersection of $BA$ and $IH$, find the area of quadrilateral $MATH$.","solutions":[],"images":[]});

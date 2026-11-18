@@ -1,0 +1,1 @@
+__p({"id":"0dhl","competition":"Saudi Arabian IMO Booklet","problem":"On a $9 \\times 9$ board, several cells are shaded in such a way that from any shaded cell you can get to any other shaded cell, visiting only the shaded cells and moving only between cells neighboring with a side. Determine the largest possible perimeter of the shaded region.","solutions":[],"images":[]});

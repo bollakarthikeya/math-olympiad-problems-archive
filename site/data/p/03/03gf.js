@@ -1,0 +1,1 @@
+__p({"id":"03gf","competition":"Canadian Mathematical Olympiad","problem":"Show that for any quadrilateral inscribed in a circle of radius $1$, the length of the shortest side is less than or equal to $\\sqrt{2}$.","solutions":[],"images":[]});

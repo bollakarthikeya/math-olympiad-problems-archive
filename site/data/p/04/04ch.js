@@ -1,0 +1,1 @@
+__p({"id":"04ch","competition":"Mathematica competitions in Croatia","problem":"Real numbers $x$, $y$ and $z$ are consecutive terms of an arithmetic sequence. If the numbers $\\cos^2 x$, $\\cos^2 y$ and $\\cos^2 z$ are mutually different and consecutive terms of some arithmetic sequence, determine all possible values of $y$.","solutions":[],"images":[]});

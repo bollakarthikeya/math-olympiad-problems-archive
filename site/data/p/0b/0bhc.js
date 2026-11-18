@@ -1,0 +1,1 @@
+__p({"id":"0bhc","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Let $a \\in (0, 1)$. Find all functions $f : \\mathbb{R} \\to (0, \\infty)$ so that $f(x) \\le a^x$ and $f(x + y + z) \\le f(x)f(y)f(z)$, for every $x, y, z \\in \\mathbb{R}$.","solutions":[],"images":[]});

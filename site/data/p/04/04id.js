@@ -1,0 +1,1 @@
+__p({"id":"04id","competition":"Croatia Mathematical Competitions","problem":"Let $O$ be the circumcentre of the acute triangle $ABC$ and let $N$ be the foot of the altitude from point $A$. Prove that $\\angle BAN = \\angle CAO$. (Hong Kong)","solutions":[],"images":[]});

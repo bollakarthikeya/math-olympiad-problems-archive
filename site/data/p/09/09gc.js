@@ -1,0 +1,1 @@
+__p({"id":"09gc","competition":"Mongolian Mathematical Olympiad","problem":"Find all triplets $(m, n, p)$ such that\n$$\n3^m p^2 + 1 = n^{2017},\n$$\nwhere $m$, $n$ are positive integers and $p$ is a prime number.","solutions":[],"images":[]});

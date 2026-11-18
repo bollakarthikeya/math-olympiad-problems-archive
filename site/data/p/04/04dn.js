@@ -1,0 +1,1 @@
+__p({"id":"04dn","competition":"Mathematica competitions in Croatia","problem":"Legs of a right triangle are of lengths $6$ cm and $8$ cm. What is the radius of its circumcircle?","solutions":[],"images":[]});

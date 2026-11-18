@@ -1,0 +1,1 @@
+__p({"id":"09ig","competition":"Mongolian Mathematical Olympiad Round 1","problem":"Let $n \\ge 5$. For positive integers $a$, $b$ and $c$ not exceeding $n$, prove that $(a+1)c$ is not divisible by $n$ if both $a(b+1)$ and $b(c+1)$ are divisible by $n$.","solutions":[],"images":[]});

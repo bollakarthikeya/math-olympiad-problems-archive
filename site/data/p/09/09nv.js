@@ -1,0 +1,1 @@
+__p({"id":"09nv","competition":"MMO2025 Round 3","problem":"Show that $\\underbrace{66\\dots6}_{61}\\underbrace{11\\dots1}_{61}$ is divisible by $61$.\n(Nursoltan Khavalbolot)","solutions":[],"images":[]});

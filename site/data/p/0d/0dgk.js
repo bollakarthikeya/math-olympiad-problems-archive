@@ -1,0 +1,1 @@
+__p({"id":"0dgk","competition":"Saudi Arabian IMO Booklet","problem":"Consider the positive numbers $x_1, x_2, \\dots, x_n$ such that $\\sum_{i=1}^n x_i = \\sum_{i=1}^n \\frac{1}{x_i}$. Prove that $\\sum_{i=1}^n \\frac{1}{n-1+x_i} \\le 1$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dfg","competition":"Saudi Arabian IMO Booklet","problem":"Prove that for any 2 positive integers $m$ and $n$ with $(m, n) \\neq (1, 1)$ the value of expression\n$$\n\\frac{1}{m} + \\frac{1}{m+1} + \\dots + \\frac{1}{m+n-1}\n$$\nis not an integer.","solutions":[],"images":[]});

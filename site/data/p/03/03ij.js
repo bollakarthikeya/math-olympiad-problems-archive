@@ -1,0 +1,1 @@
+__p({"id":"03ij","competition":"Canadian Mathematical Olympiad","problem":"A parallelepiped has the property that all cross sections which are parallel to any fixed face $F$, have the same perimeter as $F$. Determine whether or not any other polyhedron has this property.","solutions":[],"images":[]});

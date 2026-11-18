@@ -1,0 +1,1 @@
+__p({"id":"0anc","competition":"QUALIFYING STAGE","problem":"Solve the inequality $\\frac{1}{3^{x}}\\left(\\frac{1}{3^{x}}-2\\right)<15$.\n\n(a) $\\left(-\\frac{\\log 5}{\\log 3},+\\infty\\right)$\n(c) $\\left(\\frac{\\log 3}{\\log 5}, 1\\right)$\n(b) $\\left(-\\infty, \\frac{\\log 5}{\\log 3}\\right)$\n(d) $(\\log 3, \\log 5)$","solutions":[],"images":[]});

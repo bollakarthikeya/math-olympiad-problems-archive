@@ -1,0 +1,1 @@
+__p({"id":"03hg","competition":"Canadian Mathematical Olympiad","problem":"Let $ABCD$ be a rectangle with $BC = 3 AB$. Show that if $P, Q$ are the points on side $BC$ with $BP = PQ = QC$, then\n$$\n\\angle DBC + \\angle DPC = \\angle DQC.\n$$","solutions":[],"images":[]});

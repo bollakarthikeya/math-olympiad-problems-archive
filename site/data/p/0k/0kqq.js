@@ -1,0 +1,1 @@
+__p({"id":"0kqq","competition":"Berkeley Math Circle Monthly Contest 7","problem":"Find all solutions to $m^{4} = n^{3} + 137$ over the positive integers.","solutions":["The fourth powers mod $13$ are $0, 1, 3, 9$ and the cubes mod $13$ are $0, 1, 5, 8, 12$. Therefore, $m^{4} - n^{3} \\equiv 7 \\pmod{13}$ is impossible, meaning that there are no solutions."],"images":[]});

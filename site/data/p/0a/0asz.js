@@ -1,0 +1,1 @@
+__p({"id":"0asz","competition":"Philippines Mathematical Olympiad","problem":"Find all integers $n$ such that $5 n - 7$, $6 n + 1$, and $20 - 3 n$ are all prime numbers.","solutions":["Only $n = 6$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0c52","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"Let $x, y, z$ be complex numbers so that $x \\neq z$ and $\\frac{x-y}{x-z} \\notin \\mathbb{R}$. Prove that\n$$ \\min(|2x - y - z|, |2y - x - z|, |2z - x - y|) \\le \\frac{1}{\\sqrt{3}}(|x - y| + |y - z| + |z - x|). $$","solutions":[],"images":[]});

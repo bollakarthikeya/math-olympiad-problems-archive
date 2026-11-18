@@ -1,0 +1,1 @@
+__p({"id":"0glp","competition":"The 14th Thailand Mathematical Olympiad","problem":"A point $(x, y)$ in the plane is a *lattice* point if $x$ and $y$ are both integers. Let $n$ be a positive integer. Prove that there exists a disk in the plane containing exactly $n$ lattice points in its interior.","solutions":[],"images":[]});

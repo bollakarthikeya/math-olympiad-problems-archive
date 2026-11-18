@@ -1,0 +1,1 @@
+__p({"id":"0am2","competition":"AREA STAGE","problem":"From the $x y$-plane, select five distinct points that have integer coordinates. Find the probability that there is a pair of points among the five whose midpoint has integer coordinates.","solutions":[],"images":[]});

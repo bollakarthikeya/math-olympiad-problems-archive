@@ -1,0 +1,1 @@
+__p({"id":"0aqm","competition":"12th Philippine Mathematical Olympiad - Area Stage","problem":"Let $y = \\left(1 + e^{x}\\right)\\left(e^{x} - 6\\right)^{-1}$. If the values of $x$ run through all real numbers, determine the values of $y$.","solutions":[],"images":[]});

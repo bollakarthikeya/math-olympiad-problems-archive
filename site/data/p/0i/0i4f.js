@@ -1,0 +1,1 @@
+__p({"id":"0i4f","competition":"Harvard-MIT Math Tournament","problem":"How many real solutions are there to the equation\n$$\n||||x|-2|-2|-2|=||||x|-3|-3|-3| ?\n$$","solutions":["6. The graphs of the two sides of the equation can be graphed on the same plot to reveal six intersection points."],"images":[]});

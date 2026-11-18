@@ -1,0 +1,1 @@
+__p({"id":"0i78","competition":"Harvard-MIT Math Tournament","problem":"Find all values of $x$ with $0 \\leq x < 2\\pi$ that satisfy $\\sin x + \\cos x = \\sqrt{2}$.","solutions":["Squaring both sides gives $\\sin^2 x + \\cos^2 x + 2 \\sin x \\cos x = 1 + \\sin 2x = 2$, so $x = \\frac{\\pi}{4}, \\frac{5\\pi}{4}$."],"images":[]});

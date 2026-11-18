@@ -1,0 +1,1 @@
+__p({"id":"08ih","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"The numbers $a_{1}, a_{2}, \\ldots, a_{n}$ are the first $n$ positive integers with the property that the number $8 a_{k}+1$ is a perfect square for every $k=1,2, \\ldots, n$. Find the sum $S_{n}=a_{1}+a_{2}+\\ldots+a_{n}$.","solutions":[],"images":[]});

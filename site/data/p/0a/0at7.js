@@ -1,0 +1,1 @@
+__p({"id":"0at7","competition":"Philippines Mathematical Olympiad","problem":"Find the only value of $x$ in the open interval $(-\\pi / 2, 0)$ that satisfies the equation\n$$\n\\frac{\\sqrt{3}}{\\sin x} + \\frac{1}{\\cos x} = 4\n$$","solutions":["$-\\frac{4\\pi}{9}$"],"images":[]});

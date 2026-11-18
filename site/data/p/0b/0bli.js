@@ -1,0 +1,1 @@
+__p({"id":"0bli","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Find all integrable functions $f : [0, 1] \\to \\mathbb{R}$ with the property: for every $x \\in [0, 1]$,\n$$\n\\int_0^x f(t) dt = (f(x))^{2015} + f(x).\n$$","solutions":[],"images":[]});

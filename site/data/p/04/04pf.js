@@ -1,0 +1,1 @@
+__p({"id":"04pf","competition":"Croatian Mathematical Society Competitions","problem":"The base of a right square pyramid has sides of length $12$, and the height of the pyramid is of length $8$. Find the surface area of the pyramid. (Nikola Adžaga)","solutions":[],"images":[]});

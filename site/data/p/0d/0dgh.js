@@ -1,0 +1,1 @@
+__p({"id":"0dgh","competition":"Saudi Arabian IMO Booklet","problem":"Find all pairs of positive integers $(x, y)$ such that\n$$\n\\frac{1}{x} + \\frac{1}{y} + \\frac{1}{\\text{lcm}(x, y)} + \\frac{1}{\\text{gcd}(x, y)} = \\frac{1}{2}.\n$$","solutions":[],"images":[]});

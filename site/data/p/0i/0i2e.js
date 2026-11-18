@@ -1,0 +1,1 @@
+__p({"id":"0i2e","competition":"Harvard-MIT Math Tournament","problem":"Calculate the sum of the coefficients of $P(x)$ if $(20 x^{27} + 2 x^{2} + 1) P(x) = 2001 x^{2001}$.","solutions":["The sum of coefficients of $f(x)$ is the value of $f(1)$ for any polynomial $f$. Plugging in $1$ to the above equation, $P(1) = \\frac{2001}{23} = 87$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09kn","competition":"Mongolian Mathematical Olympiad","problem":"Show that the sum or the product of $a, b, c$ is equal to $1$ if $a, b, c$ are real numbers satisfying\n$$\n(ab - c)(bc - a) + (bc - a)(ca - b) + (ca - b)(ab - c) = 4abc.\n$$","solutions":[],"images":[]});

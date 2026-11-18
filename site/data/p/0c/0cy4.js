@@ -1,0 +1,1 @@
+__p({"id":"0cy4","competition":"SAMC","problem":"Let $a$ and $b$ be real numbers such that $a+b \\neq 0$. Solve the equation\n$$\n\\frac{1}{(x+a)^2-b^2}+\\frac{1}{(x+b)^2-a^2}=\\frac{1}{x^2-(a+b)^2}+\\frac{1}{x^2-(a-b)^2}\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0cf5","competition":"74th NMO Shortlisted Problems","problem":"Let $A \\in \\mathcal{M}_n(\\mathbb{R})$ be a matrix with the property that\n$$\n\\det(A + X) \\ge \\det X, \\text{ for all } X \\in \\mathcal{M}_n(\\mathbb{R}).\n$$\n\nProve that $A = O_n$.","solutions":[],"images":[]});

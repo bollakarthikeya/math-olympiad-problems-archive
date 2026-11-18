@@ -1,0 +1,1 @@
+__p({"id":"0kya","competition":"HMMT November","problem":"For integers $2 \\leq n \\leq 100$, let $f(n)$ denote the unique integer $1 \\leq a < n$ such that $101 a \\equiv 1 \\pmod{n}$. Estimate\n$$\n\\sum_{n=2}^{100} \\frac{f(n)}{n}\n$$","solutions":[],"images":[]});

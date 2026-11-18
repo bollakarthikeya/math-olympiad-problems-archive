@@ -1,0 +1,1 @@
+__p({"id":"0amf","competition":"18th PMO Area Stage","problem":"The lengths of the sides of a rectangle are all integers. Four times its perimeter is numerically equal to one less than its area. Find the largest possible perimeter of such a rectangle.","solutions":[],"images":[]});

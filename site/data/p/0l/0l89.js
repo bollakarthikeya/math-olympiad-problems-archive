@@ -1,0 +1,1 @@
+__p({"id":"0l89","competition":"USA TST Selection Test for 67th IMO and 15th EGMO","problem":"Find all polynomials $f$ with integer coefficients such that for all positive integers $n$, $n$ divides $\\underbrace{f(f(\\dots(f(0))\\dots))}_{n+1 \\text{ f's}} -1$.","solutions":[],"images":[]});

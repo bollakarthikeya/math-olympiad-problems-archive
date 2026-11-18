@@ -1,0 +1,1 @@
+__p({"id":"04la","competition":"Mathematical competitions in Croatia","problem":"A tetrahedron is given, having one edge of length $3$ and all other edges of length $2$. Find the volume of that tetrahedron. (Stipe Vidak)","solutions":[],"images":[]});

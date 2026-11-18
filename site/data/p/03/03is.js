@@ -1,0 +1,1 @@
+__p({"id":"03is","competition":"Canadian Mathematical Olympiad","problem":"Let $\\mathbb{R}^n$ be the $n$-dimensional Euclidean space. Determine the smallest number $g(n)$ of points of a set in $\\mathbb{R}^n$ such that every point in $\\mathbb{R}^n$ is at irrational distance from at least one point in that set.","solutions":[],"images":[]});

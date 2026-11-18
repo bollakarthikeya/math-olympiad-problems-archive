@@ -1,0 +1,1 @@
+__p({"id":"040x","competition":"China Girls' Mathematical Olympiad","problem":"Let $a_1 \\le a_2 \\le \\dots$ be a sequence of positive integers such that $\\frac{r}{a_r} = k+1$ for some positive integers $k$ and $r$. Prove that there exists a positive integer $s$ such that $\\frac{s}{a_s} = k$.","solutions":[],"images":[]});

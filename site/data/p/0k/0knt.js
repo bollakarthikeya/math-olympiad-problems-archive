@@ -1,0 +1,1 @@
+__p({"id":"0knt","competition":"AIME II","problem":"Adults made up $\\frac{5}{12}$ of the crowd of people at a concert. After a bus carrying 50 more people arrived, adults made up $\\frac{11}{25}$ of the people at the concert. Find the minimum number of adults who could have been at the concert after the bus arrived.","solutions":[],"images":[]});

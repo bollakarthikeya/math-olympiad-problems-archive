@@ -1,0 +1,1 @@
+__p({"id":"04is","competition":"Croatia Mathematical Competitions","problem":"For any two positive real numbers $x$ and $y$ prove\n$$\n\\log^2(xy) \\ge \\log(x^2)\\log(y^2).\n$$","solutions":[],"images":[]});

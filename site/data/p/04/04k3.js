@@ -1,0 +1,1 @@
+__p({"id":"04k3","competition":"Mathematical competitions in Croatia","problem":"Determine the sum\n$$\n\\frac{1}{2\\sqrt{1} + 1\\sqrt{2}} + \\frac{1}{3\\sqrt{2} + 2\\sqrt{3}} + \\dots + \\frac{1}{100\\sqrt{99} + 99\\sqrt{100}}\n$$","solutions":[],"images":[]});

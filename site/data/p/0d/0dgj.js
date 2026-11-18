@@ -1,0 +1,1 @@
+__p({"id":"0dgj","competition":"Saudi Arabian IMO Booklet","problem":"Let $1 \\le r \\le n$. We consider all $r$-element subsets of $(1, 2, \\dots, n)$. Each of them has a minimum. Prove that the average of these minima is $\\frac{n+1}{r+1}$.","solutions":[],"images":[]});

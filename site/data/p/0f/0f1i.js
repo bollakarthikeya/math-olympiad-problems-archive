@@ -1,0 +1,1 @@
+__p({"id":"0f1i","competition":"ASU","problem":"Given a $7 \\times 7$ square subdivided into $49$ unit squares, mark the center of $n$ unit squares, so that no four marks form a rectangle with sides parallel to the square. What is the largest $n$ for which this is possible? What about a $13 \\times 13$ square?","solutions":[],"images":[]});

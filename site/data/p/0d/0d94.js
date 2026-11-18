@@ -1,0 +1,1 @@
+__p({"id":"0d94","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $S = \\{-17, -16, \\ldots, 16, 17\\}$. We call a subset $T$ of $S$ a good set if $-x \\in T$ for any $x \\in T$ and if $x, y, z \\in T$ ($x, y, z$ may be equal) then $x + y + z \\neq 0$. Find the largest number of elements in a good set.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04j4","competition":"Croatia Mathematical Competitions","problem":"Let $ABCD$ be a tetrahedron such that $\\angle BAC = \\angle CAD = \\angle DAB = 90^\\circ$, $|AD| = 2\\sqrt{2}$ and $|AB| = |AC| = 3$ holds. Determine the radius of the inscribed sphere of the tetrahedron. (Mea Bombardelli)","solutions":[],"images":[]});

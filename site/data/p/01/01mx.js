@@ -1,0 +1,1 @@
+__p({"id":"01mx","competition":"Belarusian Mathematical Olympiad","problem":"Several chess players took part in a chess tournament. Each player played against every other player. How many games were played?","solutions":[],"images":[]});

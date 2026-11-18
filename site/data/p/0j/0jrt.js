@@ -1,0 +1,1 @@
+__p({"id":"0jrt","competition":"HMMT February","problem":"Let $x$ and $y$ be complex numbers such that $x+y=\\sqrt{20}$ and $x^{2}+y^{2}=15$. Compute $|x-y|$.","solutions":["We have $(x-y)^{2}+(x+y)^{2}=2\\left(x^{2}+y^{2}\\right)$, so $(x-y)^{2}=10$, hence $|x-y|=\\sqrt{10}$."],"images":[]});

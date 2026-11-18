@@ -1,0 +1,1 @@
+__p({"id":"03gj","competition":"Canadian Mathematical Olympiad","problem":"Let $c$ be the length of the hypotenuse of a right angle triangle whose other two sides have lengths $a$ and $b$. Prove that $a + b \\leq \\sqrt{2} c$. When does the equality hold?","solutions":[],"images":[]});

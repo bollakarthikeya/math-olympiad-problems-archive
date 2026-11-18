@@ -1,0 +1,1 @@
+__p({"id":"0c2t","competition":"Shortlisted problems for the 69th NMO","problem":"The product of divisors of a natural number equals the square of that number. Find it, knowing that it is with 10 less than the sum of its divisors.","solutions":[],"images":[]});

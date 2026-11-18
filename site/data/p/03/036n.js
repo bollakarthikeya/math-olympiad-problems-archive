@@ -1,0 +1,1 @@
+__p({"id":"036n","competition":"Bulgarian Mathematical Competitions","problem":"Find all pairs $(a, b)$ of non-negative real numbers such that the equations $x^{2} + a^{2} x + b^{3} = 0$ and $x^{2} + b^{2} x + a^{3} = 0$ have a common real root.","solutions":[],"images":[]});

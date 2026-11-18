@@ -1,0 +1,1 @@
+__p({"id":"0ceg","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Triangle $BAD$ has $\\angle BAD = 45^\\circ$ and triangle $BDC$ is on its outside, so that $DC = BA$ and $\\angle DCB = \\angle CDA = 75^\\circ$. Find the measure of $\\angle ABD$.\nAdrian Bud","solutions":[],"images":[]});

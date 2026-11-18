@@ -1,0 +1,1 @@
+__p({"id":"0h1j","competition":"51st Ukrainian National Mathematical Olympiad, 3rd Round","problem":"Prove that there exists infinitely many squares that can be represented as $2^n + 2^m$, where $n, m$ are distinct natural numbers.","solutions":["Let $n = m + 3$, then $N = 2^n + 2^m = 2^m(2^3 + 1) = 2^m \\cdot 9$, and we can take $m = 2s$."],"images":[]});

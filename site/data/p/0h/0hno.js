@@ -1,0 +1,1 @@
+__p({"id":"0hno","competition":"","problem":"Count the number of sequences $a_{1}, a_{2}, a_{3}, a_{4}, a_{5}$ of integers such that $a_{i} \\leq 1$ for all $i$ and all partial sums $\\left(a_{1}, a_{1}+a_{2}, a_{1}+a_{2}+a_{3}, \\ldots, a_{1}+a_{2}+a_{3}+a_{4}+a_{5}\\right)$ are non-negative.","solutions":["$C($ length $+1 ) = C(6) = 132$."],"images":[]});

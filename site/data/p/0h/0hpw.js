@@ -1,0 +1,1 @@
+__p({"id":"0hpw","competition":"","problem":"How many roots does $\\arctan x = x^{2} - 1.6$ have, where the arctan function is defined in the range $-\\frac{\\pi}{2} < \\arctan x < \\frac{\\pi}{2}$?","solutions":["2 ."],"images":[]});

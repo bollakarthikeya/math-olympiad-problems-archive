@@ -1,0 +1,1 @@
+__p({"id":"0l2x","competition":"HMMT February 2024","problem":"Determine, with proof, whether there exist positive integers $x$ and $y$ such that $x+y$, $x^{2}+y^{2}$, and $x^{3}+y^{3}$ are all perfect squares.","solutions":["Take $(x, y) = (184, 345)$. Then $x+y = 23^{2}$, $x^{2}+y^{2} = 391^{2}$, and $x^{3}+y^{3} = 6877^{2}$."],"images":[]});

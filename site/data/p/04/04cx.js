@@ -1,0 +1,1 @@
+__p({"id":"04cx","competition":"Mathematica competitions in Croatia","problem":"Let $x$ and $y$ be real numbers such that $x + y \\ge 0$. Prove that\n$$\n2^{n-1} (x^n + y^n) \\ge (x + y)^n \\quad \\text{for all } n \\in \\mathbb{N}.\n$$","solutions":[],"images":[]});

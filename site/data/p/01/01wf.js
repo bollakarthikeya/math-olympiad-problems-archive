@@ -1,0 +1,1 @@
+__p({"id":"01wf","competition":"69th Belarusian Mathematical Olympiad","problem":"Does there exist a positive integer $n$ which can be represented both as $n = a^2 - b$ and $n = b^2 - c$, where $a$, $b$, $c$ are three distinct divisors of $n$?","solutions":["Answer: no, such $n$ doesn't exist."],"images":[]});

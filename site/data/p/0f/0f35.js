@@ -1,0 +1,1 @@
+__p({"id":"0f35","competition":"ASU","problem":"A grasshopper hops about in the first quadrant $ (x, y \\geqslant 0) $. From $ (x, y) $ it can hop to $ (x + 1, y - 1) $ or to $ (x - 5, y + 7) $, but it can never leave the first quadrant. Find the set of points $ (x, y) $ from which it can never get further than a distance $1000$ from the origin.","solutions":[],"images":[]});

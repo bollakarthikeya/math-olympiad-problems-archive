@@ -1,0 +1,1 @@
+__p({"id":"0c4w","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"Find all the functions $f: \\mathbb{R} \\to \\mathbb{R}$ so that $f(x+y) = f(xy) + f(x) + f(y)$, for every $x, y \\in \\mathbb{R}$.","solutions":[],"images":[]});

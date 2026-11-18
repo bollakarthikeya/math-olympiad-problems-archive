@@ -1,0 +1,1 @@
+__p({"id":"0flo","competition":"Spanija 2012","problem":"Determine whether the number $\\lambda_n = \\sqrt{3n^2 + 2n + 2}$ is irrational for every non-negative integer $n$. Justify your answer.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"01ms","competition":"Belarusian Mathematical Olympiad","problem":"Points $M$ and $K$ are marked on the side $AB$ of the triangle $ABC$ so that $AM = MK$, $CM = CB$, $\\angle AKC = \\frac{1}{2} \\angle CAK + 90^\\circ$.\nFind $AC$ if $MB = 8$.","solutions":[],"images":[]});

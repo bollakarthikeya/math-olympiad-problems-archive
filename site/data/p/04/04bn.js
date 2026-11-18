@@ -1,0 +1,1 @@
+__p({"id":"04bn","competition":"Mathematica competitions in Croatia","problem":"Ante wrote all integers from $1$ to $40$ in a row without spacings, thus obtaining the multi-digit number $12345\\ldots383940$. Then he decided to erase $60$ digits of this number. What is the largest number Ante can get by doing this?","solutions":[],"images":[]});

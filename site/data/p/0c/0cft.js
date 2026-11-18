@@ -1,0 +1,1 @@
+__p({"id":"0cft","competition":"74th NMO Shortlisted Problems","problem":"Let $a$ and $b$ be two integers. Prove that the number:\n$$\n\\prod_{k=1}^{n-1} \\left( a^2 + b^2 + 1 - 2a \\cos \\frac{2k\\pi}{n} - 2b \\sin \\frac{2k\\pi}{n} \\right)\n$$\nis a positive integer and it can be written as the sum of two perfect squares.","solutions":[],"images":[]});

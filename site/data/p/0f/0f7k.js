@@ -1,0 +1,1 @@
+__p({"id":"0f7k","competition":"21st ASU","problem":"Players take turns in choosing numbers from the set $\\{1, 2, 3, \\ldots, n\\}$. Once $m$ has been chosen, no divisor of $m$ may be chosen. The first player unable to choose a number loses. Who has a winning strategy for $n = 10$? For $n = 1000$?","solutions":[],"images":[]});

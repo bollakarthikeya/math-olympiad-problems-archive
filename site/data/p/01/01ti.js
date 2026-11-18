@@ -1,0 +1,1 @@
+__p({"id":"01ti","competition":"66th Belarusian Mathematical Olympiad","problem":"Let $a$ and $b$ be positive integers such that $a!b!$ is a multiple of $a! + b!$.\nProve that $3a \\ge 2b + 2$.","solutions":["3. See IMO-2015 Shortlist, Problem N2."],"images":[]});

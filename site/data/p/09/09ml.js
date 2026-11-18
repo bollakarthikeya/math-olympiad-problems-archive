@@ -1,0 +1,1 @@
+__p({"id":"09ml","competition":"Mongolian Mathematical Olympiad","problem":"Let $\\{P_n(x)\\}_{n \\ge 0}$ be a sequence of polynomials given by $P_0(x) = 0$ and\n$$\nP_{n+1}(x) = P_n(x) + \\frac{x - P_n(x)^2}{2}\n$$\nfor $n \\ge 0$. Prove that\n$$\n|P_m(x) - P_n(x)| < \\frac{1}{n+1}\n$$\nfor all $m \\ge n \\ge 0$ and all $0 \\le x \\le 1$.","solutions":[],"images":[]});

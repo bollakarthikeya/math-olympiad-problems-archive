@@ -1,0 +1,1 @@
+__p({"id":"0amd","competition":"AREA STAGE","problem":"There are 100 people in a room. 60 of them claim to be good at math, but only 50 are actually good at math. If 30 of them correctly deny that they are good at math, how many people are good at math but refuse to admit it?","solutions":[],"images":[]});

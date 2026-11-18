@@ -1,0 +1,1 @@
+__p({"id":"0kgm","competition":"AMC 12 A","problem":"The base-nine representation of the number $N$ is 27,006,000,052$_{nine}$. What is the remainder when $N$ is divided by 5?\n(A) 0 (B) 1 (C) 2 (D) 3 (E) 4","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0b9z","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"Let $(K, +, \\cdot)$ be a finite field. Prove that:\na) if $K$ has $4k+1$ elements, then the polynomial $f = X^4 + 4$ has four roots in $K$;\nb) the polynomial $g = X^8 - 16$ has at least a root in $K$.","solutions":[],"images":[]});

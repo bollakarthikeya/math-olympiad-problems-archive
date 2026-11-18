@@ -1,0 +1,1 @@
+__p({"id":"0f8p","competition":"23rd ASU","problem":"$ABCD$ is a convex quadrilateral. $X$ lies on the segment $AB$ with $AX/XB = m/n$. $Y$ lies on the segment $CD$ with $CY/YD = m/n$. $AY$ and $DX$ intersect at $P$, and $BY$ and $CX$ intersect at $Q$. Show that $$\\frac{\\text{area } XQYP}{\\text{area } ABCD} < \\frac{mn}{m^2 + mn + n^2}.$$","solutions":[],"images":[]});

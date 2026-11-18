@@ -1,0 +1,1 @@
+__p({"id":"040r","competition":"China Western Invitational Mathematical Competition","problem":"Sequence $\\{a_n\\}$ is defined by:\n$$\na_0 = \\frac{1}{2},\\ a_{n+1} = a_n + \\frac{a_n^2}{2012},\\ n = 0, 1, \\dots\n$$\n\nFind the integer $k$ such that $a_k < 1 < a_{k+1}$.","solutions":[],"images":[]});

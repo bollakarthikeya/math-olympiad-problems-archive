@@ -1,0 +1,1 @@
+__p({"id":"06gr","competition":"Year 2012","problem":"In $\\triangle ABC$, $\\angle A = 30^\\circ$ and $AB = 4$. $D$ is the midpoint of $AB$. Determine the maximum possible value of $\\tan \\angle DCB$.","solutions":[],"images":[]});

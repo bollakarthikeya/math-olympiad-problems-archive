@@ -1,0 +1,1 @@
+__p({"id":"0b4k","competition":"25th Philippine Mathematical Olympiad Area Stage","problem":"The product of all real numbers $x$ satisfying $x^{2+\\log_{3}(9x)} = \\frac{2187}{x^{2}}$ can be written in the form $p/q$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$.","solutions":[],"images":[]});

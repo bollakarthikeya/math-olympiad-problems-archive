@@ -1,0 +1,1 @@
+__p({"id":"0ape","competition":"Tenth Philippine Mathematical Olympiad","problem":"If $f(x+y)=f(x) \\cdot f(y)$ for all positive integers $x, y$ and $f(1)=2$, find $f(2007)$.","solutions":["$2^{2007}$\n\nBy induction, it can be shown that $f(n) = [f(1)]^{n} = 2^{n}$ for all positive integers $n$. Thus, $f(2007) = 2^{2007}$."],"images":[]});

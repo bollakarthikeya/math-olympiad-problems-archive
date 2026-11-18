@@ -1,0 +1,1 @@
+__p({"id":"0e3r","competition":"Selection Examinations for the IMO","problem":"Find all pairs of positive integers $m$ and $n$, such that $\\frac{m^2 n}{m^2 + n}$ is a prime number.","solutions":[],"images":[]});

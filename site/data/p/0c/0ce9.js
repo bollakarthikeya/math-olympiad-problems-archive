@@ -1,0 +1,1 @@
+__p({"id":"0ce9","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Find all integers $n \\ge 2$ so there exists a finite field $\\mathbb{K}$ with $n$ elements, with the property: for every $x \\in \\mathbb{K}$ there exists $y \\in \\mathbb{K}$ such that $x^2 = y^3$.","solutions":[],"images":[]});

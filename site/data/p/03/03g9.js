@@ -1,0 +1,1 @@
+__p({"id":"03g9","competition":"Canadian Mathematical Olympiad","problem":"Determine which of the two numbers $\\sqrt{c+1}-\\sqrt{c}$, $\\sqrt{c}-\\sqrt{c-1}$ is greater for any $c \\geq 1$.","solutions":[],"images":[]});

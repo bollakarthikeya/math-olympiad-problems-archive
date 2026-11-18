@@ -1,0 +1,1 @@
+__p({"id":"0aaj","competition":"Fourth Memorial Mathematical Contest","problem":"Let $a, b, c, d$ be integers. Prove that for any positive integer $n$, at least $\\lfloor \\frac{n}{4} \\rfloor$ positive integers $m \\le n$ are such that $m^5 + d m^4 + c m^3 + b m^2 + 2021 m + a$ is not a perfect square.","solutions":[],"images":[]});

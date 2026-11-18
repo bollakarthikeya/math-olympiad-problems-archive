@@ -1,0 +1,1 @@
+__p({"id":"04hy","competition":"Croatia Mathematical Competitions","problem":"The area of the intersection of a smaller and larger square equals two thirds of the area of the smaller square, as well as one fifth of the area of their union. Determine the ratio of the sides of the smaller and larger square.\n(Andrea Aglić-Aljinović)","solutions":[],"images":[]});

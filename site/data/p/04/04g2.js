@@ -1,0 +1,1 @@
+__p({"id":"04g2","competition":"Mathematica competitions in Croatia","problem":"Let $n$ be a positive integer and let $S$ be the sum of all integers from $1$ to $n$. Prove that $S + 1$ is not divisible by $3$. (Ilko Brnetić)","solutions":[],"images":[]});

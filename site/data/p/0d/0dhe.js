@@ -1,0 +1,1 @@
+__p({"id":"0dhe","competition":"Saudi Arabian IMO Booklet","problem":"A quadrilateral $ABCD$ is inscribed inside a circle and $AD \\perp CD$. Draw $BE \\perp AC$ at $E$ and $BF \\perp AD$ at $F$. Show that the line $EF$ passes through the midpoint of the line segment $BD$.","solutions":[],"images":[]});

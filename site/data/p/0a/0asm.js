@@ -1,0 +1,1 @@
+__p({"id":"0asm","competition":"Philippines Mathematical Olympiad","problem":"If the parabola $y+1 = x^{2}$ is rotated clockwise by $90^{\\circ}$ about its focus, what will be the new coordinates of its vertex?","solutions":["$\\left(-\\frac{3}{4}, -\\frac{1}{4}\\right)$"],"images":[]});

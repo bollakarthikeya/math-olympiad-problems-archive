@@ -1,0 +1,1 @@
+__p({"id":"0ata","competition":"Philippine Mathematical Olympiad","problem":"Find the number of ordered triples $(x, y, z)$ of positive integers satisfying $(x+y)^z = 64$.","solutions":[],"images":[]});

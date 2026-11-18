@@ -1,0 +1,1 @@
+__p({"id":"0amr","competition":"Qualifying Round","problem":"How many positive integer pairs $x, y$ satisfy $\\sqrt{x} + \\sqrt{y} = \\sqrt{600}$?\n\n(a) 8\n(b) 7\n(c) 6\n(d) 5","solutions":[],"images":[]});

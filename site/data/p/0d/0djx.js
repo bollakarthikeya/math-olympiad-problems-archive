@@ -1,0 +1,1 @@
+__p({"id":"0djx","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Do there exist $100$ points on the plane such that the pairwise distances between them are pairwise distinct consecutive integer numbers larger than $2022$?","solutions":[],"images":[]});

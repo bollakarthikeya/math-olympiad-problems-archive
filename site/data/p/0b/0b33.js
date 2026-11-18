@@ -1,0 +1,1 @@
+__p({"id":"0b33","competition":"23rd Philippine Mathematical Olympiad Qualifying Stage","problem":"Find the sum of all $k$ for which $x^{5} + k x^{4} - 6 x^{3} - 15 x^{2} - 8 k^{3} x - 12 k + 21$ leaves a remainder of $23$ when divided by $x + k$.\n(a) $-1$\n(b) $-\\frac{3}{4}$\n(c) $\\frac{5}{8}$\n(d) $\\frac{3}{4}$","solutions":[],"images":[]});

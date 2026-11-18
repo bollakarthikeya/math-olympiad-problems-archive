@@ -1,0 +1,1 @@
+__p({"id":"04er","competition":"Mathematica competitions in Croatia","problem":"Determine all positive integers $n$ such that\n$$\n\\lfloor \\sqrt[4]{1} \\rfloor + \\lfloor \\sqrt[4]{2} \\rfloor + \\dots + \\lfloor \\sqrt[4]{n} \\rfloor = \\frac{3}{2}n + 1.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09os","competition":"MMO2025 Round 3","problem":"An olympiad committee held $20$ meetings, each attended by exactly $5$ members. No pair of members attended more than one meeting together. What is the minimum possible number of committee members?","solutions":[],"images":[]});

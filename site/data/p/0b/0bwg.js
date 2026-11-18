@@ -1,0 +1,1 @@
+__p({"id":"0bwg","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Let $x, y, z$ be positive real numbers such that $\\frac{(x+y)(y+z)(z+x)}{xyz} = 9$. Show that $31.25 \\le \\frac{(x+y+z)^3}{xyz} \\le 32$.","solutions":[],"images":[]});

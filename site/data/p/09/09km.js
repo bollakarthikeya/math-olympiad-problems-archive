@@ -1,0 +1,1 @@
+__p({"id":"09km","competition":"Mongolian Mathematical Olympiad","problem":"Show that every positive integer $n$ can be expressed as a sum of positive integers, where the sum of their reciprocals is less than or equal to $4$. For instance, as $5 = 2 + 2 + 1$, we find that $1/2 + 1/2 + 1/1 = 2 \\le 4$.","solutions":[],"images":[]});

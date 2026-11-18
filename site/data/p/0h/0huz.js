@@ -1,0 +1,1 @@
+__p({"id":"0huz","competition":"","problem":"Some people like to write with larger pencils than others. Ed, for instance, likes to write with the longest pencils he can find. However, the halls of MIT are of limited height $L$ and width $L$. What is the longest pencil Ed can bring through the halls so that he can negotiate a square turn?","solutions":["$3L$."],"images":[]});

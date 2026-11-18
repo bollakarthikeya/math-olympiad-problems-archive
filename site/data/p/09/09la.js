@@ -1,0 +1,1 @@
+__p({"id":"09la","competition":"Mongolian Mathematical Olympiad","problem":"Prove that, when a crooked dice is thrown twice, the probability of obtaining the same parity faces on both rolls is not less than the probability of obtaining different parity faces on the two rolls.","solutions":[],"images":[]});

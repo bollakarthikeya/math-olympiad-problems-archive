@@ -1,0 +1,1 @@
+__p({"id":"0asw","competition":"Philippines Mathematical Olympiad","problem":"For each positive integer $n$, let $S_{n}$ be the sum of the infinite geometric series whose first term is $n$ and whose common ratio is $\\frac{1}{n+1}$. Determine the least value of $n$ such that\n$$\nS_{1}+S_{2}+\\cdots+S_{n}>5150\n$$","solutions":["101"],"images":[]});

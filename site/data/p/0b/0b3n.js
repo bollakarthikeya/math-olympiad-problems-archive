@@ -1,0 +1,1 @@
+__p({"id":"0b3n","competition":"24th Philippine Mathematical Olympiad","problem":"How many five-digit numbers containing each of the digits $1,2,3,4,5$ exactly once are divisible by $24$?\n(a) 8\n(b) 10\n(c) 12\n(d) 20","solutions":[],"images":[]});

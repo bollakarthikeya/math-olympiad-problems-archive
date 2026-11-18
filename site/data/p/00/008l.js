@@ -1,0 +1,1 @@
+__p({"id":"008l","competition":"XXIX Olimpíada Matemática Argentina National Round","problem":"Determine all the natural numbers $n$ for which there are $2n$ different positive integers $x_1, \\dots, x_n, y_1, \\dots, y_n$ such that the product\n$$\n(11x_1^2 + 12y_1^2)(11x_2^2 + 12y_2^2) \\dots (11x_n^2 + 12y_n^2)\n$$\nis a perfect square.","solutions":[],"images":[]});

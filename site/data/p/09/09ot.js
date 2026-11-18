@@ -1,0 +1,1 @@
+__p({"id":"09ot","competition":"MMO2025 Round 2","problem":"Determine the number of ways to color cells in a $3 \\times 61$ grid such that every $2 \\times 2$ subgrid contains exactly one colored cell.","solutions":[],"images":[]});

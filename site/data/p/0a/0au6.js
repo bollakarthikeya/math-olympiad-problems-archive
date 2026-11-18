@@ -1,0 +1,1 @@
+__p({"id":"0au6","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"The product of the two roots of $\\sqrt{2014}\\, x^{\\log_{2014} x} = x^{2014}$ is an integer. Find its units digit.","solutions":[],"images":[]});

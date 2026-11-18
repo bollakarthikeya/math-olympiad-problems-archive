@@ -1,0 +1,1 @@
+__p({"id":"09k1","competition":"Mongolian Mathematical Olympiad","problem":"Let $p$, $q$, $r$ be prime numbers such that $p < q < r$ and at least two of $p+n$, $q+n$, $r+n$ are relatively prime for any positive integer $n$. Find all possible values of the pair $(p, q)$.","solutions":[],"images":[]});

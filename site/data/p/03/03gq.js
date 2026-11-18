@@ -1,0 +1,1 @@
+__p({"id":"03gq","competition":"Canadian Mathematical Olympiad","problem":"a) Find all positive integers with initial digit $6$ such that the integer formed by deleting this $6$ is $1/25$ of the original integer.\n\nb) Show that there is no integer such that deletion of the first digit produces a result which is $1/35$ of the original integer.","solutions":[],"images":[]});

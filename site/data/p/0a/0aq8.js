@@ -1,0 +1,1 @@
+__p({"id":"0aq8","competition":"12th Philippine Mathematical Olympiad - Area Stage","problem":"If $a = 2^{-1}$ and $b = \\frac{2}{3}$, what is the value of $\\left(a^{-1} + b^{-1}\\right)^{-2}$?","solutions":[],"images":[]});

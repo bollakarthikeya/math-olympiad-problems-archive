@@ -1,0 +1,1 @@
+__p({"id":"0f4q","competition":"16th ASU","problem":"A real number is assigned to each unit square in an infinite sheet of squared paper. Show that some cell contains a number that is less than or equal to at least four of its eight neighbors.","solutions":[],"images":[]});

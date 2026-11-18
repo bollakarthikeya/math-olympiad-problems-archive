@@ -1,0 +1,1 @@
+__p({"id":"03kh","competition":"Canadian Mathematical Olympiad","problem":"Let $f(x) = \\frac{9^{x}}{9^{x} + 3}$. Evaluate the sum\n$$\nf\\left(\\frac{1}{1996}\\right) + f\\left(\\frac{2}{1996}\\right) + f\\left(\\frac{3}{1996}\\right) + \\cdots + f\\left(\\frac{1995}{1996}\\right)\n$$","solutions":[],"images":[]});

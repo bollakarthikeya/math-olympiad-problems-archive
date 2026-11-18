@@ -1,0 +1,1 @@
+__p({"id":"03gk","competition":"Canadian Mathematical Olympiad","problem":"Let $ABC$ be an equilateral triangle, and $P$ be an arbitrary point within the triangle. Perpendiculars $PD$, $PE$, $PF$ are drawn to the three sides of the triangle. Show that, no matter where $P$ is chosen,\n$$\n\\frac{PD + PE + PF}{AB + BC + CA} = \\frac{1}{2\\sqrt{3}}\n$$","solutions":[],"images":[]});

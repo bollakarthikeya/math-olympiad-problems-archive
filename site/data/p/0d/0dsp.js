@@ -1,0 +1,1 @@
+__p({"id":"0dsp","competition":"Singapore International Mathematical Olympiad","problem":"Find all functions $f : \\mathbb{N} \\setminus \\{1\\} \\rightarrow \\mathbb{N}$ such that for all distinct $x, y \\in \\mathbb{N}$ with $y \\ge 2018$,\n$$\n\\gcd(f(x), y) \\cdot \\operatorname{lcm}(x, f(y)) = f(x)f(y)\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0d9e","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $a$, $b$, $c$ be positive real numbers such that $a + b + c = 6$. Prove that\n$$\n\\frac{1}{a^2 b + 16} + \\frac{1}{b^2 c + 16} + \\frac{1}{c^2 a + 16} \\geq \\frac{1}{8}\n$$","solutions":[],"images":[]});

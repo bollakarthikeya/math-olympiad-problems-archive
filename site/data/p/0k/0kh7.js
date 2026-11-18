@@ -1,0 +1,1 @@
+__p({"id":"0kh7","competition":"AMC 12 A","problem":"What is the number of terms with rational coefficients among the 1001 terms in the expansion of $$(x^{\\sqrt{3}} + y\\sqrt{3})^{1000}$$?\n(A) 0 (B) 166 (C) 167 (D) 500 (E) 501","solutions":[],"images":[]});

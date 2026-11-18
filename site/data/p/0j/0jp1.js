@@ -1,0 +1,1 @@
+__p({"id":"0jp1","competition":"HMMT November 2015","problem":"A parallelogram has 2 sides of length $20$ and $15$. Given that its area is a positive integer, find the minimum possible area of the parallelogram.","solutions":["Answer: $1$\nThe area of the parallelogram can be made arbitrarily small, so the smallest positive integer area is $1$."],"images":[]});

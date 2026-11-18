@@ -1,0 +1,1 @@
+__p({"id":"0i9k","competition":"Harvard-MIT Mathematics Tournament","problem":"Write down an integer $N$ between $0$ and $10$, inclusive. You will receive $N$ points unless some other team writes down the same $N$, in which case you receive nothing.","solutions":[],"images":[]});

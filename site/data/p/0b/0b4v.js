@@ -1,0 +1,1 @@
+__p({"id":"0b4v","competition":"25th Philippine Mathematical Olympiad Area Stage","problem":"Let $S$ be the sum of all positive integers less than $10^{6}$ which can be expressed as $m! + n!$, where $m$ and $n$ are nonnegative integers. Determine the last three digits of $S$.","solutions":[],"images":[]});

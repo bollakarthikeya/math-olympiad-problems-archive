@@ -1,0 +1,1 @@
+__p({"id":"0ep8","competition":"South African Mathematics Olympiad","problem":"The largest number below is\n(A) $2^3$ (B) $\\frac{15}{2}$ (C) $\\sqrt{81}$ (D) $4^2$ (E) $\\frac{31}{4}$","solutions":["Answer D.\nAfter simplification, the numbers are (A) $8$, (B) $7.5$, (C) $9$, (D) $16$, (E) $7.75$."],"images":[]});

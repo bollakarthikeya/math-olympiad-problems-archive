@@ -1,0 +1,1 @@
+__p({"id":"0bac","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"Given integers $n \\ge 3$ and $k \\ge 1$, find all positive integers $a_1 < a_2 < \\dots < a_n$ such that $\\frac{1}{a_1^k} + \\frac{1}{a_2^k} + \\dots + \\frac{1}{a_n^k} = 1$.","solutions":[],"images":[]});

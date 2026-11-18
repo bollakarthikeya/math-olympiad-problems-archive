@@ -1,0 +1,1 @@
+__p({"id":"0f5j","competition":"17th ASU","problem":"$M$ is the midpoint of $BC$. $E$ is any point on the side $AC$ and $F$ is any point on the side $AB$. Show that area $\\{MEF\\} \\leq$ area $\\{BMF\\} +$ area $CME$.","solutions":[],"images":[]});

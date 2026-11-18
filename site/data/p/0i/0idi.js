@@ -1,0 +1,1 @@
+__p({"id":"0idi","competition":"Harvard-MIT Mathematics Tournament","problem":"For $x > 0$, let $f(x) = x^{x}$. Find all values of $x$ for which $f(x) = f'(x)$.","solutions":["Let $g(x) = \\log f(x) = x \\log x$. Then $f'(x)/f(x) = g'(x) = 1 + \\log x$. Therefore $f(x) = f'(x)$ when $1 + \\log x = 1$, that is, when $x = 1$."],"images":[]});

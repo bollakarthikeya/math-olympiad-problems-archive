@@ -1,0 +1,1 @@
+__p({"id":"0b00","competition":"Philippines Mathematical Olympiad","problem":"If the sum of the first $22$ terms of an arithmetic progression is $1045$ and the sum of the next $22$ terms is $2013$, find the first term.","solutions":[],"images":[]});

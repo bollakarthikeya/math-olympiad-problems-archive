@@ -1,0 +1,1 @@
+__p({"id":"04gn","competition":"Mathematica competitions in Croatia","problem":"In a triangle $ABC$ bisector of the angle $\\angle ACB$ meets $\\overline{AB}$ at $D$. If $|CB| = |CD|$, $|AD| = 4$ and $|DB| = 3$, determine $|AC|$. (Hong Kong)","solutions":[],"images":[]});

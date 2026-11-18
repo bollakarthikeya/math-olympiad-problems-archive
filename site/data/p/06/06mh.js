@@ -1,0 +1,1 @@
+__p({"id":"06mh","competition":"IMO HK TST","problem":"Find all positive integers $n$ with the following property: the $k$ positive divisors of $n$ have a permutation $(d_1, d_2, \\dots, d_k)$ such that for every $i = 1, 2, \\dots, k$, the number $d_1 + d_2 + \\dots + d_i$ is a perfect square.","solutions":["2. (IMO Shortlist 2021 N3) See the official solution."],"images":[]});

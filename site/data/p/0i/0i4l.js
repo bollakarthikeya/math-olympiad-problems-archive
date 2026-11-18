@@ -1,0 +1,1 @@
+__p({"id":"0i4l","competition":"Harvard-MIT Math Tournament","problem":"Find the number of pentominoes (5-square polyominoes) that span a $3$-by-$3$ rectangle, where polyominoes that are flips or rotations of each other are considered the same polyomino.","solutions":["By enumeration, the answer is $6$."],"images":[]});

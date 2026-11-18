@@ -1,0 +1,1 @@
+__p({"id":"0aun","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"Two numbers $p$ and $q$ are both chosen randomly (and independently of each other) from the interval $[-2,2]$. Find the probability that $4x^{2}+4px+1-q^{2}=0$ has imaginary roots.","solutions":[],"images":[]});

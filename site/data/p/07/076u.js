@@ -1,0 +1,1 @@
+__p({"id":"076u","competition":"INMO-2017","problem":"Suppose $n \\ge 0$ is an integer and all the roots of $x^3 + \\alpha x + 4 - (2 \\times 2016^n) = 0$ are integers. Find all possible values of $\\alpha$.","solutions":[],"images":[]});

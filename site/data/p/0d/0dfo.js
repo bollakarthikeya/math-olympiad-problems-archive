@@ -1,0 +1,1 @@
+__p({"id":"0dfo","competition":"Saudi Arabian IMO Booklet","problem":"Let polynomial\n$$\nP(x) = \\underbrace{((\\dots((x-2)^2 - 2)^2 - \\dots)^2 - 2)^2}_{k \\text{ times}}\n$$\nis given. Find coefficient at $x^2$.","solutions":[],"images":[]});

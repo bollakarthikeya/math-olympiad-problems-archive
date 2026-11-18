@@ -1,0 +1,1 @@
+__p({"id":"0c2i","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Let $n$ be a positive integer and let $A$ be a matrix from $M_n(\\mathbb{C})$. Prove that $A^2 = O_n$ if and only if there exist two matrices $B$ and $C$ in $M_n(\\mathbb{C})$ so that $A = BC$ and $CB = O_n$.","solutions":[],"images":[]});

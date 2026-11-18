@@ -1,0 +1,1 @@
+__p({"id":"066g","competition":"Selection Examination B","problem":"Examine if the polynomial\n$$\nP(x) = (x^{2} - 2x + 5)(x^{2} - 4x + 20) + 1,\n$$\ncan be written as the product of two polynomials with integer coefficients of degree greater than 0.","solutions":[],"images":[]});

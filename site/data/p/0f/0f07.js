@@ -1,0 +1,1 @@
+__p({"id":"0f07","competition":"ASU","problem":"Given 50 segments on a line show that you can always find either 8 segments which are disjoint or 8 segments with a common point.","solutions":[],"images":[]});

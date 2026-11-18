@@ -1,0 +1,1 @@
+__p({"id":"0aol","competition":"Qualifying Round","problem":"Two die are made so that the chances of getting an even sum is twice that of getting an odd sum. What is the probability of getting an odd sum in a single roll of these two die?\n\n(a) $\\frac{1}{9}$\n(b) $\\frac{2}{9}$\n(c) $\\frac{4}{9}$\n(d) $\\frac{5}{9}$","solutions":[],"images":[]});

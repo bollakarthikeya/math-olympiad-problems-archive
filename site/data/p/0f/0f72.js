@@ -1,0 +1,1 @@
+__p({"id":"0f72","competition":"20th ASU","problem":"Two equal squares, one with blue sides and one with red sides, intersect to give an octagon with sides alternately red and blue. Show that the sum of the octagon's red side lengths equals the sum of its blue side lengths.","solutions":[],"images":[]});

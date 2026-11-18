@@ -1,0 +1,1 @@
+__p({"id":"0b3x","competition":"24th Philippine Mathematical Olympiad","problem":"Let $\\omega \\neq -1$ be a complex root of $x^{3}+1=0$. What is the value of $1+2 \\omega+3 \\omega^{2}+4 \\omega^{3}+5 \\omega^{4}$?\n(a) 3\n(b) -4\n(c) 5\n(d) -6","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f2n","competition":"ASU","problem":"Let $n > 3$ be an integer. Let $S$ be the set of lattice points $(a, b)$ with $0 \\leq a, b < n$. Show that we can choose $n$ points of $S$ so that no three chosen points are collinear and no four chosen points form a parallelogram.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f9o","competition":"24th ASU","problem":"A game is played in three moves. The first player picks any real number, then the second player makes it the coefficient of a cubic, except that the coefficient of $x^{3}$ is already fixed at $1$. Can the first player make his choices so that the final cubic has three distinct integer roots?","solutions":[],"images":[]});

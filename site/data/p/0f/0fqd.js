@@ -1,0 +1,1 @@
+__p({"id":"0fqd","competition":"SPANISH MATHEMATICAL OLYMPIAD (FINAL ROUND)","problem":"A set $T$ of integers is called *orensano* if there are integers $a < b < c$ such that $a, c \\in T$ and $b \\notin T$.\nFind the number of orensanos subsets $T$ of $\\{1, 2, \\dots, 2019\\}$.","solutions":[],"images":[]});

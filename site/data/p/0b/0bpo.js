@@ -1,0 +1,1 @@
+__p({"id":"0bpo","competition":"67th NMO Shortlisted Problems","problem":"a) Prove that $2^n + 3^n + 5^n + 8^n$ is not a perfect square for any positive integer $n$.\n\nb) Find all positive integers $n$ so that $1^n + 4^n + 6^n + 7^n = 2^n + 3^n + 5^n + 8^n$.","solutions":[],"images":[]});

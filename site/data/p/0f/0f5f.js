@@ -1,0 +1,1 @@
+__p({"id":"0f5f","competition":"17th ASU","problem":"$x$ is a real. The decimal representation of $x$ includes all the digits at least once. Let $f(n)$ be the number of distinct $n$-digit segments in the representation. Show that if for some $n$ we have $f(n) \\leq n + 8$, then $x$ is rational.","solutions":[],"images":[]});

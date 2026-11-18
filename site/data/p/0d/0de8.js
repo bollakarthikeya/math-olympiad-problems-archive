@@ -1,0 +1,1 @@
+__p({"id":"0de8","competition":"Saudi Arabian Mathematical Competitions","problem":"Prove that the set of all divisors of a positive integer which is not a perfect square can be divided into pairs so that in each pair, one number is divided by another.","solutions":[],"images":[]});

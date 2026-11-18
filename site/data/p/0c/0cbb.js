@@ -1,0 +1,1 @@
+__p({"id":"0cbb","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"For a positive integer $n$, denote $s(n)$ the sum of its odd digits. For instance, $s(512418) = 5 + 1 + 1 = 7$ and $s(82624) = 0$.\nCompute $s(1) + s(2) + s(3) + \\dots + s(2023)$.","solutions":[],"images":[]});

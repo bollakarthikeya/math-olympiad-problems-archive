@@ -1,0 +1,1 @@
+__p({"id":"0bhq","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Find all polynomials $P, Q$ with rational coefficients, with the property that the polynomial $P + aQ$ is irreducible for every rational $a$.","solutions":[],"images":[]});

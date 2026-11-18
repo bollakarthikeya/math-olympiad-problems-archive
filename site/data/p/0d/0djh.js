@@ -1,0 +1,1 @@
+__p({"id":"0djh","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Let $f: \\mathbb{R} \\to \\mathbb{R}$ be a function such that $f(0) = 0$ and\n$$\n2f\\left(-\\frac{1}{2}xy + f(x + y)\\right) = x f(y) + y f(x)\n$$\nfor all $x, y \\in \\mathbb{R}$. Prove that $f(2) = f(-2) = 0$.","solutions":[],"images":[]});

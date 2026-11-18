@@ -1,0 +1,1 @@
+__p({"id":"0f4h","competition":"15th ASU","problem":"$ABCD$ is a convex quadrilateral. $K$ is the midpoint of $AB$ and $M$ is the midpoint of $CD$. $L$ lies on the side $BC$ and $N$ lies on the side $AD$. $KLMN$ is a rectangle. Show that its area is half that of $ABCD$.","solutions":[],"images":[]});

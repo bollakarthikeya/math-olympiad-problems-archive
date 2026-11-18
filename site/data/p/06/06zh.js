@@ -1,0 +1,1 @@
+__p({"id":"06zh","competition":"Iberoamerican Mathematical Olympiad","problem":"Two perpendicular lines divide a square into four parts, three of which have area $1$. Show that the fourth part also has area $1$.","solutions":[],"images":[]});

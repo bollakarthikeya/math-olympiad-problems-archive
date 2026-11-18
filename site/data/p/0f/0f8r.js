@@ -1,0 +1,1 @@
+__p({"id":"0f8r","competition":"23rd ASU","problem":"An insect is on a square ceiling side $1$. The insect can jump to the midpoint of the segment joining it to any of the four corners of the ceiling. Show that in $8$ jumps it can get to within $1/100$ of any chosen point on the ceiling.","solutions":[],"images":[]});

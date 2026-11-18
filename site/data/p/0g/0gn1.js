@@ -1,0 +1,1 @@
+__p({"id":"0gn1","competition":"Team Selection Examination for the International Mathematical Olympiad","problem":"Show that\n$$\n\\frac{27}{4}(x+y)(y+z)(z+x) \\geq (\\sqrt{x+y}+\\sqrt{y+z}+\\sqrt{z+x})^2 \\geq 6\\sqrt{3}\n$$\nfor any positive real numbers $x$, $y$, $z$ with $xy + yz + zx = 1$.","solutions":[],"images":[]});

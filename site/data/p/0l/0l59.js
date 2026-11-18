@@ -1,0 +1,1 @@
+__p({"id":"0l59","competition":"AIME II","problem":"There are exactly three positive real numbers $k$ such that the function\n$$\nf(x) = \\frac{(x - 18)(x - 72)(x - 98)(x - k)}{x}\n$$\ndefined over the positive real numbers $x$ achieves its minimum value at exactly two positive real numbers $x$. Find the sum of these three values of $k$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f4w","competition":"16th ASU","problem":"$N$ is a sum of $n$ powers of $2$. If $N$ is divisible by $2^{m} - 1$, prove that $n \\geq m$. Does there exist a number divisible by $11\\ldots1$ (that is, $m$ $1$s) which has the sum of its digits less than $m$?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0apo","competition":"Tenth Philippine Mathematical Olympiad","problem":"Find the smallest positive integer $x$ such that the sum of $x, x+3, x+6, x+9$, and $x+12$ is a perfect cube.","solutions":["19\n$$\nx + (x+3) + (x+6) + (x+9) + (x+12) = 5x + 30 = 5(x+6)\n$$\nTo make up the least possible cube, we must have $x+6 = 5^{2}$ or $x = 19$."],"images":[]});

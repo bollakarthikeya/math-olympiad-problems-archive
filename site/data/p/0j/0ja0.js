@@ -1,0 +1,1 @@
+__p({"id":"0ja0","competition":"HMMT November 2012","problem":"If $x^{x} = 2012^{2012^{2013}}$, find $x$.","solutions":["Answer: $2012^{2012}$\nWe have\n$$\n2012^{2012^{2013}} = 2012^{2012 \\cdot 2012^{2012}} = \\left(2012^{2012}\\right)^{2012^{2012}}.\n$$\nThus, $x = 2012^{2012}$."],"images":[]});

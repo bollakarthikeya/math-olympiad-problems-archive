@@ -1,0 +1,1 @@
+__p({"id":"0c1z","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Let $f: \\mathbb{R} \\to \\mathbb{R}$ be a function which has the Darboux property. Prove that if $f$ is injective on the set of irrational numbers, then $f$ is continuous on $\\mathbb{R}$.","solutions":[],"images":[]});

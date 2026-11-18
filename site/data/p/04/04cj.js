@@ -1,0 +1,1 @@
+__p({"id":"04cj","competition":"Mathematica competitions in Croatia","problem":"Find all solutions of the equation $m! + 2 = n^2$, where $m$ and $n$ are positive integers.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"01nj","competition":"Belorusija 2012","problem":"Determine all pairs of functions $f, g$, $f : \\mathbb{R} \\to \\mathbb{R}$, $g : \\mathbb{R} \\to \\mathbb{R}$, that satisfy the equality\n$$\ng(f(x + y)) = f(x) + (2x + y)g(y)\n$$\nfor all real $x, y$.","solutions":[],"images":[]});

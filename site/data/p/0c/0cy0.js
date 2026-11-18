@@ -1,0 +1,1 @@
+__p({"id":"0cy0","competition":"SAMC","problem":"Let $a$, $b$, $c$ be positive real numbers such that $a b c = 8$. Prove that\n$$\n\\frac{a-2}{a+1} + \\frac{b-2}{b+1} + \\frac{c-2}{c+1} \\leq 0.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09u1","competition":"Junior Mathematical Olympiad, September 2019","problem":"We compute the square of each of the numbers from $1$ to $2019$. We take the last digit from each of the resulting squares, and then we add those $2019$ digits together.\nWhat number do we get?","solutions":["9090"],"images":[]});

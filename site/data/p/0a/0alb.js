@@ -1,0 +1,1 @@
+__p({"id":"0alb","competition":"QUALIFYING STAGE","problem":"$ABCD$ is a trapezoid with $AB \\parallel CD$, $AB = 6$ and $CD = 15$. If the area of $\\triangle AED = 30$, what is the area of $\\triangle AEB$?\n\n![](attached_image_1.png)\n\n(a) 20\n(b) $40/7$\n(c) 12\n(d) $8/3$","solutions":[],"images":["img/0alb_1.jpg"]});

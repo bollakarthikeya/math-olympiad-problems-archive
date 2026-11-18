@@ -1,0 +1,1 @@
+__p({"id":"0api","competition":"Tenth Philippine Mathematical Olympiad","problem":"Simplify: $(x-1)^{4} + 4(x-1)^{3} + 6(x-1)^{2} + 4(x-1) + 1$.","solutions":["$$(x-1)^{4} + 4(x-1)^{3} + 6(x-1)^{2} + 4(x-1) + 1 = [(x-1) + 1]^{4} = x^{4}$$"],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04nh","competition":"Croatia_2018","problem":"Let $n$ be a positive integer. A sequence of $2n$ real numbers is good if for each positive integer $1 \\le m \\le 2n$ the sum of first $m$ or the sum of last $m$ terms of the sequence is an integer. Determine the least possible number of integers in a good sequence. (The Netherlands 2017)","solutions":[],"images":[]});

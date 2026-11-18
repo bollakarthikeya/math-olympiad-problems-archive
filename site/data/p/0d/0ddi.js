@@ -1,0 +1,1 @@
+__p({"id":"0ddi","competition":"Saudi Arabian Mathematical Competitions","problem":"Let $ABC$ be a triangle with $AB < AC$ and incircle $(I)$ tangent to $BC$ at $D$. Take $K$ on $AD$ such that $CD = CK$. Suppose that $AD$ cuts $(I)$ at $G$ and $BG$ cuts $CK$ at $L$. Prove that $K$ is the midpoint of $CL$.","solutions":[],"images":[]});

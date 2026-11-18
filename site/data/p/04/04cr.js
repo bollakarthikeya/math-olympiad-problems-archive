@@ -1,0 +1,1 @@
+__p({"id":"04cr","competition":"Mathematica competitions in Croatia","problem":"Let $a$, $b$ and $c$ be the lengths of sides of a triangle with area $P$. Prove that $P < \\frac{1}{6}(a^2 + b^2 + c^2)$.","solutions":[],"images":[]});

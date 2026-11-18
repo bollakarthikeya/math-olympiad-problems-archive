@@ -1,0 +1,1 @@
+__p({"id":"04ui","competition":"First Round","problem":"Let $ABCD$ be a trapezoid ($AB \\parallel CD$) and denote $P = BC \\cap AD$. Let $k_1, k_2$ be circles with diameters $BC, AD$, respectively, and denote $P = BC \\cap AD$. Prove that the tangents from $P$ to $k_1$ form the same angle as the tangents from $P$ to $k_2$. (Patrik Bak)","solutions":[],"images":[]});

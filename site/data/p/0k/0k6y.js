@@ -1,0 +1,1 @@
+__p({"id":"0k6y","competition":"HMMT February 2019","problem":"Let $N=2^{\\left(2^{2}\\right)}$ and $x$ be a real number such that $N^{\\left(N^{N}\\right)}=2^{\\left(2^{x}\\right)}$. Find $x$.","solutions":["We compute\n$$\nN^{\\left(N^{N}\\right\\)}=16^{16^{16}}=2^{4 \\cdot 2^{4 \\cdot 2^{4}}}=2^{2^{2^{6}+2}}=2^{2^{66}}\n$$\nso $x=66$."],"images":[]});

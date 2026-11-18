@@ -1,0 +1,1 @@
+__p({"id":"09lt","competition":"Mongolian Mathematical Olympiad","problem":"A grandmother has 21 bags filled with candies. Her grandson Bob can ask his grandma for the sum of any two bags and always gets the exact number. Is it possible for Bob to determine exactly how many candies his grandma has with only 12 questions?","solutions":[],"images":[]});

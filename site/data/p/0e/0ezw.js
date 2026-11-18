@@ -1,0 +1,1 @@
+__p({"id":"0ezw","competition":"ASU","problem":"The real numbers $a$, $b$, $A$, $B$ satisfy $$(B - b)^2 < (A - a)(Ba - Ab).$$ Show that the quadratics $x^2 + ax + b = 0$ and $x^2 + Ax + B = 0$ have real roots and between the roots of each there is a root of the other.","solutions":[],"images":[]});

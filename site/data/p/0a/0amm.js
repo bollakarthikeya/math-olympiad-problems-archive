@@ -1,0 +1,1 @@
+__p({"id":"0amm","competition":"AREA STAGE","problem":"Find the value/s of $k$ so that the inequality $k\\left(x^{2}+6x-k\\right)\\left(x^{2}+x-12\\right)>0$ has solution set $(-4,3)$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"08i6","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Calculate the sum\n$$\n\\frac{2^{4}+2^{2}+1}{2^{7}-2}+\\frac{3^{4}+3^{2}+1}{3^{7}-3}+\\ldots+\\frac{2003^{4}+2003^{2}+1}{2003^{7}-2003}+\\frac{1}{2 \\cdot 2003 \\cdot 2004}\n$$","solutions":[],"images":[]});

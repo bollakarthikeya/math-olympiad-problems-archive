@@ -1,0 +1,1 @@
+__p({"id":"01mq","competition":"Belarusian Mathematical Olympiad","problem":"Prove that if positive numbers $a$, $b$, $c$, $k$, $l$, $m$ satisfy the inequalities $abc \\ge ka + lb + mc$, then they satisfy the inequality\n$$\na + b + c \\ge \\sqrt{3}(\\sqrt{k} + \\sqrt{l} + \\sqrt{m}).\n$$","solutions":[],"images":[]});

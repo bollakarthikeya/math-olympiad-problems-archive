@@ -1,0 +1,1 @@
+__p({"id":"04on","competition":"Croatian Mathematical Society Competitions","problem":"Prove that positive real numbers $x$ and $y$ such that\n$$(x^3 + y^3)(x^2 + y^2) = 2(x + y) = 2$$\ndo not exist. (Tamara Srnec)","solutions":[],"images":[]});

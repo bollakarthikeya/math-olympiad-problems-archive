@@ -1,0 +1,1 @@
+__p({"id":"06hp","competition":"HONG KONG PRELIMINARY SELECTION CONTEST","problem":"Let $[x]$ denote the greatest integer not exceeding $x$. Find the last three digits of $[(\\sqrt[3]{5}+2)^{2014} + (\\sqrt[3]{5}-2)^{2014}]$.\n\n設 $[x]$ 表示不超過 $x$ 的最大整數。求 $[(\\sqrt[3]{5}+2)^{2014} + (\\sqrt[3]{5}-2)^{2014}]$ 的最後三位數字。","solutions":[],"images":[]});

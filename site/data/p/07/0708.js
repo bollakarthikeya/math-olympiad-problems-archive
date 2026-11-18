@@ -1,0 +1,1 @@
+__p({"id":"0708","competition":"Iberoamerican Mathematical Olympiad","problem":"The incircle of the triangle $ABC$ touches the sides $BC$, $CA$, $AB$ at $D$, $E$, $F$ respectively. $AD$ meets the circle again at $X$ and $AX = XD$. $BX$ meets the circle again at $Y$ and $CX$ meets the circle again at $Z$. Show that $EY = FZ$.","solutions":[],"images":[]});

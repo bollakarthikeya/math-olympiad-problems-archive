@@ -1,0 +1,1 @@
+__p({"id":"0ery","competition":"South African Mathematics Olympiad Second Round","problem":"Jess is standing in a queue of people. She is 18th from the front and 35th from the back.\nHow many people are in the queue?","solutions":["There are $17$ people in front of Jess and $34$ behind her. Including herself this makes $17 + 1 + 34 = 52$ people."],"images":[]});

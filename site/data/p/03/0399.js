@@ -1,0 +1,1 @@
+__p({"id":"0399","competition":"First selection test for IMO 2007, Vietnam","problem":"Let $A_1A_2A_3A_4A_5$ be a convex pentagon such that $S_{A_1A_2A_3} = S_{A_2A_3A_4} = S_{A_3A_4A_5} = S_{A_4A_5A_1} = S_{A_5A_1A_2}$. Prove that there exists a point $M$ such that $S_{A_1MA_2} = S_{A_2MA_3} = S_{A_3MA_4} = S_{A_4MA_5} = S_{A_5MA_1}$.","solutions":[],"images":[]});

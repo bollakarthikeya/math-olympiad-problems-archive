@@ -1,0 +1,1 @@
+__p({"id":"0f0e","competition":"ASU","problem":"A $7$-gon is inscribed in a circle. The center of the circle lies inside the $7$-gon. $A$, $B$, $C$ are adjacent vertices of the $7$-gon. Show that the sum of the angles at $A$, $B$, $C$ is less than $450$ degrees.","solutions":[],"images":[]});

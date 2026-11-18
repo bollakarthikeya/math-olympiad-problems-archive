@@ -1,0 +1,1 @@
+__p({"id":"04lb","competition":"Mathematical competitions in Croatia","problem":"Let $\\triangle ABC$ be an acute-angled triangle with $\\angle BAC = 75^\\circ$. Let $P$ be the midpoint of the side $\\overline{BC}$, and let $M$ and $N$ be the feet of the altitudes from vertices $B$ and $C$ respectively. Determine the angle $\\angle MPN$.","solutions":[],"images":[]});

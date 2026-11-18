@@ -1,0 +1,1 @@
+__p({"id":"03ju","competition":"Canadian Mathematical Olympiad","problem":"A set of $\\frac{1}{2} n(n+1)$ distinct numbers is arranged at random in a triangular array:\n![](attached_image_1.png)\nLet $M_{k}$ be the largest number in the $k$-th row from the top. Find the probability that\n$$\nM_{1}<M_{2}<M_{3}<\\cdots<M_{n}\n$$","solutions":[],"images":["img/03ju_1.jpg"]});

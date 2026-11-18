@@ -1,0 +1,1 @@
+__p({"id":"0hl5","competition":"","problem":"A beaver walks from $(0,0)$ to $(4,4)$ in the plane, walking one unit in the positive $x$ direction or one unit in the positive $y$ direction at each step. Moreover, he never goes to a point $(x, y)$ with $y>x$. How many different paths can he walk?","solutions":["$C(4)=14$."],"images":[]});

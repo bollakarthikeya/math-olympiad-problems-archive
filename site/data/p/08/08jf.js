@@ -1,0 +1,1 @@
+__p({"id":"08jf","competition":"The first selection test for JBMO 2003","problem":"Let $m$ and $n$ be the arbitrary digits of the decimal system and $a, b, c$ be the positive distinct integers of the form $2^{m} \\cdot 5^{n}$. Find the number of the equations $a x^{2}-2 b x+c=0$, if it is known that each equation has a single real solution.","solutions":[],"images":[]});

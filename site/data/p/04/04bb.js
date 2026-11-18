@@ -1,0 +1,1 @@
+__p({"id":"04bb","competition":"Mathematica competitions in Croatia","problem":"Let $ABCDE$ be a regular pentagon. The lines $BC$ and $DE$ intersect at point $F$. Determine the angles of triangle $BEF$.","solutions":[],"images":[]});

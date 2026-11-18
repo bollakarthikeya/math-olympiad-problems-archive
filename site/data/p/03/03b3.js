@@ -1,0 +1,1 @@
+__p({"id":"03b3","competition":"Selection test for 27. Balkan Mathematical Olympiad","problem":"Let $a$, $b$ and $c$ be the lengths of sides of a triangle. Prove that\n\n$$\n\\left| \\sqrt{\\frac{a}{b}} - \\sqrt{\\frac{b}{a}} + \\sqrt{\\frac{b}{c}} - \\sqrt{\\frac{c}{b}} + \\sqrt{\\frac{c}{a}} - \\sqrt{\\frac{a}{c}} \\right| < \\frac{1}{10}.\n$$","solutions":[],"images":[]});

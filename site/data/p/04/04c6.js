@@ -1,0 +1,1 @@
+__p({"id":"04c6","competition":"Mathematica competitions in Croatia","problem":"Prove that no rational number $x$ satisfies the equality $\\{x^2\\} + \\{x\\} = 1$. Find at least one real number $x$ that satisfies the equality.\nNote: $\\{x\\} = x - \\lfloor x \\rfloor$ where $\\lfloor x \\rfloor$ is the largest integer not greater than $x$.","solutions":[],"images":[]});

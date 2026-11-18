@@ -1,0 +1,1 @@
+__p({"id":"0am7","competition":"18th PMO Area Stage","problem":"Let $P$ be the product of all prime numbers less than $90$. Find the largest integer $N$ so that for each $n \\in \\{2, 3, 4, \\ldots, N\\}$, the number $P + n$ has a prime factor less than $90$.","solutions":[],"images":[]});

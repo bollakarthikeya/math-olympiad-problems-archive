@@ -1,0 +1,1 @@
+__p({"id":"0htz","competition":"Berkeley Math Circle","problem":"Pentagon $A B C D E$ is cyclic, i.e., inscribed in a circle. Diagonals $A C$ and $B D$ meet at $P$, and diagonals $A D$ and $C E$ meet at $Q$. Triangles $A B P$, $A E Q$, $C D P$, $C D Q$, and $A P Q$ have equal areas. Prove that the pentagon is regular.","solutions":[],"images":[]});

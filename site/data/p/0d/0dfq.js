@@ -1,0 +1,1 @@
+__p({"id":"0dfq","competition":"Saudi Arabian IMO Booklet","problem":"Prove that for any 2 positive integers $m$ and $n$ with $m > n$ holds the following inequality\n$$\n\\operatorname{lcm}(m, n) + \\operatorname{lcm}(m + 1, n + 1) > \\frac{2mn}{\\sqrt{m-n}}.\n$$","solutions":[],"images":[]});

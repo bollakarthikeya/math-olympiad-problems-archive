@@ -1,0 +1,1 @@
+__p({"id":"0dl7","competition":"Saudi Booklet","problem":"The set $M$ of pairwise different positive integers is given. It is known that within any 3 of them one can choose 2 numbers such that their sum is power of 2. Find the maximal number of elements $M$ may contain.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0amp","competition":"Area Stage","problem":"The length $d$ of a tangent, drawn from a point $A$ to a circle, is $\\frac{4}{3}$ of the radius $r$. What is the shortest distance from $A$ to the circle?","solutions":[],"images":[]});

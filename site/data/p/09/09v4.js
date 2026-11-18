@@ -1,0 +1,1 @@
+__p({"id":"09v4","competition":"Junior Mathematical Olympiad","problem":"We compute the product of two numbers, $99\\ldots99 \\times 99\\ldots99,$ where the first number consists of 20 nines, and the second of 21 nines. Which number do you get if you add up the digits of the outcome of this multiplication?","solutions":["189"],"images":[]});

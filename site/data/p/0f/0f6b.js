@@ -1,0 +1,1 @@
+__p({"id":"0f6b","competition":"19th ASU","problem":"$ABCDE$ is a convex pentagon. $A'$ is chosen so that $B$ is the midpoint of $AA'$, $B'$ is chosen so that $C$ is the midpoint of $BB'$ and so on. Given $A'$, $B'$, $C'$, $D'$, $E'$, how do we construct $ABCDE$ using ruler and compasses?","solutions":[],"images":[]});

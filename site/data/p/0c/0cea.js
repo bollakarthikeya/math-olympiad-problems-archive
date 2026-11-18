@@ -1,0 +1,1 @@
+__p({"id":"0cea","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"a) Prove that $x^2 + x + 1 > 0$ and $x^4 + x^3 + x^2 + x + 1 > 0$, for every real number $x$.\n\nb) Find all real triples $(a, b, c)$ so that $a^8 + b^8 + c^8 = a^3 + b^3 + c^3$ and $a^5 + b^5 + c^5 = 3$.","solutions":[],"images":[]});

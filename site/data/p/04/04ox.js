@@ -1,0 +1,1 @@
+__p({"id":"04ox","competition":"Croatian Mathematical Society Competitions","problem":"Find all complex numbers $z$ such that $z^2 = \\frac{1}{z} + \\frac{1}{\\bar{z}}$.","solutions":[],"images":[]});

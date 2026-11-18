@@ -1,0 +1,1 @@
+__p({"id":"0hng","competition":"","problem":"Evaluate $\\sum_{i=1}^{\\infty} \\frac{(i+1)(i+2)(i+3)}{(-2)^{i}}$.","solutions":["This is the power series of $\\frac{6}{(1+x)^{4}}$ expanded about $x=0$ and evaluated at $x=-\\frac{1}{2}$, so the solution is $96$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f0y","competition":"ASU","problem":"No triangle of area $1$ can be fitted inside a convex polygon. Show that the polygon can be fitted inside a triangle of area $4$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04gj","competition":"Mathematica competitions in Croatia","problem":"Let $a$, $b$, $c$ and $d$ be real numbers such that\n$$\n2 \\cos a + 6 \\cos b + 7 \\cos c + 9 \\cos d = 0, \\\\\n2 \\sin a - 6 \\sin b + 7 \\sin c - 9 \\sin d = 0.\n$$\nIf $\\cos(b+c) \\neq 0$, determine the value of $\\frac{\\cos(a+d)}{\\cos(b+c)}$.","solutions":[],"images":[]});

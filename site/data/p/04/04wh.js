@@ -1,0 +1,1 @@
+__p({"id":"04wh","competition":"National Round","problem":"Find all positive integers $n$ with the following property: It is possible to color $2n$ cells in an $n \\times n$ square grid such that each row and each column contains exactly two colored cells, and no two colored cells share a side or a vertex.","solutions":[],"images":[]});

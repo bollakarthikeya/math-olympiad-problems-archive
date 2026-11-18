@@ -1,0 +1,1 @@
+__p({"id":"0bf2","competition":"Shortlisted Problems for the 64th NMO","problem":"Can a $75 \\times 75$ board be covered by $2 \\times 1$ dominoes and $5$-square 'crosses' without overlaps?","solutions":[],"images":[]});

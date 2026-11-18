@@ -1,0 +1,1 @@
+__p({"id":"0ciu","competition":"75th NMO","problem":"Determine the finite commutative rings $A$ with at least four elements, with the property that for any choice of a proper subset $S$ of $A^*$ with at least two elements, the equality\n$$\n\\sum_{x \\in S} x = \\prod_{x \\in A^* \\setminus S} x\n$$\nholds.","solutions":[],"images":[]});

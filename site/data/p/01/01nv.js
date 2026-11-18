@@ -1,0 +1,1 @@
+__p({"id":"01nv","competition":"Belorusija 2012","problem":"Prove that for every positive integer $n$, the set $\\{2, \\dots, 3n+1\\}$ can be partitioned into $n$ triples in such a way that the numbers from each triple are the lengths of the sides of some obtuse triangle.","solutions":[],"images":[]});

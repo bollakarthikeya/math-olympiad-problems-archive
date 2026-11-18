@@ -1,0 +1,1 @@
+__p({"id":"0ce4","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Find the pairs $(m, n)$ of positive integers with the property\n$$(3m - 2)(5m - 1) = 6^n.$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0asd","competition":"Philippines Mathematical Olympiad","problem":"Find the values of $a$ and $b$ such that $a x^{4} + b x^{2} + 1$ is divisible by $x^{2} - x - 2$.","solutions":["$a = \\frac{1}{4},\\ b = -\\frac{5}{4}$"],"images":[]});

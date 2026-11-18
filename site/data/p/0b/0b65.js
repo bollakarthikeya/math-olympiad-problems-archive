@@ -1,0 +1,1 @@
+__p({"id":"0b65","competition":"Shortlisted Problems for the Romanian NMO","problem":"Let $m, p$ be integers larger than $2$. Find the least positive integer $n$, such that every $n$-element subset of $\\{1, 2, 3, \\dots, pm\\}$ contains two numbers of sum divisible by $p$.","solutions":[],"images":[]});

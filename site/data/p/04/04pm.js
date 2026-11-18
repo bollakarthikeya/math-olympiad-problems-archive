@@ -1,0 +1,1 @@
+__p({"id":"04pm","competition":"Croatian Mathematical Society Competitions","problem":"Let $\\triangle ABC$ be a triangle such that $\\angle ABC = 2\\angle BCA$, and the angle bisector of $\\angle BAC$ intersects the side $\\overline{BC}$ at point $D$ so that $|AB| = |CD|$. Find $\\angle CAB$. (Estonia 2002)","solutions":[],"images":[]});

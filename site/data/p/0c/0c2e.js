@@ -1,0 +1,1 @@
+__p({"id":"0c2e","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Find the natural number $n$ for which $\\sqrt{\\frac{20^n - 18^n}{19}}$ is a rational number.","solutions":[],"images":[]});

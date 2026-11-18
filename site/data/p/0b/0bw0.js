@@ -1,0 +1,1 @@
+__p({"id":"0bw0","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Determine the 5-digit positive integers which are four times larger than their reversed numbers (the reversed of $abcde$ is $edcba$).","solutions":[],"images":[]});

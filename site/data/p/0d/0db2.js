@@ -1,0 +1,1 @@
+__p({"id":"0db2","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $n$ be a positive integer and $p > n + 1$ a prime. Prove that $p$ divides the following sum\n$$\nS = 1^{n} + 2^{n} + \\ldots + (p-1)^{n}.\n$$","solutions":[],"images":[]});

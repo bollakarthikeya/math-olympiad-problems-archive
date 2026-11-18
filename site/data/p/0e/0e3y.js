@@ -1,0 +1,1 @@
+__p({"id":"0e3y","competition":"Selection Examinations for the IMO","problem":"Find the greatest common divisor of all even numbers of the form $n^4 - 4n^2$ where $n$ is a positive integer.","solutions":[],"images":[]});

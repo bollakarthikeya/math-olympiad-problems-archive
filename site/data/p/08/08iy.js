@@ -1,0 +1,1 @@
+__p({"id":"08iy","competition":"The second selection test for IMO 2003","problem":"Let $n \\geq 1$ be a positive integer. Find all polynomials of degree $2n$ with real coefficients\n$$\nP(X) = X^{2n} + (2n-10) X^{2n-1} + a_{2} X^{2n-2} + \\ldots + a_{2n-2} X^{2} + (2n-10) X + 1\n$$\nif it is known that they have positive real roots.","solutions":[],"images":[]});

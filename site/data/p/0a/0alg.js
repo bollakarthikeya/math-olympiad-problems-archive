@@ -1,0 +1,1 @@
+__p({"id":"0alg","competition":"QUALIFYING STAGE","problem":"Find the sum of\n$$\n\\frac{1}{2 \\times 5}+\\frac{1}{5 \\times 8}+\\frac{1}{8 \\times 11}+\\cdots+\\frac{1}{2009 \\times 2012}\n$$\n\n(a) $\\frac{335}{2012}$\n(b) $\\frac{545}{2012}$\n(c) $\\frac{865}{2012}$\n(d) $\\frac{1005}{2012}$","solutions":[],"images":[]});

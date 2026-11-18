@@ -1,0 +1,1 @@
+__p({"id":"0ilg","competition":"Harvard-MIT Mathematics Tournament","problem":"Find the sum of the positive integer divisors of $2^{2007}$.","solutions":["$2^{2007}$ has divisors $1, 2, 2^2, \\ldots, 2^{2007}$. The sum is\n$$\n1 + 2 + 2^2 + \\cdots + 2^{2007} = 2^{2008} - 1.\n$$"],"images":[]});

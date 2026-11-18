@@ -1,0 +1,1 @@
+__p({"id":"03gr","competition":"Canadian Mathematical Olympiad","problem":"Show that from any five integers, not necessarily distinct, one can always choose three of these integers whose sum is divisible by $3$.","solutions":[],"images":[]});

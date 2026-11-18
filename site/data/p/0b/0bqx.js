@@ -1,0 +1,1 @@
+__p({"id":"0bqx","competition":"67th NMO Shortlisted Problems","problem":"Find the smallest positive integer of the form $n = \\overbrace{aa\\dots a}^{k \\text{ times}} + a(a-2)^2$, $k > 1$, divisible by $2016$.","solutions":[],"images":[]});

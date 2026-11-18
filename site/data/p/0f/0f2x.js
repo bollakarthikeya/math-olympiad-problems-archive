@@ -1,0 +1,1 @@
+__p({"id":"0f2x","competition":"ASU","problem":"Show that for some $k$, you can find $1978$ different sizes of square with all its vertices on the graph of the function $y = k \\sin x$.","solutions":[],"images":[]});

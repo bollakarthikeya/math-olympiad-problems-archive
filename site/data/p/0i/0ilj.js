@@ -1,0 +1,1 @@
+__p({"id":"0ilj","competition":"10th Annual Harvard-MIT Mathematics Tournament","problem":"A cube of edge length $s > 0$ has the property that its surface area is equal to the sum of its volume and five times its edge length. Compute all possible values of $s$.","solutions":[],"images":[]});

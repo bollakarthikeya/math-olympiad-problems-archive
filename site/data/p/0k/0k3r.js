@@ -1,0 +1,1 @@
+__p({"id":"0k3r","competition":"HMMT November 2018","problem":"Let $a, b, c, n$ be positive real numbers such that $\\frac{a+b}{a}=3$, $\\frac{b+c}{b}=4$, and $\\frac{c+a}{c}=n$. Find $n$.","solutions":["Answer: $\\frac{7}{6}$\nWe have\n$$\n1=\\frac{b}{a} \\cdot \\frac{c}{b} \\cdot \\frac{a}{c}=(3-1)(4-1)(n-1) .\n$$\nSolving for $n$ yields $n=\\frac{7}{6}$."],"images":[]});

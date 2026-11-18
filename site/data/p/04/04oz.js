@@ -1,0 +1,1 @@
+__p({"id":"04oz","competition":"Croatian Mathematical Society Competitions","problem":"Determine the value of the real parameter $p$ so that the solutions of\n$$\n(p - 3)x^2 + (p^2 + 1)x - 11p + 18 = 0\n$$\nare the lengths of legs of a right-angled triangle with hypotenuse of length $\\sqrt{17}$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"03kc","competition":"Canadian Mathematical Olympiad","problem":"Show that every positive integral power of $\\sqrt{2}-1$ is of the form $\\sqrt{m}-\\sqrt{m-1}$ for some positive integer $m$. (e.g. $\\left.(\\sqrt{2}-1)^{2}=3-2 \\sqrt{2}=\\sqrt{9}-\\sqrt{8}\\right)$.","solutions":[],"images":[]});

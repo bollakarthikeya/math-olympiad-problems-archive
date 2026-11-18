@@ -1,0 +1,1 @@
+__p({"id":"01ln","competition":"Belarusian Mathematical Olympiad","problem":"Non-zero real numbers $a$, $b$, $c$ satisfy the equality\n$$\n\\frac{ab}{b-c} + \\frac{bc}{c-a} + \\frac{ca}{a-b} = \\frac{ab}{b+c} + \\frac{bc}{c+a} + \\frac{ca}{a+b} + 6abc.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"03j3","competition":"Canadian Mathematical Olympiad","problem":"Given any 7 real numbers, prove that there are two of them, say $x$ and $y$, such that\n$$\n0 \\leq \\frac{x-y}{1+xy} \\leq \\frac{1}{\\sqrt{3}}\n$$","solutions":[],"images":[]});

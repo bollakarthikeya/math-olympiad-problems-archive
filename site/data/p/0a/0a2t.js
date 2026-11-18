@@ -1,0 +1,1 @@
+__p({"id":"0a2t","competition":"Dutch Mathematical Olympiad","problem":"We call a positive integer *quadratic* if every two adjacent digits form a square number. For example, the number $364$ is quadratic because both $36$ and $64$ are squares.\nHow many digits does the largest quadratic number have?\nA) $2$   B) $3$   C) $4$   D) $5$   E) $6$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f56","competition":"17th ASU","problem":"A word is a finite string of $A$s and $B$s. Can we find a set of three 4-letter words, ten 5-letter words, thirty 6-letter words and five 7-letter words such that no word is the beginning of another word? [For example, if $ABA$ was a word, then $ABAAB$ could not be a word.]","solutions":[],"images":[]});

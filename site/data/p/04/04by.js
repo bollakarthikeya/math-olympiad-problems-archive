@@ -1,0 +1,1 @@
+__p({"id":"04by","competition":"Mathematica competitions in Croatia","problem":"Let $\\triangle ABC$ be an acute triangle, and let $M$ and $N$ be the feet of the altitudes from $A$ and $B$, respectively. If $|AN| = |NM|$, prove that the incentre of $\\triangle ABC$ lies on the altitude $\\overline{BN}$.","solutions":[],"images":[]});

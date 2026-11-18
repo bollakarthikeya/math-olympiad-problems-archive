@@ -1,0 +1,1 @@
+__p({"id":"0c3i","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"On a circle the numbers from $1$ to $12$ are written in an arbitrary order. Prove that there are three consecutive numbers summing up to at least $20$.","solutions":[],"images":[]});

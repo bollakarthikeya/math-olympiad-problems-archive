@@ -1,0 +1,1 @@
+__p({"id":"0eq1","competition":"South African Mathematics Olympiad","problem":"If $x = \\sqrt[3]{900}$ then\n(A) $7 < x < 8$ (B) $9 < x < 10$ (C) $11 < x < 12$ (D) $10 < x < 11$ (E) $12 < x < 13$","solutions":["Answer B.\nSince $9^3 = 729 < 900$ and $10^3 = 1000 > 900$, it follows that $9 < \\sqrt[3]{900} < 10$."],"images":[]});

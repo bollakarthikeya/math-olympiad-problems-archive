@@ -1,0 +1,1 @@
+__p({"id":"03ik","competition":"Canadian Mathematical Olympiad","problem":"$P(x)$ and $Q(x)$ are two polynomials that satisfy the identity $P(Q(x)) \\equiv Q(P(x))$ for real numbers $x$. If the equation $P(x)=Q(x)$ has no real solution, show that the equation $P(P(x))=Q(Q(x))$ also has no real solution.","solutions":[],"images":[]});

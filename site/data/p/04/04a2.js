@@ -1,0 +1,1 @@
+__p({"id":"04a2","competition":"CroatianCompetitions2011","problem":"Let $a, b > 1$ be real numbers such that $\\log_b a$, $\\log_{2b}(2a)$ and $\\log_{4b}(4a)$, in that order, form an arithmetic progression. Prove that $a = b$. (Tonći Kokan)","solutions":[],"images":[]});

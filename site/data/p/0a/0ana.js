@@ -1,0 +1,1 @@
+__p({"id":"0ana","competition":"QUALIFYING STAGE","problem":"Consider the system\n$$\nx y = 10^{a}, \\quad y z = 10^{b}, \\quad x z = 10^{c}\n$$\n\nWhat is $\\log x + \\log y + \\log z$?\n(a) $\\frac{a b c}{2}$\n(b) $\\frac{a+b+c}{2}$\n(c) $a+b+c$\n(d) $a b c$","solutions":[],"images":[]});

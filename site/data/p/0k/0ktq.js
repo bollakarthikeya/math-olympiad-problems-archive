@@ -1,0 +1,1 @@
+__p({"id":"0ktq","competition":"HMMT February 2023","problem":"Suppose $a$ and $b$ are positive integers such that $a^{b} = 2^{2023}$. Compute the smallest possible value of $b^{a}$.","solutions":["By taking $a = 2^{2023}$ and $b = 1$, we get $b^{a} = 1$, which is clearly the minimum."],"images":[]});

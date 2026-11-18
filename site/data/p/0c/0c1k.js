@@ -1,0 +1,1 @@
+__p({"id":"0c1k","competition":"69th Romanian Mathematical Olympiad","problem":"Find all the positive integers $\\overline{abcd}$ knowing that the following conditions hold:\na) $a^2 + b^2 + c^2 + d^2$ is divisible by $4$;\nb) the remainder of $\\overline{abcd}$ when divided by $c$ is $7$.","solutions":[],"images":[]});

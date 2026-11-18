@@ -1,0 +1,1 @@
+__p({"id":"0b1u","competition":"22nd Philippine Mathematical Olympiad","problem":"What is the remainder when $3^{2020}$ is divided by $73$?","solutions":["By Fermat's Little Theorem, $3^{2016} = \\left(3^{72}\\right)^{28} \\equiv 1 \\pmod{73}$. Therefore, $3^{2020} \\equiv 3^{4} \\equiv 8 \\pmod{73}$."],"images":[]});

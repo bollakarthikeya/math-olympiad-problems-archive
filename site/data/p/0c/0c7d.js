@@ -1,0 +1,1 @@
+__p({"id":"0c7d","competition":"70th ROMANIAN MATHEMATICAL OLYMPIAD","problem":"For any integer $n \\ge 2$, denote by $s(n)$ the number of pairs of integers $(x, y)$, from $1, 2, \\dots, n$, with $x > y$, such that $x$ and $y$ have exactly $x - y$ common divisors.\na)\nIs there any $n$ such that $s(n) = 2019$?\nb)\nBut for $s(n) = 2020$?","solutions":[],"images":[]});

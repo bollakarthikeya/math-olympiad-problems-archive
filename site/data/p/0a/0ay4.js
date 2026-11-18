@@ -1,0 +1,1 @@
+__p({"id":"0ay4","competition":"Philippine Mathematical Olympiad Area Stage","problem":"Two semicircles, each with radius $\\sqrt{2}$, are tangent to each other, as shown in the figure below. If $AB \\parallel CD$, determine the length of segment $AD$.\n\n![](attached_image_1.png)","solutions":[],"images":["img/0ay4_1.jpg"]});

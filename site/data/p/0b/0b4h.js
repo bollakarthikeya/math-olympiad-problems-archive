@@ -1,0 +1,1 @@
+__p({"id":"0b4h","competition":"25th Philippine Mathematical Olympiad Area Stage","problem":"Suppose that $p$ is a prime number which divides infinitely many numbers of the form $10^{n!} + 2023$ where $n$ is a positive integer. What is the sum of all possible values of $p$?","solutions":[],"images":[]});

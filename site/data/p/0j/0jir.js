@@ -1,0 +1,1 @@
+__p({"id":"0jir","competition":"HMMT 2014","problem":"Compute the prime factorization of $159999$.","solutions":["$159999 = 160000 - 1 = 20^{4} - 1 = (20 - 1)(20 + 1)(20^{2} + 1) = 19 \\cdot 21 \\cdot 401$\n\nNow, $21 = 3 \\cdot 7$, so:\n\n$159999 = 3 \\cdot 7 \\cdot 19 \\cdot 401$"],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0ami","competition":"AREA STAGE","problem":"The number $x$ is chosen randomly from the interval $(0,1]$. Define $y=\\left\\lceil\\log_{4} x\\right\\rceil$. Find the sum of the lengths of all subintervals of $(0,1]$ for which $y$ is odd. For any real number $a,\\lceil a\\rceil$ is defined as the smallest integer not less than $a$.","solutions":[],"images":[]});

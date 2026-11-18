@@ -1,0 +1,1 @@
+__p({"id":"06zi","competition":"Iberoamerican Mathematical Olympiad","problem":"$f$ is a function defined on all reals in the interval $[0,1]$ and satisfies $f(0) = 0$, $f(x/3) = f(x)/2$, $f(1-x) = 1 - f(x)$. Find $f(18/1991)$.","solutions":[],"images":[]});

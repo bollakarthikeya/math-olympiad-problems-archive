@@ -1,0 +1,1 @@
+__p({"id":"0bvt","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Let $A$, $B \\in \\mathcal{M}_n(\\mathbb{C})$ be matrices such that $A + B$ is invertible and $A^2 = B^2 = O_n$. Show that $n$ is even and the matrices $(AB)^k$, $k = 1, 2, \\dots$, have rank $\\frac{n}{2}$.\n\nFlorin Stănescu","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0br1","competition":"67th NMO Shortlisted Problems","problem":"In triangle $ABC$, the measures of the angles $B$ and $A$ are directly proportional to $2$ and $3$. Take $M$ and $N$ on the sides $[AB]$ and $[BC]$ respectively, so that $BN = NM = MC = MA$. Prove that:\n\na) one of the obtained triangles is equilateral;\n\nb) $CM \\perp AB$.","solutions":[],"images":[]});

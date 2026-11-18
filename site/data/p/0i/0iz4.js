@@ -1,0 +1,1 @@
+__p({"id":"0iz4","competition":"13th Annual Harvard-MIT Mathematics Tournament","problem":"If $A = 10^{9} - 987654321$ and $B = \\frac{123456789 + 1}{10}$, what is the value of $\\sqrt{A B}$?","solutions":["Answer: $12345679$\n\nBoth $A$ and $B$ equal $12345679$, so $\\sqrt{A B} = 12345679$ as well."],"images":[]});

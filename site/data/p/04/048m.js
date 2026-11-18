@@ -1,0 +1,1 @@
+__p({"id":"048m","competition":"CroatianCompetitions2011","problem":"What is the minimal number of elements that should be removed from the set $\\{2, 4, 6, 8, 10, 12, 14, 16\\}$ so that the product of the remaining elements would be a perfect square?","solutions":[],"images":[]});

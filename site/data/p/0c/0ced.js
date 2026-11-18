@@ -1,0 +1,1 @@
+__p({"id":"0ced","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Let $n \\ge 2022$ be an integer and $A$ be a finite set so that $\\{S(B) \\mid B \\subset A\\} = \\{1, 2, \\dots, n\\}$, where $S(X)$ is the sum of the elements of the set $X$. Find the smallest and the largest possible value of the cardinal of the set $A$.","solutions":[],"images":[]});

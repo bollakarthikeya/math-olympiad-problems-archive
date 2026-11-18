@@ -1,0 +1,1 @@
+__p({"id":"0i7w","competition":"Harvard-MIT Mathematics Tournament","problem":"If $x y = 5$ and $x^{2} + y^{2} = 21$, compute $x^{4} + y^{4}$.","solutions":["We have $441 = (x^{2} + y^{2})^{2} = x^{4} + y^{4} + 2(x y)^{2} = x^{4} + y^{4} + 50$, yielding $x^{4} + y^{4} = 391$."],"images":[]});

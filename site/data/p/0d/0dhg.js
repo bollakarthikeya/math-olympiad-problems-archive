@@ -1,0 +1,1 @@
+__p({"id":"0dhg","competition":"Saudi Arabian IMO Booklet","problem":"Let $u_n$ be the least common multiple of the first $n$ terms of a strictly increasing sequence of positive integers $a_1, a_2, a_3, \\dots, a_{1000}$. Prove that\n$$\n\\sum_{k=1}^{1000} \\frac{1}{u_k} \\le 2.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04w9","competition":"National Round","problem":"Real numbers $a, b, c, d$ are such that\n$$\na + b + c + d = 0 \\quad \\text{and} \\quad \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} + \\frac{1}{d} = 0.\n$$\nHow many of the equalities\n$$ab = cd, \\quad ac = bd, \\quad ad = bc$$\ncan hold simultaneously?","solutions":[],"images":[]});

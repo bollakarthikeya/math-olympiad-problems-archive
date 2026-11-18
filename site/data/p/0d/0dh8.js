@@ -1,0 +1,1 @@
+__p({"id":"0dh8","competition":"Saudi Arabian IMO Booklet","problem":"The sequence $(a_k)$ is given by $a_1 = \\frac{1}{2}$ and $a_{n+1} = 1 - a_1 a_2 \\cdots a_n$ for every $n \\ge 1$. Prove that $a_{100} > 0.99$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dhp","competition":"Saudi Arabian IMO Booklet","problem":"Each pair of vertices of a regular $1001$-gon is joined with a segment, which is either red, or blue, or green. Prove that one can choose $11$ vertices of this $1001$-gon in such a way that they form a convex $11$-gon, in which at least $10$ sides have the same color.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09vq","competition":"First Round","problem":"By replacing each * in the expression $1 * 2 * 3 * 4 * 5 * \\cdots * 2019 * 2020$ by a $+$ or a $-$ sign, we get a long calculation. Put the $+$ and $-$ signs in such a way that the outcome is a positive number (greater than $0$) which is as small as possible.\nWhat is this outcome?","solutions":["2"],"images":[]});

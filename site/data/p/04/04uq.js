@@ -1,0 +1,1 @@
+__p({"id":"04uq","competition":"Final Round","problem":"In a sequence of $71$ nonzero real numbers, each number (apart from the first one and the last one) is one less than the product of its two neighbors. Prove that the first and the last number are equal.\n\n(Josef Tkadlec)","solutions":[],"images":[]});

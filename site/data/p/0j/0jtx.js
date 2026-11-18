@@ -1,0 +1,1 @@
+__p({"id":"0jtx","competition":"HMMT November","problem":"Evaluate $\\frac{2016!^{2}}{2015!2017!}$. Here $n!$ denotes $1 \\times 2 \\times \\cdots \\times n$.","solutions":["$\\frac{2016!^{2}}{2015!2017!} = \\frac{2016!}{2015!} \\cdot \\frac{2016!}{2017!} = \\frac{2016}{1} \\cdot \\frac{1}{2017} = \\frac{2016}{2017}$"],"images":[]});

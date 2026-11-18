@@ -1,0 +1,1 @@
+__p({"id":"0l8g","competition":"USAMO","problem":"Let $k$ and $d$ be positive integers. Prove that there exists a positive integer $N$ such that for every odd integer $n > N$, the digits in the base-$2n$ representation of $n^k$ are all greater than $d$.","solutions":[],"images":[]});

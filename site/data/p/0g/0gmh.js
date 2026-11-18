@@ -1,0 +1,1 @@
+__p({"id":"0gmh","competition":"X. NATIONAL MATHEMATICAL OLYMPIAD","problem":"Find all prime numbers $p$ for which the number of ordered pairs of integers $(x, y)$ satisfying the conditions $y^2 \\equiv x^3 - x \\pmod p$ and $0 \\le x, y < p$ is exactly $p$.","solutions":[],"images":[]});

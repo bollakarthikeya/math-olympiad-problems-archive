@@ -1,0 +1,1 @@
+__p({"id":"0atq","competition":"Philippine Mathematical Olympiad","problem":"The sequence $2, 3, 5, 6, 7, 8, 10, 11, \\ldots$ is an enumeration of the positive integers which are not perfect squares. What is the 150th term of this sequence?","solutions":[],"images":[]});

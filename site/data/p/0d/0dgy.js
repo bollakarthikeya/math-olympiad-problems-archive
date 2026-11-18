@@ -1,0 +1,1 @@
+__p({"id":"0dgy","competition":"Saudi Arabian IMO Booklet","problem":"Prove the identity\n$$\n\\frac{n!}{x(x+1)(x+2)\\dots(x+n)} = \\frac{\\binom{n}{0}}{x} - \\frac{\\binom{n}{1}}{x+1} + \\frac{\\binom{n}{2}}{x+2} - \\dots + (-1)^n \\frac{\\binom{n}{n}}{x+n}.\n$$","solutions":[],"images":[]});

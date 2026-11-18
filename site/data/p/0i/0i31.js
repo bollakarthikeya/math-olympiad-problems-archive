@@ -1,0 +1,1 @@
+__p({"id":"0i31","competition":"Harvard-MIT Math Tournament","problem":"Find the volume of the tetrahedron with vertices $(5,8,10)$, $(10,10,17)$, $(4,45,46)$, $(2,5,4)$.","solutions":["Each vertex $(x, y, z)$ obeys $x + y = z + 3$, so all the vertices are coplanar and the volume of the tetrahedron is $0$."],"images":[]});

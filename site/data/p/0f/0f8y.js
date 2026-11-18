@@ -1,0 +1,1 @@
+__p({"id":"0f8y","competition":"23rd ASU","problem":"Two walkers are at the same altitude in a range of mountains. The path joining them is piecewise linear with all its vertices above the two walkers. Can they each walk along the path until they have changed places, so that at all times their altitudes are equal?","solutions":[],"images":[]});

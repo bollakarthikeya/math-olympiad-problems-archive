@@ -1,0 +1,1 @@
+__p({"id":"0f9n","competition":"24th ASU","problem":"If every altitude of a tetrahedron is at least $1$, show that the shortest distance between each pair of opposite edges is more than $2$.","solutions":[],"images":[]});

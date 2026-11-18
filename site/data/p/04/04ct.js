@@ -1,0 +1,1 @@
+__p({"id":"04ct","competition":"Mathematica competitions in Croatia","problem":"For which $n \\in \\mathbb{N}$ exist an angle $\\alpha$ and a convex $n$-gon with angles $\\alpha, 2\\alpha, \\dots, n\\alpha$?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"00xf","competition":"Baltic Way 1992","problem":"Given that $a^{2}+b^{2}+(a+b)^{2}=c^{2}+d^{2}+(c+d)^{2}$, prove that $a^{4}+b^{4}+(a+b)^{4}=c^{4}+d^{4}+(c+d)^{4}$.","solutions":["Use the identity $\\left(a^{2}+b^{2}+(a+b)^{2}\\right)^{2}=2\\left(a^{4}+b^{4}+(a+b)^{4}\\right)$."],"images":[]});

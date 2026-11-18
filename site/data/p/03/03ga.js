@@ -1,0 +1,1 @@
+__p({"id":"03ga","competition":"Canadian Mathematical Olympiad","problem":"Determine all real numbers $a$ such that the two polynomials $x^{2} + a x + 1$ and $x^{2} + x + a$ have at least one root in common.","solutions":[],"images":[]});

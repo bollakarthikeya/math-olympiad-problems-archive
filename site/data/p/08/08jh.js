@@ -1,0 +1,1 @@
+__p({"id":"08jh","competition":"The second selection test for JMBO 2003","problem":"The real numbers $x$ and $y$ satisfy the equalities\n$$\n\\sqrt{3x}\\left(1+\\frac{1}{x+y}\\right)=2, \\quad \\sqrt{7y}\\left(1-\\frac{1}{x+y}\\right)=4\\sqrt{2}\n$$\nFind the numerical value of the ratio $y / x$.","solutions":[],"images":[]});

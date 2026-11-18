@@ -1,0 +1,1 @@
+__p({"id":"03xe","competition":"China Mathematical Competition","problem":"The range of $f(x) = \\sqrt{x-5} - \\sqrt{24-3x}$ is ______.","solutions":["It is easy to see that $f(x)$ is increasing on its domain $[5, 8]$. Therefore, its range is $[-3, \\sqrt{3}]$."],"images":[]});

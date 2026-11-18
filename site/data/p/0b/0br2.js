@@ -1,0 +1,1 @@
+__p({"id":"0br2","competition":"67th NMO Shortlisted Problems","problem":"Solve the equation\n$$\n\\sqrt{2^{x+1}-1} + \\sqrt{2^x-1} + 2^x = 2 \\cdot (3 \\cdot 4^x - 2^{x+1} \\cdot \\sqrt{2^{2x+1}-1}).\n$$","solutions":[],"images":[]});

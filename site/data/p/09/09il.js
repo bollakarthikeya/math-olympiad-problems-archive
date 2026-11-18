@@ -1,0 +1,1 @@
+__p({"id":"09il","competition":"Mongolian Mathematical Olympiad Round 2","problem":"Is there a positive integer $k$ with the following property?\nFor any prime numbers $p$ and $q$, the number $p^{q+k} + q^{p+k}$ is composite.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0eqs","competition":"South African Mathematics Olympiad Second Round","problem":"What is the difference between the largest and the second largest odd factors of $2016$?","solutions":["$2016$ is $2^5 \\times 3^2 \\times 7$. The largest odd factor is $3^2 \\times 7 = 63$; and the next largest odd factor is $3 \\times 7 = 21$. $63 - 21 = 42$"],"images":[]});

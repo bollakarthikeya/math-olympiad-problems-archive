@@ -1,0 +1,1 @@
+__p({"id":"01na","competition":"Belorusija 2012","problem":"Suppose that $1000$ students are standing in a circle.\nProve that there exists an integer $k$ with $100 \\le k \\le 300$ such that in the circle there exists a contiguous group of $2k$ students, for which the first half contains the same number of girls as the second half.","solutions":[],"images":[]});

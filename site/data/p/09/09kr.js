@@ -1,0 +1,1 @@
+__p({"id":"09kr","competition":"Mongolian Mathematical Olympiad","problem":"Denote by $k!!$ the product $k \\times (k-2) \\times \\cdots \\times 1$ for any odd integer $k \\ge 1$. Show that $(2^m - 1)!! - 1$ is divisible by $2^m$ for any integer $m \\ge 3$.","solutions":[],"images":[]});

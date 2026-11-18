@@ -1,0 +1,1 @@
+__p({"id":"04ou","competition":"Croatian Mathematical Society Competitions","problem":"Find all pairs $(m, n)$ of integers such that $mn + 5m + 2n = 121$. (Nikola Adžaga)","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0cdy","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"For every positive integer $n$ define $a_n = n + 1$, $b_n = 2 \\cdot n + 3$, $c_n = 3 \\cdot n + 5$, $d_n = 4 \\cdot n + 7$. Find all positive integers $n$ which have at most two digits and $a_n, b_n, c_n$, and $d_n$ are prime.","solutions":[],"images":[]});

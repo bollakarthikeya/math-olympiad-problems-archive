@@ -1,0 +1,1 @@
+__p({"id":"0hv5","competition":"","problem":"Let $(x, y)$ be a point in the cartesian plane, $x, y > 0$. Find a formula in terms of $x$ and $y$ for the minimal area of a right triangle with hypotenuse passing through $(x, y)$ and legs contained in the $x$ and $y$ axes.","solutions":["$2 x y$."],"images":[]});

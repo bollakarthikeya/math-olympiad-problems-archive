@@ -1,0 +1,1 @@
+__p({"id":"0bqy","competition":"67th NMO Shortlisted Problems","problem":"Let $f : [0, 1] \\to \\mathbb{R}$ be a continuous function with $\\int_{0}^{1} f(x)dx = \\int_{0}^{1} x f(x)dx$ and $f(0) = 0$. Prove that there exists $c \\in (0, 1)$ so that\n$$\n\\int_{0}^{c} x f(x)dx = \\frac{c}{2} \\int_{0}^{c} f(x)dx.\n$$","solutions":[],"images":[]});

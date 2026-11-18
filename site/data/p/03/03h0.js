@@ -1,0 +1,1 @@
+__p({"id":"03h0","competition":"Canadian Mathematical Olympiad","problem":"Prove that the equation $x^{3} + 11^{3} = y^{3}$ has no solution in positive integers $x$ and $y$.","solutions":[],"images":[]});

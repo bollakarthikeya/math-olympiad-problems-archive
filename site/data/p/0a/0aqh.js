@@ -1,0 +1,1 @@
+__p({"id":"0aqh","competition":"12th Philippine Mathematical Olympiad - Area Stage","problem":"Determine all functions $f:(0,+\\infty) \\rightarrow \\mathbb{R}$ such that $f(2009)=1$ and\n$$\nf(x) f(y)+f\\left(\\frac{2009}{x}\\right) f\\left(\\frac{2009}{y}\\right)=2 f(x y)\n$$\nfor all positive real numbers $x$ and $y$.","solutions":[],"images":[]});

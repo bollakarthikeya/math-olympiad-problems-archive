@@ -1,0 +1,1 @@
+__p({"id":"0bqr","competition":"67th NMO Shortlisted Problems","problem":"Prove that there are no positive integers of the form $n = \\underbrace{aa\\dots a}_{k \\text{ times}} + 5a$, $k > 1$, divisible by $2016$.","solutions":[],"images":[]});

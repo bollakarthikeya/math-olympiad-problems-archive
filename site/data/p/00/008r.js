@@ -1,0 +1,1 @@
+__p({"id":"008r","competition":"XXI Olimpiada Matemática Rioplatense","problem":"Find the largest number of rectangular $4 \\times 1$ pieces that can be placed onto a $10 \\times 10$ checkerboard so that two pieces whatsoever do not touch each other by their sides or their vertices.","solutions":[],"images":[]});

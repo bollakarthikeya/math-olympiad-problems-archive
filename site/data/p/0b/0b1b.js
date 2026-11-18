@@ -1,0 +1,1 @@
+__p({"id":"0b1b","competition":"Philippines Mathematical Olympiad","problem":"In $\\triangle XYZ$, let $A$ be a point on (segment) $YZ$ such that $XA$ is perpendicular to $YZ$. Let $M$ and $N$ be the incenters of triangles $XYA$ and $XZA$, respectively. If $YZ = 28$, $XA = 24$, and $YA = 10$, what is the length of $MN$?","solutions":[],"images":[]});

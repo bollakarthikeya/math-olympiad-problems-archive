@@ -1,0 +1,1 @@
+__p({"id":"0dbj","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"An acute-angled triangle $ABC$ is inscribed in a circle $\\omega$. The tangents to the circle $\\omega$ at $A$ and $C$ intersect at $F$. The perpendicular bisector of segment $AB$ intersects the line $BC$ at $E$. Prove that the lines $FE$ and $AB$ are parallel.","solutions":[],"images":[]});

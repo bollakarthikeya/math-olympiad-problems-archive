@@ -1,0 +1,1 @@
+__p({"id":"0i6g","competition":"Harvard-MIT Math Tournament","problem":"$x$, $y$ are positive real numbers such that $x + y^{2} = x y$. What is the smallest possible value of $x$?","solutions":["Notice that $x = \\dfrac{y^{2}}{y-1} = 2 + (y-1) + \\dfrac{1}{y-1} \\geq 2 + 2 = 4$. Conversely, $x = 4$ is achievable, by taking $y = 2$."],"images":[]});

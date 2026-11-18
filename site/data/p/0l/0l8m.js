@@ -1,0 +1,1 @@
+__p({"id":"0l8m","competition":"VIETNAMESE MATHEMATICAL COMPETITION FOR TEAM SELECTION","problem":"A club has $42$ participants. In each group of $31$ participants of this club, there is always an acquainted couple man - woman. Prove that in this club, we can select $12$ acquainted couples.","solutions":[],"images":[]});

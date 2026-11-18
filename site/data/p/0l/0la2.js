@@ -1,0 +1,1 @@
+__p({"id":"0la2","competition":"Vijetnam 2008","problem":"Find the number of solutions of the following system of equations:\n$$\n\\begin{cases} x^2 + y^3 = 29 \\\\ \\log_3 x \\cdot \\log_2 y = 1. \\end{cases}\n$$","solutions":[],"images":[]});

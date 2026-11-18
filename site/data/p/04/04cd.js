@@ -1,0 +1,1 @@
+__p({"id":"04cd","competition":"Mathematica competitions in Croatia","problem":"If the sides of a triangle satisfy the equality $\\frac{a+b}{b+c} = \\frac{c}{a-b}$, determine the largest angle in the triangle.","solutions":[],"images":[]});

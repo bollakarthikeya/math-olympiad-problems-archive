@@ -1,0 +1,1 @@
+__p({"id":"0dlo","competition":"Saudi Booklet","problem":"Define the function $S: \\mathbb{Z}^+ \\to \\mathbb{Z}^+$ to be the sum of prime divisors (not necessarily distinct) of $n$ (if $v_p(n) = a$ then add $p \\cdot a$ to the sum). Prove that\n$$\n\\frac{\\tau(n!)}{\\tau((n-1)!)} \\le \\frac{4S(n)}{n}.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bl4","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Prove that if $a, b, c \\in [\\frac{1}{\\sqrt{6}}, 6]$, then\n$$\n\\frac{4}{a+3b} + \\frac{4}{b+3c} + \\frac{4}{c+3a} \\ge \\frac{3}{a+2b} + \\frac{3}{b+2c} + \\frac{3}{c+2a}.\n$$","solutions":[],"images":[]});

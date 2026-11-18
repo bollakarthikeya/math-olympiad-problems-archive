@@ -1,0 +1,1 @@
+__p({"id":"0l7z","competition":"USA TST Selection Test for 67th IMO and 15th EGMO","problem":"Let $f: \\mathbb{R} \\to \\mathbb{Z}$ be a function satisfying\n$$\nf(x - y) - 2f(x) + f(x + y) \\geq -1\n$$\nfor all $x, y \\in \\mathbb{R}$. Find all possible values of the set $\\{f(x) \\mid x \\in \\mathbb{R}\\}$.","solutions":[],"images":[]});

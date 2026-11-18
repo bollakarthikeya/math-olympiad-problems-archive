@@ -1,0 +1,1 @@
+__p({"id":"0bqz","competition":"67th NMO Shortlisted Problems","problem":"Let $a$, $b$, $c \\in (0, \\infty)$ be such that $\\sqrt{a} + \\sqrt{b} + \\sqrt{c} \\le 2$. Prove that\n$$\n\\frac{\\sqrt{a^2 - ab + b^2}}{a^2 + b^2} + \\frac{\\sqrt{b^2 - bc + c^2}}{b^2 + c^2} + \\frac{\\sqrt{c^2 - ca + a^2}}{c^2 + a^2} \\le \\frac{1}{\\sqrt{abc}}\n$$","solutions":[],"images":[]});

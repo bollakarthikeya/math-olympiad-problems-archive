@@ -1,0 +1,1 @@
+__p({"id":"0f9f","competition":"24th ASU","problem":"A graph has $n$ points and $n(n-1)/2$ edges. Each edge is colored with one of $k$ colors so that there are no closed monochrome paths. What is the largest possible value of $n$ (given $k$)?","solutions":[],"images":[]});

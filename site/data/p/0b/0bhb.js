@@ -1,0 +1,1 @@
+__p({"id":"0bhb","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Find all differentiable functions $f: \\mathbb{R} \\to \\mathbb{R}$, whose derivative is bounded in a neighborhood of the origin and fulfill the condition\n$$\nx f(x) - y f(y) = (x^2 - y^2) \\max(f'(x), f'(y)),\n$$\nfor every real numbers $x$ and $y$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f6i","competition":"19th ASU","problem":"$ABCD$ is a parallelogram. A circle through $A$ and $B$ has radius $R$. A circle through $B$ and $D$ has radius $R$ and meets the first circle again at $M$. Show that the circumradius of $AMD$ is $R$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dkz","competition":"Saudi Booklet","problem":"Let $k$ be a positive integer. Determine all $k$-tuples $(n_1, n_2, ..., n_k)$ of positive integers such that\n$$(n_1! - 1)(n_2! - 1) \\cdots (n_k! - 1) - 16$$\nis a perfect square of a positive integer.","solutions":[],"images":[]});

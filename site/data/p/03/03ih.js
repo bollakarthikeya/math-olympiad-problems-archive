@@ -1,0 +1,1 @@
+__p({"id":"03ih","competition":"Canadian Mathematical Olympiad","problem":"If $a679b$ is a five digit number (in base 10) which is divisible by $72$, determine $a$ and $b$.","solutions":[],"images":[]});

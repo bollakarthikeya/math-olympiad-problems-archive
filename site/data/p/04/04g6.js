@@ -1,0 +1,1 @@
+__p({"id":"04g6","competition":"Mathematica competitions in Croatia","problem":"Let $a$, $b$ and $c$ be integers and $a \\neq 0$. Can the discriminant of the quadratic function\n$$f(x) = ax^2 + bx + c$$\nbe equal to $51$?","solutions":[],"images":[]});

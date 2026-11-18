@@ -1,0 +1,1 @@
+__p({"id":"0f1d","competition":"ASU","problem":"Let $p(x)$ be a polynomial with integer coefficients. Let $f(n)$ be the sum of the (decimal) digits in the value $p(n)$. Show that $f(n)$ takes some value $m$ infinitely many times.","solutions":[],"images":[]});

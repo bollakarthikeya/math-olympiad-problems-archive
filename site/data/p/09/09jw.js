@@ -1,0 +1,1 @@
+__p({"id":"09jw","competition":"Mongolian Mathematical Olympiad","problem":"Find all triples of positive integers $a$, $b$ and $c$, for which the expression\n$$\nT = \\frac{(a + 1)(b + 1)(c + 1) - 12}{abc}\n$$\nis an integer.","solutions":[],"images":[]});

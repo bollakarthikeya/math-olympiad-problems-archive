@@ -1,0 +1,1 @@
+__p({"id":"0flu","competition":"Spanija 2012","problem":"With several identical spheres, we build up a tetrahedron using $n$ spheres for each side. Determine, in terms of $n$, the number of tangency points between the spheres in the construction.","solutions":[],"images":[]});

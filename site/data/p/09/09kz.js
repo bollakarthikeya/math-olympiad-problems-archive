@@ -1,0 +1,1 @@
+__p({"id":"09kz","competition":"Mongolian Mathematical Olympiad","problem":"Are there ten positive integers such that no number in the set is divisible by another number, and the product of any two numbers is divisible by the remaining numbers in the set?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"039i","competition":"Second selection test for IMO 2007, Vietnam","problem":"Prove that $n = 11$ is the least positive integer such that for any coloring of the edges of a complete graph of $n$ vertexes in three colors there exists a monochromatic cycle of length 4.","solutions":[],"images":[]});

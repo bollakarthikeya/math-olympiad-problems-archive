@@ -1,0 +1,1 @@
+__p({"id":"09jq","competition":"Mongolian Mathematical Olympiad","problem":"A family has five children with distinct positive integer ages such that the sum of the ages of any two children is different from the sum of the ages of any other two children. What is the minimum possible age of the eldest child?","solutions":[],"images":[]});

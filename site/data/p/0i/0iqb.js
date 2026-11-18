@@ -1,0 +1,1 @@
+__p({"id":"0iqb","competition":"Harvard-MIT Mathematics Tournament","problem":"Find the smallest positive integer $n$ such that $107 n$ has the same last two digits as $n$.","solutions":["The two numbers have the same last two digits if and only if $100$ divides their difference $106 n$, which happens if and only if $50$ divides $n$.\n\nAnswer: $50$"],"images":[]});

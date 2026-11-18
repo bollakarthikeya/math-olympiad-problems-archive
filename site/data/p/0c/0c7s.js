@@ -1,0 +1,1 @@
+__p({"id":"0c7s","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Find all functions $f : \\mathbb{R} \\to \\mathbb{R}$ satisfying\n$$\nf(x + y) \\leq f(x^2 + y),\n$$\nfor all $x, y \\in \\mathbb{R}$.","solutions":[],"images":[]});

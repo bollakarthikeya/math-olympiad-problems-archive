@@ -1,0 +1,1 @@
+__p({"id":"09xz","competition":"Dutch Mathematical Olympiad","problem":"A parallelogram has two sides of length $4$ and two sides of length $7$. Also, one of the diagonals has length $7$. (Attention: the picture has not been drawn to scale.) What is the length of the other diagonal?\n\n![](attached_image_1.png)","solutions":["$9$"],"images":["img/09xz_1.png"]});

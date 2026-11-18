@@ -1,0 +1,1 @@
+__p({"id":"0bld","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Let $A$ be a ring. Prove that the following statements are equivalent:\na) For every elements $a$ and $b$ from $A$ there exists two odd integers $p$ and $q$ such that $a^2 + b^2 = (pa + qb)^2$;\nb) The ring $A$ is commutative and $1 + 1 = 0$.","solutions":[],"images":[]});

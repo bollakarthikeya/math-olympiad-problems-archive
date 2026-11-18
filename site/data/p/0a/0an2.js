@@ -1,0 +1,1 @@
+__p({"id":"0an2","competition":"Qualifying Round","problem":"Find all negative solutions to the equation $x = \\sqrt[3]{20 + 21 \\sqrt[3]{20 + 21 \\sqrt[3]{20 + 21 x}}}$\n\n(a) $-1, -2$\n(b) $-5, -3$\n(c) $-2, -4$\n(d) $-4, -1$","solutions":[],"images":[]});

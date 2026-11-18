@@ -1,0 +1,1 @@
+__p({"id":"0aw0","competition":"19th Philippine Mathematical Olympiad","problem":"Find the exact value of $\\tan^{-1}\\left(\\frac{1}{2}\\right) + \\tan^{-1}\\left(\\frac{1}{5}\\right) + \\tan^{-1}\\left(\\frac{1}{8}\\right)$.","solutions":[],"images":[]});

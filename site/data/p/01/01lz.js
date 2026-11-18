@@ -1,0 +1,1 @@
+__p({"id":"01lz","competition":"Selection and Training Session","problem":"Find all pairs $(m, n)$ of nonnegative integers for which\n$$\nm^2 + 2 \\cdot 3^n = m(2^{n+1} - 1).\n$$","solutions":["2. See IMO-2010 Shortlist, Problem N2."],"images":[]});

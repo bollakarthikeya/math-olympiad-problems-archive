@@ -1,0 +1,1 @@
+__p({"id":"0770","competition":"INMO-2017","problem":"Let $ABC$ be a triangle with $\\angle A = 90^{\\circ}$ and $AB < AC$. Let $AD$ be the altitude from $A$ to $BC$. Let $P$, $Q$ and $I$ denote respectively the incentres of triangles $ABD$, $ACD$ and $ABC$. Prove that $AI$ is perpendicular to $PQ$ and $AI = PQ$.","solutions":[],"images":[]});

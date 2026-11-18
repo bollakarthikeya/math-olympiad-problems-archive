@@ -1,0 +1,1 @@
+__p({"id":"0f2g","competition":"ASU","problem":"Given a polynomial $x^{10} + a_9 x^9 + \\ldots + a_1 x + 1$. Two players alternately choose one of the coefficients $a_1$ to $a_9$ (which has not been chosen before) and assign a real value to it. The first player wins iff the resulting polynomial has no real roots. Who wins?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f1z","competition":"ASU","problem":"$S$ is a set of $1976$ points which form a regular $1976$-gon. $T$ is the set of all points which are the midpoint of at least one pair of points in $S$. What is the greatest number of points of $T$ which lie on a single circle?","solutions":[],"images":[]});

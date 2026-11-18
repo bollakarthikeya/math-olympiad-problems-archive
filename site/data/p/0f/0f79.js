@@ -1,0 +1,1 @@
+__p({"id":"0f79","competition":"20th ASU","problem":"Prove that there is no convex quadrilateral with vertices at lattice points so that one diagonal has twice the length of the other and the angle between them is $45$ degrees.","solutions":[],"images":[]});

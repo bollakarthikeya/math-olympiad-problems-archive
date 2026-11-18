@@ -1,0 +1,1 @@
+__p({"id":"01mm","competition":"Belarusian Mathematical Olympiad","problem":"Prove that if positive numbers $a$, $b$, $x$, $y$ satisfy the inequalities $ab \\ge xa + yb$ and $a \\ge b$, then they satisfy the inequality $x + y \\le a$.","solutions":[],"images":[]});

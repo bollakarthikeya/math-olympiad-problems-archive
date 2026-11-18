@@ -1,0 +1,1 @@
+__p({"id":"08ia","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"The prime number $p$ has the following property: the remainder $r$ of the division of $p$ by $210$ is a composite number which can be represented as a sum of two perfect squares. Find the number $r$.","solutions":[],"images":[]});

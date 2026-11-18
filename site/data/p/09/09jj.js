@@ -1,0 +1,1 @@
+__p({"id":"09jj","competition":"Mongolian Mathematical Olympiad Round 2","problem":"Find all positive integer pairs $(n, a)$ such that the quotient\n$$\n\\frac{a^{n+1} + 3^{n+1} + 1}{a^n + 3^n + 1}\n$$\nis an integer.","solutions":[],"images":[]});

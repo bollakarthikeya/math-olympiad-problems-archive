@@ -1,0 +1,1 @@
+__p({"id":"09ni","competition":"MMO2025 Round 2","problem":"It takes $54$ seconds to descend the escalator while standing still. When Bayaraa walks down the escalator at a speed of $1$ m/s, it takes $36$ seconds. How many seconds will it take Bayaraa to descend if he walks at a speed of $2$ m/s?","solutions":[],"images":[]});

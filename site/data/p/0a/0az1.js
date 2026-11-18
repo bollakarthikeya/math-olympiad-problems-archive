@@ -1,0 +1,1 @@
+__p({"id":"0az1","competition":"21st PMO Area Stage","problem":"Suppose that $a, b, c$ are real numbers such that\n$$\n\\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} = 4\\left(\\frac{1}{a+b} + \\frac{1}{b+c} + \\frac{1}{c+a}\\right) = \\frac{c}{a+b} + \\frac{a}{b+c} + \\frac{b}{c+a} = 4\n$$\nDetermine the value of $abc$.","solutions":[],"images":[]});

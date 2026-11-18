@@ -1,0 +1,1 @@
+__p({"id":"043a","competition":"China Mathematical Competition","problem":"Given arithmetic sequence $\\{a_n\\}$ with common difference $d \\ne 0$ and $a_{2021} = a_{20} + a_{21}$, then the value of $\\frac{a_1}{d}$ is ______.","solutions":["By the conditions, we have $a_1 + 2020d = a_1 + 19d + a_1 + 20d$. And since $d \\ne 0$, $\\frac{a_1}{d} = 1981$."],"images":[]});

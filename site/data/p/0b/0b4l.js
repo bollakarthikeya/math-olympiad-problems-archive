@@ -1,0 +1,1 @@
+__p({"id":"0b4l","competition":"25th Philippine Mathematical Olympiad Area Stage","problem":"Determine the sum of all positive integers $n$ for which $2[\\tau(n)]^{2}=3 n$, where $\\tau(n)$ is the number of positive divisors of $n$.","solutions":[],"images":[]});

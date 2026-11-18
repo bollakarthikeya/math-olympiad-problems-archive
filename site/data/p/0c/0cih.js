@@ -1,0 +1,1 @@
+__p({"id":"0cih","competition":"75th NMO","problem":"Show that there exist infinitely many natural numbers $n$ for which $2025 \\cdot n$ is a perfect cube, and $5202 \\cdot n$ is a perfect square.","solutions":[],"images":[]});

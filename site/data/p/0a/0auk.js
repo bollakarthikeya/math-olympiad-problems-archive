@@ -1,0 +1,1 @@
+__p({"id":"0auk","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"Rationalize the denominator of $\\frac{6}{\\sqrt[3]{4}+\\sqrt[3]{16}+\\sqrt[3]{64}}$ and simplify.","solutions":[],"images":[]});

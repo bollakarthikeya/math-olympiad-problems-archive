@@ -1,0 +1,1 @@
+__p({"id":"0cj1","competition":"75th NMO","problem":"Determine all functions $f : (0, \\infty) \\to (0, \\infty)$ such that $f(x^y) = (f(x))^{f(y)}$, for any positive real numbers $x$ and $y$.","solutions":[],"images":[]});

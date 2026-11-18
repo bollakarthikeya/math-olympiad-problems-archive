@@ -1,0 +1,1 @@
+__p({"id":"0f8t","competition":"23rd ASU","problem":"Show that for each integer $n > 0$, there is a polygon with vertices at lattice points and all sides parallel to the axes, which can be dissected into $1 \\times 2$ (and/or $2 \\times 1$) rectangles in exactly $n$ ways.","solutions":[],"images":[]});

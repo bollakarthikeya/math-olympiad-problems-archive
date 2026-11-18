@@ -1,0 +1,1 @@
+__p({"id":"0ept","competition":"South African Mathematics Olympiad","problem":"If $2x + 2y = 14$ and $x^2 - y^2 = 21$ then $x - y$ is equal to\n(A) 1 (B) 2 (C) 3 (D) 4 (E) -1","solutions":["Since $2x + 2y = 14$, we have $x + y = 7$. Also since $x^2 - y^2 = (x + y)(x - y)$, we have $7(x - y) = 21$, so $x - y = 21/7 = 3$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dbd","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Determine all arithmetic sequences $a_{1}, a_{2}, \\ldots$ for which there exists integer $N>1$ such that for any positive integer $k$ the following divisibility holds\n$$\na_{1} a_{2} \\ldots a_{k} \\mid a_{N+1} a_{N+2} \\ldots a_{N+k} .\n$$","solutions":[],"images":[]});

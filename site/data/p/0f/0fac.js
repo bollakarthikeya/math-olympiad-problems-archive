@@ -1,0 +1,1 @@
+__p({"id":"0fac","competition":"25th ASU","problem":"The real numbers $x_1, x_2, \\ldots, x_{1991}$ satisfy\n$$\n|x_1 - x_2| + |x_2 - x_3| + \\ldots + |x_{1990} - x_{1991}| = 1991.\n$$\nWhat is the maximum possible value of\n$$\n|s_1 - s_2| + |s_2 - s_3| + \\ldots + |s_{1990} - s_{1991}|,\n$$\nwhere $s_n = (x_1 + x_2 + \\ldots + x_n)/n$?","solutions":[],"images":[]});

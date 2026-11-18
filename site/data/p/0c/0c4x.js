@@ -1,0 +1,1 @@
+__p({"id":"0c4x","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"Let $A$, $B \\in \\mathcal{M}_n(\\mathbb{C})$ and $c \\in \\mathbb{C}^*$ so that $AB - BA = c \\cdot (A - B)$. Prove that the matrices $A$ and $B$ have the same eigenvalues.","solutions":[],"images":[]});

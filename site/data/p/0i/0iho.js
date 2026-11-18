@@ -1,0 +1,1 @@
+__p({"id":"0iho","competition":"Berkeley Math Circle Monthly Contest 4","problem":"Do there exist positive integers $x$, $y$, and $z$ such that $x^{2006} + y^{2006} = z^{2007}$? Explain your answer.","solutions":["Yes, for example, $x = y = z = 2$."],"images":[]});

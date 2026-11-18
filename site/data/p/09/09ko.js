@@ -1,0 +1,1 @@
+__p({"id":"09ko","competition":"Mongolian Mathematical Olympiad","problem":"Let $ABCD$ be a quadrilateral. Let point $P$ be on side $BC$, and point $Q$ be on side $CD$ such that $2PB = AB$ and $2QD = AD$. Let $M$ be the midpoint of segment $BD$, and $N$ be the midpoint of segment $PQ$. If $4MN = BD$, prove that $ABCD$ is a cyclic quadrilateral.","solutions":[],"images":[]});

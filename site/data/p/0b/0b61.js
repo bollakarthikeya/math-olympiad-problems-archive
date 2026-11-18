@@ -1,0 +1,1 @@
+__p({"id":"0b61","competition":"Shortlisted Problems for the Romanian NMO","problem":"Prove that if $a$, $b$, $c$ are positive real numbers such that $abc = 1$, then\n$$\n(1 + a^3)(1 + b^3)(1 + c^3) \\ge 2 \\left(1 + \\frac{b}{a} + \\frac{c}{b} + \\frac{a}{c}\\right).\n$$","solutions":[],"images":[]});

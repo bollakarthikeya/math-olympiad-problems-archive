@@ -1,0 +1,1 @@
+__p({"id":"0ao1","competition":"Area Stage","problem":"The polynomial function $p(x)$ has the form $x^{10} - 4x^{9} + \\ldots + a x + k$ where $a, k \\in \\mathbb{R}$. If $p(x)$ has integral zeros, find the minimum possible positive value of $k$.","solutions":[],"images":[]});

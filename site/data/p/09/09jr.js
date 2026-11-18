@@ -1,0 +1,1 @@
+__p({"id":"09jr","competition":"Mongolian Mathematical Olympiad","problem":"Let $M$ be the midpoint of the side $CD$ of the trapezoid $ABCD$. Let segment $BM$ intersect diagonal $AC$ at point $E$. On the segment $AE$, a point $L$ (distinct from $C$) is chosen such that $EC = EL$. Line $BL$ intersects the base $AD$ at point $K$. Prove that $AK = KD$.","solutions":[],"images":[]});

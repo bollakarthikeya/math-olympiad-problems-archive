@@ -1,0 +1,1 @@
+__p({"id":"0kni","competition":"USAJMO","problem":"Let $\\mathbb{N}$ denote the set of positive integers. Find all functions $f: \\mathbb{N} \\to \\mathbb{N}$ such that for all positive integers $a$ and $b$,\n$$\nf(a^2 + b^2) = f(a)f(b) \\quad \\text{and} \\quad f(a^2) = f(a)^2.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04pv","competition":"Croatian Mathematical Society Competitions","problem":"Prove that the number\n$$\n\\overbrace{222\\ldots2}^{n \\text{ digits}} - 3^n + 1\n$$\nis divisible by $7$ for any positive integer $n$. (Matko Ljulj)","solutions":[],"images":[]});

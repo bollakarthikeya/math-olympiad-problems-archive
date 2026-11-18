@@ -1,0 +1,1 @@
+__p({"id":"04pj","competition":"Croatian Mathematical Society Competitions","problem":"Point $T$ is located inside the triangle $ABC$ so that $|AT| = 56$, $|BT| = 40$ and $|CT| = 35$. The feet of the altitudes from $T$ to the sides of $ABC$ are vertices of an equilateral triangle. Find $\\triangle ABC$.\n\n(Belarus 2018)","solutions":[],"images":[]});

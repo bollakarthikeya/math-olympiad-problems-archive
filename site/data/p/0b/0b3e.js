@@ -1,0 +1,1 @@
+__p({"id":"0b3e","competition":"24th Philippine Mathematical Olympiad","problem":"How many positive integers $n < 2022$ are there for which the sum of the odd positive divisors of $n$ is $24$?\n\n(a) $7$\n(b) $8$\n(c) $14$\n(d) $15$","solutions":[],"images":[]});

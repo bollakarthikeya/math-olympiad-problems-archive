@@ -1,0 +1,1 @@
+__p({"id":"0la5","competition":"Vijetnam 2008","problem":"In a triangle $ABC$, the angle $BEC$ is acute, where $E$ is the midpoint of $AB$. On the ray $EC$, choose a point $M$ such that $\\widehat{BME} = \\widehat{ECA}$. Denote by $\\alpha$ the measure of the angle $BEC$. Find the ratio $\\frac{MC}{AB}$ in terms of $\\alpha$.","solutions":[],"images":[]});

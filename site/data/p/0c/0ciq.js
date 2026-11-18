@@ -1,0 +1,1 @@
+__p({"id":"0ciq","competition":"75th NMO","problem":"For each integer $n \\ge 2$, we consider the set of all $n$-th roots of unity $U_n = \\{z \\in \\mathbb{C} \\mid z^n = 1\\}$. Determine the integers $n \\ge 2$ for which there exist $x, y \\in U_n$, $x \\ne y$ such that $x + y \\notin U_k$ for any integer $k \\ge 2$.","solutions":[],"images":[]});

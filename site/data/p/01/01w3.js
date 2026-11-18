@@ -1,0 +1,1 @@
+__p({"id":"01w3","competition":"69th Belarusian Mathematical Olympiad","problem":"Determine all pairs $(n, k)$ of distinct positive integers such that there exists a positive integer $s$ for which the numbers of divisors of $sn$ and of $sk$ are equal.","solutions":[],"images":[]});

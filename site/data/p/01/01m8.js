@@ -1,0 +1,1 @@
+__p({"id":"01m8","competition":"61st Belarusian Mathematical Olympiad","problem":"a) Does there exist a function $f: \\mathbb{R} \\to \\mathbb{R}$, such that for any real $x$ the following equality holds $f(\\sin x) + f(\\cos x) = 1$?\n\nb) The same question for $f(\\sin x) + f(\\cos x) = \\sin x$.\n\n(I. Gorodnin)","solutions":[],"images":[]});

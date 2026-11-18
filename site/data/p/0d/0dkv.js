@@ -1,0 +1,1 @@
+__p({"id":"0dkv","competition":"Saudi Booklet","problem":"Let $ABC$ be a triangle, its incircle $(I)$ touches its sides $BC$, $CA$, $AB$ at $D$, $E$, $F$ respectively. The bisector of angle $BIC$ intersects $BC$ at $M$. The line $AM$ intersects $EF$ at $N$. Prove that $DN$ bisects angle $EDF$.","solutions":[],"images":[]});

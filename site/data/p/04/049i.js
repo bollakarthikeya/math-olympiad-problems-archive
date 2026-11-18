@@ -1,0 +1,1 @@
+__p({"id":"049i","competition":"Hrvatska 2011","problem":"If $\\cos \\gamma = 2 \\sin \\alpha \\sin \\beta - 1$, prove that the triangle with angles $\\alpha, \\beta, \\gamma$ is isosceles.","solutions":[],"images":[]});

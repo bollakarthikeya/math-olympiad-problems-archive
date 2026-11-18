@@ -1,0 +1,1 @@
+__p({"id":"0iy8","competition":"12th Annual Harvard-MIT Mathematics Tournament","problem":"How many perfect squares divide $2^{3} \\cdot 3^{5} \\cdot 5^{7} \\cdot 7^{9}$?","solutions":["The number of such perfect squares is $2 \\cdot 3 \\cdot 4 \\cdot 5$, since the exponent of each prime can be any nonnegative even number less than the given exponent."],"images":[]});

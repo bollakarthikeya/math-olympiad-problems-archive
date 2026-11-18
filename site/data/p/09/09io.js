@@ -1,0 +1,1 @@
+__p({"id":"09io","competition":"Mongolian Mathematical Olympiad Round 2","problem":"Let $N \\ge 3$ be an odd integer. For distinct divisors $n$ and $m$ of $N$ such that $n > m$, prove that\n$$\n\\frac{n}{m} \\ge 1 + \\frac{2m+4}{N}.\n$$","solutions":[],"images":[]});

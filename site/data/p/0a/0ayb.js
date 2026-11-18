@@ -1,0 +1,1 @@
+__p({"id":"0ayb","competition":"20th Philippine Mathematical Olympiad","problem":"A line passes through $(k, -9)$ and $(7, 3k)$ and has slope $2k$. Find the possible values of $k$.","solutions":["We have $\\frac{3k - (-9)}{7 - k} = 2k$, so $3k + 9 = 2k(7 - k)$ or $2k^2 - 11k + 9 = (2k - 9)(k - 1) = 0$. Hence $k = \\frac{9}{2}$ or $k = 1$."],"images":[]});

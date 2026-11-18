@@ -1,0 +1,1 @@
+__p({"id":"09lf","competition":"Mongolian Mathematical Olympiad","problem":"Let $p$ be a prime number of the form $p = 12k + 5$ and let $\\{A_n\\}_{n=1}^{\\infty}$ be a sequence given by $A_n = (n^1 - 1)(n^2 - 1) \\cdots (n^{6k+1} - 1)(n^{6k+2} - 1)$. Show that\n$$\nA_2^2 + A_8^2 \\equiv 0 \\pmod{p}.\n$$","solutions":[],"images":[]});

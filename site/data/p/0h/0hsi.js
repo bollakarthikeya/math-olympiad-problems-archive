@@ -1,0 +1,1 @@
+__p({"id":"0hsi","competition":"","problem":"When a single number is added to each member of the sequence $20, 50, 100$, the sequence becomes expressible as $x, a x, a^{2} x$. Find $a$.","solutions":["$\\frac{5}{3}$."],"images":[]});

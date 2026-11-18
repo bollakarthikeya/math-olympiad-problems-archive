@@ -1,0 +1,1 @@
+__p({"id":"0f6p","competition":"19th ASU","problem":"Given a line $L$ and a point $O$ not on the line, can we move an arbitrary point $X$ to $O$ using only rotations about $O$ and reflections in $L$?","solutions":[],"images":[]});

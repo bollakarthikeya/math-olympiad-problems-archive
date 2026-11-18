@@ -1,0 +1,1 @@
+__p({"id":"0f8u","competition":"23rd ASU","problem":"Find the smallest positive integer $n$ for which we can find an integer $m$ such that $\\left[ \\dfrac{10^n}{m} \\right] = 1989$.","solutions":[],"images":[]});

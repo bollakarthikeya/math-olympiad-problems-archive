@@ -1,0 +1,1 @@
+__p({"id":"0bet","competition":"Shortlisted Problems for the 64th NMO","problem":"Find all increasing functions $f: \\mathbb{N}^* \\to \\mathbb{N}^*$ with the property: for every $n \\in \\mathbb{N}^*$, the number $\\frac{1}{n} \\sum_{k=1}^{n} k f(k)$ is a perfect square not larger than $(n+1)^2$.","solutions":[],"images":[]});

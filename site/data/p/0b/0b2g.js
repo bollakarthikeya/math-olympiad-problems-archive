@@ -1,0 +1,1 @@
+__p({"id":"0b2g","competition":"23rd Philippine Mathematical Olympiad Qualifying Stage","problem":"In a convex polygon, the number of diagonals is $23$ times the number of its sides. How many sides does it have?\n\n(a) $46$\n(b) $49$\n(c) $66$\n(d) $69$","solutions":[],"images":[]});

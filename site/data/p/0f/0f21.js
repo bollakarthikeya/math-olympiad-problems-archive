@@ -1,0 +1,1 @@
+__p({"id":"0f21","competition":"ASU","problem":"There are three straight roads. On each road a man is walking at constant speed. At time $t = 0$, the three men are not collinear. Prove that they will be collinear for $t > 0$ at most twice.","solutions":[],"images":[]});

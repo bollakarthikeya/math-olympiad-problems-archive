@@ -1,0 +1,1 @@
+__p({"id":"09jc","competition":"Mongolian Mathematical Olympiad Round 2","problem":"Consider a triangle whose sides have length $3$, $4$ and $5$. Prove that the angle against the side with length $3$ is between $36^\\circ$ and $38^\\circ$.","solutions":[],"images":[]});

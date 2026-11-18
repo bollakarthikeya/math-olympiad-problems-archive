@@ -1,0 +1,1 @@
+__p({"id":"0gmp","competition":"IMO TEAM SELECTION EXAM","problem":"For a positive integer $n$, let $p(n)$ denote the number of sequences of positive integers the sum of whose terms is equal to $n$. Show that\n$$\n\\frac{1 + p(1) + p(2) + \\dots + p(n-1)}{p(n)} \\le \\sqrt{2n} .\n$$","solutions":[],"images":[]});

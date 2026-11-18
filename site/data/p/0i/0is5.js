@@ -1,0 +1,1 @@
+__p({"id":"0is5","competition":"1st Annual Harvard-MIT November Tournament","problem":"What is the smallest prime divisor of $5^{7^{10^{7^{10}}}} + 1$?","solutions":["Notice that $5$ to any power is odd, so this number is even. Then $2$ is a prime divisor. It also happens to be the smallest prime."],"images":[]});

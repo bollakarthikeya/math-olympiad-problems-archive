@@ -1,0 +1,1 @@
+__p({"id":"0lca","competition":"Vietnamese Mathematical Competitions","problem":"The sequence $(x_n)$ is defined by\n$$\nx_0 = 2,\\ x_{n+1} = [\\sqrt{2x_n(x_n+1)}],\\ \\forall n \\in \\mathbb{N}^*\n$$\nProve that $x_{2n} = 2^n + [2^n\\sqrt{2}]$ and $x_{2n+1} = 2^{n+1} + [2^n\\sqrt{2}]$ for all $n \\in \\mathbb{N}^*$.","solutions":[],"images":[]});

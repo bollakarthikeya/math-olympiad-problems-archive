@@ -1,0 +1,1 @@
+__p({"id":"0680","competition":"33rd Balkan Mathematical Olympiad","problem":"Find all injective functions $f : \\mathbb{R} \\to \\mathbb{R}$ such that for every real number $x$ and every positive integer $n$,\n$$\n\\left| \\sum_{i=1}^{n} i \\left( f(x+i+1) - f(x+i) \\right) \\right| < 2016\n$$","solutions":[],"images":[]});

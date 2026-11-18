@@ -1,0 +1,1 @@
+__p({"id":"0bhl","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Find all positive integers $n$ with at least two digits, $n$'s digits are pairwise distinct and $n$ equals the product of the sum of its digits with one of its digits.","solutions":[],"images":[]});

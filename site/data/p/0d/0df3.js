@@ -1,0 +1,1 @@
+__p({"id":"0df3","competition":"Saudi Arabian IMO Booklet","problem":"We call a positive integer $n$ venerable if all its positive divisors less than $n$ (but including 1) add up to $n - 1$. Find all venerable numbers whose some power (with the exponent at least 2) is also venerable.","solutions":[],"images":[]});

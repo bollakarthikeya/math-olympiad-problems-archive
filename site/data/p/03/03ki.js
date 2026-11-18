@@ -1,0 +1,1 @@
+__p({"id":"03ki","competition":"Canadian Mathematical Olympiad","problem":"Let $n$ be a fixed positive integer. Show that for only nonnegative integers $k$, the diophantine equation\n$$\nx_{1}^{3} + x_{2}^{3} + \\cdots + x_{n}^{3} = y^{3k+2}\n$$\nhas infinitely many solutions in positive integers $x_{i}$ and $y$.","solutions":[],"images":[]});

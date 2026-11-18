@@ -1,0 +1,1 @@
+__p({"id":"0f77","competition":"20th ASU","problem":"$ABC$ is acute-angled. What point $P$ on the segment $BC$ gives the minimal area for the intersection of the circumcircles of $ABP$ and $ACP$?","solutions":[],"images":[]});

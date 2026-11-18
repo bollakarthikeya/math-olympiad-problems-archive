@@ -1,0 +1,1 @@
+__p({"id":"0kg6","competition":"AMC 10 A","problem":"What is the value of $\\frac{(2112-2021)^2}{169}$?\n(A) 7   (B) 21   (C) 49   (D) 64   (E) 91","solutions":["Observe that $2112 - 2021 = 91 = 7 \\cdot 13$ and that $169 = 13^2$. Thus\n$$\n\\frac{(2112 - 2021)^2}{169} = \\frac{(7 \\cdot 13)^2}{13^2} = 7^2 = 49.\n$$"],"images":[]});

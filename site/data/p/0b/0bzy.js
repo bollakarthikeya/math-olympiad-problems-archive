@@ -1,0 +1,1 @@
+__p({"id":"0bzy","competition":"2018 Romanian Mathematical Olympiad","problem":"Prove that for every integer $n \\ge 2$ one can find matrices $A_1, A_2, \\dots, A_n \\in \\mathcal{M}_2(\\mathbb{R})$, having non-zero entries, such that\n$$\nA_1^{-1} + A_2^{-1} + \\dots + A_n^{-1} = (A_1 + A_2 + \\dots + A_n)^{-1}.\n$$","solutions":[],"images":[]});

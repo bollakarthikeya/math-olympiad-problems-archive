@@ -1,0 +1,1 @@
+__p({"id":"0l07","competition":"AMC 10 B","problem":"What is $10! - 7! \\cdot 6!$?\n(A) -120 (B) 0 (C) 120 (D) 600 (E) 720","solutions":["**Answer (B):** Note that\n$$\n10! - 7! \\cdot 6! = 7! \\cdot (10 \\cdot 9 \\cdot 8 - 6!) = 7! \\cdot (720 - 720) = 0.\n$$"],"images":[]});

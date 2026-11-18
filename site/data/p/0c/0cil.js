@@ -1,0 +1,1 @@
+__p({"id":"0cil","competition":"75th NMO","problem":"Determine all functions $f: \\mathbb{N}^* \\to \\mathbb{N}$ that satisfy the following properties:\na) the expression $n^3 - n f(n) - 1$ is a cube of a natural number for all $n \\in \\mathbb{N}^*$;\nb) the function $g: \\mathbb{N}^* \\to \\mathbb{N}$ defined by $g(n) = 4n - f(n)$ is increasing.","solutions":[],"images":[]});

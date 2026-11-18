@@ -1,0 +1,1 @@
+__p({"id":"0joe","competition":"HMMT February","problem":"Let $ABCDE$ be a convex pentagon such that $\\angle ABC = \\angle ACD = \\angle ADE = 90^{\\circ}$ and $AB = BC = CD = DE = 1$. Compute $AE$.","solutions":["By Pythagoras,\n$$\nAE^2 = AD^2 + 1 = AC^2 + 2 = AB^2 + 3 = 4\n$$\nso $AE = 2$."],"images":[]});

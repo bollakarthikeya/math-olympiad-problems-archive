@@ -1,0 +1,1 @@
+__p({"id":"0jw6","competition":"February 2017","problem":"A random number generator will always output $7$. Sam uses this random number generator once. What is the expected value of the output?","solutions":["The only output is $7$, so the expected value is $7$."],"images":[]});

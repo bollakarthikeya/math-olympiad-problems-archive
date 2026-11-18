@@ -1,0 +1,1 @@
+__p({"id":"09ld","competition":"Mongolian Mathematical Olympiad","problem":"What is the minimum perimeter of a scalene and acute-angled triangle whose sides are square numbers?","solutions":[],"images":[]});

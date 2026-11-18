@@ -1,0 +1,1 @@
+__p({"id":"09nk","competition":"MMO2025 Round 2","problem":"A $4 \\times 4$ grid consists of 25 vertex points formed by its horizontal and vertical lines. Coloring a cell colors its four corner vertex points. In how many distinct ways can cells be colored so that every vertex point is colored at least once?\n(Batzorig Undrakh)","solutions":[],"images":[]});

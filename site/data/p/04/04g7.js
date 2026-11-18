@@ -1,0 +1,1 @@
+__p({"id":"04g7","competition":"Mathematica competitions in Croatia","problem":"Let $a_1, b_1, c_1, a_2, b_2, c_2$ be positive real numbers such that $b_1^2 \\le 4a_1c_1$ and $b_2^2 \\le 4a_2c_2$. Prove that $4(a_1 + a_2 + 5)(c_1 + c_2 + 1) > (b_1 + b_2 + 2)^2$. (Macedonia 2013)","solutions":[],"images":[]});

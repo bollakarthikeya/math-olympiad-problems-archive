@@ -1,0 +1,1 @@
+__p({"id":"0l7n","competition":"16th United States of America Junior Mathematical Olympiad","problem":"Let $n$ be a positive integer, and let $a_0, a_1, \\dots, a_n$ be nonnegative integers such that $a_0 \\ge a_1 \\ge \\dots \\ge a_n$. Prove that\n$$\n\\sum_{i=0}^{n} i \\binom{a_i}{2} \\le \\frac{1}{2} \\binom{a_0 + a_1 + \\dots + a_n}{2}.\n$$","solutions":[],"images":[]});

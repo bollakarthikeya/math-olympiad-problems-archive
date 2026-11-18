@@ -1,0 +1,1 @@
+__p({"id":"0ave","competition":"19th Philippine Mathematical Olympiad","problem":"Let $f$ be a real-valued function such that\n$$\nf(x-f(y))=f(x)-x f(y)\n$$\nfor any real numbers $x$ and $y$. If $f(0)=3$, determine $f(2016)-f(2013)$.","solutions":[],"images":[]});

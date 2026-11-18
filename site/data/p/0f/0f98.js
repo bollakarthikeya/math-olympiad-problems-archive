@@ -1,0 +1,1 @@
+__p({"id":"0f98","competition":"23rd ASU","problem":"Show that the 120 five digit numbers which are permutations of $12345$ can be divided into two sets with each set having the same sum of squares.","solutions":[],"images":[]});

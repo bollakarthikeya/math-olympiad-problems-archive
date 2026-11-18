@@ -1,0 +1,1 @@
+__p({"id":"03gb","competition":"Canadian Mathematical Olympiad","problem":"Let $ABC$ be a triangle with sides of lengths $a$, $b$ and $c$. Let the bisector of the angle $C$ cut $AB$ in $D$. Prove that the length of $CD$ is\n$$\n\\frac{2ab \\cos \\frac{C}{2}}{a+b}\n$$","solutions":[],"images":[]});

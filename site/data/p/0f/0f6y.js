@@ -1,0 +1,1 @@
+__p({"id":"0f6y","competition":"20th ASU","problem":"A $99 \\times 100$ chess board is colored in the usual way with alternate squares black and white. What fraction of the main diagonal is black? What if the board is $99 \\times 101$?","solutions":[],"images":[]});

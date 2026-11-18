@@ -1,0 +1,1 @@
+__p({"id":"09it","competition":"Mongolian Mathematical Olympiad Round 2","problem":"How many ways are there to place pawns on a $10 \\times 8$ board in such a way that each $2 \\times 2$ square contains exactly two pawns?","solutions":[],"images":[]});

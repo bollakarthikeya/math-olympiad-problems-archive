@@ -1,0 +1,1 @@
+__p({"id":"0dfb","competition":"Saudi Arabian IMO Booklet","problem":"Characterize all positive integers $n > 1$ for which the expression\n$$\n(n-1)! \\cdot \\left(1 + \\frac{1}{2} + \\frac{1}{3} + \\dots + \\frac{1}{n-1}\\right)\n$$\nis not divisible by $n$.","solutions":[],"images":[]});

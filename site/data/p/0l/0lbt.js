@@ -1,0 +1,1 @@
+__p({"id":"0lbt","competition":"Vietnamese Mathematical Competitions","problem":"A sequence of $n$ real numbers ($n \\ge 2$) is called *nearly increasing* if it contains an increasing subsequence of $n-1$ terms. How many nearly increasing sequences are there in the set of all permutations of $\\{1,2,3,...,n\\}$?","solutions":[],"images":[]});

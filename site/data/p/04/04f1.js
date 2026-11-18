@@ -1,0 +1,1 @@
+__p({"id":"04f1","competition":"Mathematica competitions in Croatia","problem":"Determine all positive integers $n$ such that\n$$\n2^n \\cdot (n!)^2 < (2n)!\n$$\n*(Ilko Brnetić)*","solutions":[],"images":[]});

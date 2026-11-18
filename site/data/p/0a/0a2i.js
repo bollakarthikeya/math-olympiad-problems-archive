@@ -1,0 +1,1 @@
+__p({"id":"0a2i","competition":"Junior Mathematical Olympiad","problem":"How many pairs of positive integers $a$ and $b$ are there, with $a > b$, both smaller than $100$, and for which $a + b = (a - b)^3$?\n\nA) 2   B) 3   C) 4   D) 5   E) 6","solutions":[],"images":[]});

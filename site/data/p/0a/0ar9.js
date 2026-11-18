@@ -1,0 +1,1 @@
+__p({"id":"0ar9","competition":"13th Philippine Mathematical Olympiad","problem":"Let $f(x)$ be a cubic polynomial. If $f(x)$ is divided by $2x+3$, the remainder is $4$, while if it is divided by $3x+4$, the remainder is $5$. What will be the remainder when $f(x)$ is divided by $6x^{2}+17x+12$?","solutions":[],"images":[]});

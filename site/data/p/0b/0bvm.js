@@ -1,0 +1,1 @@
+__p({"id":"0bvm","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Prove that for any positive integers $n$ and $k$, the number $10^{n+k} - 10^n$ can be written as the sum of $18k$ nonzero perfect squares.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0aoa","competition":"AREA STAGE","problem":"Define $f(x) = \\frac{a^{x}}{a^{x} + \\sqrt{a}}$ for any $a > 0$. Evaluate\n$$\n\\sum_{i=1}^{2012} f\\left(\\frac{i}{2013}\\right).\n$$","solutions":[],"images":[]});

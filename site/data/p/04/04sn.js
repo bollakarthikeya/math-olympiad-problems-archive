@@ -1,0 +1,1 @@
+__p({"id":"04sn","competition":"Czech and Slovak Mathematical Olympiad","problem":"Determine all pairs $(p, q)$ of integers such that $p$ is an integer multiple of $q$ and quadratic equation $x^2 + px + q = 0$ has at least one integer root.","solutions":[],"images":[]});

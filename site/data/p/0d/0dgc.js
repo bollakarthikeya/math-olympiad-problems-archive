@@ -1,0 +1,1 @@
+__p({"id":"0dgc","competition":"Saudi Arabian IMO Booklet","problem":"Find the number of integer solutions of the equation\n$$\n\\left\\lfloor \\frac{x}{7} \\right\\rfloor = \\left\\lfloor \\frac{x}{12} \\right\\rfloor + \\left\\lfloor \\frac{x}{17} \\right\\rfloor.\n$$","solutions":[],"images":[]});

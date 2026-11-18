@@ -1,0 +1,1 @@
+__p({"id":"04jq","competition":"Croatia Mathematical Competitions","problem":"Let $n$ be a positive integer. Each of the numbers $n$, $n+1$, $n+2$, $\\dots$, $2n-1$ has a largest odd divisor. Determine the sum of these largest odd divisors.","solutions":[],"images":[]});

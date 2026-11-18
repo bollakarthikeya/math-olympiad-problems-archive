@@ -1,0 +1,1 @@
+__p({"id":"0f2o","competition":"ASU","problem":"Given any tetrahedron, show that we can find two planes such that the areas of the projections of the tetrahedron onto the two planes have ratio at least $\\sqrt{2}$.","solutions":[],"images":[]});

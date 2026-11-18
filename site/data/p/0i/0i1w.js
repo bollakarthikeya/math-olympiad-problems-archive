@@ -1,0 +1,1 @@
+__p({"id":"0i1w","competition":"Harvard-MIT Math Tournament","problem":"Find $x+y$, given that $x^{2}-y^{2}=10$ and $x-y=2$.","solutions":["$x^{2}-y^{2}=(x-y)(x+y)=2(x+y)=10$, so $x+y=5$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f17","competition":"ASU","problem":"The $n$ points of a graph are each colored red or blue. At each move we select a point which differs in color from more than half of the points to which it is joined and we change its color. Prove that this process must finish after a finite number of moves.","solutions":[],"images":[]});

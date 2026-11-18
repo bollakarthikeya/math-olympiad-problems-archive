@@ -1,0 +1,1 @@
+__p({"id":"0f12","competition":"ASU","problem":"Each side of a convex hexagon is longer than $1$. Is there always a diagonal longer than $2$? If each of the main diagonals of a hexagon is longer than $2$, is there always a side longer than $1$?","solutions":[],"images":[]});

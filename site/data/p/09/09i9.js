@@ -1,0 +1,1 @@
+__p({"id":"09i9","competition":"Mongolian Mathematical Olympiad Round 1","problem":"How many positive integers not exceeding $11111100111$ can be written using only digits $0$ and $1$ in base $10$?","solutions":[],"images":[]});

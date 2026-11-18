@@ -1,0 +1,1 @@
+__p({"id":"03cy","competition":"Bulgaria 2022","problem":"Consider the equation $(x^2 - 8x + 7)^2 + (3m - 1)(x^2 - 8x + 7) + 2m^2 - m = 0$, where $m$ is a real parameter.\na) Find the number of solutions of the equation for $m = 6$.\nb) Find the values of $m$ for which the equation has exactly three distinct real roots.","solutions":[],"images":[]});

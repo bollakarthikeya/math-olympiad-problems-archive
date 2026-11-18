@@ -1,0 +1,1 @@
+__p({"id":"0f6j","competition":"19th ASU","problem":"A regular hexagon is divided into 24 equilateral triangles by lines parallel to its sides. 19 different numbers are assigned to the 19 vertices. Show that at least 7 of the 24 triangles have the property that the numbers assigned to its vertices increase counterclockwise.","solutions":[],"images":[]});

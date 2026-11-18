@@ -1,0 +1,1 @@
+__p({"id":"03km","competition":"Canadian Mathematical Olympiad","problem":"Let $\\triangle ABC$ be an isosceles triangle with $AB = AC$. Suppose that the angle bisector of $\\angle B$ meets $AC$ at $D$ and that $BC = BD + AD$. Determine $\\angle A$.","solutions":[],"images":[]});

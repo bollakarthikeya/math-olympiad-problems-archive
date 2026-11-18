@@ -1,0 +1,1 @@
+__p({"id":"0fm5","competition":"Spanija 2012","problem":"On a right-angled triangle with hypotenuse length $1$, $25$ points are drawn. Prove that at least $9$ of them can always be covered by a $\\frac{3}{10}$ radius half-circle.","solutions":[],"images":[]});

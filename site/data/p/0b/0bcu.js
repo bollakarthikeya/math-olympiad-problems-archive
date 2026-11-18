@@ -1,0 +1,1 @@
+__p({"id":"0bcu","competition":"Shortlisted Problems for the 64th NMO","problem":"Let $A$ be a set of 7 integers and denote $S = \\{x + y \\mid x, y \\in A\\}$. Prove that if $S$ has 13 elements, then the sum of $A$'s elements is divisible by 7.","solutions":[],"images":[]});

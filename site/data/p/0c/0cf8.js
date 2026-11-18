@@ -1,0 +1,1 @@
+__p({"id":"0cf8","competition":"74th NMO Shortlisted Problems","problem":"Find all the numbers $n$ and $p$, with $n$ a positive integer and $p$ a prime, so that the numbers $\\frac{p-2}{n}$, $\\frac{n(n+2)}{p}$ and $\\frac{n(n+2)+p-2}{n+p}$ are integers.","solutions":[],"images":[]});

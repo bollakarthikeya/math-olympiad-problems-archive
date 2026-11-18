@@ -1,0 +1,1 @@
+__p({"id":"0f4p","competition":"16th ASU","problem":"What is the largest subset of $\\{1, 2, \\ldots , 1982\\}$ with the property that no element is the product of two other distinct elements.","solutions":[],"images":[]});

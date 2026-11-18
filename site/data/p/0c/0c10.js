@@ -1,0 +1,1 @@
+__p({"id":"0c10","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Consider the congruent segments $AB$, $BC$ and $AD$, with $D \\in (BC)$. Show that the perpendicular bisector of the segment $DC$, the angle bisector of the angle $ADC$ and the line $AC$ are concurrent.\nMircea Fianu","solutions":[],"images":[]});

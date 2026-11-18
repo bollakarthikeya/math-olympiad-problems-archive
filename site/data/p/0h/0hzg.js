@@ -1,0 +1,1 @@
+__p({"id":"0hzg","competition":"Harvard-MIT Math Tournament","problem":"Find\n$$\n\\int_{-4 \\pi \\sqrt{2}}^{4 \\pi \\sqrt{2}}\\left(\\frac{\\sin x}{1+x^{4}}+1\\right) d x\n$$","solutions":["The function $\\frac{\\sin x}{1+x^{4}}$ is odd, so its integral over this interval is $0$. Thus we get the same answer if we just integrate $d x$, namely, $8 \\pi \\sqrt{2}$."],"images":[]});

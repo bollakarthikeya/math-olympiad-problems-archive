@@ -1,0 +1,1 @@
+__p({"id":"03j6","competition":"Canadian Mathematical Olympiad","problem":"Prove or disprove that there exists an integer which is doubled when the initial digit is transferred to the end.","solutions":[],"images":[]});

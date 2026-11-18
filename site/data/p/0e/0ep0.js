@@ -1,0 +1,1 @@
+__p({"id":"0ep0","competition":"South African Mathematics Olympiad","problem":"The number of different positive integers such that $\\frac{n}{n+4} < \\frac{4}{9}$ is\n(A) 0\n(B) 1\n(C) 2\n(D) 3\n(E) 4","solutions":["Multiplying gives us $9n < 4n + 16$, i.e. $5n < 16$, so $n = 1$ or $2$ or $3$."],"images":[]});

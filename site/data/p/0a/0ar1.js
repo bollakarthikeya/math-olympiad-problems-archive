@@ -1,0 +1,1 @@
+__p({"id":"0ar1","competition":"13th Philippine Mathematical Olympiad","problem":"A circle with center $C$ and radius $r$ intersects the square $EFGH$ at $H$ and at $M$, the midpoint of $EF$. If $C$, $E$ and $F$ are collinear and $E$ lies between $C$ and $F$, what is the area of the region outside the circle and inside the square in terms of $r$?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0b31","competition":"23rd Philippine Mathematical Olympiad Qualifying Stage","problem":"How many ordered pairs of positive integers $(x, y)$ satisfy $20x + 21y = 2021$?\n\n(a) 4\n(b) 5\n(c) 6\n(d) infinitely many","solutions":[],"images":[]});

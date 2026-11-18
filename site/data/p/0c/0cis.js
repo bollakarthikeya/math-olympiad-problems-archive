@@ -1,0 +1,1 @@
+__p({"id":"0cis","competition":"75th NMO","problem":"What are the finite unitary rings for which we can find 3 nonzero elements (not necessarily distinct), whose sum equals their product?","solutions":[],"images":[]});

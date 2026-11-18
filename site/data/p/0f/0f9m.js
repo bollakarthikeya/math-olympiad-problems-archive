@@ -1,0 +1,1 @@
+__p({"id":"0f9m","competition":"24th ASU","problem":"For which positive integers $n$ is $3^{2n + 1} - 2^{2n + 1} - 6^n$ composite?","solutions":["Answer all $n \\neq 1$\n\n$3^{2n + 1} - 2^{2n + 1} - 6^n = (3^n - 2^n)(3^{n + 1} + 2^{n + 1})$, so it is certainly composite for $n > 1$. For $n = 1$, it is $27 - 8 - 6 = 13$, which is prime."],"images":[]});

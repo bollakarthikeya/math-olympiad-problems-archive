@@ -1,0 +1,1 @@
+__p({"id":"04ey","competition":"Mathematica competitions in Croatia","problem":"A quadrilateral with vertices $0$, $z$, $\\frac{1}{z}$ and $z + \\frac{1}{z}$ in the complex plane and area $\\frac{35}{37}$ is given. Determine the smallest possible value of the expression $\\left|z + \\frac{1}{z}\\right|^2$.","solutions":[],"images":[]});

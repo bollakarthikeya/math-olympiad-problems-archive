@@ -1,0 +1,1 @@
+__p({"id":"04c3","competition":"Mathematica competitions in Croatia","problem":"Maja wrote all integers from $100$ to $130$ in a row without spacings, thus obtaining the multi-digit number $100101102\\ldots129130$. Then she decided to erase $80$ digits of this number. What is the largest number Maja can get by doing this?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dgs","competition":"Saudi Arabian IMO Booklet","problem":"Find an example of a sequence of natural numbers $1 \\le a_1 < a_2 < \\dots < a_n < a_{n+1} < \\dots$ with the property that every positive integer $m$ can be uniquely written as $m = a_i - a_j$, with $i > j \\ge 1$.","solutions":[],"images":[]});

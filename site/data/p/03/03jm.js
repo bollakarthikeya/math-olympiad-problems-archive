@@ -1,0 +1,1 @@
+__p({"id":"03jm","competition":"Canadian Mathematical Olympiad","problem":"Let $x_{n+1} = 4 x_n - x_{n-1}$, $x_0 = 0$, $x_1 = 1$, and $y_{n+1} = 4 y_n - y_{n-1}$, $y_0 = 1$, $y_1 = 2$.\nShow for all $n \\geq 0$ that $y_n^2 = 3 x_n^2 + 1$.","solutions":[],"images":[]});

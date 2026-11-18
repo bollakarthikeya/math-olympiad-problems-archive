@@ -1,0 +1,1 @@
+__p({"id":"0496","competition":"Hrvatska 2011","problem":"Given nine positive integers, none of which has a prime divisor greater than $6$, prove that there are two of them whose product is a perfect square.","solutions":[],"images":[]});

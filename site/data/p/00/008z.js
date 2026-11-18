@@ -1,0 +1,1 @@
+__p({"id":"008z","competition":"XXIX Olimpíada Matemática Argentina National Round","problem":"There are several positive integers smaller than $200$ written on a blackboard such that none of them divides the smallest common multiple of the rest of them. Determine the maximum amount of numbers that can be written on the blackboard.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09um","competition":"Junior Mathematical Olympiad","problem":"Farida makes a list of the integers between $1$ and $10,\\!000$ that are divisible by $7$. For every number on the list she adds the digits of the number. What is the smallest number that occurs as an outcome?\nA) $1$   B) $2$   C) $3$   D) $4$   E) $5$","solutions":["B) $2$"],"images":[]});

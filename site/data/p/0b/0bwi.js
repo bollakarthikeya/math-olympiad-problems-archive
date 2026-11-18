@@ -1,0 +1,1 @@
+__p({"id":"0bwi","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Consider the cube $ABCDEFGH$ and the points $M$ – the midpoint of the side $EF$ and $S$ – the center of the face $BCGF$. Prove that the straight lines $AS$ and $BM$ are perpendicular.","solutions":[],"images":[]});

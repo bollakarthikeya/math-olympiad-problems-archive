@@ -1,0 +1,1 @@
+__p({"id":"0c5e","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"Find all reciprocal polynomials with real coefficients, of degree at least $2$, whose derivative has all the roots of modulus $1$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0de6","competition":"Saudi Arabian Mathematical Competitions","problem":"There are $330$ seats in the first row of the auditorium. Some of these seats are occupied by $25$ viewers. Prove that among the pairwise distances between these viewers, there are two equal.","solutions":[],"images":[]});

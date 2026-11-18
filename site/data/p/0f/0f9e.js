@@ -1,0 +1,1 @@
+__p({"id":"0f9e","competition":"24th ASU","problem":"$A$, $B$, $C$ are adjacent vertices of a regular $2n$-gon and $D$ is the vertex opposite to $B$ (so that $BD$ passes through the center of the $2n$-gon). $X$ is a point on the side $AB$ and $Y$ is a point on the side $BC$ so that $\\angle XDY = \\pi/2n$. Show that $DY$ bisects $\\angle XYC$.","solutions":[],"images":[]});

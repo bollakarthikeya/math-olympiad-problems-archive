@@ -1,0 +1,1 @@
+__p({"id":"0anz","competition":"Area Stage","problem":"Let $R A L P$ be a trapezoid with $R A \\parallel L P$. Let $H$ be the intersection of its diagonals. If the area of $\\triangle R A H$ is $9$ and the area of $\\triangle L P H$ is $16$, find the area of the trapezoid.","solutions":[],"images":[]});

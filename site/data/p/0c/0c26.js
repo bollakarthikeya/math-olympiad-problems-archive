@@ -1,0 +1,1 @@
+__p({"id":"0c26","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"On the side $BC$ of a parallelogram $ABCD$ lies a given point $M$. Find a compass-and-straightedge construction of a point $N \\in CD$, so that the straight line $BD$ separates triangle $AMN$ into two equivalent areas.\n\nCecilia Deaconescu","solutions":[],"images":[]});

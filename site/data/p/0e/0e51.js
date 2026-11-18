@@ -1,0 +1,1 @@
+__p({"id":"0e51","competition":"Selection Examinations for the IMO","problem":"Find the smallest positive integer $n$, such that the sum of its digits is equal to $27$ and the sum of the digits of $2n$ is greater than $27$.","solutions":[],"images":[]});

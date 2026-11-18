@@ -1,0 +1,1 @@
+__p({"id":"04lq","competition":"Mathematical competitions in Croatia","problem":"Let $ABC$ be an acute-angled triangle. The tangents at $A$ and $B$ to its circumcircle intersect at $M$. The line through $M$ parallel to the side $BC$ intersects the side $CA$ at point $N$. Prove that $|BN| = |CN|$ holds.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dgq","competition":"Saudi Arabian IMO Booklet","problem":"Point $P$ lies inside parallelogram $ABCD$ and satisfies $PC = BC$. Prove that the line joining midpoints of segments $AP$ and $CD$ is perpendicular to $BP$.","solutions":[],"images":[]});

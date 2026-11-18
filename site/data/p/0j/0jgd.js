@@ -1,0 +1,1 @@
+__p({"id":"0jgd","competition":"HMMT November 2013","problem":"Find the minimum possible value of $\\left(x^{2}+6x+2\\right)^{2}$ over all real numbers $x$.","solutions":["0 This is $\\left((x+3)^{2}-7\\right)^{2} \\geq 0$, with equality at $x+3= \\pm \\sqrt{7}$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09gb","competition":"Mongolian Mathematical Olympiad","problem":"Let say a 52-digit number $\\overline{a_1a_2\\ldots a_{52}}$ is \"zig-zag\" if\n$$\na_1 \\le a_2 \\ge a_3 \\le a_4 \\ge \\dots \\le a_{50} \\ge a_{51} \\le a_{52}\n$$\nholds. Find the number of all zig-zag numbers composed of the digits $1$, $2$ and $3$.","solutions":[],"images":[]});

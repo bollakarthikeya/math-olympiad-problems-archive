@@ -1,0 +1,1 @@
+__p({"id":"0l9h","competition":"Vietnamese Team Selection Contest for the 44th IMO","problem":"Let $n$ be a positive integer. Prove that the number $2^n + 1$ has no prime divisor of the form $8k-1$, where $k$ is a positive integer.","solutions":[],"images":[]});

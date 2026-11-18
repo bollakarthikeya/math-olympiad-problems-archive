@@ -1,0 +1,1 @@
+__p({"id":"04vw","competition":"School Round","problem":"We say that a positive integer is *flat* if all its digits are the same (even single-digit integers are considered flat). Determine whether every positive integer that is not flat can be expressed as a sum of two or more mutually different flat numbers. (Jozef Rajník)","solutions":[],"images":[]});

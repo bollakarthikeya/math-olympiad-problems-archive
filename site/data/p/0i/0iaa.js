@@ -1,0 +1,1 @@
+__p({"id":"0iaa","competition":"Harvard-MIT Mathematics Tournament","problem":"Find the real value of $x$ such that $x^{3}+3 x^{2}+3 x+7=0$.","solutions":["Rewrite the equation as $(x+1)^{3}+6=0$ to get $(x+1)^{3}=-6 \\Rightarrow x+1=\\sqrt[3]{-6} \\Rightarrow x=-1-\\sqrt[3]{6}$."],"images":[]});

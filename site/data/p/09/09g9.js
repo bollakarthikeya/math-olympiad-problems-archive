@@ -1,0 +1,1 @@
+__p({"id":"09g9","competition":"Mongolian Mathematical Olympiad","problem":"Let $\\triangle ABC$ be a triangle and $M$ be midpoint of $BC$. The point $N$ lie on the line through $M$ parallel to $AC$ such that $\\angle MAB = \\angle NAC$. Prove that $\\angle ABN = \\angle ACB$.","solutions":[],"images":[]});

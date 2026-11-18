@@ -1,0 +1,1 @@
+__p({"id":"0eyk","competition":"2nd ASU","problem":"The circle inscribed in the triangle $ABC$ touches the side $AC$ at $K$. Prove that the line joining the midpoint of $AC$ with the center of the circle bisects the segment $BK$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0lbq","competition":"Vietnamese Mathematical Competitions","problem":"Let be given two positive real numbers $a_0$ and $a_1$. The sequence $(a_n)$ is defined by\n$$\na_{n+2} = 1 + \\frac{a_{n+1}}{a_n}, \\quad n = 0,1,2,\\ldots\n$$\nProve that $|a_{2012} - 2| < 10^{-200}$.","solutions":[],"images":[]});

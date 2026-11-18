@@ -1,0 +1,1 @@
+__p({"id":"0164","competition":"Baltic Way SHL","problem":"A square $1 \\times 1$ is cut into some quadrangles. Prove that the sum of the squares of all sides of all quadrangles isn't less than $4$.","solutions":[],"images":[]});

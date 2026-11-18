@@ -1,0 +1,1 @@
+__p({"id":"0akw","competition":"Macedonian Mathematical Olympiad","problem":"Let $p$ and $q$ be odd prime numbers and $a$ be a positive integer satisfying $p|a^q + 1$ and $q|a^p + 1$. Prove that $p|a+1$ or $q|a+1$.","solutions":[],"images":[]});

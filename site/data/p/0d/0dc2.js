@@ -1,0 +1,1 @@
+__p({"id":"0dc2","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $E$ be a point lies inside the parallelogram $ABCD$ such that $\\angle BCE = \\angle BAE$. Prove that the circumcenters of triangles $ABE$, $BCE$, $CDE$, $DAE$ are concyclic.","solutions":[],"images":[]});

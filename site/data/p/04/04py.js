@@ -1,0 +1,1 @@
+__p({"id":"04py","competition":"Croatian Mathematical Society Competitions","problem":"Determine the number of complex solutions of the equation\n$$\nz^{2019} = z + \\bar{z}.\n$$","solutions":[],"images":[]});

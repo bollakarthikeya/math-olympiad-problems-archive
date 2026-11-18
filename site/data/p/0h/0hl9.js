@@ -1,0 +1,1 @@
+__p({"id":"0hl9","competition":"","problem":"Calculate $\\sum_{n=1}^{2001} n^{3}$.","solutions":["$\\sum_{n=1}^{2001} n^{3} = \\left(\\sum_{n=1}^{2001} n\\right)^{2} = \\left(\\frac{2001 \\cdot 2002}{2}\\right)^{2} = 4012013006001$."],"images":[]});

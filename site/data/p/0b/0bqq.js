@@ -1,0 +1,1 @@
+__p({"id":"0bqq","competition":"67th NMO Shortlisted Problems","problem":"Let $G$ be a finite group of order $n$. Prove that every element of $G$ is a perfect square if and only if $n$ is odd.","solutions":[],"images":[]});

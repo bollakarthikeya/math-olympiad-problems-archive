@@ -1,0 +1,1 @@
+__p({"id":"0ar0","competition":"13th Philippine Mathematical Olympiad","problem":"Find all real numbers $a$ such that $x^{3} + a x^{2} - 3 x - 2$ has two distinct real zeros.","solutions":[],"images":[]});

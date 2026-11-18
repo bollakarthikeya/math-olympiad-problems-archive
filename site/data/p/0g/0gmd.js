@@ -1,0 +1,1 @@
+__p({"id":"0gmd","competition":"TEAM SELECTION EXAMINATION FOR THE 42nd INTERNATIONAL MATH- EMATICAL OLYMPIAD. TURKEY.","problem":"Show that there is no continuous function $f: \\mathbb{R} \\to \\mathbb{R}$ satisfying\n$$\nf(x - f(x)) = \\frac{x}{2} \\quad \\text{for all real numbers } x.\n$$","solutions":[],"images":[]});

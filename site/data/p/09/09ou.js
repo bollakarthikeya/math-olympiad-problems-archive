@@ -1,0 +1,1 @@
+__p({"id":"09ou","competition":"MMO2025 Round 2","problem":"Find all natural numbers $n$ such that $(n + 1)!(n + 2)! = (2n)!$. Here $m! = 1 \\cdot 2 \\cdot \\dots \\cdot m$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0axz","competition":"Philippine Mathematical Olympiad Area Stage","problem":"Determine the area of the polygon formed by the ordered pairs $(x, y)$ where $x$ and $y$ are positive integers which satisfy the equation\n$$\n\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{13}\n$$","solutions":[],"images":[]});

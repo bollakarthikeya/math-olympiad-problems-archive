@@ -1,0 +1,1 @@
+__p({"id":"0cfe","competition":"74th NMO Shortlisted Problems","problem":"Find all the positive integers $m$ and $n$ so that $n = 3^m + s(n) + 35$, where $s(n)$ is the sum of the digits of $n$.","solutions":[],"images":[]});

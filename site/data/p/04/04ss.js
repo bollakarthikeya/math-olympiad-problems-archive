@@ -1,0 +1,1 @@
+__p({"id":"04ss","competition":"Czech and Slovak Mathematical Olympiad","problem":"We are given $n$ points in a plane, $n \\ge 3$, no three of them collinear. Consider all the interior angles of all triangles with vertices in given points and denote $\\phi$ the size of the smallest angle. For given $n$ find the largest possible $\\phi$.","solutions":[],"images":[]});

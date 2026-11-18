@@ -1,0 +1,1 @@
+__p({"id":"0kbg","competition":"HMMO 2020","problem":"Two hexagons are attached to form a new polygon $P$. Compute the minimum number of sides that $P$ can have.","solutions":["A triangle can be split into two hexagons; in other words, two concave hexagons can be attached to form a triangle, like the following:\n\n![](attached_image_1.png)"],"images":["img/0kbg_1.jpg"]});

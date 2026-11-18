@@ -1,0 +1,1 @@
+__p({"id":"0cfr","competition":"74th NMO Shortlisted Problems","problem":"The irrational numbers $x, y$ are such that the numbers $x^2 + 2024y$, $y^2 + 2024x$ and $xy$ are rational. Find $x + y$.\nMihaela Berindeanu","solutions":[],"images":[]});

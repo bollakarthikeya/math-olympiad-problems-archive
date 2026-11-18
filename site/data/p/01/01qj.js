@@ -1,0 +1,1 @@
+__p({"id":"01qj","competition":"Selection and Training Session","problem":"Find all sequences $(a_n)$ of positive integers satisfying the equality $a_n = a_{n-1} + a_{n+1}$\na) for all $n \\ge 2$;\nb) for all $n \\ge 3$.","solutions":["a) there are no such sequences;\n\nb) there exists a unique sequence: $a_1 = a_2 = 1$, $a_i = 2$ for all $i \\ge 3$."],"images":[]});

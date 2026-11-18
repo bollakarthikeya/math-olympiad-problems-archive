@@ -1,0 +1,1 @@
+__p({"id":"04fy","competition":"Mathematica competitions in Croatia","problem":"Determine all positive integers $n$ such that\n$$\n3^{2n+1} - 4^{n+1} + 6^n\n$$\nis a prime number.","solutions":[],"images":[]});

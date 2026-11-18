@@ -1,0 +1,1 @@
+__p({"id":"0elx","competition":"South-Afrika 2011-2013","problem":"Divide a regular hexagon into exactly 8 identical shapes.","solutions":["The following image is a possible dissection of a hexagon into 8 identical shapes:\n![](attached_image_1.png)"],"images":["img/0elx_1.png"]});

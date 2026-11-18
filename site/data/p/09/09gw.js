@@ -1,0 +1,1 @@
+__p({"id":"09gw","competition":"Mongolian Mathematical Olympiad","problem":"a) Prove that there are no odd numbers $x, y, z$ such that $xy+1, yz+1, zx+1$ are all perfect squares.\n\nb) Prove that there are infinitely many even numbers $x, y, z$ such that $xy+1, yz+1, zx+1$ are all perfect squares.","solutions":[],"images":[]});

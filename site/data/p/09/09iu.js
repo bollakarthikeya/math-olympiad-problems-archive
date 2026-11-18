@@ -1,0 +1,1 @@
+__p({"id":"09iu","competition":"Mongolian Mathematical Olympiad Round 2","problem":"Suppose $a \\ge 0$ and $b \\ge 0$. If the equation $x^4 - a x^3 + b x^2 - a x + 1 = 0$ has four pairwise distinct real solutions, prove that $2a + b > 14$.","solutions":[],"images":[]});

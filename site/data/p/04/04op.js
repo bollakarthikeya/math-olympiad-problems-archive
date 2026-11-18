@@ -1,0 +1,1 @@
+__p({"id":"04op","competition":"Croatian Mathematical Society Competitions","problem":"Let $\\triangle ABC$ be a triangle such that $\\angle CAB = 20^\\circ$, and let $D$ be the midpoint of the side $\\overline{AB}$. If $\\angle CDB = 40^\\circ$, find $\\angle ABC$. (Tamara Srnec)","solutions":[],"images":[]});

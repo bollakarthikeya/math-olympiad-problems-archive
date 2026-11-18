@@ -1,0 +1,1 @@
+__p({"id":"04hr","competition":"Croatia Mathematical Competitions","problem":"Determine positive integer $n$ such that the sum of his two smallest divisors is $6$ and the sum of his two largest divisors is $1122$.","solutions":[],"images":[]});

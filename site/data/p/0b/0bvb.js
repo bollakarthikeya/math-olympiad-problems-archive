@@ -1,0 +1,1 @@
+__p({"id":"0bvb","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Find all integers $a, b > 1$, such that both $a^2 + 16\\left[\\frac{b}{2}\\right]$ and $b^2 + 16\\left[\\frac{a}{2}\\right]$ are perfect squares.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"03jp","competition":"Canadian Mathematical Olympiad","problem":"The integers $1, 2, \\ldots, n$ are placed in order so that each value is either strictly bigger than all the preceding values or is strictly smaller than all preceding values. In how many ways can this be done?","solutions":[],"images":[]});

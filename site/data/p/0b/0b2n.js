@@ -1,0 +1,1 @@
+__p({"id":"0b2n","competition":"23rd Philippine Mathematical Olympiad Qualifying Stage","problem":"Consider all real numbers $c$ such that $|x-8| + \\left|4 - x^{2}\\right| = c$ has exactly three real solutions. The sum of all such $c$ can be expressed as a fraction $a / b$ in lowest terms. What is $a + b$?","solutions":[],"images":[]});

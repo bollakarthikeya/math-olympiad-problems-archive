@@ -1,0 +1,1 @@
+__p({"id":"0bfe","competition":"Shortlisted Problems for the 64th NMO","problem":"Let $a, b \\in \\mathbb{N}$, $a, b > 2$. Prove that $2^a + 1$ cannot be divisible by $2^b - 1$.","solutions":[],"images":[]});

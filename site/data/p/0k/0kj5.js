@@ -1,0 +1,1 @@
+__p({"id":"0kj5","competition":"AMC 12 B","problem":"For real numbers $x$, let\n$$P(x) = 1 + \\cos(x) + i \\sin(x) - \\cos(2x) - i \\sin(2x) + \\cos(3x) + i \\sin(3x),$$\nwhere $i = \\sqrt{-1}$. For how many values of $x$ with $0 \\le x < 2\\pi$ does $P(x) = 0$?\n(A) 0 (B) 1 (C) 2 (D) 3 (E) 4","solutions":[],"images":[]});

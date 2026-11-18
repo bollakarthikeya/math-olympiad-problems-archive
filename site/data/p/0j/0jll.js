@@ -1,0 +1,1 @@
+__p({"id":"0jll","competition":"HMMT November 2014","problem":"Suppose that $x, y, z$ are real numbers such that\n$$\nx = y + z + 2, \\quad y = z + x + 1, \\quad \\text{and} \\quad z = x + y + 4\n$$\nCompute $x + y + z$.","solutions":["Adding all three equations gives\n$$\nx + y + z = 2(x + y + z) + 7\n$$\nfrom which we find that $x + y + z = -7$."],"images":[]});

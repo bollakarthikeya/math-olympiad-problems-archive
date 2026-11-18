@@ -1,0 +1,1 @@
+__p({"id":"09jg","competition":"Mongolian Mathematical Olympiad Round 1","problem":"Prove that the number of $4 \\times 4$ Latin squares is $576$. Here a $4 \\times 4$ Latin square is a $4 \\times 4$ array filled with numbers from $1$ to $4$, each occurring exactly once in each row and exactly once in each column.","solutions":[],"images":[]});

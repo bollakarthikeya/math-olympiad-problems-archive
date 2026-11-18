@@ -1,0 +1,1 @@
+__p({"id":"0kmt","competition":"AMC 12 B","problem":"The product of the lengths of the two congruent sides of an obtuse isosceles triangle is equal to the product of the base and twice the triangle's height to the base. What is the measure, in degrees, of the vertex angle of this triangle?\n(A) 105\n(B) 120\n(C) 135\n(D) 150\n(E) 165","solutions":[],"images":[]});

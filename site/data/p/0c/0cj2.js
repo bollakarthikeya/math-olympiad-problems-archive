@@ -1,0 +1,1 @@
+__p({"id":"0cj2","competition":"75th NMO","problem":"Consider the set\n$$\nA = \\{(x, y, z) \\mid x, y, z \\in \\mathbb{R}, 88(x+y+z) = 33(xy+xz+yz) = 24(x^2+y^2+z^2) \\neq 0\\}.\n$$\n$$\n\\text{Determine } \\max_{(x,y,z) \\in A} (\\max\\{x, y, z\\} - \\min\\{x, y, z\\}).\n$$","solutions":[],"images":[]});

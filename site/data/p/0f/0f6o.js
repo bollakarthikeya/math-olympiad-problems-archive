@@ -1,0 +1,1 @@
+__p({"id":"0f6o","competition":"19th ASU","problem":"Call a side or diagonal of a regular $n$-gon a segment. How many colors are required to paint all the segments of a regular $n$-gon, so that each segment has a single color and every two segments with a vertex in common have different colors.","solutions":[],"images":[]});

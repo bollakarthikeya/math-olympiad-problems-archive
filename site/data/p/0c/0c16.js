@@ -1,0 +1,1 @@
+__p({"id":"0c16","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Let $a$, $b$, $c$ be three non-negative real numbers such that $a + b + c = 3$. Prove the inequality:\n$$\n\\frac{a}{1 + b} + \\frac{b}{1 + c} + \\frac{c}{1 + a} \\ge \\frac{1}{1 + a} + \\frac{1}{1 + b} + \\frac{1}{1 + c}.\n$$","solutions":[],"images":[]});

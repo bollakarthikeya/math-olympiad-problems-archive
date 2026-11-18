@@ -1,0 +1,1 @@
+__p({"id":"09mr","competition":"Mongolian Mathematical Olympiad","problem":"Find all non-negative integer solutions $(k, m, n)$ of the equation\n$$\n211 \\cdot 3^k + 5^m = 2024^n.\n$$\n(Ganbat Atarsaikhan)","solutions":[],"images":[]});

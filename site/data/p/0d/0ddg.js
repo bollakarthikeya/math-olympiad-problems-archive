@@ -1,0 +1,1 @@
+__p({"id":"0ddg","competition":"Saudi Arabian Mathematical Competitions","problem":"Let $ABC$ be an acute, non-isosceles triangle with circumcenter $O$, incenter $I$ and $(I)$ tangent to $BC$, $CA$, $AB$ at $D$, $E$, $F$ respectively. Suppose that $EF$ cuts $(O)$ at $P$, $Q$. Prove that $(PQD)$ bisects segment $BC$.","solutions":[],"images":[]});

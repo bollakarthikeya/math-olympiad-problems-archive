@@ -1,0 +1,1 @@
+__p({"id":"0ko8","competition":"Berkeley Math Circle Monthly Contest 7","problem":"Aerith thinks $(1.4)^{(1.4)^{(1.4)}}$ is well-defined, but Bob thinks it diverges. Who is right?","solutions":["Because $(1.4)^2 = 1.96 < 2$, the tetrations of $1.4$ can never surpass $2$, so the expression does not diverge to infinity; Aerith is right."],"images":[]});

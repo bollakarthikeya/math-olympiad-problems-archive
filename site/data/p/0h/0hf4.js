@@ -1,0 +1,1 @@
+__p({"id":"0hf4","competition":"60th Ukrainian National Mathematical Olympiad","problem":"Prove that for natural numbers $a \\ge b \\ge c \\ge d$ the inequality:\n$$\nab+bc+cd-b^{2}-c^{2}-d^{2} \\ge a-d.\n$$","solutions":["We have:\n$$\nab+bc+cd-b^{2}-c^{2}-d^{2} = b(a-b)+c(b-c)-d(c-d) \\ge \\\\\n\\ge (a-b)+(b-c)+(c-d)=a-d.\n$$"],"images":[]});

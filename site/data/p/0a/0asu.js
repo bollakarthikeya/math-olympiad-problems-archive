@@ -1,0 +1,1 @@
+__p({"id":"0asu","competition":"Philippines Mathematical Olympiad","problem":"The positive integers are grouped as follows:\n$$\nA_{1} = \\{1\\}, \\quad A_{2} = \\{2, 3, 4\\}, \\quad A_{3} = \\{5, 6, 7, 8, 9\\}, \\text{ and so on. }\n$$\nIn which group does $2009$ belong to?","solutions":["$A_{45}$"],"images":[]});

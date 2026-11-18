@@ -1,0 +1,1 @@
+__p({"id":"049c","competition":"CroatianCompetitions2011","problem":"In the quadrilateral $ABCD$ the following holds:\n$$\n\\angle ABC = \\angle ADC = 90^\\circ, \\quad |AB| = |BC|, \\quad |CD| + |DA| = m.\n$$\nDetermine the area of $ABCD$ in terms of $m$.","solutions":[],"images":[]});

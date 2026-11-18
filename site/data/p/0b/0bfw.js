@@ -1,0 +1,1 @@
+__p({"id":"0bfw","competition":"30th Balkan Mathematical Olympiad","problem":"Determine all positive integers $x$, $y$ and $z$ such that\n$$\nx^{5} + 4^{y} = 2013^{z}\n$$\n\nProblem:\nSă se determine toate numerele naturale nenule $x$, $y$ şi $z$ astfel încât\n$$\nx^{5} + 4^{y} = 2013^{z}\n$$","solutions":[],"images":[]});

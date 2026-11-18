@@ -1,0 +1,1 @@
+__p({"id":"039h","competition":"Second selection test for IMO 2007, Vietnam","problem":"Find all pairs of functions $f, g : \\mathbb{R} \\to \\mathbb{R}$ such that:\n(1) $f(xg(y+1)) + y = x f(y) + f(x+g(y))$ for any two $x, y \\in \\mathbb{R}$;\n(2) $f(0) + g(0) = 0$.","solutions":[],"images":[]});

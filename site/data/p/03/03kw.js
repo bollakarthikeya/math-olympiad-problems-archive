@@ -1,0 +1,1 @@
+__p({"id":"03kw","competition":"Canadian Mathematical Olympiad","problem":"Let $n$ be a natural number such that $n \\geq 2$. Show that\n$$\n\\frac{1}{n+1}\\left(1+\\frac{1}{3}+\\cdots+\\frac{1}{2 n-1}\\right)>\\frac{1}{n}\\left(\\frac{1}{2}+\\frac{1}{4}+\\cdots+\\frac{1}{2 n}\\right) .\n$$","solutions":[],"images":[]});

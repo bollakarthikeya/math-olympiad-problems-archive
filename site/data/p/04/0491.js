@@ -1,0 +1,1 @@
+__p({"id":"0491","competition":"CroatianCompetitions2011","problem":"Lengths of all sides and diagonals of a rectangle are integers. Prove that its area is an integer divisible by $12$.","solutions":[],"images":[]});

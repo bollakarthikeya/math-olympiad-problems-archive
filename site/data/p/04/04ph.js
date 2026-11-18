@@ -1,0 +1,1 @@
+__p({"id":"04ph","competition":"Croatian Mathematical Society Competitions","problem":"Find all pairs $(m, n)$ of positive integers for which there exists a prime number $p$ such that\n$$\n9^m + 3^m - 2 = 2p^n.\n$$","solutions":[],"images":[]});

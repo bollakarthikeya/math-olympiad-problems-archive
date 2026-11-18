@@ -1,0 +1,1 @@
+__p({"id":"0day","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Determine whether there exists a positive integer $n$ such that $n+2$ divides the following sum\n$$\nS = 1^{2019} + 2^{2019} + \\ldots + n^{2019}.\n$$","solutions":[],"images":[]});

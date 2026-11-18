@@ -1,0 +1,1 @@
+__p({"id":"0hsm","competition":"","problem":"For the sequence of numbers $n_{1}, n_{2}, n_{3}, \\ldots$, the relation $n_{i}=2 n_{i-1}+a$ holds for all $i>1$. If $n_{2}=5$ and $n_{8}=257$, what is $n_{5}$?","solutions":["33 ."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0b62","competition":"Shortlisted Problems for the Romanian NMO","problem":"Show that a non-equilateral triangle has an angle bisector which is more than $\\frac{\\sqrt{3}}{2}$ times larger than its opposite side, and one which is less than $\\frac{\\sqrt{3}}{2}$ times larger than its opposite side.","solutions":[],"images":[]});

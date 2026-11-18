@@ -1,0 +1,1 @@
+__p({"id":"04cw","competition":"Mathematica competitions in Croatia","problem":"Find all integers greater than $1$ whose all divisors written in an increasing sequence make a geometric sequence.","solutions":[],"images":[]});

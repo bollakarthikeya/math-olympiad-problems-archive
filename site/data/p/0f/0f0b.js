@@ -1,0 +1,1 @@
+__p({"id":"0f0b","competition":"ASU","problem":"Prove that a collection of squares with total area $1$ can always be arranged inside a square of area $2$ without overlapping.","solutions":[],"images":[]});

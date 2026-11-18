@@ -1,0 +1,1 @@
+__p({"id":"0bqb","competition":"67th NMO Shortlisted Problems","problem":"Let $p$ be a prime number and $n_1, n_2, \\dots, n_k \\in \\{1, 2, \\dots, p-1\\}$ be positive integers. Show that the equation\n$$\nx_1^{n_1} + x_2^{n_2} + \\dots + x_k^{n_k} = x_{k+1}^p\n$$\nhas infinitely many positive integer solutions.","solutions":[],"images":[]});

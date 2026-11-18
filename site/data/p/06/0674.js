@@ -1,0 +1,1 @@
+__p({"id":"0674","competition":"17th Mediterranean Mathematical Competition","problem":"Let $a_1, a_2, \\dots, a_n$, and $b_1, b_2, \\dots, b_n$, $2n$ real numbers. Prove that there exists an integer $k$ with $1 \\le k \\le n$, such that\n$$\n\\sum_{i=1}^{n} |a_i - a_k| \\le \\sum_{i=1}^{n} |b_i - a_k|.\n$$","solutions":[],"images":[]});

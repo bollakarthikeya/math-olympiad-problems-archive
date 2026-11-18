@@ -1,0 +1,1 @@
+__p({"id":"0c6o","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Let $ABCD$ be a square and $E$ an arbitrary point on the side $(CD)$. On the outside of the triangle $ABE$ one considers the squares $ENMA$ and $EBQP$. Prove that:\n\na) $ND = PC$;\n\nb) $ND \\perp PC$.","solutions":[],"images":[]});

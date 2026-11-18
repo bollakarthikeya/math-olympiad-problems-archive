@@ -1,0 +1,1 @@
+__p({"id":"01xf","competition":"69th Belarusian Mathematical Olympiad","problem":"Positive integers $a$, $b$ and $c$ satisfy the equality\n$$\n\\frac{a^2 - a - c}{b} + \\frac{b^2 - b - c}{a} = a + b + 2.\n$$\nProve that $a + b + c$ is a square of a positive integer.","solutions":[],"images":[]});

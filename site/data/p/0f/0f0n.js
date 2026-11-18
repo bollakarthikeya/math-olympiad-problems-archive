@@ -1,0 +1,1 @@
+__p({"id":"0f0n","competition":"ASU","problem":"$OA$ and $OB$ are tangent to a circle at $A$ and $B$. The line parallel to $OB$ through $A$ meets the circle again at $C$. The line $OC$ meets the circle again at $E$. The ray $AE$ meets the line $OB$ at $K$. Prove that $K$ is the midpoint of $OB$.","solutions":[],"images":[]});

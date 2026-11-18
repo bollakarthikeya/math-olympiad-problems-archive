@@ -1,0 +1,1 @@
+__p({"id":"0aut","competition":"19th Philippine Mathematical Olympiad","problem":"The vertices of a triangle are at the points $(0,0)$, $(a, b)$, and $(2016-2a, 0)$, where $a>0$. If $(a, b)$ is on the line $y=4x$, find the value(s) of $a$ that maximizes the triangle's area.","solutions":[],"images":[]});

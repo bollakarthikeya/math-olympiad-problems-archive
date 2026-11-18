@@ -1,0 +1,1 @@
+__p({"id":"0aoo","competition":"QUALIFYING STAGE","problem":"Which is a set of factors of $(r-s)^{3}+(s-t)^{3}+(t-r)^{3}$ ?\n\n(a) $\\{r-s, s-t, t-r\\}$\n\n(b) $\\{3 r-3 s, s+t, t+r\\}$\n\n(c) $\\{r-s, s-t, t-2 r t+r\\}$\n\n(d) $\\left\\{r^{2}-s^{2}, s-t, t-r\\right\\}$","solutions":[],"images":[]});

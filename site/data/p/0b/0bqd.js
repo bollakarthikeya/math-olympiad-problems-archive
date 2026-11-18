@@ -1,0 +1,1 @@
+__p({"id":"0bqd","competition":"67th NMO Shortlisted Problems","problem":"a. Find all perfect squares of the form $aabcc$.\n\nb. Let $n$ be a given positive integer. Prove that there exists a perfect square of the form $aab \\underbrace{cc\\dots c}_{2n \\text{ times}}$.","solutions":[],"images":[]});

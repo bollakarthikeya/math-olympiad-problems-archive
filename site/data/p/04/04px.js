@@ -1,0 +1,1 @@
+__p({"id":"04px","competition":"Croatian Mathematical Society Competitions","problem":"Find all triples $(x, y, z)$ of real numbers such that\n$$\n\\begin{aligned}\n(x^2 + 1)y &= z^2 + 1 \\\\\n(y^2 + 1)z &= x^2 + 1 \\\\\n(z^2 + 1)x &= y^2 + 1.\n\\end{aligned} \n\\qquad (\\text{Ukraine 2017})\n$$","solutions":[],"images":[]});

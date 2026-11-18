@@ -1,0 +1,1 @@
+__p({"id":"04ih","competition":"Croatia Mathematical Competitions","problem":"Determine all quadruples $(a, b, c, d)$ of positive integers such that\n$$a^3 = b^2, \\quad c^5 = d^4 \\quad \\text{and} \\quad a - c = 9.$$","solutions":[],"images":[]});

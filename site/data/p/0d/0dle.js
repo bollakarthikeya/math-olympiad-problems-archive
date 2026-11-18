@@ -1,0 +1,1 @@
+__p({"id":"0dle","competition":"Saudi Booklet","problem":"Determine all pairs $(a, b)$ of positive integers such that\n$$\na^2 + b = p^m \\text{ and } b^2 + a = p^n\n$$\nfor some prime $p$ and positive integers $m, n$.","solutions":[],"images":[]});

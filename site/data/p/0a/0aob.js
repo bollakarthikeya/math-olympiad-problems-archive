@@ -1,0 +1,1 @@
+__p({"id":"0aob","competition":"Area Stage","problem":"How many squares are determined by the lines with equations $x = k^{2}$ and $y = l^{2}$, where $k, l \\in \\{0, 1, 2, 3, \\ldots, 9\\}$?","solutions":[],"images":[]});

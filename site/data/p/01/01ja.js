@@ -1,0 +1,1 @@
+__p({"id":"01ja","competition":"Baltic Way 2023 Shortlist","problem":"Does there exist a scalene triangle whose incenter, circumcenter and orthocenter are collinear?","solutions":["See Problem G 3."],"images":[]});

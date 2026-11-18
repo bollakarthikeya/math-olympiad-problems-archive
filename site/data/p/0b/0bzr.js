@@ -1,0 +1,1 @@
+__p({"id":"0bzr","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Find the prime numbers $a > b > c$ given that $a - b$, $b - c$ and $a - c$ are distinct primes.","solutions":[],"images":[]});

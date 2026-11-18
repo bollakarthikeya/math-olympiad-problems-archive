@@ -1,0 +1,1 @@
+__p({"id":"0amz","competition":"QUALIFYING STAGE","problem":"Let $2 = \\log_{b} x$. Find all values of $\\frac{x+1}{x}$ as $b$ ranges over all positive real numbers.\n\n(a) $(0,+\\infty)$\n(c) $(0,1)$\n(b) $(1,+\\infty)$\n(d) all real numbers","solutions":[],"images":[]});

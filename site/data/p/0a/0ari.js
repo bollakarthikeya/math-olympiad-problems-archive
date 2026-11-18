@@ -1,0 +1,1 @@
+__p({"id":"0ari","competition":"13th Philippine Mathematical Olympiad","problem":"Let $f(m) = 2^{2^{2 \\cdots}}$ ($m$ times). Find the least $m$ so that $\\log_{10} f(m)$ exceeds $6$.","solutions":["$f(4) = 2^{16} = 65536 < 10^{6} < 2^{65536} = f(5)$.\n\nTherefore, the least $m$ is $5$."],"images":[]});

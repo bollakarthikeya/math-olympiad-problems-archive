@@ -1,0 +1,1 @@
+__p({"id":"0f99","competition":"23rd ASU","problem":"We are given $1998$ normal coins, $1$ heavy coin and $1$ light coin, which all look the same. We wish to determine whether the average weight of the two abnormal coins is less than, equal to, or greater than the weight of a normal coin. Show how to do this using a balance $4$ times or less.","solutions":[],"images":[]});

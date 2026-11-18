@@ -1,0 +1,1 @@
+__p({"id":"0an7","competition":"18th PMO Area Stage","problem":"Determine all values of $k \\in \\mathbb{R}$ for which the equation\n$$\n\\frac{4\\left(2015^{x}\\right)-2015^{-x}}{2015^{x}-3\\left(2015^{-x}\\right)}=k\n$$\nadmits a real solution.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04di","competition":"Mathematica competitions in Croatia","problem":"On a math test there are $40$ problems. For each correct answer one gets $15$ points, and for each incorrect answer $-4$ points. Dinko has solved all the problems, but he made some mistakes. How many incorrect answers he had, if he scored $353$ points in total?","solutions":[],"images":[]});

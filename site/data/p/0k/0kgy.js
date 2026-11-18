@@ -1,0 +1,1 @@
+__p({"id":"0kgy","competition":"AMC 12 A","problem":"Consider two concentric circles of radius $17$ and radius $19$. The larger circle has a chord, half of which lies inside the smaller circle. What is the length of the chord in the larger circle?\n\n(A) $12\\sqrt{2}$  (B) $10\\sqrt{3}$  (C) $\\sqrt{17} \\cdot 19$  (D) $18$  (E) $8\\sqrt{6}$","solutions":[],"images":[]});

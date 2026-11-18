@@ -1,0 +1,1 @@
+__p({"id":"06l8","competition":"HKG TST","problem":"Let $ABC$ be an acute-angled triangle such that $\\angle ACB = 45^\\circ$. Let $G$ be the point of intersection of the three medians and let $O$ be the circumcentre. Suppose $OG = 1$ and $OG // BC$. Determine the length of the segment $BC$.","solutions":[],"images":[]});

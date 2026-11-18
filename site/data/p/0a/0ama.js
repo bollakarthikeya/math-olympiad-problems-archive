@@ -1,0 +1,1 @@
+__p({"id":"0ama","competition":"QUALIFYING STAGE","problem":"Find the value of $\\sin \\theta$ if the terminal side of $\\theta$ lies on the line $5y - 3x = 0$ and $\\theta$ is in the first quadrant.\n\n(a) $\\frac{3}{\\sqrt{34}}$\n(b) $\\frac{3}{4}$\n(c) $\\frac{3}{5}$\n(d) $\\frac{4}{\\sqrt{34}}$","solutions":[],"images":[]});

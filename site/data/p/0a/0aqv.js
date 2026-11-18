@@ -1,0 +1,1 @@
+__p({"id":"0aqv","competition":"13th Philippine Mathematical Olympiad","problem":"Let $s_{1} = 2^{2010}$. For $n > 2$, define\n$$\ns_{n+1} = \\begin{cases}\n\\log_{\\sqrt{2}} s_{n}, & s_{n} > 0 \\\\\n0, & s_{n} \\leq 0\n\\end{cases}\n$$\nFind the smallest $n$ such that $s_{n} \\in [4,6]$.","solutions":[],"images":[]});

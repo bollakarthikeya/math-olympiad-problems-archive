@@ -1,0 +1,1 @@
+__p({"id":"0f91","competition":"23rd ASU","problem":"$N$ is the set of positive integers. Does there exist a function $f: N \\to N$ such that $f(n + 1) = f(f(n)) + f(f(n + 2))$ for all $n$?","solutions":[],"images":[]});

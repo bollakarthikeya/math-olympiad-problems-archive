@@ -1,0 +1,1 @@
+__p({"id":"0h54","competition":"Ukrainian National Mathematical Olympiad","problem":"It is known that $\\frac{a}{b+c+d} + \\frac{b}{c+d+a} + \\frac{c}{d+a+b} + \\frac{d}{a+b+c} = 1$. Find the value of the expression\n$$\n\\frac{a^2}{b+c+d} + \\frac{b^2}{c+d+a} + \\frac{c^2}{d+a+b} + \\frac{d^2}{a+b+c}.\n$$","solutions":[],"images":[]});

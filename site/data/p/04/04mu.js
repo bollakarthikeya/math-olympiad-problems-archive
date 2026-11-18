@@ -1,0 +1,1 @@
+__p({"id":"04mu","competition":"Croatia_2018","problem":"Let $ABCD$ be a square with side length $1$. Let $X$ be a point on the side $AB$, and let $Y$ be a point on the side $AD$ such that $\\angle CXY = 90^\\circ$. Find the locus of the point $X$ for which the area of the triangle $CDY$ is the smallest possible.","solutions":[],"images":[]});

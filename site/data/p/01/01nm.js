@@ -1,0 +1,1 @@
+__p({"id":"01nm","competition":"Belorusija 2012","problem":"For each positive integer $k$, let $t(k)$ be the largest odd divisor of $k$.\nDetermine all positive integers $a$ for which there exists a positive integer $n$ such that all the differences\n$t(n+a) - t(n)$, $t(n+a+1) - t(n+1)$, ..., $t(n+2a-1) - t(n+a-1)$ are divisible by $4$.","solutions":[],"images":[]});

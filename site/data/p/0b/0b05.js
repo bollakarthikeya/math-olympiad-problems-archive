@@ -1,0 +1,1 @@
+__p({"id":"0b05","competition":"Philippines Mathematical Olympiad","problem":"In square $ABCD$ with side length $1$, $E$ is the midpoint of $AB$ and $F$ is the midpoint of $BC$. The line segment $EC$ intersects $AF$ and $DF$ at $G$ and $H$, respectively. Find the area of quadrilateral $AGHD$.","solutions":[],"images":[]});

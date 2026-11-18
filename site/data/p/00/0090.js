@@ -1,0 +1,1 @@
+__p({"id":"0090","competition":"XXI Olimpiada Matemática Rioplatense","problem":"Determine, in each case, all real numbers $x$ such that:\n$$\na) \\lfloor x \\rfloor + \\lfloor 2x \\rfloor + \\dots + \\lfloor 2012x \\rfloor = 2013;\n$$\n$$\nb) \\lfloor x \\rfloor + \\lfloor 2x \\rfloor + \\dots + \\lfloor 2013x \\rfloor = 2014.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0l93","competition":"CONTEST FOR THE SELECTION OF VIETNAMESE INTERNATIONAL MATHEMATICAL OLYMPIAD TEAM","problem":"Find all polynomials $P(x)$ with integer coefficients such that the polynomial\n$$\nQ(x) = (x^2 + 6x + 10)[P(x)]^2 - 1\n$$\nis the square of a polynomial with integer coefficients.","solutions":[],"images":[]});

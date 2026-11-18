@@ -1,0 +1,1 @@
+__p({"id":"0f1x","competition":"ASU","problem":"$a_1$ and $a_2$ are positive integers less than $1000$. Define $a_n = \\min\\{|a_i - a_j| : 0 < i < j < n\\}$. Show that $a_{21} = 0$.","solutions":[],"images":[]});

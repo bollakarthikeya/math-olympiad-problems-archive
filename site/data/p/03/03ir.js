@@ -1,0 +1,1 @@
+__p({"id":"03ir","competition":"Canadian Mathematical Olympiad","problem":"If $a$, $b$ and $c$ are the roots of the equation $x^{3} - x^{2} - x - 1 = 0$,\n\ni. show that $a$, $b$ and $c$ are distinct:\n\nii. show that\n$$\n\\frac{a^{1982} - b^{1982}}{a - b} + \\frac{b^{1982} - c^{1982}}{b - c} + \\frac{c^{1982} - a^{1982}}{c - a}\n$$\nis an integer.","solutions":[],"images":[]});

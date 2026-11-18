@@ -1,0 +1,1 @@
+__p({"id":"0c55","competition":"SHORTLISTED PROBLEMS FOR THE 70th NMO","problem":"A set $A \\subset \\{1, 2, 3, \\dots, 2019\\}$ will be called *prime differences free* if the difference of any two of its elements is not a prime. Find the maximum number of elements of a prime differences free set.\nVasile Pop","solutions":[],"images":[]});

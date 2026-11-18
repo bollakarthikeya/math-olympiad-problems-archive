@@ -1,0 +1,1 @@
+__p({"id":"0imb","competition":"Harvard-MIT Mathematics Tournament","problem":"Two reals $x$ and $y$ are such that $x - y = 4$ and $x^{3} - y^{3} = 28$. Compute $x y$.","solutions":["Answer: $-3$. We have $28 = x^{3} - y^{3} = (x - y)\\left(x^{2} + x y + y^{2}\\right) = (x - y)\\left((x - y)^{2} + 3 x y\\right) = 4 \\cdot (16 + 3 x y)$, from which $x y = -3$."],"images":[]});

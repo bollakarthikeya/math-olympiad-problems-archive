@@ -1,0 +1,1 @@
+__p({"id":"0lbd","competition":"Vietnam Mathematical Olympiad","problem":"Find all functions $f: \\mathbb{R} \\to \\mathbb{R}$ satisfying all of the following conditions:\n1. $f$ is a bijective function.\n2. $f$ is an increasing function.\n3. $f(f(x)) = f(x) + 12x, \\forall x \\in \\mathbb{R}$.","solutions":[],"images":[]});

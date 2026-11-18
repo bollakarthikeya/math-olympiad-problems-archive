@@ -1,0 +1,1 @@
+__p({"id":"01qo","competition":"SELECTION and TRAINING SESSION","problem":"Determine all pairs $(x, y)$ of positive integers such that\n$$\n\\sqrt[3]{7x^2 - 13xy + 7y^2} = |x - y| + 1.\n$$","solutions":["2. See IMO-2014 Shortlist, Problem N2."],"images":[]});

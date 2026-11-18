@@ -1,0 +1,1 @@
+__p({"id":"016g","competition":"Baltic Way","problem":"Let $d(k)$ denote the number of positive divisors of a positive integer $k$. Prove that there exist infinitely many positive integers $M$ that cannot be written as\n$$\nM = \\left( \\frac{2 \\sqrt{n}}{d(n)} \\right)^2\n$$\nfor any positive integer $n$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0al2","competition":"Team Selection Test for IMO","problem":"Let $f: \\mathbb{R}^2 \\to \\mathbb{R}$ be a function satisfying the following property: If $A$, $B$, $C \\in \\mathbb{R}^2$ are the vertices of an equilateral triangle with sides of length $1$, then $f(A) + f(B) + f(C) = 0$. Prove that $f(x) = 0$ for all $x \\in \\mathbb{R}^2$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0fa9","competition":"25th ASU","problem":"Do there exist 4 vectors in the plane so that none is a multiple of another, but the sum of each pair is perpendicular to the sum of the other two? Do there exist 91 non-zero vectors in the plane such that the sum of any 19 is perpendicular to the sum of the others?","solutions":["## Problem 22"],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0jfq","competition":"HMMT November 2013","problem":"Find the number of ordered triples of integers $(a, b, c)$ with $1 \\leq a, b, c \\leq 100$ and $a^{2} b + b^{2} c + c^{2} a = a b^{2} + b c^{2} + c a^{2}$.","solutions":["This factors as $(a-b)(b-c)(c-a)=0$. By the inclusion-exclusion principle, we get $3 \\cdot 100^{2} - 3 \\cdot 100 + 100 = 29800$."],"images":[]});

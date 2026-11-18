@@ -1,0 +1,1 @@
+__p({"id":"01m0","competition":"61st Belarusian Mathematical Olympiad","problem":"Point $K$ is the intersection point of medians $AL$, $BM$, and $CN$ of a triangle $ABC$.\nProve that $\\angle ABM = \\angle CAL$ if $\\angle BLA = \\angle CNA$.","solutions":[],"images":[]});

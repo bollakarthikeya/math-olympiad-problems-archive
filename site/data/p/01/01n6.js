@@ -1,0 +1,1 @@
+__p({"id":"01n6","competition":"Belorusija 2012","problem":"Let $m$, $n$, $k$ be pairwise relatively prime positive integers greater than $3$.\nFind the minimal possible number of points on the plane with the following property: there are $x$ of them which are the vertices of a regular $x$-gon for $x = m$, $x = n$, $x = k$.","solutions":["Answer: $m + n + k - 4$."],"images":[]});

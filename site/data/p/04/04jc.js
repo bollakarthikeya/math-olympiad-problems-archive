@@ -1,0 +1,1 @@
+__p({"id":"04jc","competition":"Croatia Mathematical Competitions","problem":"Let $a$, $b$ and $c$ be real numbers and let $f: \\mathbb{R} \\to \\mathbb{R}$ be a function given by\n$$\nf(x) = a x^5 + b x^3 + c \\sin x - 1.\n$$\nIf $f(-2015) = 2015$, determine $f(2015)$.","solutions":[],"images":[]});

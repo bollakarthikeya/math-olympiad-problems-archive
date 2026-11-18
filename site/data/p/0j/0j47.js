@@ -1,0 +1,1 @@
+__p({"id":"0j47","competition":"Harvard-MIT November Tournament","problem":"Determine the remainder when $1+2+\\cdots+2014$ is divided by $2012$.","solutions":["We wish to find the value of $1+2+\\cdots+2014$ modulo $2012$. We have\n$$\n1+2+\\cdots+2014=\\frac{1}{2}(2014)(2015)=1007 \\cdot 2015 \\equiv 1007 \\cdot 3=3021 \\equiv 1009 \\pmod{2012}\n$$"],"images":[]});

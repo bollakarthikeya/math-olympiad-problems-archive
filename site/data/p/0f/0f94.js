@@ -1,0 +1,1 @@
+__p({"id":"0f94","competition":"23rd ASU","problem":"A positive integer $n$ has exactly $12$ positive divisors $1 = d_1 < d_2 < d_3 < \\ldots < d_{12} = n$. Let $m = d_4 - 1$. We have $d_m = (d_1 + d_2 + d_4) d_8$. Find $n$.","solutions":[],"images":[]});

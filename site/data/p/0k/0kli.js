@@ -1,0 +1,1 @@
+__p({"id":"0kli","competition":"AMC 12 B","problem":"Call a fraction $\\frac{a}{b}$, not necessarily in simplest form, *special* if $a$ and $b$ are positive integers whose sum is $15$. How many distinct integers can be written as the sum of two, not necessarily different, special fractions?\n(A) 9 (B) 10 (C) 11 (D) 12 (E) 13","solutions":[],"images":[]});

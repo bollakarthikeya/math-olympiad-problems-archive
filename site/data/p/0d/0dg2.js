@@ -1,0 +1,1 @@
+__p({"id":"0dg2","competition":"Saudi Arabian IMO Booklet","problem":"Find all values of $a$ for which the equation $x^3 + a x^2 + 56x - 4 = 0$ has 3 roots forming consecutive terms of a geometric progression.","solutions":[],"images":[]});

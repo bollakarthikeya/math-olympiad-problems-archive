@@ -1,0 +1,1 @@
+__p({"id":"09jf","competition":"Mongolian Mathematical Olympiad Round 1","problem":"Let $a$ and $b$ be distinct positive integers. If $n$ and $m$ are positive integers satisfying\n$$\n(a^n - b^n)^m = (a^m - b^m)^n,\n$$\nprove that $n = m$.","solutions":[],"images":[]});

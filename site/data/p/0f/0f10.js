@@ -1,0 +1,1 @@
+__p({"id":"0f10","competition":"ASU","problem":"The triangle $ABC$ has area $1$. $D$, $E$, $F$ are the midpoints of the sides $BC$, $CA$, $AB$. $P$ lies in the segment $BF$, $Q$ lies in the segment $CD$, $R$ lies in the segment $AE$. What is the smallest possible area for the intersection of triangles $DEF$ and $PQR$?","solutions":[],"images":[]});

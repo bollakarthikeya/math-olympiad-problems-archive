@@ -1,0 +1,1 @@
+__p({"id":"0f6q","competition":"19th ASU","problem":"The quadratic $p(x) = ax^2 + bx + c$ has $a > 100$. What is the maximum possible number of integer values $x$ such that $p(x) < 50$?","solutions":[],"images":[]});

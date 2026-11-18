@@ -1,0 +1,1 @@
+__p({"id":"0bw5","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Show that, for any two distinct elements of the set $\\{20^{17}, 2^{107}, 7^{102}\\}$, neither their sum, nor their difference, is a perfect square.","solutions":[],"images":[]});

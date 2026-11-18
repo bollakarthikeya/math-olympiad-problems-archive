@@ -1,0 +1,1 @@
+__p({"id":"0691","competition":"20th Mediterranean Mathematical Competition","problem":"Let $ABC$ be an equilateral triangle, and let $P$ be some point in its circumcircle. Determine, with reasons, all the positive integers $n$ such that the sum\n$$\nS_n P = |PA|^n + |PB|^n + |PC|^n\n$$\nis independent of the choice of the point $P$.","solutions":[],"images":[]});

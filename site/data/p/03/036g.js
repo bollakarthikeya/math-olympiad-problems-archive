@@ -1,0 +1,1 @@
+__p({"id":"036g","competition":"Bulgarian Mathematical Competitions","problem":"Solve the equation\n$$\n\\log_{a}\\left(a^{2\\left(x^{2}+x\\right)}+a^{2}\\right)=x^{2}+x+\\log_{a}\\left(a^{2}+1\\right)\n$$\nwhere $a$ is a real number.","solutions":[],"images":[]});

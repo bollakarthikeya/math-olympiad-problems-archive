@@ -1,0 +1,1 @@
+__p({"id":"0dfc","competition":"Saudi Arabian IMO Booklet","problem":"Let $x(n)$ be the biggest prime divisor of $n$. Prove that there exist infinitely many number $n$ such that $x(n) < x(n + 1) < x(n + 2)$.","solutions":[],"images":[]});

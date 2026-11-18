@@ -1,0 +1,1 @@
+__p({"id":"0c7j","competition":"70th ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Integers from $1$ to $49$ are placed arbitrarily on a quadratic table formed by $7 \\times 7$ squares. Show that one can find a $2 \\times 2$ square on the table, formed by $4$ neighboring cells, such that the sum of numbers inside is at least $81$.","solutions":[],"images":[]});

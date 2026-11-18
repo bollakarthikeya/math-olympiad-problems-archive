@@ -1,0 +1,1 @@
+__p({"id":"04dq","competition":"Mathematica competitions in Croatia","problem":"A rectangle with dimensions $5 \\times 6$ is divided into eight rectangles whose sides are parallel to the sides of the original rectangle, and the lengths of their sides are positive integers. Prove that at least two of the eight rectangles are congruent.","solutions":[],"images":[]});

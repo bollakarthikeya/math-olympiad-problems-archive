@@ -1,0 +1,1 @@
+__p({"id":"0atv","competition":"Philippine Mathematical Olympiad","problem":"Solve the inequality $\\log \\left(5^{\\frac{1}{x}}+5^{3}\\right)<\\log 6+\\log 5^{1+\\frac{1}{2 x}}$.","solutions":[],"images":[]});

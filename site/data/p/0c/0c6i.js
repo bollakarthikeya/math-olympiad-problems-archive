@@ -1,0 +1,1 @@
+__p({"id":"0c6i","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Determine all pairs $(a, b)$, of non-negative integers such that the quotients\n$$\n\\frac{3a + 8b + 2}{10a + 2b + 1} \\quad \\text{and} \\quad \\frac{8a + b + 3}{2a + 7b + 3}\n$$\nare integers simultaneously.","solutions":[],"images":[]});

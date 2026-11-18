@@ -1,0 +1,1 @@
+__p({"id":"0f46","competition":"15th ASU","problem":"$AB$ is a diameter of the circle $C$. $M$ and $N$ are any two points on the circle. The chord $MA'$ is perpendicular to the line $NA$ and the chord $MB'$ is perpendicular to the line $NB$. Show that $AA'$ and $BB'$ are parallel.","solutions":[],"images":[]});

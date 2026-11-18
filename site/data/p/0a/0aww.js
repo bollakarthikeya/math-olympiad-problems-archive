@@ -1,0 +1,1 @@
+__p({"id":"0aww","competition":"Philippine Mathematical Olympiad Area Stage","problem":"Let $\\{x_k\\}_{k=1}^{n}$ be a sequence whose terms come from $\\{2,3,6\\}$. If\n$$\nx_1 + x_2 + \\cdots + x_n = 633 \\quad \\text{and} \\quad \\frac{1}{x_1^2} + \\frac{1}{x_2^2} + \\cdots + \\frac{1}{x_n^2} = \\frac{2017}{36}\n$$\nfind the value of $n$.","solutions":[],"images":[]});

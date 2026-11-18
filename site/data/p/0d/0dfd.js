@@ -1,0 +1,1 @@
+__p({"id":"0dfd","competition":"Saudi Arabian IMO Booklet","problem":"Let the sequence $a_1, a_2, \\dots, a_{20}$ is the permutation of integers $1, 2, \\dots, 20$. Find the maximum possible value of\n$$\n\\min\\{|a_2 - a_1|, |a_3 - a_2|, \\dots, |a_{20} - a_{19}|, |a_1 - a_{20}|\\}.\n$$","solutions":[],"images":[]});

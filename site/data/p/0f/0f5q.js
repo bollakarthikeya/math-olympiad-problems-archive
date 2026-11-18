@@ -1,0 +1,1 @@
+__p({"id":"0f5q","competition":"18th ASU","problem":"The positive reals $x$, $y$, $z$ satisfy $x^2 + x y + \\dfrac{y^2}{3} = 25$, $\\dfrac{y^2}{3} + z^2 = 9$, $z^2 + z x + x^2 = 16$. Find the value of $x y + 2 y z + 3 z x$.","solutions":[],"images":[]});

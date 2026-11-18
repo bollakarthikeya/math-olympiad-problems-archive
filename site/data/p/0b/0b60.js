@@ -1,0 +1,1 @@
+__p({"id":"0b60","competition":"Shortlisted Problems for the Romanian NMO","problem":"$$\n\\sqrt{(x^2 + x y + y^2)(z^2 + z t + t^2)} + \\sqrt{(y^2 - y z + z^2)(x^2 - x t + t^2)} \\geq (x + z)(y + t).\n$$\n\nFind the cases of equality.","solutions":[],"images":[]});

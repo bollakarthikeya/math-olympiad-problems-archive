@@ -1,0 +1,1 @@
+__p({"id":"0f1c","competition":"ASU","problem":"For what $n$ can we color the unit cubes in an $n \\times n \\times n$ cube red or green so that every red unit cube has just two red neighbouring cubes (sharing a face) and every green unit cube has just two green neighbouring cubes.","solutions":[],"images":[]});

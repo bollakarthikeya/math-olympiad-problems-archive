@@ -1,0 +1,1 @@
+__p({"id":"0dgu","competition":"Saudi Arabian IMO Booklet","problem":"Let $x$, $y$, $z \\ge 0$ and $x + y + z = 3$. Prove that\n$$\n\\sqrt{x} + \\sqrt{y} + \\sqrt{z} \\ge xy + xz + yz.\n$$","solutions":[],"images":[]});

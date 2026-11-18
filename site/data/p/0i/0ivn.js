@@ -1,0 +1,1 @@
+__p({"id":"0ivn","competition":"Harvard-MIT November Tournament","problem":"Find all solutions to $x^{4} + 2x^{3} + 2x^{2} + 2x + 1 = 0$ (including non-real solutions).","solutions":["Answer: $-1, i, -i$\n\nWe can factor the polynomial as $(x+1)^{2}(x^{2}+1)$."],"images":[]});

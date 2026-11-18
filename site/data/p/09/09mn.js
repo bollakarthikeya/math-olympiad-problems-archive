@@ -1,0 +1,1 @@
+__p({"id":"09mn","competition":"Mongolian Mathematical Olympiad","problem":"For $n \\ge 1$, let $a_n = 1^1 + 2^2 + \\dots + n^n$. Show that the sequence $\\{a_n\\}$ contains infinitely many terms that leave a remainder of $32$ when divided by $2024$.","solutions":[],"images":[]});

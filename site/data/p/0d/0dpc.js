@@ -1,0 +1,1 @@
+__p({"id":"0dpc","competition":"Silk Road Mathematics Competition","problem":"Positive real numbers $a$, $b$, $c$, $d$ satisfy:\n$$\na(c^2 - 1) = b(b^2 + c^2) \\text{ and } d \\le 1.\n$$\nProve that\n$$\nd(a\\sqrt{1-d^2} + b^2\\sqrt{1+d^2}) \\le \\frac{(a+b)c}{2}.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"03kg","competition":"Canadian Mathematical Olympiad","problem":"Let $a$, $b$, and $c$ be positive real numbers. Prove that\n$$\na^{a} b^{b} c^{c} \\geq (a b c)^{\\frac{a+b+c}{3}}\n$$","solutions":[],"images":[]});

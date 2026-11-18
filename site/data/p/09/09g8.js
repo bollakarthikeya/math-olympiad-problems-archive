@@ -1,0 +1,1 @@
+__p({"id":"09g8","competition":"Mongolian Mathematical Olympiad","problem":"Let $a$, $b$, $c$ be positive numbers such that $a + b + c = 16$. Prove that\n$$\n\\frac{ab}{a + b} + \\frac{bc}{b + c} + \\frac{ca}{c + a} \\leq 5 + \\frac{13c}{16}.\n$$","solutions":[],"images":[]});

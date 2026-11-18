@@ -1,0 +1,1 @@
+__p({"id":"0dhs","competition":"Saudi Arabian IMO Booklet","problem":"Five positive reals $a$, $b$, $c$, $d$ and $e$ having product equal to $1$ are given. Prove that\n$$\n\\frac{a^2}{b^2} + \\frac{b^2}{c^2} + \\frac{c^2}{d^2} + \\frac{d^2}{e^2} + \\frac{e^2}{a^2} \\geq a + b + c + d + e.\n$$","solutions":[],"images":[]});

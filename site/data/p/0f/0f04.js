@@ -1,0 +1,1 @@
+__p({"id":"0f04","competition":"ASU","problem":"Is it possible to place the digits $0$, $1$, $2$ into unit squares of $100 \\times 100$ cross-lined paper such that every $3 \\times 4$ (and every $4 \\times 3$) rectangle contains three $0$s, four $1$s and five $2$s?","solutions":[],"images":[]});

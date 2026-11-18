@@ -1,0 +1,1 @@
+__p({"id":"0ez8","competition":"4th ASU","problem":"Given any positive integer $n$, show that we can find infinitely many integers $m$ such that $m$ has no zeros (when written as a decimal number) and the sum of the digits of $m$ and $mn$ is the same.","solutions":[],"images":[]});

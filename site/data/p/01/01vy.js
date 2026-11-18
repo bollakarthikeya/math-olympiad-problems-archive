@@ -1,0 +1,1 @@
+__p({"id":"01vy","competition":"69th Belarusian Mathematical Olympiad","problem":"For all positive real numbers $x$, $y$, $z$ prove the inequality\n$$\nx^2z(4x - 3y) + y^2x(4y - 3z) + z^2y(4z - 3x) > 0.\n$$","solutions":[],"images":[]});

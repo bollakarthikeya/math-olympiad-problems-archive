@@ -1,0 +1,1 @@
+__p({"id":"0an9","competition":"Qualifying Round","problem":"Find the sum of the largest and smallest possible values of $9 \\cos^4 x + 12 \\sin^2 x - 4$.\n(a) 10\n(b) 11\n(c) 12\n(d) 13","solutions":[],"images":[]});

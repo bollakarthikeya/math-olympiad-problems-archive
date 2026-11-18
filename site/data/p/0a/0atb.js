@@ -1,0 +1,1 @@
+__p({"id":"0atb","competition":"Philippine Mathematical Olympiad","problem":"Let $p$ and $q$ be positive integers such that $p q = 2^{3} \\cdot 5^{5} \\cdot 7^{2} \\cdot 11$ and $\\frac{p}{q} = 2 \\cdot 5 \\cdot 7^{2} \\cdot 11$. Find the number of positive integer divisors of $p$.","solutions":[],"images":[]});

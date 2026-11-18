@@ -1,0 +1,1 @@
+__p({"id":"08jd","competition":"The first selection test for JBMO 2003","problem":"The positive real numbers $a$, $b$, $c$ satisfy the relation $a^{2} + b^{2} + c^{2} = 3 a b c$. Prove the inequality\n$$\n\\frac{a}{b^{2} c^{2}} + \\frac{b}{c^{2} a^{2}} + \\frac{c}{a^{2} b^{2}} \\geq \\frac{9}{a + b + c}\n$$","solutions":[],"images":[]});

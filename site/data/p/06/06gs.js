@@ -1,0 +1,1 @@
+__p({"id":"06gs","competition":"Year 2012","problem":"Among $45$ persons in a party, it is found that every person knows at least one other person in the party (i.e. they are friends), and any two persons with the same number of friends in the party do not know each other. What is the maximum number of pairs of persons who are friends?","solutions":[],"images":[]});

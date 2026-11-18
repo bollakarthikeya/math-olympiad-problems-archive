@@ -1,0 +1,1 @@
+__p({"id":"09p0","competition":"MMO2025 Round 2","problem":"How many ways can three distinct bishops be placed on an $8 \\times 8$ chessboard such that no two of them attack each other?","solutions":[],"images":[]});

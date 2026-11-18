@@ -1,0 +1,1 @@
+__p({"id":"0aqg","competition":"12th Philippine Mathematical Olympiad - Area Stage","problem":"Find all pairs $(a, b)$ of integers such that $\\sqrt{2010+2 \\sqrt{2009}}$ is a solution of the quadratic equation $x^{2}+a x+b=0$.","solutions":[],"images":[]});

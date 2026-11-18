@@ -1,0 +1,1 @@
+__p({"id":"0iga","competition":"Harvard-MIT Mathematics Tournament","problem":"Write down an integer $N$ between $0$ and $20$ inclusive. If more than $N$ teams write down $N$, your score is $N$; otherwise it is $0$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0ao7","competition":"Qualifying Round","problem":"How many triangles can be formed if two sides have lengths $15$ and $19$ and the third side has even length?\n(a) $13$\n(b) $14$\n(c) $15$\n(d) $16$","solutions":[],"images":[]});

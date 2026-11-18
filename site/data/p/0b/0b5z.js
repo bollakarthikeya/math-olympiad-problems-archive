@@ -1,0 +1,1 @@
+__p({"id":"0b5z","competition":"Shortlisted Problems for the Romanian NMO","problem":"Let $ABCD$ be a parallelogram of area $1$, and $AD \\le AB \\le BD < AC$. Prove that the parallelogram can be covered by a rectangle of area $\\sqrt{3}$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bw2","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"If $n \\in \\mathbb{N}^*$ and $x_0 < x_1 < x_2 < \\dots < x_n$ are real numbers, show that\n$$\n2x_n + \\frac{1}{(x_1 - x_0)^2} + \\frac{1}{(x_2 - x_1)^2} + \\dots + \\frac{1}{(x_n - x_{n-1})^2} \\ge 3n + 2x_0.\n$$","solutions":[],"images":[]});

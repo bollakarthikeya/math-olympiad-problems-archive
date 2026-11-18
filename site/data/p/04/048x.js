@@ -1,0 +1,1 @@
+__p({"id":"048x","competition":"Hrvatska 2011","problem":"Let $ABCD$ be a unit square. The unit circle $k$ has center $C$. Determine the radius of the circle $k_1$ which touches the circle $k$ and line segments $\\overline{AB}$ and $\\overline{AD}$.","solutions":[],"images":[]});

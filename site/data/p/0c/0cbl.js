@@ -1,0 +1,1 @@
+__p({"id":"0cbl","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Let $M$ and $N$ be the centres of the faces $A'B'C'D'$, respectively $ADD'A'$ of a rectangular cuboid $ABCD'A'B'C'D'$. It is known that $AM \\perp A'C$ and $C'Q \\perp BD'$. Prove that $ABCD'A'B'C'D'$ is a cube.","solutions":[],"images":[]});

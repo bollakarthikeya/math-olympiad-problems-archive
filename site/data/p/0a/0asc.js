@@ -1,0 +1,1 @@
+__p({"id":"0asc","competition":"Philippines Mathematical Olympiad","problem":"Let $\\log_{14} 16$ be equal to $a$. Express $\\log_{8} 14$ in terms of $a$.","solutions":["$\\frac{4}{3a}$"],"images":[]});

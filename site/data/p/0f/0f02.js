@@ -1,0 +1,1 @@
+__p({"id":"0f02","competition":"ASU","problem":"For positive reals $x$, $y$ let $f(x, y)$ be the smallest of $x$, $1/y$, $y + 1/x$. What is the maximum value of $f(x, y)$? What are the corresponding $x$, $y$?","solutions":[],"images":[]});

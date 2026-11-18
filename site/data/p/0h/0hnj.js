@@ -1,0 +1,1 @@
+__p({"id":"0hnj","competition":"","problem":"Square $ABCD$ has side length $1$. A dilation is performed about point $A$, creating square $AB' C' D'$. If $BC' = 29$, determine the area of triangle $BDC'$.","solutions":["$29^{2} - 2 \\cdot \\frac{1}{2}(29)\\left(\\frac{29}{2}\\right) - \\frac{1}{2} = 420$."],"images":[]});

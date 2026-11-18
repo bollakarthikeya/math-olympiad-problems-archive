@@ -1,0 +1,1 @@
+__p({"id":"0f8s","competition":"23rd ASU","problem":"$ABCD$ has $AB = CD$, but $AB$ not parallel to $CD$, and $AD$ parallel to $BC$. The triangle $ABC$ is rotated about $C$ to $A'B'C$. Show that the midpoints of $BC$, $B'C$ and $A'D$ are collinear.","solutions":[],"images":[]});

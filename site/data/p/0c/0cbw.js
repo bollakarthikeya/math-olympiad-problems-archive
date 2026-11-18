@@ -1,0 +1,1 @@
+__p({"id":"0cbw","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Find all positive integers $n$ so that there are exactly $1 + 2^{n+2}$ integers between $3^n$ and $3^{n+1}$.","solutions":[],"images":[]});

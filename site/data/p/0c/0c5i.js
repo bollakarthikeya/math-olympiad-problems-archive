@@ -1,0 +1,1 @@
+__p({"id":"0c5i","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Determine the numbers $x$, $y$, with $x$ integer and $y$ rational, for which the equality\n$$\n5(x^2 + xy + y^2) = 7(x + 2y)\n$$\nholds.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04lp","competition":"Mathematical competitions in Croatia","problem":"Find the smallest multiple of $84$ whose decimal representation contains only digits $6$ and $7$.","solutions":[],"images":[]});

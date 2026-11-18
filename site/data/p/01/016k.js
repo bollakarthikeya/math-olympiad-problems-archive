@@ -1,0 +1,1 @@
+__p({"id":"016k","competition":"Baltic Way","problem":"Let $n$ be a given positive integer. Show that we can choose numbers $c_{k} \\in \\{-1,1\\}$ $(1 \\leq k \\leq n)$ such that\n$$\n0 \\leq \\sum_{k=1}^{n} c_{k} \\cdot k^{2} \\leq 4\n$$","solutions":[],"images":[]});

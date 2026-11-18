@@ -1,0 +1,1 @@
+__p({"id":"0f2p","competition":"ASU","problem":"$a_1, a_2, \\ldots, a_n$ are real numbers. Let $b_k = (a_1 + a_2 + \\ldots + a_k)/k$ for $k = 1, 2, \\ldots, n$. Let\n$$\nC = (a_1 - b_1)^2 + (a_2 - b_2)^2 + \\ldots + (a_n - b_n)^2,\n$$\nand\n$$\nD = (a_1 - b_n)^2 + (a_2 - b_n)^2 + \\ldots + (a_n - b_n)^2.\n$$\nShow that $C \\leq D \\leq 2C$.","solutions":[],"images":[]});

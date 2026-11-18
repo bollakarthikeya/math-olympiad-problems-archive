@@ -1,0 +1,1 @@
+__p({"id":"0at0","competition":"Philippines Mathematical Olympiad","problem":"When\n$$\n\\left(x^{2}+2 x+2\\right)^{2009}+\\left(x^{2}-3 x-3\\right)^{2009}\n$$\nis expanded, what is the sum of the coefficients of the terms with odd exponents of $x$?","solutions":["$-1$"],"images":[]});

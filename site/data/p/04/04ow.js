@@ -1,0 +1,1 @@
+__p({"id":"04ow","competition":"Croatian Mathematical Society Competitions","problem":"Borna wants to colour each of the numbers $2$, $3$, $\\ldots$, $32$ in one of $k$ colours, in such a way that none of the numbers is of the same colour as one of its multiples. Find the smallest positive integer $k$ for which that is possible.","solutions":[],"images":[]});

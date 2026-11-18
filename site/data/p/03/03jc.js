@@ -1,0 +1,1 @@
+__p({"id":"03jc","competition":"Canadian Mathematical Olympiad","problem":"For positive integers $n$ and $k$, define $F(n, k) = \\sum_{r=1}^{n} r^{2k-1}$. Prove that $F(n, 1)$ divides $F(n, k)$.","solutions":[],"images":[]});

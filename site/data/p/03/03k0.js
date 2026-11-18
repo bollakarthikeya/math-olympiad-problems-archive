@@ -1,0 +1,1 @@
+__p({"id":"03k0","competition":"Canadian Mathematical Olympiad","problem":"Show that the equation $x^{2} + y^{5} = z^{3}$ has infinitely many solutions in integers $x$, $y$, $z$ for which $x y z \\neq 0$.","solutions":[],"images":[]});

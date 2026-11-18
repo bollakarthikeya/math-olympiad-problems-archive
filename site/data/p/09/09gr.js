@@ -1,0 +1,1 @@
+__p({"id":"09gr","competition":"Mongolian Mathematical Olympiad","problem":"Let $a$ and $b$ be positive real numbers such that $a + b = 2$. Prove that\n$$\n\\frac{a}{1 + b + b^2} + \\frac{b}{1 + a + a^2} \\ge \\frac{2}{3}.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0fa2","competition":"25th ASU","problem":"A polygon can be transformed into a new polygon by making a straight cut, which creates two new pieces each with a new edge. One piece is then turned over and the two new edges are reattached. Can repeated transformations of this type turn a square into a triangle?","solutions":[],"images":[]});

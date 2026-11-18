@@ -1,0 +1,1 @@
+__p({"id":"04nf","competition":"Croatia_2018","problem":"In how many ways can the letters $A$, $B$, $C$, $D$, $E$, $F$, $G$, $H$, $I$ be arranged so that all of the vowels and all of the consonants are ordered alphabetically?","solutions":[],"images":[]});

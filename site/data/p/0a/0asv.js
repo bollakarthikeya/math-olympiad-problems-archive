@@ -1,0 +1,1 @@
+__p({"id":"0asv","competition":"Philippines Mathematical Olympiad","problem":"Triangle $ABC$ is right-angled at $C$, and point $D$ on $AC$ is the foot of the bisector of $\\angle B$. If $AB = 6\\ \\mathrm{cm}$ and the area of $\\triangle ABD$ is $4.5\\ \\mathrm{cm}^2$, what is the length, in $\\mathrm{cm}$, of $CD$?","solutions":["1.5"],"images":[]});

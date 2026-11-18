@@ -1,0 +1,1 @@
+__p({"id":"0f8v","competition":"23rd ASU","problem":"$ABC$ is a triangle. Points $D$, $E$, $F$ are chosen on $BC$, $CA$, $AB$ such that $B$ is equidistant from $D$ and $F$, and $C$ is equidistant from $D$ and $E$. Show that the circumcenter of $AEF$ lies on the bisector of $EDF$.","solutions":[],"images":[]});

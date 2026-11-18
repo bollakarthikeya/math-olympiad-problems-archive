@@ -1,0 +1,1 @@
+__p({"id":"0bkp","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Prove that if the sides of a triangle are directly proportional to $4$, $5$ and $6$, then its largest angle is twice its smallest angle.","solutions":[],"images":[]});

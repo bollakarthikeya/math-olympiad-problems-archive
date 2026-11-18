@@ -1,0 +1,1 @@
+__p({"id":"04ux","competition":"Second Round","problem":"Let $ABC$ be an isosceles triangle with base $AB$ and $P$ a point on its $C$-altitude. Ray $AP$ meets the circumcircle of the triangle $ABC$ again at $Q \\neq A$. The line through $P$ parallel to $AB$ meets the side $BC$ at $R$. Prove that $QR$ bisects the angle $AQB$. (Jaroslav Švrček)","solutions":[],"images":[]});

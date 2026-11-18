@@ -1,0 +1,1 @@
+__p({"id":"0dcy","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Among numbers $a+b$, $a-b$, $a b$, $\\frac{a}{b}$ exactly two are positive and exactly two are negative. Find the sign of $b$.","solutions":[],"images":[]});

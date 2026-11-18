@@ -1,0 +1,1 @@
+__p({"id":"0khw","competition":"AMC 10 A","problem":"The graph of $f(x) = |\\lfloor x \\rfloor| - |\\lfloor 1-x \\rfloor|$ is symmetric about which of the following? (Here $\\lfloor x \\rfloor$ is the greatest integer not exceeding $x$.)\n(A) the $y$-axis (B) the line $x = 1$ (C) the origin (D) the point $(\\frac{1}{2}, 0)$ (E) the point $(1, 0)$","solutions":[],"images":[]});

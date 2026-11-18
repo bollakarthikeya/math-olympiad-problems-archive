@@ -1,0 +1,1 @@
+__p({"id":"03jb","competition":"Canadian Mathematical Olympiad","problem":"A chord $ST$ of constant length slides around a semicircle with diameter $AB$. $M$ is the mid-point of $ST$ and $P$ is the foot of the perpendicular from $S$ to $AB$. Prove that angle $SPM$ is constant for all positions of $ST$.","solutions":[],"images":[]});

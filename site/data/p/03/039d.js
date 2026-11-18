@@ -1,0 +1,1 @@
+__p({"id":"039d","competition":"First selection test for IMO 2007, Vietnam","problem":"Given a point $P$ on the side $AB$ of a triangle $ABC$, consider all pairs of points $(X, Y)$, $X \\in BC$, $Y \\in AC$ such that $PX \\parallel BC$ and $PY \\parallel AC$. Prove that the midpoints of the segments $XY$ lie on a straight line.","solutions":[],"images":[]});

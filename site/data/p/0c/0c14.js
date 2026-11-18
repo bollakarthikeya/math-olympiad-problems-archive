@@ -1,0 +1,1 @@
+__p({"id":"0c14","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Determine the positive integers $a, b, c$ which satisfy the equality:\n$$\n\\frac{a+b}{2} + \\frac{a^2+b^2}{2} = \\frac{7c+1}{c+1}.\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f2f","competition":"ASU","problem":"Each vertex of a convex polyhedron has three edges. Each face is a cyclic polygon. Show that its vertices all lie on a sphere.","solutions":[],"images":[]});

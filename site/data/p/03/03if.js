@@ -1,0 +1,1 @@
+__p({"id":"03if","competition":"Canadian Mathematical Olympiad","problem":"A gambling student tosses a fair coin and scores one point for each head that turns up and two points for each tail. Prove that the probability of the student scoring exactly $n$ points is\n$$\n\\frac{1}{3}\\left[2+\\left(-\\frac{1}{2}\\right)^{n}\\right].\n$$","solutions":[],"images":[]});

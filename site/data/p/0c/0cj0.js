@@ -1,0 +1,1 @@
+__p({"id":"0cj0","competition":"75th NMO","problem":"Determine all sets $M$ having at least two elements, all of which are prime natural numbers, and with the property that for any two distinct elements chosen from $M$, their difference is equal to 1 or to a prime number belonging to the set $M$.","solutions":[],"images":[]});

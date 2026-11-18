@@ -1,0 +1,1 @@
+__p({"id":"04hv","competition":"Croatia Mathematical Competitions","problem":"Let $a$ and $b$ be positive real numbers such that $a^3 + b^3 = 2ab(a + b)$.\nDetermine $\\frac{a^2}{b^2} + \\frac{b^2}{a^2}$. (Ratko Višak)","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0b6u","competition":"Shortlisted Problems for the Romanian NMO","problem":"Prove that the real numbers $a$, $b$ fulfill\n$$(x + y + z)^3 + a(x + y + z)(xy + xz + yz) + bxyz \\ge 0,$$\nfor all $x, y, z \\ge 0$, if and only if there exist $r \\ge 0$, $s \\ge 0$ such that $a = -4 + r$, $b = 9 - 9r + s$.","solutions":[],"images":[]});

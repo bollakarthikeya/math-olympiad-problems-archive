@@ -1,0 +1,1 @@
+__p({"id":"0at8","competition":"Philippines Mathematical Olympiad","problem":"The incircle of a triangle has radius $4$, and the segments into which one side is divided by the point of contact with the incircle are of lengths $6$ and $8$. What is the perimeter of the triangle?","solutions":["$42$"],"images":[]});

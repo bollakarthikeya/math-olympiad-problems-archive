@@ -1,0 +1,1 @@
+__p({"id":"04iv","competition":"Croatia Mathematical Competitions","problem":"Let $\\lfloor x \\rfloor$ denote the largest integer not greater than real number $x$. Determine all real solutions of the equation\n$$\n11 \\lfloor x \\rfloor + \\lfloor x + \\frac{1}{2} \\rfloor = 9x.\n$$","solutions":[],"images":[]});

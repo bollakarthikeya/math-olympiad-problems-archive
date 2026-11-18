@@ -1,0 +1,1 @@
+__p({"id":"0cfq","competition":"74th NMO Shortlisted Problems","problem":"Solve in $[1, \\infty) \\times \\mathbb{R}$ the following system of equations\n$$\n\\begin{cases}\nx + y = 2^x \\\\\nx^2 + y^2 = 2^{[y]}.\n\\end{cases}\n$$","solutions":[],"images":[]});

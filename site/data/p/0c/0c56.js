@@ -1,0 +1,1 @@
+__p({"id":"0c56","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"Let $m$ be a positive integer. Find the number of the real solutions of the equation\n$$\n\\left| \\sum_{k=0}^{m} \\binom{2m}{2k} x^k \\right| = |x - 1|^m.\n$$","solutions":[],"images":[]});

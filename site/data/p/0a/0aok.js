@@ -1,0 +1,1 @@
+__p({"id":"0aok","competition":"Qualifying Round","problem":"If $\\sqrt{4+x} + \\sqrt{10-x} = 6$, find the product $\\sqrt{4+x} \\sqrt{10-x}$.\n(a) 13\n(b) 7\n(c) 17\n(d) 11","solutions":[],"images":[]});

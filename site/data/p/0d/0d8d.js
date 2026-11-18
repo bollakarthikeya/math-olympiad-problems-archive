@@ -1,0 +1,1 @@
+__p({"id":"0d8d","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $m, n, k$ and $l$ be positive integers with $n \\neq 1$ such that $n^{k} + m n^{l} + 1$ divides $n^{k+l} - 1$. Prove that either $m = 1$ and $l = 2k$; or $l \\mid k$ and $m = \\frac{n^{k-l} - 1}{n^{l} - 1}$.","solutions":[],"images":[]});

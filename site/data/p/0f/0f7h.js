@@ -1,0 +1,1 @@
+__p({"id":"0f7h","competition":"21st ASU","problem":"The positive reals $a$, $b$, $c$, $x$, $y$, $z$ satisfy $a + x = b + y = c + z = k$. Show that $ax + by + cz \\leq k^2$.","solutions":[],"images":[]});

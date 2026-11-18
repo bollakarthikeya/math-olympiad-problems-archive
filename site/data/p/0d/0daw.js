@@ -1,0 +1,1 @@
+__p({"id":"0daw","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Find the smallest positive integer $n$ with the following property: After painting black exactly $n$ cells of a $7 \\times 7$ board there always exists a $2 \\times 2$ square with at least three black cells.","solutions":[],"images":[]});

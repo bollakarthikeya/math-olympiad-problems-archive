@@ -1,0 +1,1 @@
+__p({"id":"04lv","competition":"Mathematical competitions in Croatia","problem":"Let $z_1$ and $z_2$ be complex numbers such that $|z_1| = |z_2| = 1$, and let $a$ and $b$ be real numbers such that $a + b = 1$. Prove\n$$\n|a z_1 + b z_2| \\ge \\frac{1}{2} |z_1 + z_2|.\n$$","solutions":[],"images":[]});

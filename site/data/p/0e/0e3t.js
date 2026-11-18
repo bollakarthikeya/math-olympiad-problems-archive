@@ -1,0 +1,1 @@
+__p({"id":"0e3t","competition":"Selection Examinations for the IMO","problem":"At a volleyball tournament any two of the $n$ teams played against each other exactly once. For any two different teams $A$ and $B$ there were exactly $k$ teams that lost against both of them. Prove that $n = 4k + 3$.","solutions":[],"images":[]});

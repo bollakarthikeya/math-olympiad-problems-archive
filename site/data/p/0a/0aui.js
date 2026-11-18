@@ -1,0 +1,1 @@
+__p({"id":"0aui","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"Find the numerical value of $\\left(1-\\cot 37^\\circ\\right)\\left(1-\\cot 8^\\circ\\right)$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0c2v","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"If $a, b \\in [0, +\\infty)$, $c \\in \\mathbb{R}$ and $\\lfloor x \\rfloor + \\lfloor x + a \\rfloor + \\lfloor x + b \\rfloor = \\lfloor c x \\rfloor$, for every $x \\in \\mathbb{R}$, prove that $\\{a, b\\} = \\{\\frac{1}{3}, \\frac{2}{3}\\}$ and $c = 3$.","solutions":[],"images":[]});

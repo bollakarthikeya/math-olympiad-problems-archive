@@ -1,0 +1,1 @@
+__p({"id":"0ase","competition":"Philippines Mathematical Olympiad","problem":"What is the probability that a randomly chosen positive divisor of $2010$ has two digits?","solutions":["$\\frac{1}{4}$"],"images":[]});

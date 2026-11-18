@@ -1,0 +1,1 @@
+__p({"id":"0i32","competition":"Harvard-MIT Math Tournament","problem":"What is the sum of the coefficients of the expansion $(x+2y-1)^6$?","solutions":["The sum of the coefficients of a polynomial is that polynomial evaluated at $1$, which for the question at hand is $(1+2 \\cdot 1-1)^6 = 2^6 = 64$."],"images":[]});

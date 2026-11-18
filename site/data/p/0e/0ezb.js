@@ -1,0 +1,1 @@
+__p({"id":"0ezb","competition":"4th ASU","problem":"$S$ is the set of all positive integers with $n$ decimal digits or less and with an even digit sum. $T$ is the set of all positive integers with $n$ decimal digits or less and an odd digit sum. Show that the sum of the $k$th powers of the members of $S$ equals the sum for $T$ if $1 \\leq k < n$.","solutions":[],"images":[]});

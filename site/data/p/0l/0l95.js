@@ -1,0 +1,1 @@
+__p({"id":"0l95","competition":"CONTEST FOR THE SELECTION OF VIETNAMESE INTERNATIONAL MATHEMATICAL OLYMPIAD TEAM","problem":"Prove that there exist an integer $m \\ge 2002$ and $m$ distinct positive integers $a_1, a_2, \\dots, a_m$ such that the number\n$$\n\\prod_{i=1}^{m} a_i^2 - 4 \\sum_{i=1}^{m} a_i^2\n$$\nis a perfect square.","solutions":[],"images":[]});

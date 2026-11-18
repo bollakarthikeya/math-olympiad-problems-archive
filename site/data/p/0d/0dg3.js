@@ -1,0 +1,1 @@
+__p({"id":"0dg3","competition":"Saudi Arabian IMO Booklet","problem":"Let $f(x) = \\frac{9^x}{9^x+3}$. Evaluate the sum\n$$\n\\sum_{k=0}^{2021} f\\left(\\frac{k}{2021}\\right).\n$$","solutions":[],"images":[]});

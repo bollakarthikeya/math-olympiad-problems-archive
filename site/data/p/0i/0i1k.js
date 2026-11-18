@@ -1,0 +1,1 @@
+__p({"id":"0i1k","competition":"Harvard-MIT Math Tournament","problem":"Find $x-y$, given that $x^{4} = y^{4} + 24$, $x^{2} + y^{2} = 6$, and $x + y = 3$.","solutions":["$\\frac{24}{6 \\cdot 3} = \\frac{x^{4} - y^{4}}{(x^{2} + y^{2})(x + y)} = \\frac{(x^{2} + y^{2})(x + y)(x - y)}{(x^{2} + y^{2})(x + y)} = x - y = \\frac{4}{3}$."],"images":[]});

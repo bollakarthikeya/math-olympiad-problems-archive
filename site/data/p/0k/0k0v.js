@@ -1,0 +1,1 @@
+__p({"id":"0k0v","competition":"HMMT November 2018","problem":"A positive integer is called primer if it has a prime number of distinct prime factors. Find the smallest primer number.","solutions":["Answer: $6$\nA primer number must have at least two distinct prime factors, and $6$ will work."],"images":[]});

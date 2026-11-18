@@ -1,0 +1,1 @@
+__p({"id":"0bqm","competition":"67th NMO Shortlisted Problems","problem":"Find all functions $f : \\mathbb{R} \\to \\mathbb{R}$ with the property\n$$\n|f(x+y) - f(x-y) - 2y| \\le y^2, \\quad \\forall x, y \\in \\mathbb{R}.\n$$","solutions":[],"images":[]});

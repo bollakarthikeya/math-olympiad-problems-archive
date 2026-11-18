@@ -1,0 +1,1 @@
+__p({"id":"0c7i","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"A set of prime numbers is called *interesting* if the following holds: *the sum of any three distinct numbers from the set is also prime*.\nFind the maximum number of elements an interesting set should have.","solutions":[],"images":[]});

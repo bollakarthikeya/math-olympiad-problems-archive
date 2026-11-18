@@ -1,0 +1,1 @@
+__p({"id":"04p7","competition":"Croatian Mathematical Society Competitions","problem":"How many different bracelets consisting of four black and four white beads arranged in a circle are there? Two bracelets are considered different if they cannot be turned over so that the beads are equally aligned on them.","solutions":[],"images":[]});

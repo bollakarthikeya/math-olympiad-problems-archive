@@ -1,0 +1,1 @@
+__p({"id":"0f40","competition":"15th ASU","problem":"Eighteen teams are playing in a tournament. So far, each team has played exactly eight games, each with a different opponent. Show that there are three teams none of which has yet played the other.","solutions":[],"images":[]});

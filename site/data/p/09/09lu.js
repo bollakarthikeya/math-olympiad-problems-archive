@@ -1,0 +1,1 @@
+__p({"id":"09lu","competition":"Mongolian Mathematical Olympiad","problem":"Determine all positive integer values of $n$, which are perfect squares, such that when dividing $2024$ by $n$ the remainder is $188 - \\frac{5}{4}n$.","solutions":[],"images":[]});

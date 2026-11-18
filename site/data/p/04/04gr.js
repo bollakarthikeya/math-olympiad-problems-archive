@@ -1,0 +1,1 @@
+__p({"id":"04gr","competition":"Mathematica competitions in Croatia","problem":"Find all prime numbers $p$ for which there exists a positive integer $n$ such that both $n^2 + 3$ and $(n + 1)^2 + 3$ are divisible by $p$. (Stipe Vidak)","solutions":[],"images":[]});

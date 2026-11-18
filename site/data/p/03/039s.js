@@ -1,0 +1,1 @@
+__p({"id":"039s","competition":"Fall Mathematical Competition","problem":"Find all integers $b$ and $c$ such that the equation $x^2 - b x + c = 0$ has two real solutions $x_1$ and $x_2$ with $x_1^2 + x_2^2 = 5$.","solutions":[],"images":[]});

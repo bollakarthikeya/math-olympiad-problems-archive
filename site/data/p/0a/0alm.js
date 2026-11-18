@@ -1,0 +1,1 @@
+__p({"id":"0alm","competition":"QUALIFYING STAGE","problem":"How many solutions has $\\sin 2 \\theta - \\cos 2 \\theta = \\sqrt{6} / 2$ in $\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$?\n\n(a) 1\n(b) 2\n(c) 3\n(d) 4","solutions":[],"images":[]});

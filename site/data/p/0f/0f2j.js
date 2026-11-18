@@ -1,0 +1,1 @@
+__p({"id":"0f2j","competition":"ASU","problem":"An $n$-gon area $A$ is inscribed in a circle radius $R$. We take a point on each side of the polygon to form another $n$-gon. Show that it has perimeter at least $2A/R$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f0x","competition":"ASU","problem":"Find all three-digit decimal numbers $a_1a_2a_3$ which equal the mean of the six numbers $a_1a_2a_3$, $a_1a_3a_2$, $a_2a_1a_3$, $a_2a_3a_1$, $a_3a_1a_2$, $a_3a_2a_1$.","solutions":[],"images":[]});

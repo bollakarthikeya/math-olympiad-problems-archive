@@ -1,0 +1,1 @@
+__p({"id":"0ezq","competition":"ASU","problem":"Let $f(x, y) = x^2 + x y + y^2$. Show that given any real $x$, $y$ one can always find integers $m$, $n$ such that $f(x - m, y - n) \\leq 1/3$. What is the corresponding result if $f(x, y) = x^2 + a x y + y^2$ with $0 \\leq a \\leq 2$?","solutions":[],"images":[]});

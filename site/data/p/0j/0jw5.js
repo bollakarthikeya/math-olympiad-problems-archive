@@ -1,0 +1,1 @@
+__p({"id":"0jw5","competition":"Berkeley Math Circle: Monthly Contest 5","problem":"A bird thinks the number $2 n^{2}+29$ is prime for every positive integer $n$. Find a counterexample to the bird's conjecture.","solutions":["Simply taking $n=29$ works, since $2 \\cdot 29^{2}+29=29(2 \\cdot 29+1)=29 \\cdot 59$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04c4","competition":"Mathematica competitions in Croatia","problem":"A sphere of radius $r$ is inscribed to a tetrahedron. If the altitudes of the tetrahedron are $v_1$, $v_2$, $v_3$ and $v_4$, prove\n$$\n\\frac{1}{v_1} + \\frac{1}{v_2} + \\frac{1}{v_3} + \\frac{1}{v_4} = \\frac{1}{r}.\n$$","solutions":[],"images":[]});

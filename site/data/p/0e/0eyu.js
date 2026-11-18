@@ -1,0 +1,1 @@
+__p({"id":"0eyu","competition":"3rd ASU","problem":"Given a pentagon with equal sides.  \n(a) Prove that there is a point $X$ on the longest diagonal such that every side subtends an angle at most $90$ degrees at $X$.  \n(b) Prove that the five circles with diameter one of the pentagon's sides do not cover the pentagon.","solutions":[],"images":[]});

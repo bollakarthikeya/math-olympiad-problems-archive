@@ -1,0 +1,1 @@
+__p({"id":"0ask","competition":"Philippines Mathematical Olympiad","problem":"Both roots of the quadratic equation $x^{2} - 30x + 13k = 0$ are prime numbers. What is the largest possible value of $k$?","solutions":["17"],"images":[]});

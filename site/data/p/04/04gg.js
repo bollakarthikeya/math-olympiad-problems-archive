@@ -1,0 +1,1 @@
+__p({"id":"04gg","competition":"Mathematica competitions in Croatia","problem":"Let $a$ be a positive integer, and let $b$ and $c$ be integers such that the equation $a x^2 + b x + c = 0$ has two different solutions in the interval $\\langle 0, \\frac{1}{2} \\rangle$. Prove that $a \\ge 6$.","solutions":[],"images":[]});

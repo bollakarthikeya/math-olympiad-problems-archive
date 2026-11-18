@@ -1,0 +1,1 @@
+__p({"id":"09n1","competition":"Mongolian Mathematical Olympiad","problem":"Given integers $A$ and $B$ such that the sum of the digits of $A$ is $60$ and the sum of the digits of $B$ is $2024$, determine the least value of the sum of the digits of $A + B$.","solutions":[],"images":[]});

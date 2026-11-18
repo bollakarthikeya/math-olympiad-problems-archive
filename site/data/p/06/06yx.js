@@ -1,0 +1,1 @@
+__p({"id":"06yx","competition":"Iberoamerican Mathematical Olympiad","problem":"Define the sequence $\\{p\\}_1, \\{p\\}_2, \\{p\\}_3, \\ldots$ as follows. $\\{p\\}_1 = 2$, and $\\{p\\}_n$ is the largest prime divisor of $\\{p\\}_1 \\{p\\}_2 \\ldots \\{p\\}_{n-1} + 1$. Prove that $5$ does not occur in the sequence.","solutions":[],"images":[]});

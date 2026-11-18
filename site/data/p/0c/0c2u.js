@@ -1,0 +1,1 @@
+__p({"id":"0c2u","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Let $a$, $b$, $c$ be positive real numbers, with $abc(a + b + c) = 3$. Prove that\n$$\n\\frac{1}{a^2 + b^2 + 1} + \\frac{1}{b^2 + c^2 + 1} + \\frac{1}{c^2 + a^2 + 1} \\le 1.\n$$","solutions":[],"images":[]});

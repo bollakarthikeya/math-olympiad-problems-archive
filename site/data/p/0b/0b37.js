@@ -1,0 +1,1 @@
+__p({"id":"0b37","competition":"23rd Philippine Mathematical Olympiad Qualifying Stage","problem":"How many positive integers $n$ are there such that $\\frac{n}{120-2n}$ is a positive integer?\n\n(a) 2\n(b) 3\n(c) 4\n(d) 5","solutions":[],"images":[]});

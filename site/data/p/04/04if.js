@@ -1,0 +1,1 @@
+__p({"id":"04if","competition":"Croatia Mathematical Competitions","problem":"Determine the number of positive integers smaller than $1\\,000\\,000$, that are also perfect squares and give a remainder $4$ when divided by $8$. (Ilko Brnetić)","solutions":[],"images":[]});

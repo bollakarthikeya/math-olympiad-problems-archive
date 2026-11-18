@@ -1,0 +1,1 @@
+__p({"id":"0k6q","competition":"Berkeley Math Circle","problem":"Prove that if $a, b, c, d$ are positive integers then $a b + b c + c d + d a$ is not prime.","solutions":["Note that $a b + b c + c d + d a = (a + c)(b + d)$ is the product of two integers each greater than $1$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dfs","competition":"Saudi Arabian IMO Booklet","problem":"Let positive numbers be written along the circle, such that all of them are less than $1$. Prove that one can split the circle to $3$ parts such that for each two arcs the sums of numbers written on them differs by at most $1$.","solutions":[],"images":[]});

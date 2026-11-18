@@ -1,0 +1,1 @@
+__p({"id":"08he","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"The rational numbers $p$, $q$, $r$ satisfy the relation $p q + p r + q r = 1$. Prove that the number $(1 + p^{2})(1 + q^{2})(1 + r^{2})$ is a square of a rational number.","solutions":[],"images":[]});

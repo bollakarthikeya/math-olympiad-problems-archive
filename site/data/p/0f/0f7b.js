@@ -1,0 +1,1 @@
+__p({"id":"0f7b","competition":"20th ASU","problem":"Two circles intersect at $P$ and $Q$. $A$ is a point on one of the circles. The lines $AP$ and $AQ$ meet the other circle at $B$ and $C$ respectively. Show that the circumradius of $ABC$ equals the distance between the centers of the two circles. Find the locus of the circumcircle as $A$ varies.","solutions":[],"images":[]});

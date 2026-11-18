@@ -1,0 +1,1 @@
+__p({"id":"08ha","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Find all prime numbers $a$, $b$ and $c$ for which the equality $$(a-2)! + 2b! = 22c - 1$$ holds.","solutions":[],"images":[]});

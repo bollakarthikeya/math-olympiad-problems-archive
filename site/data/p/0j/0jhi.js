@@ -1,0 +1,1 @@
+__p({"id":"0jhi","competition":"Berkeley Math Circle","problem":"Show that for all real numbers $a, b, c$,\n$$\na^{6} + b^{6} + c^{6} - 3 a^{2} b^{2} c^{2} \\geq \\frac{1}{2}(a-b)^{2}(b-c)^{2}(c-a)^{2}\n$$","solutions":["A solution will be coming soon."],"images":[]});

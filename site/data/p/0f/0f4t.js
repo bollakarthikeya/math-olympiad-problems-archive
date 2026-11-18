@@ -1,0 +1,1 @@
+__p({"id":"0f4t","competition":"16th ASU","problem":"Let $\\{a\\}$ denote the difference between $a$ and the nearest integer. For example $\\{3.8\\} = 0.2$, $\\{-5.4\\} = 0.4$. Show that\n$$\n\\{a\\}\\{2a\\}\\{3a\\}\\ldots\\{na\\} \\geq \\frac{\\{a\\}^n}{2^n}\n$$","solutions":[],"images":[]});

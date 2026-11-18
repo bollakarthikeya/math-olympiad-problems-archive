@@ -1,0 +1,1 @@
+__p({"id":"0bw7","competition":"SHORTLISTED PROBLEMS FOR THE 68th NMO","problem":"Find all functions $f : \\mathbb{R} \\to \\mathbb{R}$ which fulfill\n$$\nf(x^2f(x) + f(y)) = f(f(x^3)) + y, \\text{ for every } x, y \\in \\mathbb{R}.\n$$","solutions":[],"images":[]});

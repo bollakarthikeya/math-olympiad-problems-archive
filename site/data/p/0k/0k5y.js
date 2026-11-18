@@ -1,0 +1,1 @@
+__p({"id":"0k5y","competition":"Berkeley Math Circle: Monthly Contest 2","problem":"Do there exist five points in the plane, not all collinear, such that the distance between any pair is one of $\\{1,2,3, \\ldots, 9\\}$?","solutions":["Yes. Take the five points $(0,0)$, $(\\pm 3,0)$ and $(0, \\pm 4)$. The distances which appear are $3$, $4$, $5$, $6$, and $8$."],"images":[]});

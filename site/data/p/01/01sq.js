@@ -1,0 +1,1 @@
+__p({"id":"01sq","competition":"66th Belarusian Mathematical Olympiad","problem":"Determine all positive integers $M$ for which the sequence $a_0, a_1, a_2, \\ldots$, defined by $a_0 = 2M + \\frac{1}{2}$ and $a_{k+1} = a_k[a_k]$ for $k = 0, 1, 2, \\ldots$, contains at least one integer term.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0d9j","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Here are $2017$ points on the plane, no three of them are collinear. Some pairs of the points are connected by $n$ segments. Find the smallest value of $n$ so that there always exists two disjoint segments in any case.","solutions":[],"images":[]});

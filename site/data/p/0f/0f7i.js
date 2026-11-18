@@ -1,0 +1,1 @@
+__p({"id":"0f7i","competition":"21st ASU","problem":"A real number with absolute value at most $1$ is put in each square of a $1987 \\times 1987$ board. The sum of the numbers in each $2 \\times 2$ square is $0$. Show that the sum of all the numbers does not exceed $1987$.","solutions":[],"images":[]});

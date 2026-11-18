@@ -1,0 +1,1 @@
+__p({"id":"0fab","competition":"25th ASU","problem":"$X$ is a set with $100$ members. What is the smallest number of subsets of $X$ such that every pair of elements belongs to at least one subset and no subset has more than $50$ members? What is the smallest number if we also require that the union of any two subsets has at most $80$ members?","solutions":[],"images":[]});

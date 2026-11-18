@@ -1,0 +1,1 @@
+__p({"id":"0cfk","competition":"74th NMO Shortlisted Problems","problem":"Let $p > 2$ be a prime number and $n \\in \\mathbb{N}^*$ such that $n \\equiv 1 \\pmod{p}$. If the ring $(A, +, \\cdot)$ has the property that $x^{n+p} = x^n$ for any $x \\in A$, prove that $x^{p+1} = x$ for any $x \\in A$.\n\nMihai Opincariu","solutions":[],"images":[]});

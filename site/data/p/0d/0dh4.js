@@ -1,0 +1,1 @@
+__p({"id":"0dh4","competition":"Saudi Arabian IMO Booklet","problem":"Prove that not all zeros of a polynomial of the form $x^n + 2n x^{n-1} + 2n^2 x^{n-2} + \\dots$ can be real.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bqw","competition":"67th NMO Shortlisted Problems","problem":"Let $n \\in \\mathbb{N}, n \\ge 4$, and $A_n = \\{1, 2, 3, \\dots, n\\}$. Find the number of solutions in the set $A_n \\times A_n \\times A_n \\times A_n$ of the system\n$$\n\\begin{cases}\nx + z = 2y \\\\\ny + t = 2z\n\\end{cases}\n$$","solutions":[],"images":[]});

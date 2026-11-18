@@ -1,0 +1,1 @@
+__p({"id":"0ann","competition":"AREA STAGE","problem":"Find the equation of the line that contains the point $(1,0)$, that is of least positive slope, and that does not intersect the curve $4x^{2} - y^{2} - 8x = 12$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dbm","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $d$ be a positive divisor of the number $A = 1024^{1024} + 5$ and suppose that $d$ can be expressed as $d = 2x^{2} + 2xy + 3y^{2}$ for some integers $x, y$. Which remainder can we have when dividing $d$ by $20$?","solutions":[],"images":[]});

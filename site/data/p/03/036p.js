@@ -1,0 +1,1 @@
+__p({"id":"036p","competition":"Bulgarian Mathematical Competitions","problem":"Given a triangle $ABC$, let $BL$, $L \\in AC$, be the bisector of $\\angle ABC$ and $AH$, $H \\in BC$, the altitude to $BC$. Prove that $\\angle AHL = \\angle ALB$ if and only if $\\angle BAC = \\angle ACB + 90^\\circ$.","solutions":[],"images":[]});

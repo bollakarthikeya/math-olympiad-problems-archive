@@ -1,0 +1,1 @@
+__p({"id":"02rc","competition":"Brazilian Math Olympiad","problem":"Consider all matrices of order $4n$ with $4n$ entries equal to $1$, $4n$ entries equal to $-1$ and all remaining entries equal to $0$. Find, in terms of $n$, the maximum of its determinant.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0auh","competition":"17th Philippine Mathematical Olympiad Area Stage","problem":"Simplify the expression\n$$\n\\left(1+\\frac{1}{i}+\\frac{1}{i^{2}}+\\ldots+\\frac{1}{i^{2014}}\\right)^{2}.\n$$","solutions":[],"images":[]});

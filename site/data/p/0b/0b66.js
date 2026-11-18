@@ -1,0 +1,1 @@
+__p({"id":"0b66","competition":"Shortlisted Problems for the Romanian NMO","problem":"Consider the sequence given by $x_1 = 1$ and $x_{n+1} = 1 + \\frac{n}{x_n}$, for $n \\in \\mathbb{N}^*$. Find all $n$ such that $x_n$ is an integer.","solutions":[],"images":[]});

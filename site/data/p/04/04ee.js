@@ -1,0 +1,1 @@
+__p({"id":"04ee","competition":"Mathematica competitions in Croatia","problem":"Let $n$ be a composite positive integer and let $d_1, d_2, \\dots, d_m$ be all of its divisors. Prove that the following equation holds:\n$$\n\\frac{2}{\\log n^m} \\sum_{k=1}^{m} \\log d_k = 1.\n$$","solutions":[],"images":[]});

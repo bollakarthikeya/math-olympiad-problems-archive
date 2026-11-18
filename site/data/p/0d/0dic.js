@@ -1,0 +1,1 @@
+__p({"id":"0dic","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Find all real $\\alpha > 0$ with the following property: there exists a sequence $(x_1, x_2, x_3, ...)$ of positive real numbers such that $x_{n+2} = \\sqrt{\\alpha x_{n+1} - x_n}$ for all $n \\ge 1$.","solutions":[],"images":[]});

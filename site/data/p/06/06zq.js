@@ -1,0 +1,1 @@
+__p({"id":"06zq","competition":"Iberoamerican Mathematical Olympiad","problem":"Construct a cyclic trapezium $ABCD$ with $AB$ parallel to $CD$, perpendicular distance $h$ between $AB$ and $CD$, and $AB + CD = m$.","solutions":[],"images":[]});

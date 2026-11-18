@@ -1,0 +1,1 @@
+__p({"id":"0f9r","competition":"24th ASU","problem":"Does there exist a rectangle which can be dissected into 15 congruent polygons which are not rectangles? Can a square be dissected into 15 congruent polygons which are not rectangles?","solutions":["yes, yes\n\n![](attached_image_1.png)\nBy stretching vertically we get a square."],"images":["img/0f9r_1.jpg"]});

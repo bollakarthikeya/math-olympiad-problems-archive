@@ -1,0 +1,1 @@
+__p({"id":"0bau","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"Given an equilateral triangle $ABC$ and the points $M \\in [BC]$, $N \\in [AC]$, $P \\in [AB]$ such that $BM = MC$, $3AN = NC$ and $2BP = AP$, find the measure of $\\angle NMP$.","solutions":[],"images":[]});

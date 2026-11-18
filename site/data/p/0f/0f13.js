@@ -1,0 +1,1 @@
+__p({"id":"0f13","competition":"ASU","problem":"Circles radius $r$ and $R$ touch externally. $AD$ is parallel to $BC$. $AB$ and $CD$ touch both circles. $AD$ touches the circle radius $r$, but not the circle radius $R$, and $BC$ touches the circle radius $R$, but not the circle radius $r$. What is the smallest possible length for $AB$?","solutions":[],"images":[]});

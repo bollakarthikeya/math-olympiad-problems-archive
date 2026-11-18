@@ -1,0 +1,1 @@
+__p({"id":"0f5x","competition":"18th ASU","problem":"The real sequence $\\{x_n\\}$ is defined by $x_1 = 1$, $x_2 = 1$, $x_{n+2} = x_{n+1}^2 - x_n / 2$. Show that the sequence converges and find the limit.","solutions":[],"images":[]});

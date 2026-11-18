@@ -1,0 +1,1 @@
+__p({"id":"04p3","competition":"Croatian Mathematical Society Competitions","problem":"Prove that for non-negative real numbers $a$ and $b$ such that $a + b \\le 2$ the inequality\n$$\n\\frac{1}{1+a^2} + \\frac{1}{1+b^2} \\le \\frac{2}{1+ab}\n$$\nholds. When is the equality attained? (Austria 2018)","solutions":[],"images":[]});

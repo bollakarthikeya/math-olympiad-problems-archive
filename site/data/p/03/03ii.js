@@ -1,0 +1,1 @@
+__p({"id":"03ii","competition":"Canadian Mathematical Olympiad","problem":"Among all triangles having (i) a fixed angle $A$ and (ii) an inscribed circle of fixed radius $r$, determine which triangle has the least perimeter.","solutions":[],"images":[]});

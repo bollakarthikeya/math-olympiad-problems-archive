@@ -1,0 +1,1 @@
+__p({"id":"0b43","competition":"24th Philippine Mathematical Olympiad","problem":"Suppose $a, b, c$ are the roots of the polynomial $x^{3} + 2x^{2} + 2$. Let $f$ be the unique monic polynomial whose roots are $a^{2}, b^{2}, c^{2}$. Find $f(1)$.\n\n(a) -17\n(b) -16\n(c) -15\n(d) -14","solutions":[],"images":[]});

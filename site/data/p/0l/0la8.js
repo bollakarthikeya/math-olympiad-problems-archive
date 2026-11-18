@@ -1,0 +1,1 @@
+__p({"id":"0la8","competition":"Vijetnam 2008","problem":"The sequence of real numbers $(x_n)$ is defined by\n$$\nx_1 = 0,\\ x_2 = 2 \\text{ and } x_{n+2} = 2^{-x_n} + \\frac{1}{2} \\text{ for all } n \\ge 1.\n$$\nProve that the sequence converges and find its limit.","solutions":[],"images":[]});

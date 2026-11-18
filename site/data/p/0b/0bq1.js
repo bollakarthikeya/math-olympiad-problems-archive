@@ -1,0 +1,1 @@
+__p({"id":"0bq1","competition":"67th NMO Shortlisted Problems","problem":"Let $A, B \\in M_2(\\mathbb{C})$ be such that $A - AB = B^2$ and $B - BA = A^2$. Prove that $A = B$.","solutions":[],"images":[]});

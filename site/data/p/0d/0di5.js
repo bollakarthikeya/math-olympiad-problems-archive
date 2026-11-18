@@ -1,0 +1,1 @@
+__p({"id":"0di5","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Several boxes of weight no more than $1$ kg weigh $36$ kg in total. Your friend can carry at most $4$ kg at a time. Prove that he can carry all the weights in no more than $11$ times.","solutions":[],"images":[]});

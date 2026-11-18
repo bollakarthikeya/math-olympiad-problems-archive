@@ -1,0 +1,1 @@
+__p({"id":"03jo","competition":"Canadian Mathematical Olympiad","problem":"Let $ABC$ be a right angled triangle of area $1$. Let $A'B'C'$ be the points obtained by reflecting $A$, $B$, $C$ respectively, in their opposite sides. Find the area of $\\triangle A'B'C'$.","solutions":[],"images":[]});

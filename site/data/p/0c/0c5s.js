@@ -1,0 +1,1 @@
+__p({"id":"0c5s","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Find all functions $f : \\mathbb{R} \\to (0, \\infty)$, such that\n$$\n2^{-x-y} \\le \\frac{f(x)f(y)}{(x^2+1)(y^2+1)} \\le \\frac{f(x+y)}{(x+y)^2+1},\n$$\nfor all $x, y \\in \\mathbb{R}$.","solutions":[],"images":[]});

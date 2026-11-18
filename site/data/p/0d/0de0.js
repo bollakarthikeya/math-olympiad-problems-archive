@@ -1,0 +1,1 @@
+__p({"id":"0de0","competition":"Saudi Arabian Mathematical Competitions","problem":"For a positive integer $k$, denote by $f(k)$ the number of positive integers $m$ such that the remainder of $k m$ modulo $2019^3$ is greater than $m$. Find the amount of different numbers among $f(1), f(2), \\ldots, f(2019^3)$.","solutions":[],"images":[]});

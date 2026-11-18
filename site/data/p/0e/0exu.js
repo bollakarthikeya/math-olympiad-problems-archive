@@ -1,0 +1,1 @@
+__p({"id":"0exu","competition":"6th ASU","problem":"Can both $x^2 + y$ and $x + y^2$ be squares for $x$ and $y$ natural numbers?","solutions":["No. The smallest square greater than $x^2$ is $(x + 1)^2$, so we must have $y > 2x$. Similarly $x > 2y$. Contradiction."],"images":[]});

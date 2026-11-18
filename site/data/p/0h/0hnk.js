@@ -1,0 +1,1 @@
+__p({"id":"0hnk","competition":"","problem":"What is the remainder when $100!$ is divided by $101$?","solutions":["Wilson's theorem says that for $p$ a prime, $(p-1)! \\equiv -1 \\pmod{p}$, so the remainder is $100$."],"images":[]});

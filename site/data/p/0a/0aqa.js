@@ -1,0 +1,1 @@
+__p({"id":"0aqa","competition":"12th Philippine Mathematical Olympiad - Area Stage","problem":"A circle of radius $2~\\mathrm{cm}$ is inscribed in $\\triangle ABC$. Let $D$ and $E$ be the points of tangency of the circle with the sides $AC$ and $AB$, respectively. If $\\angle BAC = 45^\\circ$, find the length of the minor arc $DE$.","solutions":[],"images":[]});

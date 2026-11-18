@@ -1,0 +1,1 @@
+__p({"id":"0ax3","competition":"Philippine Mathematical Olympiad Area Stage","problem":"In how many ways can the integers\n$$\n-5,-4,-3,-2,-1,1,2,3,4,5\n$$\nbe arranged in a circle such that the product of each pair of adjacent integers is negative? (Assume that arrangements which can be obtained by rotation are considered the same.)","solutions":[],"images":[]});

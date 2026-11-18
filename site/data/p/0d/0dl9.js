@@ -1,0 +1,1 @@
+__p({"id":"0dl9","competition":"Saudi Booklet","problem":"Determine all triples $(a, b, p)$ of positive integers $a, b$ and a prime number $p \\ge 3$, such that $2^a + p^{2b}$ is a $(p-1)$-st power of a positive integer.","solutions":[],"images":[]});

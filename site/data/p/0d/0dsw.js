@@ -1,0 +1,1 @@
+__p({"id":"0dsw","competition":"Singapore International Mathematical Olympiad","problem":"Let $x_1$, $x_2$, $x_3$, $y_1$, $y_2$, $y_3$ be real numbers in $[-1, 1]$. Find the maximum value of\n$$\n(x_1y_2 - x_2y_1)(x_2y_3 - x_3y_2)(x_3y_1 - x_1y_3)\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04ge","competition":"Mathematica competitions in Croatia","problem":"Let $A$ be the number of all six-digit numbers whose product of digits equals $105$, and let $B$ be the number of all six-digit numbers whose product of digits equals $147$. Determine the ratio $A : B$. (Kristina Ana Škreb)","solutions":[],"images":[]});

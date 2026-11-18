@@ -1,0 +1,1 @@
+__p({"id":"048u","competition":"CroatianCompetitions2011","problem":"Determine all real solutions of the system of equations:\n$$\n\\begin{cases} 2a^2 - 2ab + b^2 = a, \\\\ 4a^2 - 5ab + 2b^2 = b. \\end{cases}\n$$","solutions":[],"images":[]});

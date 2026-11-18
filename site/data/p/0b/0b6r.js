@@ -1,0 +1,1 @@
+__p({"id":"0b6r","competition":"Shortlisted Problems for the Romanian NMO","problem":"The tetrahedron $ABCD$ has $AD + BC + AB\\sqrt{3} = 3$, volume $\\frac{1}{12}$, and $\\angle ABC = 60^\\circ$. Compute the lengths of its edges.","solutions":[],"images":[]});

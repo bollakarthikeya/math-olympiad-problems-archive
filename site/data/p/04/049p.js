@@ -1,0 +1,1 @@
+__p({"id":"049p","competition":"Hrvatska 2011","problem":"Let $\\overline{AD}$ and $\\overline{BE}$ be altitudes of the triangle $ABC$. Given $|AE| = 5$, $|CE| = 3$ and $|CD| = 2$, determine $|BD|$.","solutions":[],"images":[]});

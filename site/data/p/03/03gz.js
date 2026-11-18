@@ -1,0 +1,1 @@
+__p({"id":"03gz","competition":"Canadian Mathematical Olympiad","problem":"Describe a construction of a quadrilateral $ABCD$ given:\n(i) the lengths of all four sides;\n(ii) that $AB$ and $CD$ are parallel;\n(iii) that $BC$ and $DA$ do not intersect.","solutions":[],"images":[]});

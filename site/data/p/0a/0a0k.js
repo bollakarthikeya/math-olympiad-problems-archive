@@ -1,0 +1,1 @@
+__p({"id":"0a0k","competition":"Junior Mathematical Olympiad","problem":"How many three-digit numbers, with each digit unequal to zero, are there such that the three digits add up to $7$?\nA) $4$   B) $7$   C) $10$   D) $15$   E) $21$","solutions":["D) $15$"],"images":[]});

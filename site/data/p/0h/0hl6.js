@@ -1,0 +1,1 @@
+__p({"id":"0hl6","competition":"","problem":"After walking so much that his feet get really tired, the beaver staggers so that, at each step, his coordinates change by either $(+1,+1)$ or $(+1,-1)$. Now he walks from $(0,0)$ to $(8,0)$ without ever going below the $x$-axis. How many such paths are there?","solutions":["$C(4)=14$."],"images":[]});

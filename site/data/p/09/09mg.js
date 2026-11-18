@@ -1,0 +1,1 @@
+__p({"id":"09mg","competition":"Mongolian Mathematical Olympiad","problem":"How many seven-digit integers can be formed using only the digits $0$, $1$, and $2$, with the condition that there are at most four $1$'s and at most three $2$'s?","solutions":[],"images":[]});

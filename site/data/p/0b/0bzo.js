@@ -1,0 +1,1 @@
+__p({"id":"0bzo","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Find the distinct positive integers $a$, $b$, $c$, $d$, such that the following conditions hold:\n(1) exactly three of the four numbers are prime numbers;\n(2) $a^2 + b^2 + c^2 + d^2 = 2018$.","solutions":[],"images":[]});

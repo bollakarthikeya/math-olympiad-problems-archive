@@ -1,0 +1,1 @@
+__p({"id":"03hj","competition":"Canadian Mathematical Olympiad","problem":"Simplify\n$$\n\\left(\\frac{1 \\cdot 2 \\cdot 4 + 2 \\cdot 4 \\cdot 8 + \\cdots + n \\cdot 2n \\cdot 4n}{1 \\cdot 3 \\cdot 9 + 2 \\cdot 6 \\cdot 18 + \\cdots + n \\cdot 3n \\cdot 9n}\\right)^{1/3}\n$$","solutions":[],"images":[]});

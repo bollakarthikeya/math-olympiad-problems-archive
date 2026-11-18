@@ -1,0 +1,1 @@
+__p({"id":"0atd","competition":"Philippine Mathematical Olympiad","problem":"Suppose $\\alpha, \\beta \\in (0, \\pi / 2)$. If $\\tan \\beta = \\frac{\\cot \\alpha - 1}{\\cot \\alpha + 1}$, find $\\alpha + \\beta$.","solutions":[],"images":[]});

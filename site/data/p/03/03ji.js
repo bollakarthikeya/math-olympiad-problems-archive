@@ -1,0 +1,1 @@
+__p({"id":"03ji","competition":"Canadian Mathematical Olympiad","problem":"For every positive integer $n$ show that\n$$\n[\\sqrt{n} + \\sqrt{n+1}] = [\\sqrt{4n+1}] = [\\sqrt{4n+2}] = [\\sqrt{4n+3}]\n$$\nwhere $[x]$ is the greatest integer less than or equal to $x$ (for example $[2.3]=2$, $[\\pi]=3$, $[5]=5$).","solutions":[],"images":[]});

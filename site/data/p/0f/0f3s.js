@@ -1,0 +1,1 @@
+__p({"id":"0f3s","competition":"ASU","problem":"Given a point $P$ on the diameter $AC$ of the circle $K$, find the chord $BD$ through $P$ which maximises the area of $ABCD$.","solutions":[],"images":[]});

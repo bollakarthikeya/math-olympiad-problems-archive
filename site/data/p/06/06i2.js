@@ -1,0 +1,1 @@
+__p({"id":"06i2","competition":"HONG KONG PRELIMINARY SELECTION CONTEST","problem":"If $x$ and $y$ are real numbers, find the minimum value of $\\sqrt{4+y^2}+\\sqrt{x^2+y^2-4x-4y+8}+\\sqrt{x^2-8x+17}$.\n\n若 $x$、$y$ 為實數, 求 $\\sqrt{4+y^2}+\\sqrt{x^2+y^2-4x-4y+8}+\\sqrt{x^2-8x+17}$ 的最小值。","solutions":[],"images":[]});

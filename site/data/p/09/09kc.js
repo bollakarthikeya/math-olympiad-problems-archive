@@ -1,0 +1,1 @@
+__p({"id":"09kc","competition":"Mongolian Mathematical Olympiad","problem":"Let $Q_n(x) = 1 + x + \\frac{x^2}{2} + \\cdots + \\frac{x^n}{n!}$ for $n \\ge 0$ integer and $x$ real.\nProve that we have $\\frac{Q_n(b) - Q_n(a)}{b-a} \\ge Q_{n-1}\\left(\\frac{a+b}{2}\\right)$ for any $n \\ge 1$ and $b > a > 0$.","solutions":[],"images":[]});

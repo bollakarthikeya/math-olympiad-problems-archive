@@ -1,0 +1,1 @@
+__p({"id":"04c8","competition":"Mathematica competitions in Croatia","problem":"Calculate the sum\n$$\n\\sum_{n=1}^{2012} \\operatorname{tg} n \\operatorname{tg} (n + 1).\n$$","solutions":[],"images":[]});

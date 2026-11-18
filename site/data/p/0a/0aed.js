@@ -1,0 +1,1 @@
+__p({"id":"0aed","competition":"Junior Macedonian Mathematical Olympiad","problem":"Let $a$ and $b$ be integers such that $a = a^2 + b^2 - 8b - 2ab + 16$. Prove that $a$ is a square.","solutions":["$9a = a^2 + b^2 + 8a - 8b - 2ab + 16 = (a - b + 4)^2$ hence $9a$ is a square.\nNow it is obvious that $a$ is a square too."],"images":[]});

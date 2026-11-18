@@ -1,0 +1,1 @@
+__p({"id":"0cde","competition":"SHORTLISTED PROBLEMS FOR THE 73rd NMO","problem":"Find all real numbers $a > 0$ such that there exist real numbers $x, y > 0$ with the properties\n$$\nx = a - \\sqrt{y}, \\quad y = a + \\sqrt{x}, \\quad \\frac{x}{y} + \\frac{y}{x} = 2023.\n$$","solutions":[],"images":[]});

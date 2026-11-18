@@ -1,0 +1,1 @@
+__p({"id":"0b2l","competition":"23rd Philippine Mathematical Olympiad Qualifying Stage","problem":"Find the remainder when $\\sum_{n=2}^{2021} n^{n}$ is divided by $5$.\n\n(a) $1$\n(b) $2$\n(c) $3$\n(d) $4$","solutions":[],"images":[]});

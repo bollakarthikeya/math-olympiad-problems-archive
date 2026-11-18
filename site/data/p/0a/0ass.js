@@ -1,0 +1,1 @@
+__p({"id":"0ass","competition":"Philippines Mathematical Olympiad","problem":"The nonzero numbers $x$, $y$, and $z$ satisfy the equations\n$$\nx y = 2(x + y), \\quad y z = 4(y + z), \\quad \\text{and} \\quad x z = 8(x + z)\n$$\nSolve for $x$.","solutions":["$\\dfrac{16}{3}$"],"images":[]});

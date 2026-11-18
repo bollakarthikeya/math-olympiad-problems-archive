@@ -1,0 +1,1 @@
+__p({"id":"06l1","competition":"HKG TST","problem":"Let $n \\ge 3$ be an integer. Prove that there exists a set of $2n$ positive integers satisfying the following property: For every $m = 2, 3, \\dots, n$ the set $S$ can be partitioned into two subsets with equal sums of elements, with one of the subsets of cardinality $m$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"03ia","competition":"Canadian Mathematical Olympiad","problem":"Given: (i) $a, b > 0$; (ii) $a, A_{1}, A_{2}, b$ is an arithmetic progression; (iii) $a, G_{1}, G_{2}, b$ is a geometric progression. Show that\n$$\nA_{1} A_{2} \\geq G_{1} G_{2}\n$$","solutions":[],"images":[]});

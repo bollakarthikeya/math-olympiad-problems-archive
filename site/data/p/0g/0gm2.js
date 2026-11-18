@@ -1,0 +1,1 @@
+__p({"id":"0gm2","competition":"The 14th Thailand Mathematical Olympiad","problem":"Find all functions $f : \\mathbb{Q}^+ \\to \\mathbb{Q}^+$ such that\n$$\nf(xf(x) + f(y)) = (f(x))^2 + y\n$$\nfor all positive rationals $x, y$.","solutions":[],"images":[]});

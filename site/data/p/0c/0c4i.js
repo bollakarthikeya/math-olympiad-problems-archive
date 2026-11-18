@@ -1,0 +1,1 @@
+__p({"id":"0c4i","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"Find all the sets $M$, of positive integers, so that every positive integer can be uniquely written as the sum of some distinct elements of $M$ (the sum may contain only one term).","solutions":[],"images":[]});

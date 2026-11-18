@@ -1,0 +1,1 @@
+__p({"id":"0axj","competition":"Philippine Mathematical Olympiad","problem":"Simplify $\\sqrt{13+4 \\sqrt{3}}+\\sqrt{13-4 \\sqrt{3}}$.","solutions":["Let $x=\\sqrt{13+4 \\sqrt{3}}+\\sqrt{13-4 \\sqrt{3}}$; then $x^{2}=48$. Since $x$ is clearly positive, we take $x=\\sqrt{48}=4 \\sqrt{3}$."],"images":[]});

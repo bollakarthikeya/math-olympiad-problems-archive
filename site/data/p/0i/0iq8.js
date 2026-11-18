@@ -1,0 +1,1 @@
+__p({"id":"0iq8","competition":"1st Annual Harvard-MIT November Tournament","problem":"Evaluate the sum\n$$\n1 - 2 + 3 - 4 + \\cdots + 2007 - 2008\n$$","solutions":["Every odd integer term can be paired with the next even integer, and this pair sums to $-1$. There are $1004$ such pairs, so the total sum is $-1004$."],"images":[]});

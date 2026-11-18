@@ -1,0 +1,1 @@
+__p({"id":"0f76","competition":"20th ASU","problem":"$A$ and $B$ are fixed points outside a sphere $S$. $X$ and $Y$ are chosen so that $S$ is inscribed in the tetrahedron $ABXY$. Show that the sum of the angles $AXB$, $XBY$, $BYA$ and $YAX$ is independent of $X$ and $Y$.","solutions":[],"images":[]});

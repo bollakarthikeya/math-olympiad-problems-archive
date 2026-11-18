@@ -1,0 +1,1 @@
+__p({"id":"0awd","competition":"19th Philippine Mathematical Olympiad","problem":"Find the integer which is closest to the value of $\\frac{1}{\\sqrt[6]{5^{6}+1}-\\sqrt[6]{5^{6}-1}}$.","solutions":[],"images":[]});

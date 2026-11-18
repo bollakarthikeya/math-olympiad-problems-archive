@@ -1,0 +1,1 @@
+__p({"id":"0bhk","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Denote $M$ the midpoint of the edge $[AD]$ of the cube $ABCD'A'B'C'D'$. Denote $\\alpha$ the plane perpendicular in $B$ on the straight line $BM$. Find the tangent of the angle between the planes $\\alpha$ and $(ACB')$.\n\nGabriel Popa","solutions":[],"images":[]});

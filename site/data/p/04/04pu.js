@@ -1,0 +1,1 @@
+__p({"id":"04pu","competition":"Croatian Mathematical Society Competitions","problem":"Let $n \\ge 2$ be a positive integer. Two opposite corner squares are removed from an $n \\times n$ board. In how many ways can $n$ chess pieces be placed on this board so that no two pieces are in the same row or column? (Matko Ljulj)","solutions":[],"images":[]});

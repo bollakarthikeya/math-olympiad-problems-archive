@@ -1,0 +1,1 @@
+__p({"id":"09lp","competition":"Mongolian Mathematical Olympiad","problem":"A four-digit number $\\overline{ABBA}$ is defined as a *good number* if it is divisible by the two-digit number $\\overline{BB}$. Given that the digits $A$ and $B$ are allowed to be the same, determine the total number of *good numbers*.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04kh","competition":"Mathematical competitions in Croatia","problem":"Let $ABCD$ be a rectangle such that $|AB| : |AD| = 2 : 3$ and let $E$ be a point on the side $\\overline{AD}$ such that $|AE| = |AB|$. Point $F$ lies on the ray $AB$ so that triangle $AFE$ and quadrilateral $CDEF$ have the same areas. Determine $|AB| : |BF|$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0am4","competition":"QUALIFYING STAGE","problem":"Find the least common multiple of $15!$ and $2^{3} 3^{9} 5^{4} 7^{1}$.\n\n(a) $2^{3} 3^{6} 5^{3} 7^{1} 11^{1} 13^{1}$\n\n(b) $2^{3} 3^{6} 5^{3} 7^{1}$\n\n(c) $2^{11} 3^{9} 5^{4} 7^{2} 11^{1} 13^{1}$\n\n(d) $2^{11} 3^{9} 5^{4} 7^{2}$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0713","competition":"Iberoamerican Mathematical Olympiad","problem":"Let $X$ be a set with $n$ elements. Given $k > 2$ subsets of $X$, each with at least $r$ elements, show that we can always find two of them whose intersection has at least $r - \\dfrac{n k}{4k - 4}$ elements.","solutions":[],"images":[]});

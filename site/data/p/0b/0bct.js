@@ -1,0 +1,1 @@
+__p({"id":"0bct","competition":"Shortlisted Problems for the 64th NMO","problem":"Prove that, in every scalene triangle,\n$$\n\\frac{h_a - h_b}{r_b - r_a} + \\frac{h_b - h_c}{r_c - r_b} + \\frac{h_c - h_a}{r_a - r_c} \\ge \\frac{3}{2}.\n$$","solutions":[],"images":[]});

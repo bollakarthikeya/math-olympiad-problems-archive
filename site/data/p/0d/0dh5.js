@@ -1,0 +1,1 @@
+__p({"id":"0dh5","competition":"Saudi Arabian IMO Booklet","problem":"Let $AD$ be the altitude of the triangle $ABC$. Let $J$, $K$ be the incenters of the triangles $ABD$, $ACD$ respectively. Let $JK$ intersect $AB$, $AC$ at $E$, $F$ respectively. Prove that $AE = AF$ if and only if $AB = AC$ or $\\angle A = 90^\\circ$.","solutions":[],"images":[]});

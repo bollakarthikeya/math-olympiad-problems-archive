@@ -1,0 +1,1 @@
+__p({"id":"036j","competition":"Bulgarian Mathematical Competitions","problem":"Consider the function\n$$\nf(x) = \\frac{x^{2} - 2006x + 1}{x^{2} + 1}\n$$\n\na. Solve the inequality $f'(x) \\geq 0$.\n\nb. Prove that $|f(x) - f(y)| \\leq 2006$ for all real numbers $x$ and $y$.","solutions":[],"images":[]});

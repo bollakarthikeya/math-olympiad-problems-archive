@@ -1,0 +1,1 @@
+__p({"id":"0akv","competition":"Team Selection Test for BMO","problem":"Let $(a_n)_{n=1}^\\infty$ be a sequence of positive numbers defined with: $a_1 = 1$, $a_2 = 2$ and $\\frac{a_{n+1}^4}{a_n^3} = 2a_{n+2} - a_{n+1}$. Prove that for all positive integers $N > 1$ it holds that\n$$\n\\sum_{k=1}^{N} \\frac{a_k^2}{a_{k+1}} < 3.\n$$","solutions":[],"images":[]});

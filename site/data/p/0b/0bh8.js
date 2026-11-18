@@ -1,0 +1,1 @@
+__p({"id":"0bh8","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Find the infimum and the supremum of the set\n$$\n\\{\\sin 1 + \\sin 3 + \\dots + \\sin(2n + 1) \\mid n \\in \\mathbb{N}\\}.\n$$","solutions":[],"images":[]});

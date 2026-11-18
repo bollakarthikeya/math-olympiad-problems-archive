@@ -1,0 +1,1 @@
+__p({"id":"0ezj","competition":"4th ASU","problem":"Five $n$-digit binary numbers have the property that every two numbers have the same digits in just $m$ places, but no place has the same digit in all five numbers. Show that $\\frac{2}{5} \\leq \\frac{m}{n} \\leq \\frac{3}{5}$.","solutions":[],"images":[]});

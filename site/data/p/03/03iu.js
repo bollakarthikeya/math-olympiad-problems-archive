@@ -1,0 +1,1 @@
+__p({"id":"03iu","competition":"Canadian Mathematical Olympiad","problem":"The area of a triangle is determined by the lengths of its sides. Is the volume of a tetrahedron determined by the areas of its faces?","solutions":[],"images":[]});

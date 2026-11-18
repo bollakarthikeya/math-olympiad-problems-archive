@@ -1,0 +1,1 @@
+__p({"id":"0f57","competition":"17th ASU","problem":"Can you place an integer in every square of an infinite sheet of squared paper so that the sum of the integers in every $4 \\times 6$ (or $6 \\times 4$) rectangle is (1) $10$, (2) $1$?","solutions":[],"images":[]});

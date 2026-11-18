@@ -1,0 +1,1 @@
+__p({"id":"08hh","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Find all integers $n$ for which the number $\\log_{2n-1}(n^2+2)$ is rational.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0db7","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Real nonzero numbers $x$, $y$, $z$ are such that $x + y + z = 0$. Moreover, it is known that\n$$\nA = \\frac{x}{y} + \\frac{y}{z} + \\frac{z}{x} = \\frac{x}{z} + \\frac{z}{y} + \\frac{y}{x} + 1.\n$$\nDetermine $A$.","solutions":[],"images":[]});

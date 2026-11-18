@@ -1,0 +1,1 @@
+__p({"id":"0dax","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"Let $a$, $b$, $c \\geq 0$ satisfy $a + b + c = 1$. Prove that\n$$\n\\frac{\\sqrt{a}}{b + 1} + \\frac{\\sqrt{b}}{c + 1} + \\frac{\\sqrt{c}}{a + 1} > \\frac{1}{2}(\\sqrt{a} + \\sqrt{b} + \\sqrt{c}) .\n$$","solutions":[],"images":[]});

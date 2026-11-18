@@ -1,0 +1,1 @@
+__p({"id":"03j8","competition":"Canadian Mathematical Olympiad","problem":"Let $1 < x_{1} < 2$ and, for $n = 1, 2, \\ldots$, define $x_{n+1} = 1 + x_{n} - \\frac{1}{2} x_{n}^{2}$. Prove that, for $n \\geq 3$, $\\left| x_{n} - \\sqrt{2} \\right| < 2^{-n}$.","solutions":[],"images":[]});

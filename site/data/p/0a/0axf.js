@@ -1,0 +1,1 @@
+__p({"id":"0axf","competition":"Philippine Mathematical Olympiad Area Stage","problem":"Let $P$ be a point inside the isosceles trapezoid $ABCD$ where $AD$ is one of the bases, and let $PA$, $PB$, $PC$, and $PD$ bisect angles $A$, $B$, $C$, and $D$ respectively. If $PA = 3$ and $\\angle APD = 120^\\circ$, find the area of trapezoid $ABCD$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0b64","competition":"Shortlisted Problems for the Romanian NMO","problem":"Let $a, b, c \\in (0, 1)$ and $x, y, z \\in (0, \\infty)$ be such that $a = (bc)^x$, $b = (ca)^y$, $c = (ab)^z$. Show that\n$$\n\\sum \\frac{1}{x+y+2} \\le 1.\n$$","solutions":[],"images":[]});

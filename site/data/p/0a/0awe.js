@@ -1,0 +1,1 @@
+__p({"id":"0awe","competition":"Philippine Mathematical Olympiad","problem":"If $g(x) = \\frac{x-2}{x}$ and $f(-g(-x)) = \\frac{x-2}{2x-6}$, find $f(3)$.","solutions":["Note that $-\\frac{-x-2}{-x} = 3 \\Longrightarrow x = -\\frac{1}{2}$.\n\nHence $f(3) = \\frac{-\\frac{1}{2} - 2}{2\\left(-\\frac{1}{2}\\right) - 6} = \\frac{5}{14}$."],"images":[]});

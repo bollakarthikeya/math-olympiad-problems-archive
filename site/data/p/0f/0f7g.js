@@ -1,0 +1,1 @@
+__p({"id":"0f7g","competition":"21st ASU","problem":"Show that there is a real number $x$ such that all of $\\cos x$, $\\cos 2x$, $\\cos 4x$, $\\ldots$, $\\cos (2^{n}x)$ are negative.","solutions":[],"images":[]});

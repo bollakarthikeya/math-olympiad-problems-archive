@@ -1,0 +1,1 @@
+__p({"id":"03kt","competition":"Canadian Mathematical Olympiad","problem":"The point $O$ is situated inside the parallelogram $ABCD$ so that\n$$\n\\angle AOB + \\angle COD = 180^\\circ\n$$\nProve that $\\angle OBC = \\angle ODC$.","solutions":[],"images":[]});

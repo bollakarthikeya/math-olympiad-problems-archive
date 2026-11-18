@@ -1,0 +1,1 @@
+__p({"id":"03fy","competition":"5 Bulgarian National Olympiad - Final Round","problem":"Let $\\mathcal{F}$ be a family of 4-element subsets of a set of size $5^m$, where $m$ is a fixed positive integer. If the intersection of any two sets in $\\mathcal{F}$ does not have size exactly $2$, find the maximal value of $|\\mathcal{F}|$.","solutions":[],"images":[]});

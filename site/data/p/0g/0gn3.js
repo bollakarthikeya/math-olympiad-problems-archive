@@ -1,0 +1,1 @@
+__p({"id":"0gn3","competition":"Team Selection Examination for the International Mathematical Olympiad","problem":"Find the smallest positive integer $x_1$ such that $2006$ divides $x_{2006}$, if\n$$\nx_{n+1} = x_1^2 + x_2^2 + \\dots + x_n^2 \\text{ for each integer } n \\ge 1.\n$$","solutions":[],"images":[]});

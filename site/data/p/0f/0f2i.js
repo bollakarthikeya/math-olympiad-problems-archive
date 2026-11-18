@@ -1,0 +1,1 @@
+__p({"id":"0f2i","competition":"ASU","problem":"Let $a_n$ be the nearest integer to $\\sqrt{n}$. Find\n$$\n\\frac{1}{a_1} + \\frac{1}{a_2} + \\ldots + \\frac{1}{a_{1980}}.\n$$","solutions":[],"images":[]});

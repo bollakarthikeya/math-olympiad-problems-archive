@@ -1,0 +1,1 @@
+__p({"id":"0cx6","competition":"SAMC","problem":"Let $a \\geq b \\geq c > 0$. Prove that\n$$\n(a - b + c)\\left(\\frac{1}{a} - \\frac{1}{b} + \\frac{1}{c}\\right) \\geq 1\n$$","solutions":[],"images":[]});

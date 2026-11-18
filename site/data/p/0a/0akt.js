@@ -1,0 +1,1 @@
+__p({"id":"0akt","competition":"Macedonian Mathematical Olympiad","problem":"Determine all functions $f: \\mathbb{R} \\to \\mathbb{R}$ such that for any $x, y \\in \\mathbb{R}$ it holds that\n$$\nx f(x+y) + y f(y-x) = f(x^2 + y^2).\n$$","solutions":[],"images":[]});

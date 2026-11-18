@@ -1,0 +1,1 @@
+__p({"id":"0hza","competition":"Harvard-MIT Math Tournament","problem":"Find an ordered pair $(a, b)$ of real numbers for which $x^{2}+a x+b$ has a non-real root whose cube is 343.","solutions":["The cube roots of $343$ are the roots of $x^{3}-343$, which is $(x-7)(x^{2}+7x+49)$. Therefore the ordered pair we want is $(7, 49)$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0c77","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Let $n$ be an odd positive integer and let $A, B \\in \\mathcal{M}_n(\\mathbb{C})$ be two matrices with complex entries, such that $(A - B)^2 = O_n$. Prove that\n$$\n\\det(AB - BA) = 0.\n$$","solutions":[],"images":[]});

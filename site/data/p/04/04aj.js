@@ -1,0 +1,1 @@
+__p({"id":"04aj","competition":"CroatianCompetitions2011","problem":"Let $a$ and $b$ be positive integers. What are the possible units digits of the number $(a+b)^5 - (a^5+b^5)$?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04dg","competition":"Mathematica competitions in Croatia","problem":"Find real number $a$ such that $x = \\frac{1}{2}$ is a solution of the equation\n$$\n\\left( \\frac{x+1}{1-x} - \\frac{1-x}{x+1} - \\frac{4x^2}{x^2-1} \\right) \\left( \\frac{1}{a^3+a^2} - \\frac{1-a}{a^2} - 1 \\right) = \\frac{1}{2}\n$$","solutions":[],"images":[]});

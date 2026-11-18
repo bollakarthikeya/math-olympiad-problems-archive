@@ -1,0 +1,1 @@
+__p({"id":"09xi","competition":"Dutch Mathematical Olympiad","problem":"A circle of radius $1$ and a square are given, such that the circle is tangent to one side of the square and also two of the vertices of the square lie on the circle. What is the length of a side of the square?\n![](attached_image_1.png)","solutions":["$\\dfrac{8}{5}$"],"images":["img/09xi_1.png"]});

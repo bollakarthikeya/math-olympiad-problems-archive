@@ -1,0 +1,1 @@
+__p({"id":"08hl","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"For every positive integer $n \\geq 1$ we define the matrix $A_n = (a_{ij})_{1 \\leq i, j \\leq n}$, where $a_{ij} = \\max(i, j) / \\min(i, j)$, $1 \\leq i, j \\leq n$. Calculate the determinant of the matrix $A_n$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f7l","competition":"21st ASU","problem":"What is the smallest number of subsets of $S = \\{1, 2, \\ldots, 33\\}$, such that each subset has size $9$ or $10$ and each member of $S$ belongs to the same number of subsets?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0axh","competition":"Philippine Mathematical Olympiad Area Stage","problem":"Determine the number of ordered pairs of integers $(p, q)$ for which $p^{2} + q^{2} < 10$ and $-2^{p} \\leq q \\leq 2^{p}$.","solutions":[],"images":[]});

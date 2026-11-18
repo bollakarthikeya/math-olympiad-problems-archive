@@ -1,0 +1,1 @@
+__p({"id":"0662","competition":"Mediterranean Mathematical Competition","problem":"Let $A$ be a finite set of positive reals, let $B = \\{\\frac{x}{y}: x, y \\in A\\}$ and let $C = \\{xy: x, y \\in A\\}$. If we denote $cardX = |X|$, show that: $|A| \\cdot |B| \\le |C|^2$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0f5a","competition":"17th ASU","problem":"A $1 \\times k$ rectangle can be divided by two perpendicular lines parallel to the sides into four rectangles, each with area at least $1$ and one with area at least $2$. What is the smallest possible $k$?","solutions":[],"images":[]});

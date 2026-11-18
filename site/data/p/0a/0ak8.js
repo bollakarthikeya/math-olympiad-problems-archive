@@ -1,0 +1,1 @@
+__p({"id":"0ak8","competition":"Mediterranean Mathematical Olympiad","problem":"An integer $a \\ge 1$ is called Aegean, if none of the numbers $a^{n+2} + 3a^n + 1$ with $n \\ge 1$ is prime. Prove that there are at least 500 Aegean integers in the set $\\{1, 2, ..., 2018\\}$.","solutions":[],"images":[]});

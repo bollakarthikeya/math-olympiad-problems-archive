@@ -1,0 +1,1 @@
+__p({"id":"0i3g","competition":"Harvard-MIT Math Tournament","problem":"Order these four numbers from least to greatest: $5^{56}, 10^{51}, 17^{35}, 31^{28}$.","solutions":["$10^{51} > 9^{51} = 3^{102} = 27^{34} > 17^{35} > 16^{35} = 32^{28} > 31^{28} > 25^{28} = 5^{56}$, so the ordering is $5^{56}, 31^{28}, 17^{35}, 10^{51}$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bh3","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"Let $n$ be a positive integer and $M$ be the arithmetic mean of its positive divisors. Prove that $M \\ge \\sqrt{n}$. When does the equality hold?","solutions":[],"images":[]});

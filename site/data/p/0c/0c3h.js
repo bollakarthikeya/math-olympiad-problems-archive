@@ -1,0 +1,1 @@
+__p({"id":"0c3h","competition":"Shortlisted problems for the 2018 Romanian NMO","problem":"Let $a, b, c \\in (0, \\infty)$, not all equal. Solve the equation\n$$\n(a^x + b^x + c^x) (a^{-x} + b^{-x} + c^{-x}) = 3 + \\frac{a^2 + b^2}{ab} + \\frac{b^2 + c^2}{bc} + \\frac{c^2 + a^2}{ca}.\n$$","solutions":[],"images":[]});

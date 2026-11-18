@@ -1,0 +1,1 @@
+__p({"id":"0dgv","competition":"Saudi Arabian IMO Booklet","problem":"Let $a$, $b$, $c > 0$. Prove that\n$$\n\\frac{a+b}{a^2+b^2} + \\frac{b+c}{b^2+c^2} + \\frac{c+a}{c^2+a^2} \\le \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c}.\n$$","solutions":[],"images":[]});

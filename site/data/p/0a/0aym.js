@@ -1,0 +1,1 @@
+__p({"id":"0aym","competition":"21st PMO Area Stage","problem":"Let $S = \\{1, 2, 3, \\ldots, 12\\}$. Find the number of nonempty subsets $T$ of $S$ such that if $x \\in T$ and $3x \\in S$, then it follows that $3x \\in T$.","solutions":[],"images":[]});

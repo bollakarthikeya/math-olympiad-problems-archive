@@ -1,0 +1,1 @@
+__p({"id":"0ddu","competition":"Saudi Arabian Mathematical Competitions","problem":"Each of $N$ people have chosen some $5$ elements from a $23$-element set so that any two people share at most $3$ chosen elements. Does this mean that $N \\le 2020$? Answer the same question with $25$ instead of $23$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"08hz","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Find all five-digit numbers $\\overline{abcde}$, written in decimal system, if it is known that $\\overline{ab}cde - \\overline{ebcda} = 69993$, $\\overline{bcd} - \\overline{dcb} = 792$, $\\overline{bc} - \\overline{cb} = 72$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0es2","competition":"South African Mathematics Olympiad First Round","problem":"The value of $2 - 0 + 1 \\times 6$ is\n(A) $-4$\n(B) $4$\n(C) $8$\n(D) $9$\n(E) $18$","solutions":["$2 - 0 + 1 \\times 6 = 2 - 0 + 6 = 8$"],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"039x","competition":"Fall Mathematical Competition","problem":"Find all values of the real parameter $a$ such that the inequality $\\sqrt{x - x^2 - a} + \\sqrt{6a - 2x - x^2} \\le \\sqrt{10a - 2x - 4x^2}$ has a unique solution.","solutions":[],"images":[]});

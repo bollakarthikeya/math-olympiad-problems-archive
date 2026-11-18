@@ -1,0 +1,1 @@
+__p({"id":"09ne","competition":"Mongolian Mathematical Olympiad","problem":"Let $d_n = \\sum_{k=0}^{2n} \\frac{(-1)^k}{n+k} = \\frac{1}{n} - \\frac{1}{n+1} + \\frac{1}{n+2} - \\dots + \\frac{1}{3n}$ for $n \\ge 1$.\nProve that\n$$\n\\frac{2}{3n+1} < d_n < \\frac{2}{3n-2}.\n$$\n(Otgonbayar Uuye)","solutions":[],"images":[]});

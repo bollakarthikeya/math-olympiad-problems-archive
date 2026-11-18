@@ -1,0 +1,1 @@
+__p({"id":"0ans","competition":"18th PMO Area Stage","problem":"Let $a$, $b$, and $c$ be three consecutive even numbers such that $a > b > c$. What is the value of $a^{2} + b^{2} + c^{2} - ab - bc - ac$?","solutions":[],"images":[]});

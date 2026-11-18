@@ -1,0 +1,1 @@
+__p({"id":"0lci","competition":"Vietnamese Mathematical Competitions","problem":"Let be given a sequence $(u_n)$ defined by\n$$\nu_1 = 1, u_2 = 11, u_{n+2} = u_{n+1} + 5u_n, \\forall n \\in \\mathbb{Z}^+.$$\nProve that $u_n$ is not a perfect square for all $n > 3$.","solutions":[],"images":[]});

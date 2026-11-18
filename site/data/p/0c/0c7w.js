@@ -1,0 +1,1 @@
+__p({"id":"0c7w","competition":"70th ROMANIAN MATHEMATICAL OLYMPIAD","problem":"a) Determine the four digit numbers in base 10 which are written in base two only with the digit $1$.\n\nb) How many four digit numbers in base 10 are, such that in base two they contain exactly one zero digit.","solutions":[],"images":[]});

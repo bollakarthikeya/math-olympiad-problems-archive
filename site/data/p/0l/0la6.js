@@ -1,0 +1,1 @@
+__p({"id":"0la6","competition":"Vijetnam 2008","problem":"Let $m$ and $n$ be positive integers. Prove that $(2m + 3)^n + 1$ is a multiple of $6m$ if and only if $3^n + 1$ is a multiple of $4m$.","solutions":[],"images":[]});

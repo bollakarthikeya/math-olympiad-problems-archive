@@ -1,0 +1,1 @@
+__p({"id":"04uj","competition":"First Round","problem":"Let $ABC$ be an acute triangle and $I$ its incenter. Rays $BI$, $CI$ meet the circumcircle of triangle $ABC$ again at $S \\neq B$, $T \\neq C$, respectively. The segment $ST$ meets the sides $AB$, $AC$ at $K$, $L$, respectively. Prove that $AKIL$ is a rhombus. (Josef Tkadlec)","solutions":[],"images":[]});

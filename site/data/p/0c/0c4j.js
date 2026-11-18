@@ -1,0 +1,1 @@
+__p({"id":"0c4j","competition":"SHORTLISTED PROBLEMS FOR THE 2019 ROMANIAN NMO","problem":"The sequence $(x_n)_{n \\ge 1}$ fulfils $x_{n+3} = x_n + x_{n+1} + x_{n+2}$, for every $n \\in \\mathbb{N}^*$. Find $x_1, x_2, x_3 \\in \\mathbb{Q} \\cap (0, 1)$, so that $(x_n)_{n \\ge 1}$ has a limit.","solutions":[],"images":[]});

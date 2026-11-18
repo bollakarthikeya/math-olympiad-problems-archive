@@ -1,0 +1,1 @@
+__p({"id":"0f9j","competition":"24th ASU","problem":"A quadratic polynomial $p(x)$ has positive real coefficients with sum $1$. Show that given any positive real numbers with product $1$, the product of their values under $p$ is at least $1$.","solutions":[],"images":[]});

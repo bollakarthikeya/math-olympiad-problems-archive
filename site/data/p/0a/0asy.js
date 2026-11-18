@@ -1,0 +1,1 @@
+__p({"id":"0asy","competition":"Philippines Mathematical Olympiad","problem":"Let $d$ and $n$ be integers such that $9 n + 2$ and $5 n + 4$ are both divisible by $d$. What is the largest possible value of $d$?","solutions":["26"],"images":[]});

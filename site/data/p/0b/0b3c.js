@@ -1,0 +1,1 @@
+__p({"id":"0b3c","competition":"24th Philippine Mathematical Olympiad","problem":"Let $XZ$ be a diameter of circle $\\omega$. Let $Y$ be a point on $XZ$ such that $XY = 7$ and $YZ = 1$. Let $W$ be a point on $\\omega$ such that $WY$ is perpendicular to $XZ$. What is the square of the length of the line segment $WY$?\n\n(a) 7\n(b) 8\n(c) 10\n(d) 25","solutions":[],"images":[]});

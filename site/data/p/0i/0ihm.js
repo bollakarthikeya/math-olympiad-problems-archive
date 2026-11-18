@@ -1,0 +1,1 @@
+__p({"id":"0ihm","competition":"Harvard-MIT Mathematics Tournament","problem":"How many positive integers $x$ are there such that $3x$ has 3 digits and $4x$ has four digits?","solutions":["Note that $x$ must be between $250$ and $333$, inclusive. There are $84$ integers in that interval."],"images":[]});

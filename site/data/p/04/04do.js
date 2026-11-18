@@ -1,0 +1,1 @@
+__p({"id":"04do","competition":"Mathematica competitions in Croatia","problem":"Only one divisor of the number $3^{12} - 1$ is larger than $70$ and smaller than $80$. Find it. (Hong Kong)","solutions":[],"images":[]});

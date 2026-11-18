@@ -1,0 +1,1 @@
+__p({"id":"09u9","competition":"Junior Mathematical Olympiad, September 2019","problem":"The numbers $abcd$ and $dcba$ consist of the same four digits $a$, $b$, $c$, and $d$, but in opposite orders. When we add the two numbers, we get $13552$.\nDetermine $a + b + c + d$.","solutions":[],"images":[]});

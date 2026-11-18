@@ -1,0 +1,1 @@
+__p({"id":"0bl9","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"Let $n \\ge 2$ be a positive integer. Find all real $x > 0$ such that\n$$\n\\left[\\frac{1}{x}\\right] + \\left[\\frac{1}{x^n}\\right] = n.\n$$","solutions":[],"images":[]});

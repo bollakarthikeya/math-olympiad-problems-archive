@@ -1,0 +1,1 @@
+__p({"id":"0f8g","competition":"22nd ASU","problem":"Show that there are infinitely many triples of distinct positive integers $a$, $b$, $c$ such that each divides the product of the other two and $a + b = c + 1$.","solutions":["$\\{ n(n + 1),\\ n(n^2 + n - 1),\\ (n + 1)(n^2 + n - 1) \\}$."],"images":[]});

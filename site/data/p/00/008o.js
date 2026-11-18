@@ -1,0 +1,1 @@
+__p({"id":"008o","competition":"XXI Olimpiada Matemática Rioplatense","problem":"Let $n \\in \\mathbb{N}$ be such that $n^3 + 1$ is divisible by $56$, and $d_1^6 + d_2^6 + \\dots + d_k^6$ is divisible by $112$, where $d_1, d_2, \\dots, d_k$ are all the positive divisors of $n$. Which is the smallest amount of divisors that $n$ can have?","solutions":[],"images":[]});

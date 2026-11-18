@@ -1,0 +1,1 @@
+__p({"id":"0dgw","competition":"Saudi Arabian IMO Booklet","problem":"Let $n > 3$, $x_1, x_2, \\dots, x_n > 0$ and $x_1x_2 \\dots x_n = 1$. Prove that\n$$\n\\frac{1}{1+x_1+x_1x_2} + \\frac{1}{1+x_2+x_2x_3} + \\dots + \\frac{1}{1+x_n+x_nx_1} > 1.\n$$","solutions":[],"images":[]});

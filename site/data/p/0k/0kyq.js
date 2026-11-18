@@ -1,0 +1,1 @@
+__p({"id":"0kyq","competition":"HMMT November 2024","problem":"Compute the largest prime factor of $3^{12}+3^{9}+3^{5}+1$.","solutions":["Observe\n\n$$\n\\left(3^{4}+1\\right)^{3}=3^{12}+3 \\cdot 3^{8}+3 \\cdot 3^{4}+1=3^{12}+3^{9}+3^{5}+1\n$$\n\nso the answer is the largest prime factor of $3^{4}+1=82$, which is 41."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04mv","competition":"Croatia_2018","problem":"Determine all positive integers $n$ for which the quadratic equation\n$$\nx^2 - 3nx + n + 3 = 0\n$$\nhas integer solutions.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0h1a","competition":"51st Ukrainian National Mathematical Olympiad, 3rd Round","problem":"Find all integer $n$, that satisfy the following equality:\n$$\n(n-1)(n-3)(n-5)\\dots(n-2011) = n(n+2)(n+4)\\dots(n+2010).\n$$","solutions":["If $n$ is even, then LHS is odd, and RHS is even, and vice versa (for odd $n$)."],"images":[]});

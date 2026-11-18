@@ -1,0 +1,1 @@
+__p({"id":"0bbj","competition":"SHORTLISTED PROBLEMS FOR THE 62nd NMO","problem":"Solve the equation $(a^x + b^x)^{2011} = (a^{2011} + b^{2011})^x$, where $a, b$ are positive reals.","solutions":[],"images":[]});

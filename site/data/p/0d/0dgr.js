@@ -1,0 +1,1 @@
+__p({"id":"0dgr","competition":"Saudi Arabian IMO Booklet","problem":"Given $\\triangle ABC$, $D$ is on $BC$ and $P$ is on $AD$. A line $\\ell$ is passing through $D$ intersects $AB$, $PB$ at $M$, $E$ respectively, and intersects $AC$ extended and $PC$ extended at $F$, $N$ respectively. Let $DE = DF$. Prove that $DM = DN$.","solutions":[],"images":[]});

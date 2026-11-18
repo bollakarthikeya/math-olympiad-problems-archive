@@ -1,0 +1,1 @@
+__p({"id":"0c5h","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Let $(a_n)_{n \\ge 1}$ be a sequence of real positive numbers, such that the sequence $(a_{n+1} - a_n)_{n \\ge 1}$ converges to a non-zero limit. Compute the limit\n$$\n\\lim_{n \\to \\infty} \\left( \\frac{a_{n+1}}{a_n} \\right)^n .\n$$","solutions":[],"images":[]});

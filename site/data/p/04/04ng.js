@@ -1,0 +1,1 @@
+__p({"id":"04ng","competition":"Croatia_2018","problem":"In a quadrilateral $ABCD$ it holds that $\\angle DBC = \\angle DCB = 50^\\circ$ and $\\angle DAB = \\angle ABC = \\angle BDC$. Prove that $AC \\perp BD$. (Ratko Višak)","solutions":[],"images":[]});

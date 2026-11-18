@@ -1,0 +1,1 @@
+__p({"id":"04ka","competition":"Mathematical competitions in Croatia","problem":"Determine the digits $a$ and $b$ if the number $\\overline{a2017b}$ is divisible by $72$.","solutions":[],"images":[]});

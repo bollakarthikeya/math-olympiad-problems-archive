@@ -1,0 +1,1 @@
+__p({"id":"0bzs","competition":"69th Romanian Mathematical Olympiad - Final Round","problem":"Let $A$ be a finite ring and let $a, b \\in A$ be two elements with the property $(ab - 1)b = 0$. Prove that $b(ab - 1) = 0$.","solutions":[],"images":[]});

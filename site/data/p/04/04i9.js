@@ -1,0 +1,1 @@
+__p({"id":"04i9","competition":"Croatia Mathematical Competitions","problem":"Determine all pairs $(a, b)$ of integers such that the intersections of the parabola $y = x^2 + a x + b$ and the coordinate axes form a triangle whose area is equal to $3$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"016h","competition":"Baltic Way","problem":"A unit square is cut into $m$ quadrilaterals $Q_{1}, \\ldots, Q_{m}$. For each $i=1, \\ldots, m$ let $S_{i}$ be the sum of the squares of the four sides of $Q_{i}$. Prove that\n$$\nS_{1}+\\ldots+S_{m} \\geq 4\n$$","solutions":[],"images":[]});

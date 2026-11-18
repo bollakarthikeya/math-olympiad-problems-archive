@@ -1,0 +1,1 @@
+__p({"id":"0fqg","competition":"SPANISH MATHEMATICAL OLYMPIAD (FINAL ROUND)","problem":"Determine whether there exists a finite set $S$ of prime numbers such that, for every integer $n \\ge 2$, the number\n$$\n2^2 + 3^2 + \\dots + n^2\n$$\nis divisible by some prime number $p \\in S$.","solutions":[],"images":[]});

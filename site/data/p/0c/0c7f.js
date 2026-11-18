@@ -1,0 +1,1 @@
+__p({"id":"0c7f","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"Find all positive integers $n \\ge 4$ for which the following property holds true: *any distinct and nonzero complex numbers $a, b, c$, satisfying\n$$\n(a - b)^n + (b - c)^n + (c - a)^n = 0,\n$$\n*are the complex coordinates of the vertices of an equilateral triangle.*","solutions":[],"images":[]});

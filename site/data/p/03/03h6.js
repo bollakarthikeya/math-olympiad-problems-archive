@@ -1,0 +1,1 @@
+__p({"id":"03h6","competition":"Canadian Mathematical Olympiad","problem":"Four distinct lines $L_{1}, L_{2}, L_{3}, L_{4}$ are given in the plane: $L_{1}$ and $L_{2}$ are respectively parallel to $L_{3}$ and $L_{4}$. Find the locus of a point moving so that the sum of its perpendicular distances from the four lines is constant.","solutions":[],"images":[]});

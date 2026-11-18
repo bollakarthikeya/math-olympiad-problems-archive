@@ -1,0 +1,1 @@
+__p({"id":"0jjl","competition":"HMMT November 2014","problem":"Find the area of a triangle with side lengths $14$, $48$, and $50$.","solutions":["Note that this is a multiple of the $7$-$24$-$25$ right triangle. The area is therefore\n$$\n\\frac{14 \\times 48}{2} = 336\n$$"],"images":[]});

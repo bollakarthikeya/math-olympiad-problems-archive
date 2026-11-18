@@ -1,0 +1,1 @@
+__p({"id":"01wv","competition":"69th Belarusian Mathematical Olympiad","problem":"$1019$ stones are placed into two non-empty boxes. Each second Alex chooses a box with an even amount of stones and shifts half of these stones into another box.\nProve that for each $k$, $1 \\le k \\le 1018$, at some moment there will be a box with exactly $k$ stones.","solutions":[],"images":[]});

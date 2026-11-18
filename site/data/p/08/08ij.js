@@ -1,0 +1,1 @@
+__p({"id":"08ij","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"The side lengths of the triangle $ABC$ satisfy the relations $a > b \\geq 2c$. Prove that the altitudes of the triangle $ABC$ can not be the sides of any triangle.","solutions":[],"images":[]});

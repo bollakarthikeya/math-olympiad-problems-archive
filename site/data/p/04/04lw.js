@@ -1,0 +1,1 @@
+__p({"id":"04lw","competition":"Mathematical competitions in Croatia","problem":"Let $A$, $B$ and $C$ be points on the curve (hyperbola) with equation $xy = 1$. Prove that the orthocentre of the triangle $ABC$ also belongs to that curve.","solutions":[],"images":[]});

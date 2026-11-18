@@ -1,0 +1,1 @@
+__p({"id":"04dz","competition":"Mathematica competitions in Croatia","problem":"Let $ABC$ be a right triangle with height $\\overline{CN}$. If $|AC| = |BN| = 1$, determine the length of the hypotenuse $\\overline{AB}$.","solutions":[],"images":[]});

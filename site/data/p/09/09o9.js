@@ -1,0 +1,1 @@
+__p({"id":"09o9","competition":"MMO2025 Round 3","problem":"Let $S(N)$ denote the sum of the digits of a positive integer $N$. Find all positive integers $n$ such that\n$$\nS(n) + S(2n) + S(3n) + \\dots + S(n^2) = \\frac{4n^2}{15} + 9.\n$$\n(Nursoltan Khavalbolot)","solutions":[],"images":[]});

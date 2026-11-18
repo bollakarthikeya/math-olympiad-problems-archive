@@ -1,0 +1,1 @@
+__p({"id":"04wg","competition":"National Round","problem":"Find all sets $S$ of 3 or more primes with the following property: The elements of $S$ can be written around a circle such that if you compute the largest prime factor of the sum of each consecutive pair, you again obtain all elements of $S$ (in some order). (Michal Janík)","solutions":[],"images":[]});

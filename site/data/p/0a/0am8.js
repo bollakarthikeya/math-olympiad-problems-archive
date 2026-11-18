@@ -1,0 +1,1 @@
+__p({"id":"0am8","competition":"Qualifying Round","problem":"A square with an area of $40~\\mathrm{m}^2$ is inscribed in a semicircle. The area of the square that could be inscribed in the circle with the same radius is\n(a) $100~\\mathrm{m}^2$\n(b) $120~\\mathrm{m}^2$\n(c) $80~\\mathrm{m}^2$\n(d) $140~\\mathrm{m}^2$","solutions":[],"images":[]});

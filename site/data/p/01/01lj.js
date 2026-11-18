@@ -1,0 +1,1 @@
+__p({"id":"01lj","competition":"61st Belarusian Mathematical Olympiad","problem":"Let $S(n)$ be the sum of all digits in the decimal representation of $n \\in \\mathbb{N}$. Do there exist integers $n$ such that\n$$\na)\\quad n - S(n) = 3 \\cdot 2010? \\qquad b)\\quad n - S(n) = 3 \\cdot 2011?\n$$\n(I. Gorodnin)","solutions":[],"images":[]});

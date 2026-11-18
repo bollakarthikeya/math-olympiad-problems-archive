@@ -1,0 +1,1 @@
+__p({"id":"0b3h","competition":"24th Philippine Mathematical Olympiad","problem":"How many ways are there to arrange the first ten positive integers such that the multiples of $2$ appear in increasing order, and the multiples of $3$ appear in decreasing order?\n\n(a) $720$\n(b) $2160$\n(c) $5040$\n(d) $6480$","solutions":[],"images":[]});

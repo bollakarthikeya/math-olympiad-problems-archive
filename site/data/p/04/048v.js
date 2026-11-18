@@ -1,0 +1,1 @@
+__p({"id":"048v","competition":"CroatianCompetitions2011","problem":"Let $\\overline{AB}$ be a chord of a circle, parallel to its diameter $\\overline{MN}$. Let $t$ be the tangent of that circle in $M$ and let $C, D$ be the intersections of the lines $NA, NB$ with $t$, respectively. Prove\n$$\n|MC| \\cdot |MD| = |MN|^2.\n$$","solutions":[],"images":[]});

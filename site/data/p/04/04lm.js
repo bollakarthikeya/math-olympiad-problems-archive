@@ -1,0 +1,1 @@
+__p({"id":"04lm","competition":"Mathematical competitions in Croatia","problem":"In the rectangle with vertices $A(-1, 0)$, $B(1, 0)$, $C(1, 1)$, $D(-1, 1)$ a point $T$ is randomly chosen. Find the probability that $T$ is closer to $A$ than to the point $P(2, 1)$.","solutions":[],"images":[]});

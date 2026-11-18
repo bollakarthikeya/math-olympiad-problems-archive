@@ -1,0 +1,1 @@
+__p({"id":"0c1c","competition":"2018 Romanian Mathematical Olympiad","problem":"Let $a, b, c \\in [1, \\infty)$. Prove that:\n$$\n\\frac{a\\sqrt{b}}{a+b} + \\frac{b\\sqrt{c}}{b+c} + \\frac{c\\sqrt{a}}{c+a} + \\frac{3}{2} \\le a+b+c.\n$$","solutions":[],"images":[]});

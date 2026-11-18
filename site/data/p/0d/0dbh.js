@@ -1,0 +1,1 @@
+__p({"id":"0dbh","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"In triangle $ABC$ point $M$ is the midpoint of side $AB$, and point $D$ is the foot of altitude $CD$. Prove that $\\angle A = 2 \\angle B$ if and only if $AC = 2MD$.","solutions":[],"images":[]});

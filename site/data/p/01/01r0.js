@@ -1,0 +1,1 @@
+__p({"id":"01r0","competition":"SELECTION and TRAINING SESSION","problem":"Consider all polynomials $P(x)$ with real coefficients that have the following property: for all real $x$ and $y$ one has\n$$\n|y^2 - P(x)| \\le 2x \\iff |x^2 - P(y)| \\le 2|y|.\n$$\n\nDetermine all possible values of $P(0)$.","solutions":["3. See IMO-2014 Shortlist, Problem A5."],"images":[]});

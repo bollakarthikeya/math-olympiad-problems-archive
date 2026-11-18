@@ -1,0 +1,1 @@
+__p({"id":"0aso","competition":"Philippines Mathematical Olympiad","problem":"Let $ABC$ be a triangle with $AB = 12$, $BC = 16$, and $AC = 20$. Compute the area of the circle that passes through $C$ and the midpoints of $AB$ and $BC$.","solutions":["$25\\pi$"],"images":[]});

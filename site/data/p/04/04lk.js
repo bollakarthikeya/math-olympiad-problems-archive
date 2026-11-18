@@ -1,0 +1,1 @@
+__p({"id":"04lk","competition":"Mathematical competitions in Croatia","problem":"Determine the number of positive integers $c \\le 1000000$, that can be expressed as $c = a^2 + 3b^2 - 4ab$ for some non-zero integers $a$ and $b$.","solutions":[],"images":[]});

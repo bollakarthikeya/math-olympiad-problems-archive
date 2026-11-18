@@ -1,0 +1,1 @@
+__p({"id":"0azw","competition":"21st PMO Area Stage","problem":"Let $\\alpha$ and $\\beta$ be the roots of the equation $x^{2}-11x+24=0$. Let $f$ be the polynomial of least degree, with integer coefficients and leading coefficient $1$, such that $\\sqrt{\\alpha}+\\sqrt{\\beta}$ and $\\sqrt{\\alpha\\beta}$ are zeros of $f$. Find $f(1)$.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0cfx","competition":"74th NMO Shortlisted Problems","problem":"Let $(A, +, \\cdot)$ be a finite ring and $a, b \\in A$ with $ab + ba = 0$. If there is an $n \\in \\mathbb{N}^*$, $n \\neq 2 \\pmod 4$, such that $a^n - b^n$ is invertible, prove that $a - b$ and $a + b$ are invertible.\nMihai Opincariu","solutions":[],"images":[]});

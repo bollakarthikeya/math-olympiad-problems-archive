@@ -1,0 +1,1 @@
+__p({"id":"0f0u","competition":"ASU","problem":"In the triangle $ABC$, $\\angle C = 90^\\circ$ and $AC = BC$. Take points $D$ on $CA$ and $E$ on $CB$ such that $CD = CE$. Let the perpendiculars from $D$ and $C$ to $AE$ meet $AB$ at $K$ and $L$ respectively. Show that $KL = LB$.","solutions":[],"images":[]});

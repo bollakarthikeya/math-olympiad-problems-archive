@@ -1,0 +1,1 @@
+__p({"id":"08ib","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Through the arbitrary point of the triangle $ABC$ construct (explain the steps of the construction) a straight line which divides the triangle $ABC$ in two parts so that the ratio of their areas is equal to $3/4$.","solutions":[],"images":[]});

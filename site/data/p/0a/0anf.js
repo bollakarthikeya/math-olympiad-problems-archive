@@ -1,0 +1,1 @@
+__p({"id":"0anf","competition":"Qualifying Round","problem":"Evaluate $\\cos \\frac{\\pi}{10} + \\cos \\frac{2\\pi}{10} + \\cos \\frac{3\\pi}{10} + \\ldots + \\cos \\frac{19\\pi}{10}$.\n(a) $\\frac{1}{2}$\n(b) $\\frac{\\sqrt{3}}{2}$\n(c) $-1$\n(d) $1$","solutions":[],"images":[]});

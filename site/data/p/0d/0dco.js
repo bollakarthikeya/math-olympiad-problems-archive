@@ -1,0 +1,1 @@
+__p({"id":"0dco","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"The altitudes $A A_{1}$ and $B B_{1}$ of an acute-angled triangle $A B C$ meet at point $O$. Let $A_{1} A_{2}$ and $B_{1} B_{2}$ be the altitudes of triangles $O B A_{1}$ and $O A B_{1}$ respectively. Prove that $A_{2} B_{2}$ is parallel to $A B$.","solutions":[],"images":[]});

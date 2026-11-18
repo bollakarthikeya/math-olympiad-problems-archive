@@ -1,0 +1,1 @@
+__p({"id":"0di6","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Let $ABCD$ be a trapezoid with $AB \\parallel CD$ and $AB + CD = AD$. Its diagonals intersect at $E$. A line passing through the point $E$ and parallel to the bases of the trapezoid cuts $AD$ at $F$. Prove that $\\angle BFC = 90^\\circ$.","solutions":[],"images":[]});

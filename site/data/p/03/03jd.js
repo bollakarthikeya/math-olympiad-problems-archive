@@ -1,0 +1,1 @@
+__p({"id":"03jd","competition":"Canadian Mathematical Olympiad","problem":"Let $u_{1}, u_{2}, u_{3}, \\ldots$ be a sequence of integers satisfying the recurrence relation $u_{n+2} = u_{n+1}^{2} - u_{n}$. Suppose $u_{1} = 39$ and $u_{2} = 45$. Prove that $1986$ divides infinitely many terms of the sequence.","solutions":[],"images":[]});

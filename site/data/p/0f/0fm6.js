@@ -1,0 +1,1 @@
+__p({"id":"0fm6","competition":"Spanija 2012","problem":"Let $ABC$ be a triangle, $P$ an interior point, and points $H_A$, $H_B$ and $H_C$ the orthocenter of triangles $PBC$, $PAC$ and $PAB$ respectively. Prove that triangles $H_AH_BH_C$ and $ABC$ have the same area.","solutions":[],"images":[]});

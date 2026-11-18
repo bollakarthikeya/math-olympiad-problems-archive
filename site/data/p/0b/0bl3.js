@@ -1,0 +1,1 @@
+__p({"id":"0bl3","competition":"SHORTLISTED PROBLEMS FOR THE 66th NMO","problem":"A triangle $ABC$ has $m(\\widehat{BCA}) = 30^\\circ$ and there exists a point $D \\in AC$ such that $m(\\widehat{DBC}) = 10^\\circ$ and $AC = BD$. Find $m(\\widehat{CAB})$.\n\nMarius Stănean","solutions":[],"images":[]});

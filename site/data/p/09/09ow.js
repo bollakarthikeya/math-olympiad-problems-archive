@@ -1,0 +1,1 @@
+__p({"id":"09ow","competition":"MMO2025 Round 3","problem":"Find the number of couples of integers $(x, y)$ satisfying $1 \\le x, y \\le 45$ and $\\frac{x^3+1}{xy+1}$ is an integer.","solutions":[],"images":[]});

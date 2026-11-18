@@ -1,0 +1,1 @@
+__p({"id":"01k9","competition":"Belarusian Mathematical Olympiad","problem":"Let a six-digit number $A$ be divisible by $101$.\nProve that one can transpose two digits of $A$ so that the obtained number is also divisible by $101$.","solutions":["It is possible to transpose either $a_5$ and $a_1$ or $a_4$ and $a_0$ to obtain the number which is divisible by $101$."],"images":[]});

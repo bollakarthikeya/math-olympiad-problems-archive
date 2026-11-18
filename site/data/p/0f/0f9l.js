@@ -1,0 +1,1 @@
+__p({"id":"0f9l","competition":"24th ASU","problem":"A cube of side $100$ is divided into a million unit cubes with faces parallel to the large cube. The edges form a lattice. A prong is any three unit edges with a common vertex. Can we decompose the lattice into prongs with no common edges?","solutions":[],"images":[]});

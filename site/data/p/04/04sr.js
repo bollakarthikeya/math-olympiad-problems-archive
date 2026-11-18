@@ -1,0 +1,1 @@
+__p({"id":"04sr","competition":"Czech and Slovak Mathematical Olympiad","problem":"In the field of real numbers solve a system of equations\n$$\n\\begin{align*}\na(b^2 + c) &= c(c + ab), \\\\\nb(c^2 + a) &= a(a + bc), \\\\\nc(a^2 + b) &= b(b + ca).\n\\end{align*}\n$$","solutions":[],"images":[]});

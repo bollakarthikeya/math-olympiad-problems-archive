@@ -1,0 +1,1 @@
+__p({"id":"0df4","competition":"Saudi Arabian IMO Booklet","problem":"Find all triples $(a, b, c)$ of real numbers satisfying\n$$\na + b + c = 1 \\quad \\text{and} \\quad 3(a + bc) = 4(b + ca) = 5(c + ab).\n$$","solutions":[],"images":[]});

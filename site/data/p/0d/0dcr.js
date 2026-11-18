@@ -1,0 +1,1 @@
+__p({"id":"0dcr","competition":"SAUDI ARABIAN MATHEMATICAL COMPETITIONS","problem":"In triangle $ABC$ $\\angle B = 60^{\\circ}$, $O$ is the circumcenter, and $L$ is the foot of an angle bisector of angle $B$. The circumcircle of triangle $BOL$ meets the circumcircle of $ABC$ at point $D \\neq B$. Prove that $BD \\perp AC$.","solutions":[],"images":[]});

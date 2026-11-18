@@ -1,0 +1,1 @@
+__p({"id":"0c73","competition":"2019 ROMANIAN MATHEMATICAL OLYMPIAD","problem":"$$\nA_n = \\{ (x, y) \\in \\mathbb{N} \\times \\mathbb{N} \\mid \\sqrt{x^2 + y + n} + \\sqrt{y^2 + x + n} \\in \\mathbb{N} \\}.\n$$\nProve that for all $n \\ge 1$, $A_n$ is a finite, nonempty set.","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"09nr","competition":"MMO2025 Round 2","problem":"Let $ABCD$ be a quadrilateral with $AD = BC$. Point $E$ lies such that $E$ and $A$ are on opposite sides of line $CD$ such that $BC = CE = DE$. If $\\angle BAE + \\angle CBE = 90^\\circ$, prove that $\\angle ABE + \\angle DAE = 90^\\circ$.","solutions":[],"images":[]});

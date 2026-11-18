@@ -1,0 +1,1 @@
+__p({"id":"0ki4","competition":"AMC 12 A","problem":"For how many ordered pairs $(b, c)$ of positive integers does neither $x^2 + bx + c = 0$ nor $x^2 + cx + b = 0$ have two distinct real solutions?\n(A) 4 (B) 6 (C) 8 (D) 12 (E) 16","solutions":[],"images":[]});

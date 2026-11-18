@@ -1,0 +1,1 @@
+__p({"id":"04un","competition":"First Round","problem":"Let $ABC$ be a scalene triangle, $I$ its incenter and $k$ its circumcircle. Rays $BI, CI$ meet $k$ again at $S_b \\neq B$, $S_c \\neq C$, respectively. Prove that the tangent to $k$ at $A$, the line $S_bS_c$, and the line through $I$ parallel to $BC$ are concurrent. (Patrik Bak)","solutions":[],"images":[]});

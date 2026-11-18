@@ -1,0 +1,1 @@
+__p({"id":"0f30","competition":"ASU","problem":"Let $x_i$ be real numbers between $0$ and $1$. Show that\n$$(x_1 + x_2 + \\ldots + x_n + 1)^2 \\geq 4(x_1^2 + x_2^2 + \\ldots + x_n^2).$$","solutions":[],"images":[]});

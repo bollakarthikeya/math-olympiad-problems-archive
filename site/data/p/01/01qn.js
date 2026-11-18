@@ -1,0 +1,1 @@
+__p({"id":"01qn","competition":"Selection and Training Session","problem":"Find all functions $f: \\mathbb{N} \\to \\mathbb{N}$, such that $mf(m) + n$ is divisible by $m^2 + f(n)$ for all $m, n \\in \\mathbb{N}$.","solutions":["### 2. See IMO-2013 Shortlist, Problem N1."],"images":[]});

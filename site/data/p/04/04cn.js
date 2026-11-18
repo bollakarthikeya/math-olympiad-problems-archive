@@ -1,0 +1,1 @@
+__p({"id":"04cn","competition":"Mathematica competitions in Croatia","problem":"Let $p$ and $q$ be real numbers. The graph of the function $f(x) = x^2 + px + q$ intersects with the coordinate axes in three different points $A$, $B$ and $C$. Prove that the circumcircle of triangle $ABC$ intersects with the $y$-axis at a point with ordinate $1$.","solutions":[],"images":[]});

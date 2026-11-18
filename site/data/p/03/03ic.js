@@ -1,0 +1,1 @@
+__p({"id":"03ic","competition":"Canadian Mathematical Olympiad","problem":"Let $a, b, c, d, e$ be integers such that $1 \\leq a < b < c < d < e$. Prove that\n$$\n\\frac{1}{[a, b]} + \\frac{1}{[b, c]} + \\frac{1}{[c, d]} + \\frac{1}{[d, e]} \\leq \\frac{15}{16}\n$$\nwhere $[m, n]$ denotes the least common multiple of $m$ and $n$ (e.g. $[4,6]=12$).","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0bgx","competition":"Shortlisted problems for the 65th Romanian NMO","problem":"a) Prove that, for every positive integers $a, b, k$ such that $a < b$,\n$$\n\\frac{a}{b} \\le \\frac{a+k}{b+k}.\n$$\n\nb) Prove that\n$$\n\\frac{1}{100} + \\frac{4}{101} + \\frac{7}{102} + \\dots + \\frac{148}{149} \\ge 25.\n$$","solutions":[],"images":[]});

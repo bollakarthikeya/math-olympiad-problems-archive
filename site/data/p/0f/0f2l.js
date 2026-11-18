@@ -1,0 +1,1 @@
+__p({"id":"0f2l","competition":"ASU","problem":"Given a set of $n$ non-intersecting segments in the plane. No two segments lie on the same line. Can we successively add $n-1$ additional segments so that we end up with a single non-intersecting path? Each segment we add must have as its endpoints two existing segment endpoints.","solutions":[],"images":[]});

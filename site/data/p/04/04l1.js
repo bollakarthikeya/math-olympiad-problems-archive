@@ -1,0 +1,1 @@
+__p({"id":"04l1","competition":"Mathematical competitions in Croatia","problem":"Find all rational numbers $a$ and $b$ such that\n$$\nsin 75^\\circ \\cdot \\cos 15^\\circ = a + \\sqrt{b}.\n$$\n(Nikola Adžaga)","solutions":[],"images":[]});

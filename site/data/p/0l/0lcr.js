@@ -1,0 +1,1 @@
+__p({"id":"0lcr","competition":"MOCK TEST FOR VMO","problem":"Let $a_1, a_2, \\dots, a_{14}$ be some positive real numbers. Prove that\n$$\n\\frac{a_1}{a_2+a_3} + \\frac{a_2}{a_3+a_4} + \\dots + \\frac{a_{14}}{a_1+a_2} \\ge \\frac{a_1}{a_{14}+a_1} + \\frac{a_2}{a_1+a_2} + \\dots + \\frac{a_{14}}{a_{13}+a_{14}}.\n$$\nWhen does the equality occur?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"01rb","competition":"Selection and Training Session","problem":"Thirty rays with the origin at the same point are constructed on a plane. Consider all angles between any two of these rays. Let $N$ be the number of acute angles among these angles.\nFind the smallest possible value of $N$.","solutions":["Answer: 135."],"images":[]});

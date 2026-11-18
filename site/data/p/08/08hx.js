@@ -1,0 +1,1 @@
+__p({"id":"08hx","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Is it possible to cover a $2003 \\times 2003$ board with $1 \\times 2$ dominoes placed horizontally and $1 \\times 3$ threeminoes placed vertically?","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"04bh","competition":"Mathematica competitions in Croatia","problem":"An isosceles triangle has the basis of length $a$, legs of length $b$, and the circumradius $R$. Prove that the equality $a^2R^2 + b^4 = 4b^2R^2$ holds, regardless of whether the triangle is acute, right or obtuse.","solutions":[],"images":[]});

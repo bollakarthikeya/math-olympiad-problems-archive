@@ -1,0 +1,1 @@
+__p({"id":"03h3","competition":"Canadian Mathematical Olympiad","problem":"Given three distinct unit circles, each of which is tangent to the other two, find the radii of the circles which are tangent to all three circles.","solutions":[],"images":[]});

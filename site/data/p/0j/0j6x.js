@@ -1,0 +1,1 @@
+__p({"id":"0j6x","competition":"Harvard-MIT Mathematics Tournament","problem":"Evaluate $2011 \\times 20122012 \\times 201320132013 - 2013 \\times 20112011 \\times 201220122012$.","solutions":["Both terms are equal to $2011 \\times 2012 \\times 2013 \\times 1 \\times 10001 \\times 100010001$.\n\nTherefore, the answer is $0$."],"images":[]});

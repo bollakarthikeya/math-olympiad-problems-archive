@@ -1,0 +1,1 @@
+__p({"id":"08hi","competition":"THE 47-th MATHEMATIAL OLYMPIAD OF REPUBLIC OF MOLDOVA","problem":"Let $a, b, c, d \\geq 1$ be arbitrary positive numbers. Prove that the equations system $a x - y z = c$, $b x - y t = -d$ has at least a solution $(x, y, z, t)$ in positive integers.","solutions":[],"images":[]});

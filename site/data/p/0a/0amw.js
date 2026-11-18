@@ -1,0 +1,1 @@
+__p({"id":"0amw","competition":"Qualifying Round","problem":"Let $f$ be a quadratic function of $x$. If $2y$ is a root of $f(x-y)$, and $3y$ is a root of $f(x+y)$, what is the product of the roots of $f(x)$?\n\n(a) $6y^{2}$\n(b) $5y^{2}$\n(c) $4y^{2}$\n(d) $3y^{2}$","solutions":[],"images":[]});

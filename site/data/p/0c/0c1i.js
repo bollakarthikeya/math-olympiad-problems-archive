@@ -1,0 +1,1 @@
+__p({"id":"0c1i","competition":"2018 Romanian Mathematical Olympiad","problem":"Consider real numbers $a, b, c$ satisfying $1 < b \\le c^2 \\le a^{10}$, and\n$$\n\\log_a b + 2 \\log_b c + 5 \\log_c a = 12.\n$$\nShow that\n$$\n2 \\log_a c + 5 \\log_b c + 10 \\log_b a \\ge 21.\n$$","solutions":[],"images":[]});

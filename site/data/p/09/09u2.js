@@ -1,0 +1,1 @@
+__p({"id":"09u2","competition":"First Round, January 2019","problem":"Arthur has written down five distinct positive integers smaller than $10$. If you add any two of these five numbers, then the result will never be equal to $10$.\nWhich number did Arthur write down for sure?\nA) $1$   B) $2$   C) $3$   D) $4$   E) $5$","solutions":["E) $5$"],"images":[]});

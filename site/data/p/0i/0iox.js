@@ -1,0 +1,1 @@
+__p({"id":"0iox","competition":"1st Annual Harvard-MIT November Tournament","problem":"A triangle has sides of length $9$, $40$, and $41$. What is its area?","solutions":["Observe that $9^{2} + 40^{2} = 41^{2}$, so this triangle is right and therefore has area $\\frac{1}{2} \\cdot 9 \\cdot 40 = 180$."],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0atk","competition":"Philippine Mathematical Olympiad","problem":"Find the values of $x$ in $(0, \\pi)$ that satisfy the equation\n$$\n(\\sqrt{2014}-\\sqrt{2013})^{\\tan^{2} x}+(\\sqrt{2014}+\\sqrt{2013})^{-\\tan^{2} x}=2(\\sqrt{2014}-\\sqrt{2013})^{3}\n$$","solutions":[],"images":[]});

@@ -1,0 +1,1 @@
+__p({"id":"0dir","competition":"SAUDI ARABIAN IMO Booklet 2023","problem":"Find the least value of $k > 0$ such that\n$$\n|x - ky| + |y - kz| + |z - kx| \\geq 7\n$$\nfor all real numbers $x, y, z$ satisfying $x^2 + y^2 + z^2 = 21$.","solutions":[],"images":[]});

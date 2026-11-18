@@ -1,0 +1,1 @@
+__p({"id":"0h9p","competition":"58th Ukrainian National Mathematical Olympiad","problem":"Can one draw $6$ circles on a plane, such that each one passes through the centers of exactly three other circles?","solutions":["Possible example is shown on Fig. 18 where each segment has length $1$.\n\n![](attached_image_1.png)"],"images":["img/0h9p_1.png"]});
