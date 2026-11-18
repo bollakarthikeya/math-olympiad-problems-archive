@@ -53,7 +53,7 @@ GitHub Pages, or straight from a double-click on `index.html`.
 - Automatic light and dark mode, and layouts that work on phones.
 - No tracking, no external requests.
 
-## Quick start
+## Quick Start
 
 **View it:** open `site/index.html` in any modern browser. Nothing needs to be installed.
 
@@ -72,7 +72,7 @@ with a GitHub Actions Pages workflow.
 
 Full setup, rebuild and troubleshooting steps are in **[instructions.md](instructions.md)**.
 
-## Repository layout
+## Repository Layout
 
 ```
 ├── README.md              ← this file
@@ -93,7 +93,7 @@ Full setup, rebuild and troubleshooting steps are in **[instructions.md](instruc
 └── docs/                  ← README screenshots
 ```
 
-## How it works
+## How it Works
 
 1. **`build/make_ignored.py`** runs MathNet's own language check on every problem and writes the
    non-English ones (5,880) to `data/MathNet/ignored.csv`, keyed by problem ID. The file can be edited by
@@ -117,7 +117,7 @@ python3 -m venv .venv
 .venv/bin/python build/build_site.py        # about 15 seconds
 ```
 
-## By the numbers
+## Statistics
 
 | | |
 |---|---|
@@ -128,7 +128,7 @@ python3 -m venv .venv
 | Years | 1989–2025, plus *Year Unknown* for competitions without a year in their name |
 | Site size | ~339 MB (about 27,500 files) |
 
-## Known limitations
+## Known Limitations
 
 - **Most problems have no year.** About 78% of problems carry no year in their competition name, so they
   are grouped under *Year Unknown*.
@@ -138,7 +138,7 @@ python3 -m venv .venv
 - **Bilingual problems are kept.** Problems printed in another language together with an English
   translation stay on the site.
 
-## Credits and license
+## Credits & License
 
 - **Problems and solutions:** [MathNet v0](https://huggingface.co/datasets/ShadenA/MathNet), MIT, licensed
   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Paper: *MathNet* (ICLR 2026),
