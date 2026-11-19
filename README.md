@@ -19,7 +19,7 @@ solutions, in a machine-readable form, but you can't easily *read and browse* it
 This project turns that dataset into a website where anyone can:
 
 - **find problems** by year, country/competition and topic (185 topics, from *Algebra* to
-  *Cyclic Quadrilaterals*);
+  *Manifolds*);
 - **read them properly**, with typeset mathematics and the original diagrams;
 - **reveal the official solution** only when they want it;
 - **jump to a random problem** for practice;
