@@ -2,6 +2,8 @@
 
 **Math Olympiad problems, one filter away.**
 
+🌐 **Live site:** https://bollakarthikeya.github.io/math-olympiad-problems-archive/
+
 A fast, self-contained website for browsing **21,937 English-language math olympiad problems**, with
 official solutions and figures, from national and international competitions. You can filter them by
 year, country or competition, and topic.
@@ -66,9 +68,9 @@ python3 -m http.server 8000      # then open http://localhost:8000
 
 **Publish it:** copy the contents of `site/` to any web server (Apache, Nginx, XAMPP, LAMP, Tomcat…).
 
-**GitHub Pages:** Pages can only publish from the repository root or a `/docs` folder, not from `site/`.
-Either move the contents of `site/` to the root of a `gh-pages` branch, or deploy the `site/` folder
-with a GitHub Actions Pages workflow.
+**GitHub Pages:** the site is live at **https://bollakarthikeya.github.io/math-olympiad-problems-archive/**.
+It is deployed by the workflow in `.github/workflows/pages.yml`, which publishes the `site/` folder on every
+push to `main` that changes `site/` (it can also be run by hand from the Actions tab).
 
 Full setup, rebuild and troubleshooting steps are in **[instructions.md](instructions.md)**.
 
